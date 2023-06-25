@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "197",
+        "team": "617",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 26730,
+                "name": "S. Dioudis",
+                "firstname": "Sokratis",
+                "lastname": "Dioudis",
+                "age": 30,
+                "birth": {
+                    "date": "1993-02-03",
+                    "place": "Thessaloniki",
+                    "country": "Greece"
+                },
+                "nationality": "Greece",
+                "height": "190 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/26730.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 617,
+                        "name": "Panathinaikos",
+                        "logo": "https://media-3.api-sports.io/football/teams/617.png"
+                    },
+                    "league": {
+                        "id": 197,
+                        "name": "Super League 1",
+                        "country": "Greece",
+                        "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                        "flag": "https://media-3.api-sports.io/flags/gr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 315770,
+                "name": "I. Iliadis",
+                "firstname": "Ilias",
+                "lastname": "Iliadis",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-21",
+                    "place": null,
+                    "country": "Canada"
+                },
+                "nationality": "Greece",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/315770.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 617,
+                        "name": "Panathinaikos",
+                        "logo": "https://media-3.api-sports.io/football/teams/617.png"
+                    },
+                    "league": {
+                        "id": 197,
+                        "name": "Super League 1",
+                        "country": "Greece",
+                        "logo": "https://media-1.api-sports.io/football/leagues/197.png",
+                        "flag": "https://media-2.api-sports.io/flags/gr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

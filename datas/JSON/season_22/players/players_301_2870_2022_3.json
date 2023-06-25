@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "301",
+        "team": "2870",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 181135,
+                "name": "Harib Abdalla Suhail",
+                "firstname": "Harib Abdalla Suhail",
+                "lastname": "Al Musharrakh Al Maazmi",
+                "age": 21,
+                "birth": {
+                    "date": "2002-11-26",
+                    "place": null,
+                    "country": "United Arab Emirates"
+                },
+                "nationality": "United Arab Emirates",
+                "height": "172 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/181135.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2870,
+                        "name": "Shabab Al Ahli Dubai",
+                        "logo": "https://media-2.api-sports.io/football/teams/2870.png"
+                    },
+                    "league": {
+                        "id": 301,
+                        "name": "Pro League",
+                        "country": "United-Arab-Emirates",
+                        "logo": "https://media-1.api-sports.io/football/leagues/301.png",
+                        "flag": "https://media-1.api-sports.io/flags/ae.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 10,
+                        "minutes": 1107,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 6,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50391,
+                "name": "Yahya Al Ghassani",
+                "firstname": "Yahya Ali",
+                "lastname": "Said Al Ghassani",
+                "age": 25,
+                "birth": {
+                    "date": "1998-04-18",
+                    "place": null,
+                    "country": "Tanzania"
+                },
+                "nationality": "United Arab Emirates",
+                "height": "178 cm",
+                "weight": "64 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/50391.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2870,
+                        "name": "Shabab Al Ahli Dubai",
+                        "logo": "https://media-1.api-sports.io/football/teams/2870.png"
+                    },
+                    "league": {
+                        "id": 301,
+                        "name": "Pro League",
+                        "country": "United-Arab-Emirates",
+                        "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                        "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 15,
+                        "minutes": 1310,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 13,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

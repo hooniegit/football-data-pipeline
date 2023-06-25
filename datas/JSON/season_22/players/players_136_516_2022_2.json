@@ -1,0 +1,1991 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "136",
+        "team": "516",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 31271,
+                "name": "A. Palumbo",
+                "firstname": "Antonio",
+                "lastname": "Palumbo",
+                "age": 27,
+                "birth": {
+                    "date": "1996-08-06",
+                    "place": "Napoli",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "182 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31271.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 33,
+                        "minutes": 2745,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.144117",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 21,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 23,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 8,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1283,
+                        "key": 69,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 48,
+                        "blocks": 2,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 315,
+                        "won": 136
+                    },
+                    "dribbles": {
+                        "attempts": 89,
+                        "success": 39,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 46,
+                        "committed": 34
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 134922,
+                "name": "G. Capanni",
+                "firstname": "Gabriele",
+                "lastname": "Capanni",
+                "age": 23,
+                "birth": {
+                    "date": "2000-12-02",
+                    "place": "Citt\u00e0 di Castello",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "176 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/134922.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 0,
+                        "minutes": 312,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.560000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 17,
+                        "out": 0,
+                        "bench": 31
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 123,
+                        "key": 6,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 39,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56655,
+                "name": "M. Proietti",
+                "firstname": "Mattia",
+                "lastname": "Proietti",
+                "age": 31,
+                "birth": {
+                    "date": "1992-02-27",
+                    "place": "Turin",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "180 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/56655.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 3,
+                        "minutes": 537,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.693333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 1,
+                        "bench": 33
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 339,
+                        "key": 4,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 6,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 68,
+                        "won": 40
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31680,
+                "name": "F. Di Tacchio",
+                "firstname": "Francesco",
+                "lastname": "Di Tacchio",
+                "age": 33,
+                "birth": {
+                    "date": "1990-04-20",
+                    "place": "Trani",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "186 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31680.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 35,
+                        "minutes": 2904,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.020588",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 11,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 16,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1351,
+                        "key": 6,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 74,
+                        "blocks": 21,
+                        "interceptions": 62
+                    },
+                    "duels": {
+                        "total": 358,
+                        "won": 227
+                    },
+                    "dribbles": {
+                        "attempts": 18,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 79,
+                        "committed": 45
+                    },
+                    "cards": {
+                        "yellow": 11,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 360006,
+                "name": "C. Ferrara",
+                "firstname": "Carmelo",
+                "lastname": "Ferrara",
+                "age": 19,
+                "birth": {
+                    "date": "2004-02-23",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/360006.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-3.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31270,
+                "name": "F. Paghera",
+                "firstname": "Fabrizio",
+                "lastname": "Paghera",
+                "age": 32,
+                "birth": {
+                    "date": "1991-12-12",
+                    "place": "Brescia",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "170 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31270.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 2,
+                        "minutes": 304,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.545454",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 2,
+                        "bench": 36
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 137,
+                        "key": 4,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 38,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31266,
+                "name": "M. Defendi",
+                "firstname": "Marino Giovanni",
+                "lastname": "Defendi",
+                "age": 38,
+                "birth": {
+                    "date": "1985-08-19",
+                    "place": "Bergamo",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "176 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/31266.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 8,
+                        "minutes": 949,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.516666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 6,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 359,
+                        "key": 12,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 3,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 72,
+                        "won": 32
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31081,
+                "name": "F. Cassata",
+                "firstname": "Francesco D'Assisi",
+                "lastname": "Cassata",
+                "age": 26,
+                "birth": {
+                    "date": "1997-07-16",
+                    "place": "Sarzana",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "183 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31081.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 17,
+                        "minutes": 1362,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 13,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30958,
+                "name": "D. Agazzi",
+                "firstname": "Davide",
+                "lastname": "Agazzi",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-02",
+                    "place": "Trescore Balneario",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "174 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30958.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 18,
+                        "minutes": 1662,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.588888",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 9,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 698,
+                        "key": 16,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 38,
+                        "blocks": 5,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 163,
+                        "won": 76
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 409117,
+                "name": "M. Ferrante",
+                "firstname": "Mirco",
+                "lastname": "Ferrante",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-22",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "184 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/409117.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-3.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31151,
+                "name": "A. Donnarumma",
+                "firstname": "Alfredo",
+                "lastname": "Donnarumma",
+                "age": 33,
+                "birth": {
+                    "date": "1990-11-30",
+                    "place": "Torre Annunziata",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "180 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31151.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-3.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 6,
+                        "minutes": 630,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.555000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 6,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 92,
+                        "key": 8,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 76,
+                        "won": 26
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31553,
+                "name": "C. Falletti",
+                "firstname": "C\u00e9sar Alejandro",
+                "lastname": "Falletti dos Santos",
+                "age": 31,
+                "birth": {
+                    "date": "1992-12-02",
+                    "place": "Artigas",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "174 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31553.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 21,
+                        "minutes": 1734,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.790322",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 19,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 568,
+                        "key": 33,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 3,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 142,
+                        "won": 68
+                    },
+                    "dribbles": {
+                        "attempts": 44,
+                        "success": 24,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 30,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30788,
+                "name": "A. Favilli",
+                "firstname": "Andrea",
+                "lastname": "Favilli",
+                "age": 26,
+                "birth": {
+                    "date": "1997-05-17",
+                    "place": "Pisa",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "190 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/30788.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 22,
+                        "minutes": 1866,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.944000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 12,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 46,
+                        "on": 23
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 359,
+                        "key": 17,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 341,
+                        "won": 154
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 53,
+                        "committed": 42
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 137103,
+                "name": "G. Onesti",
+                "firstname": "Gabriele",
+                "lastname": "Onesti",
+                "age": 21,
+                "birth": {
+                    "date": "2002-06-07",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/137103.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-2.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 11,
+                        "key": null,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 11,
+                        "key": null,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56860,
+                "name": "A. Partipilo",
+                "firstname": "Anthony",
+                "lastname": "Partipilo",
+                "age": 29,
+                "birth": {
+                    "date": "1994-10-27",
+                    "place": "Bari",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "181 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/56860.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-2.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 33,
+                        "minutes": 2806,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.828571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 18,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 64,
+                        "on": 33
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 610,
+                        "key": 39,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 7,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 369,
+                        "won": 152
+                    },
+                    "dribbles": {
+                        "attempts": 93,
+                        "success": 39,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 61,
+                        "committed": 41
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31001,
+                "name": "S. Pettinari",
+                "firstname": "Stefano",
+                "lastname": "Pettinari",
+                "age": 31,
+                "birth": {
+                    "date": "1992-01-27",
+                    "place": "Roma",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "185 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31001.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-3.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 5,
+                        "minutes": 527,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.536363",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 4,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 129,
+                        "key": 2,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 82,
+                        "won": 28
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56774,
+                "name": "J. Ferrante",
+                "firstname": "Jonathan Alexis",
+                "lastname": "Ferrante",
+                "age": 28,
+                "birth": {
+                    "date": "1995-06-27",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Italy",
+                "height": "178 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/56774.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 20,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 133637,
+                "name": "P. Rovaglia",
+                "firstname": "Pietro",
+                "lastname": "Rovaglia",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-26",
+                    "place": "Verona",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "185 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/133637.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-3.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 39,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.266666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 8,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 322957,
+                "name": "S. Spalluto",
+                "firstname": "Samuele",
+                "lastname": "Spalluto",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-15",
+                    "place": "San Pietro Vernotico",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/322957.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-2.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 14,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.233333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30964,
+                "name": "A. Salzano",
+                "firstname": "Aniello",
+                "lastname": "Salzano",
+                "age": 32,
+                "birth": {
+                    "date": "1991-07-20",
+                    "place": "Napoli",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "181 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/30964.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-3.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

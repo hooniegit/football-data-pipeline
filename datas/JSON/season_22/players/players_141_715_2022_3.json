@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "141",
+        "team": "715",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 47041,
+                "name": "Alberto Perea",
+                "firstname": "Alberto",
+                "lastname": "Perea Correoso",
+                "age": 33,
+                "birth": {
+                    "date": "1990-12-19",
+                    "place": "Albacete",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "177 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/47041.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 715,
+                        "name": "Granada CF",
+                        "logo": "https://media-3.api-sports.io/football/teams/715.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 3,
+                        "minutes": 650,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.761904",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 18,
+                        "out": 2,
+                        "bench": 33
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 368,
+                        "key": 14,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 136,
+                        "won": 66
+                    },
+                    "dribbles": {
+                        "attempts": 52,
+                        "success": 30,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51756,
+                "name": "M. Arezo",
+                "firstname": "Douglas Mat\u00edas",
+                "lastname": "Arezo Mart\u00ednez",
+                "age": 21,
+                "birth": {
+                    "date": "2002-11-21",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "178 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/51756.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 715,
+                        "name": "Granada CF",
+                        "logo": "https://media-3.api-sports.io/football/teams/715.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 2,
+                        "minutes": 200,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.614285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 2,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 34,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 28,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 182164,
+                "name": "Pepe S\u00e1nchez",
+                "firstname": "Jos\u00e9",
+                "lastname": "S\u00e1nchez Mart\u00ednez",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-02",
+                    "place": "Linares",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "185 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/182164.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 715,
+                        "name": "Granada CF",
+                        "logo": "https://media-1.api-sports.io/football/teams/715.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 1,
+                        "minutes": 115,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.450000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 27,
+                        "key": null,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 10,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

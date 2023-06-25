@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "62",
+        "team": "1301",
+        "season": "2022",
+        "page": "1"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 22343,
+                "name": "N. Ouammou",
+                "firstname": "Nassim",
+                "lastname": "Ouammou",
+                "age": 30,
+                "birth": {
+                    "date": "1993-04-27",
+                    "place": "Saint-Etienne",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "181 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/22343.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-3.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 9,
+                        "minutes": 849,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 8,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 322,
+                        "key": 11,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 1,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 70,
+                        "won": 27
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24014,
+                "name": "P. Bardy",
+                "firstname": "Pierre",
+                "lastname": "Bardy",
+                "age": 31,
+                "birth": {
+                    "date": "1992-08-27",
+                    "place": "Rodez",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "182 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/24014.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-3.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 36,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "4.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 5,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 156190,
+                "name": "G. Coelho",
+                "firstname": "Gr\u00e9gory",
+                "lastname": "Coelho",
+                "age": 24,
+                "birth": {
+                    "date": "1999-09-02",
+                    "place": "Cahors",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/156190.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-3.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 4,
+                        "minutes": 316,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.516666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 3,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 95,
+                        "key": null,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 3,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 33,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 174757,
+                "name": "Plamedi Buni Jorge",
+                "firstname": "Mafuta Plamedi",
+                "lastname": "Buni Jorge",
+                "age": 23,
+                "birth": {
+                    "date": "2000-09-07",
+                    "place": null,
+                    "country": "Angola"
+                },
+                "nationality": "Angola",
+                "height": "167 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/174757.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-1.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 2,
+                        "minutes": 122,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.933333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 33,
+                        "key": 1,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 20,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 278681,
+                "name": "N. Savignac",
+                "firstname": "Noa",
+                "lastname": "Savignac",
+                "age": 21,
+                "birth": {
+                    "date": "2002-07-20",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/278681.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-2.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 36,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.433333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 7,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 9,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 255,
+                "name": "S. Cibois",
+                "firstname": "S\u00e9bastien",
+                "lastname": "Cibois",
+                "age": 25,
+                "birth": {
+                    "date": "1998-03-02",
+                    "place": "Argenteuil",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "192 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/255.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-3.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 8,
+                        "minutes": 671,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.650000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 12,
+                        "assists": null,
+                        "saves": 16
+                    },
+                    "passes": {
+                        "total": 196,
+                        "key": null,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24013,
+                "name": "T. Secchi",
+                "firstname": "Thomas",
+                "lastname": "Secchi",
+                "age": 26,
+                "birth": {
+                    "date": "1997-06-19",
+                    "place": "Rodez",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "185 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/24013.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-2.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 3,
+                        "minutes": 319,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.750000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 6,
+                        "assists": null,
+                        "saves": 10
+                    },
+                    "passes": {
+                        "total": 98,
+                        "key": null,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 277061,
+                "name": "J. Guette",
+                "firstname": "Jules",
+                "lastname": "Guette",
+                "age": 20,
+                "birth": {
+                    "date": "2003-06-15",
+                    "place": "Thiers",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/277061.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-2.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 396401,
+                "name": "L. Hernandez",
+                "firstname": "Loan",
+                "lastname": "Hernandez",
+                "age": 19,
+                "birth": {
+                    "date": "2004-09-01",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/396401.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-3.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20744,
+                "name": "\u00c9. Vandenabeele",
+                "firstname": "\u00c9ric",
+                "lastname": "Vandenabeele",
+                "age": 32,
+                "birth": {
+                    "date": "1991-12-16",
+                    "place": "Calais",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "185 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/20744.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-3.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 23,
+                        "minutes": 2102,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.025000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 901,
+                        "key": null,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 37,
+                        "blocks": 20,
+                        "interceptions": 30
+                    },
+                    "duels": {
+                        "total": 188,
+                        "won": 116
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 28
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1899,
+                "name": "A. Abdennour",
+                "firstname": "Aymen",
+                "lastname": "Abdennour",
+                "age": 34,
+                "birth": {
+                    "date": "1989-08-06",
+                    "place": "Sousse",
+                    "country": "Tunisia"
+                },
+                "nationality": "Tunisia",
+                "height": "186 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/1899.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-1.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 6,
+                        "minutes": 415,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.916666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 228,
+                        "key": null,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 3,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 38,
+                        "won": 26
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 174774,
+                "name": "K. Boma",
+                "firstname": "K\u00e9vin",
+                "lastname": "Boma",
+                "age": 21,
+                "birth": {
+                    "date": "2002-11-20",
+                    "place": "Poitiers",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "187 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/174774.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-3.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 5,
+                        "minutes": 447,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.920000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 227,
+                        "key": null,
+                        "accuracy": 38
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 3,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 51,
+                        "won": 38
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24019,
+                "name": "A. Sanaia",
+                "firstname": "Amiran",
+                "lastname": "Sanaia",
+                "age": 34,
+                "birth": {
+                    "date": "1989-09-03",
+                    "place": "Sokhumi",
+                    "country": "Georgia"
+                },
+                "nationality": "Georgia",
+                "height": "181 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/24019.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-1.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 128999,
+                "name": "S. Raux-Yao",
+                "firstname": "Serge-Philippe",
+                "lastname": "Raux-Yao",
+                "age": 24,
+                "birth": {
+                    "date": "1999-05-30",
+                    "place": "Pontoise",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "197 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/128999.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-2.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 30,
+                        "minutes": 2662,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.846666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1257,
+                        "key": 7,
+                        "accuracy": 34
+                    },
+                    "tackles": {
+                        "total": 52,
+                        "blocks": 3,
+                        "interceptions": 48
+                    },
+                    "duels": {
+                        "total": 205,
+                        "won": 126
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 21448,
+                "name": "L. Buad\u00e9s",
+                "firstname": "Lucas",
+                "lastname": "Buad\u00e9s",
+                "age": 26,
+                "birth": {
+                    "date": "1997-12-28",
+                    "place": "Muret",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "181 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/21448.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-1.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 4,
+                        "minutes": 470,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.650000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 3,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 129,
+                        "key": 5,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 2,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 65,
+                        "won": 37
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 191240,
+                "name": "M. Senaya",
+                "firstname": "Marvin",
+                "lastname": "Senaya",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-28",
+                    "place": "Saint-Louis",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "181 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/191240.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-1.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 32,
+                        "minutes": 2794,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.996969",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 17,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 857,
+                        "key": 29,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 73,
+                        "blocks": 7,
+                        "interceptions": 38
+                    },
+                    "duels": {
+                        "total": 416,
+                        "won": 243
+                    },
+                    "dribbles": {
+                        "attempts": 97,
+                        "success": 40,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 96,
+                        "committed": 39
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24015,
+                "name": "J. Chougrani",
+                "firstname": "Joris",
+                "lastname": "Chougrani",
+                "age": 32,
+                "birth": {
+                    "date": "1991-03-30",
+                    "place": "Cassagnes",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "185 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/24015.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-1.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 15,
+                        "minutes": 1266,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.729411",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 7,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 625,
+                        "key": 6,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 5,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 119,
+                        "won": 54
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 174744,
+                "name": "L. Mouyokolo",
+                "firstname": "Loris",
+                "lastname": "Mouyokolo",
+                "age": 22,
+                "birth": {
+                    "date": "2001-05-22",
+                    "place": "Drancy",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "194 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/174744.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-3.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 14,
+                        "minutes": 1194,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.693750",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 3,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 483,
+                        "key": 2,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 7,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 103,
+                        "won": 52
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 21251,
+                "name": "A. Abdallah",
+                "firstname": "Abdel-Hakim",
+                "lastname": "Abdallah",
+                "age": 26,
+                "birth": {
+                    "date": "1997-08-18",
+                    "place": "Troyes",
+                    "country": "France"
+                },
+                "nationality": "Comoros",
+                "height": "170 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/21251.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-3.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 31,
+                        "minutes": 2635,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.702857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 15,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 977,
+                        "key": 29,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 40,
+                        "blocks": 7,
+                        "interceptions": 29
+                    },
+                    "duels": {
+                        "total": 224,
+                        "won": 111
+                    },
+                    "dribbles": {
+                        "attempts": 54,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 37,
+                        "committed": 33
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 162741,
+                "name": "L. Torres",
+                "firstname": "Louis",
+                "lastname": "Torres",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-29",
+                    "place": "Nice",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "182 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/162741.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1301,
+                        "name": "Rodez",
+                        "logo": "https://media-3.api-sports.io/football/teams/1301.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 3,
+                        "minutes": 303,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.637500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 2,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 66,
+                        "key": 2,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 37,
+                        "won": 23
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

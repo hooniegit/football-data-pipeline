@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "307",
+        "team": "2937",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 33291,
+                "name": "G. Rodrigues",
+                "firstname": "Gerson Leal",
+                "lastname": "Rodrigues Gouveia",
+                "age": 28,
+                "birth": {
+                    "date": "1995-06-20",
+                    "place": "Pragal",
+                    "country": "Portugal"
+                },
+                "nationality": "Luxembourg",
+                "height": "188 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/33291.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2937,
+                        "name": "Al Wehda Club",
+                        "logo": "https://media-3.api-sports.io/football/teams/2937.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 14,
+                        "minutes": 1201,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.713333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 6,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 32,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 337,
+                        "key": 10,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 172,
+                        "won": 63
+                    },
+                    "dribbles": {
+                        "attempts": 49,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

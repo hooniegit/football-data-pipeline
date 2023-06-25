@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "128",
+        "team": "1065",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 12067,
+                "name": "M. Di Benedetto",
+                "firstname": "Mat\u00edas Ezequiel",
+                "lastname": "Di Benedetto",
+                "age": 31,
+                "birth": {
+                    "date": "1992-11-19",
+                    "place": "Jos\u00e9 M\u00e1rmol",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "184 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/12067.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1065,
+                        "name": "Central Cordoba de Santiago",
+                        "logo": "https://media-3.api-sports.io/football/teams/1065.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 17,
+                        "minutes": 1614,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.819047",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 676,
+                        "key": 3,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 14,
+                        "interceptions": 42
+                    },
+                    "duels": {
+                        "total": 146,
+                        "won": 91
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

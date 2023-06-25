@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "98",
+        "team": "302",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 264748,
+                "name": "K. Nagai",
+                "firstname": "Kazuma",
+                "lastname": "Nagai",
+                "age": 25,
+                "birth": {
+                    "date": "1998-11-02",
+                    "place": "Osaka",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/264748.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 302,
+                        "name": "Kyoto Sanga",
+                        "logo": "https://media-3.api-sports.io/football/teams/302.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-1.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-2.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 3,
+                        "minutes": 334,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 3,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 119,
+                        "key": 1,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 32,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

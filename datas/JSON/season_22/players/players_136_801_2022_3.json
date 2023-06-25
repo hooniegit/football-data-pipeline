@@ -1,0 +1,851 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "136",
+        "team": "801",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 8,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 30717,
+                "name": "D. Di Quinzio",
+                "firstname": "Davide Damiano",
+                "lastname": "Di Quinzio",
+                "age": 34,
+                "birth": {
+                    "date": "1989-04-28",
+                    "place": "Garbagnate Milanese",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "178 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/30717.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 801,
+                        "name": "Pisa",
+                        "logo": "https://media-1.api-sports.io/football/teams/801.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 325387,
+                "name": "G. Piccinini",
+                "firstname": "Gabriele",
+                "lastname": "Piccinini",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-06",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "184 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/325387.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 801,
+                        "name": "Pisa",
+                        "logo": "https://media-2.api-sports.io/football/teams/801.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 25,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.733333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 15,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 91576,
+                "name": "E. Giani",
+                "firstname": "Elia",
+                "lastname": "Giani",
+                "age": 23,
+                "birth": {
+                    "date": "2000-12-20",
+                    "place": "Empoli",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/91576.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 801,
+                        "name": "Pisa",
+                        "logo": "https://media-3.api-sports.io/football/teams/801.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56425,
+                "name": "A. Cisco",
+                "firstname": "Andrea",
+                "lastname": "Cisco",
+                "age": 25,
+                "birth": {
+                    "date": "1998-10-08",
+                    "place": "Padova",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "183 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/56425.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 801,
+                        "name": "Pisa",
+                        "logo": "https://media-1.api-sports.io/football/teams/801.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 163185,
+                "name": "V. Dekic",
+                "firstname": "Vladan",
+                "lastname": "Deki\u0107",
+                "age": 24,
+                "birth": {
+                    "date": "1999-08-10",
+                    "place": "Belgrad",
+                    "country": "Croatia"
+                },
+                "nationality": "Serbia",
+                "height": "191 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/163185.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 801,
+                        "name": "Pisa",
+                        "logo": "https://media-3.api-sports.io/football/teams/801.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30719,
+                "name": "R. Gucher",
+                "firstname": "Robert Franz",
+                "lastname": "Gucher",
+                "age": 32,
+                "birth": {
+                    "date": "1991-02-20",
+                    "place": "Graz",
+                    "country": "Austria"
+                },
+                "nationality": "Austria",
+                "height": "183 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30719.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 801,
+                        "name": "Pisa",
+                        "logo": "https://media-3.api-sports.io/football/teams/801.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31153,
+                "name": "E. Torregrossa",
+                "firstname": "Ernesto",
+                "lastname": "Torregrossa",
+                "age": 31,
+                "birth": {
+                    "date": "1992-06-28",
+                    "place": "Caltanissetta",
+                    "country": "Italy"
+                },
+                "nationality": "Venezuela",
+                "height": "184 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31153.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 801,
+                        "name": "Pisa",
+                        "logo": "https://media-2.api-sports.io/football/teams/801.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 6,
+                        "minutes": 463,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.709090",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 6,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 192,
+                        "key": 6,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 176,
+                        "won": 74
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 35,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 801,
+                        "name": "Pisa",
+                        "logo": "https://media-1.api-sports.io/football/teams/801.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 8,
+                        "minutes": 567,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.709090",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 8,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 192,
+                        "key": 6,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 176,
+                        "won": 74
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 35,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30481,
+                "name": "\u00c1. Nagy",
+                "firstname": "\u00c1d\u00e1m",
+                "lastname": "Nagy",
+                "age": 28,
+                "birth": {
+                    "date": "1995-06-17",
+                    "place": "Budapest",
+                    "country": "Hungary"
+                },
+                "nationality": "Hungary",
+                "height": "178 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/30481.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 801,
+                        "name": "Pisa",
+                        "logo": "https://media-3.api-sports.io/football/teams/801.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 29,
+                        "minutes": 2450,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.662500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 12,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1106,
+                        "key": 15,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 52,
+                        "blocks": 4,
+                        "interceptions": 46
+                    },
+                    "duels": {
+                        "total": 213,
+                        "won": 93
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "89",
+        "team": "423",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 38697,
+                "name": "G. Damen",
+                "firstname": "Grad",
+                "lastname": "Damen",
+                "age": 26,
+                "birth": {
+                    "date": "1997-08-14",
+                    "place": "Breda",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "184 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/38697.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 423,
+                        "name": "FC OSS",
+                        "logo": "https://media-1.api-sports.io/football/teams/423.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-3.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 181864,
+                "name": "B. Leeflang",
+                "firstname": "Brend",
+                "lastname": "Leeflang",
+                "age": 22,
+                "birth": {
+                    "date": "2001-10-22",
+                    "place": "Woerden",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/181864.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 423,
+                        "name": "FC OSS",
+                        "logo": "https://media-3.api-sports.io/football/teams/423.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-1.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-1.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 21,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 11,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 37962,
+                "name": "M. Afaker",
+                "firstname": "Marouane",
+                "lastname": "Afaker",
+                "age": 24,
+                "birth": {
+                    "date": "1999-05-09",
+                    "place": null,
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/37962.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 423,
+                        "name": "FC OSS",
+                        "logo": "https://media-1.api-sports.io/football/teams/423.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-3.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-1.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "135",
+        "team": "499",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 2807,
+                "name": "R. Freuler",
+                "firstname": "Remo Marco",
+                "lastname": "Freuler",
+                "age": 31,
+                "birth": {
+                    "date": "1992-04-15",
+                    "place": "Ennenda",
+                    "country": "Switzerland"
+                },
+                "nationality": "Switzerland",
+                "height": "181 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/2807.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 499,
+                        "name": "Atalanta",
+                        "logo": "https://media-2.api-sports.io/football/teams/499.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30417,
+                "name": "M. Carnesecchi",
+                "firstname": "Marco",
+                "lastname": "Carnesecchi",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-01",
+                    "place": "Rimini",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "191 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/30417.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 499,
+                        "name": "Atalanta",
+                        "logo": "https://media-3.api-sports.io/football/teams/499.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.957692",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 45,
+                        "assists": 1,
+                        "saves": 103
+                    },
+                    "passes": {
+                        "total": 786,
+                        "key": 2,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30427,
+                "name": "C. Okoli",
+                "firstname": "Memeh Caleb",
+                "lastname": "Okoli",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-13",
+                    "place": "Vicenza",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "191 cm",
+                "weight": "91 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30427.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 499,
+                        "name": "Atalanta",
+                        "logo": "https://media-1.api-sports.io/football/teams/499.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 9,
+                        "minutes": 951,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.587500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 1,
+                        "bench": 27
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 437,
+                        "key": null,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 5,
+                        "interceptions": 30
+                    },
+                    "duels": {
+                        "total": 132,
+                        "won": 72
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 289761,
+                "name": "G. Scalvini",
+                "firstname": "Giorgio",
+                "lastname": "Scalvini",
+                "age": 20,
+                "birth": {
+                    "date": "2003-12-11",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "194 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/289761.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 499,
+                        "name": "Atalanta",
+                        "logo": "https://media-1.api-sports.io/football/teams/499.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 29,
+                        "minutes": 2346,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.750000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 14,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 16,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1464,
+                        "key": 9,
+                        "accuracy": 37
+                    },
+                    "tackles": {
+                        "total": 54,
+                        "blocks": 13,
+                        "interceptions": 56
+                    },
+                    "duels": {
+                        "total": 255,
+                        "won": 121
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 55
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

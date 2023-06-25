@@ -1,0 +1,682 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "253",
+        "team": "1615",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 7,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 71254,
+                "name": "A. Skundrich",
+                "firstname": "Andrew",
+                "lastname": "Skundrich",
+                "age": 28,
+                "birth": {
+                    "date": "1995-09-17",
+                    "place": "Lancaster",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "180 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/71254.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1615,
+                        "name": "DC United",
+                        "logo": "https://media-3.api-sports.io/football/teams/1615.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 9,
+                        "minutes": 878,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.653333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 4,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 290,
+                        "key": 4,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 2,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 70,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 206985,
+                "name": "T. Alfaro",
+                "firstname": "Jos\u00e9 Antonio",
+                "lastname": "Alfaro V\u00e1zquez",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-15",
+                    "place": "Michoac\u00e1n",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "183 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/206985.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1615,
+                        "name": "DC United",
+                        "logo": "https://media-2.api-sports.io/football/teams/1615.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 9,
+                        "minutes": 936,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 1,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51106,
+                "name": "B. Smith",
+                "firstname": "Bradley Shaun",
+                "lastname": "Smith",
+                "age": 29,
+                "birth": {
+                    "date": "1994-04-09",
+                    "place": "Penrith",
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": "178 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/51106.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1615,
+                        "name": "DC United",
+                        "logo": "https://media-3.api-sports.io/football/teams/1615.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 14,
+                        "minutes": 1154,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 8,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 390,
+                        "key": 11,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 27,
+                        "blocks": 1,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 102,
+                        "won": 39
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50772,
+                "name": "P. Arriola",
+                "firstname": "Paul Joseph",
+                "lastname": "Arriola Hendricks",
+                "age": 28,
+                "birth": {
+                    "date": "1995-02-05",
+                    "place": "Chula Vista",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "167 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/50772.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1615,
+                        "name": "DC United",
+                        "logo": "https://media-2.api-sports.io/football/teams/1615.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.103333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 40,
+                        "on": 22
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 742,
+                        "key": 54,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 42,
+                        "blocks": 4,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 221,
+                        "won": 97
+                    },
+                    "dribbles": {
+                        "attempts": 43,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 37
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 71115,
+                "name": "M. Nyeman",
+                "firstname": "Moses Blessing",
+                "lastname": "Nyeman",
+                "age": 20,
+                "birth": {
+                    "date": "2003-11-05",
+                    "place": null,
+                    "country": "Liberia"
+                },
+                "nationality": "USA",
+                "height": "165 cm",
+                "weight": "57 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/71115.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1615,
+                        "name": "DC United",
+                        "logo": "https://media-3.api-sports.io/football/teams/1615.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 2,
+                        "minutes": 144,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 61,
+                        "key": null,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 18,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 351492,
+                "name": "S. Djeffal",
+                "firstname": "Sofiane",
+                "lastname": "Djeffal",
+                "age": 24,
+                "birth": {
+                    "date": "1999-04-19",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "183 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/351492.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1615,
+                        "name": "DC United",
+                        "logo": "https://media-2.api-sports.io/football/teams/1615.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 19,
+                        "minutes": 1688,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.588000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 10,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 689,
+                        "key": 9,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 39,
+                        "blocks": 7,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 169,
+                        "won": 73
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 32
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50883,
+                "name": "J. Gressel",
+                "firstname": "Julian Emil Kurt",
+                "lastname": "Gressel",
+                "age": 30,
+                "birth": {
+                    "date": "1993-12-16",
+                    "place": "Neustadt an der Aisch",
+                    "country": "Germany"
+                },
+                "nationality": "USA",
+                "height": "185 cm",
+                "weight": "95 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/50883.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1615,
+                        "name": "DC United",
+                        "logo": "https://media-2.api-sports.io/football/teams/1615.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 16,
+                        "minutes": 1385,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.966666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 7,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 539,
+                        "key": 38,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 2,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 93,
+                        "won": 35
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

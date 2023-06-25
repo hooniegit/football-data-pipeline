@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "61",
+        "team": "77",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 20692,
+                "name": "H. Abdelli",
+                "firstname": "Himad Said",
+                "lastname": "Abdelli",
+                "age": 24,
+                "birth": {
+                    "date": "1999-11-17",
+                    "place": "Montivilliers",
+                    "country": "France"
+                },
+                "nationality": "Algeria",
+                "height": "185 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/20692.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 77,
+                        "name": "Angers",
+                        "logo": "https://media-1.api-sports.io/football/teams/77.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 24,
+                        "minutes": 2140,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.979310",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 10,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1202,
+                        "key": 36,
+                        "accuracy": 34
+                    },
+                    "tackles": {
+                        "total": 64,
+                        "blocks": 1,
+                        "interceptions": 28
+                    },
+                    "duels": {
+                        "total": 302,
+                        "won": 156
+                    },
+                    "dribbles": {
+                        "attempts": 71,
+                        "success": 43,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 31,
+                        "committed": 43
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 409,
+                "name": "N. Bentaleb",
+                "firstname": "Nabil",
+                "lastname": "Bentaleb",
+                "age": 29,
+                "birth": {
+                    "date": "1994-11-24",
+                    "place": "Lille",
+                    "country": "France"
+                },
+                "nationality": "Algeria",
+                "height": "187 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/409.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 77,
+                        "name": "Angers",
+                        "logo": "https://media-3.api-sports.io/football/teams/77.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 29,
+                        "minutes": 2492,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.166666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 34,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1747,
+                        "key": 33,
+                        "accuracy": 49
+                    },
+                    "tackles": {
+                        "total": 75,
+                        "blocks": 11,
+                        "interceptions": 44
+                    },
+                    "duels": {
+                        "total": 365,
+                        "won": 218
+                    },
+                    "dribbles": {
+                        "attempts": 91,
+                        "success": 60,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 54,
+                        "committed": 39
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18942,
+                "name": "Y. Valery",
+                "firstname": "Yan",
+                "lastname": "Valery",
+                "age": 24,
+                "birth": {
+                    "date": "1999-02-22",
+                    "place": "Champigny-sur-Marne",
+                    "country": "France"
+                },
+                "nationality": "Tunisia",
+                "height": "180 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/18942.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 77,
+                        "name": "Angers",
+                        "logo": "https://media-2.api-sports.io/football/teams/77.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 30,
+                        "minutes": 2504,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.620000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 8,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1006,
+                        "key": 13,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 54,
+                        "blocks": 15,
+                        "interceptions": 34
+                    },
+                    "duels": {
+                        "total": 284,
+                        "won": 143
+                    },
+                    "dribbles": {
+                        "attempts": 60,
+                        "success": 32,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 46
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2049,
+                "name": "I. Amadou",
+                "firstname": "Ibrahim",
+                "lastname": "Amadou",
+                "age": 30,
+                "birth": {
+                    "date": "1993-04-06",
+                    "place": "Douala",
+                    "country": "Cameroon"
+                },
+                "nationality": "France",
+                "height": "183 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/2049.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 77,
+                        "name": "Angers",
+                        "logo": "https://media-2.api-sports.io/football/teams/77.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 4,
+                        "minutes": 421,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.614285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 189,
+                        "key": 1,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 3,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 36,
+                        "won": 20
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

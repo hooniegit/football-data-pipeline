@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "136",
+        "team": "1578",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 70570,
+                "name": "J. Larrivey",
+                "firstname": "Joaqu\u00edn Oscar",
+                "lastname": "Larrivey",
+                "age": 39,
+                "birth": {
+                    "date": "1984-08-20",
+                    "place": "Gualeguay",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "185 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/70570.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1578,
+                        "name": "Sudtirol",
+                        "logo": "https://media-1.api-sports.io/football/teams/1578.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 1,
+                        "minutes": 302,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.760000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 1,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 371,
+                        "key": 11,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 218,
+                        "won": 99
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 127945,
+                "name": "R. Odogwu",
+                "firstname": "Raphael Chidi",
+                "lastname": "Odogwu",
+                "age": 32,
+                "birth": {
+                    "date": "1991-01-28",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/127945.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1578,
+                        "name": "Sudtirol",
+                        "logo": "https://media-2.api-sports.io/football/teams/1578.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 40,
+                        "lineups": 35,
+                        "minutes": 3146,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.958974",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 12,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 55,
+                        "on": 24
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 606,
+                        "key": 44,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 7,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 558,
+                        "won": 266
+                    },
+                    "dribbles": {
+                        "attempts": 53,
+                        "success": 27,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 80,
+                        "committed": 64
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31237,
+                "name": "G. Crociata",
+                "firstname": "Giovanni",
+                "lastname": "Crociata",
+                "age": 26,
+                "birth": {
+                    "date": "1997-08-11",
+                    "place": "Palermo",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "174 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31237.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1578,
+                        "name": "Sudtirol",
+                        "logo": "https://media-1.api-sports.io/football/teams/1578.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 2,
+                        "minutes": 175,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.075000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 2,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 23,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 565,
+                        "key": 20,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 131,
+                        "won": 50
+                    },
+                    "dribbles": {
+                        "attempts": 28,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31327,
+                "name": "T. D&apos;Orazio",
+                "firstname": "Tommaso",
+                "lastname": "D'Orazio",
+                "age": 33,
+                "birth": {
+                    "date": "1990-05-03",
+                    "place": "Guardiagrele",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "185 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31327.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1578,
+                        "name": "Sudtirol",
+                        "logo": "https://media-1.api-sports.io/football/teams/1578.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 12,
+                        "minutes": 968,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.958823",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 7,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 529,
+                        "key": 4,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 41,
+                        "blocks": 6,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 168,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 22,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56692,
+                "name": "D. Voltan",
+                "firstname": "Davide",
+                "lastname": "Voltan",
+                "age": 28,
+                "birth": {
+                    "date": "1995-04-15",
+                    "place": "Padova",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "178 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/56692.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1578,
+                        "name": "Sudtirol",
+                        "logo": "https://media-3.api-sports.io/football/teams/1578.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 7,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31500,
+                "name": "C. Capone",
+                "firstname": "Christian",
+                "lastname": "Capone",
+                "age": 24,
+                "birth": {
+                    "date": "1999-04-28",
+                    "place": "Vigevano",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "183 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31500.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1578,
+                        "name": "Sudtirol",
+                        "logo": "https://media-1.api-sports.io/football/teams/1578.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 1,
+                        "minutes": 98,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.766666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 43,
+                        "key": 3,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56805,
+                "name": "M. Fischnaller",
+                "firstname": "Manuel",
+                "lastname": "Fischnaller",
+                "age": 32,
+                "birth": {
+                    "date": "1991-07-20",
+                    "place": "Bolzano",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "177 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/56805.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1578,
+                        "name": "Sudtirol",
+                        "logo": "https://media-2.api-sports.io/football/teams/1578.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30727,
+                "name": "M. Marconi",
+                "firstname": "Michele",
+                "lastname": "Marconi",
+                "age": 34,
+                "birth": {
+                    "date": "1989-05-13",
+                    "place": "Grosseto",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "183 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/30727.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1578,
+                        "name": "Sudtirol",
+                        "logo": "https://media-1.api-sports.io/football/teams/1578.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 2,
+                        "minutes": 141,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.833333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 2,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 41,
+                        "key": 2,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 43,
+                        "won": 22
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31066,
+                "name": "A. Iacobucci",
+                "firstname": "Alessandro",
+                "lastname": "Iacobucci",
+                "age": 32,
+                "birth": {
+                    "date": "1991-06-03",
+                    "place": "Pescara",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "187 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31066.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1578,
+                        "name": "Sudtirol",
+                        "logo": "https://media-2.api-sports.io/football/teams/1578.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31511,
+                "name": "A. Barison",
+                "firstname": "Alberto",
+                "lastname": "Barison",
+                "age": 29,
+                "birth": {
+                    "date": "1994-08-03",
+                    "place": "Dolo",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "186 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31511.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1578,
+                        "name": "Sudtirol",
+                        "logo": "https://media-2.api-sports.io/football/teams/1578.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

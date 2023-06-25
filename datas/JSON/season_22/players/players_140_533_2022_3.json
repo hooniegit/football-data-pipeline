@@ -1,0 +1,587 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "140",
+        "team": "533",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 6,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 47296,
+                "name": "G. Rulli",
+                "firstname": "Ger\u00f3nimo",
+                "lastname": "Rulli",
+                "age": 31,
+                "birth": {
+                    "date": "1992-05-20",
+                    "place": "La Plata",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "189 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/47296.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 533,
+                        "name": "Villarreal",
+                        "logo": "https://media-2.api-sports.io/football/teams/533.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 14,
+                        "minutes": 1260,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "7.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 10,
+                        "assists": null,
+                        "saves": 46
+                    },
+                    "passes": {
+                        "total": 473,
+                        "key": null,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1578,
+                "name": "G. Lo Celso",
+                "firstname": "Giovani",
+                "lastname": "Lo Celso",
+                "age": 27,
+                "birth": {
+                    "date": "1996-04-09",
+                    "place": "Rosario",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "177 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/1578.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 533,
+                        "name": "Villarreal",
+                        "logo": "https://media-3.api-sports.io/football/teams/533.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 14,
+                        "minutes": 1130,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.080952",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 12,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 652,
+                        "key": 31,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 2,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 152,
+                        "won": 87
+                    },
+                    "dribbles": {
+                        "attempts": 37,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 31,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1567,
+                "name": "A. Mandi",
+                "firstname": "A\u00efssa",
+                "lastname": "Mandi",
+                "age": 32,
+                "birth": {
+                    "date": "1991-10-22",
+                    "place": "Ch\u00e2lons-en-Champagne",
+                    "country": "France"
+                },
+                "nationality": "Algeria",
+                "height": "184 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/1567.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 533,
+                        "name": "Villarreal",
+                        "logo": "https://media-3.api-sports.io/football/teams/533.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 16,
+                        "minutes": 1459,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.852380",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 3,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 884,
+                        "key": 4,
+                        "accuracy": 38
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 14,
+                        "interceptions": 20
+                    },
+                    "duels": {
+                        "total": 92,
+                        "won": 48
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 46731,
+                "name": "P. Estupi\u00f1\u00e1n",
+                "firstname": "Pervis Josu\u00e9",
+                "lastname": "Estupi\u00f1\u00e1n Tenorio",
+                "age": 25,
+                "birth": {
+                    "date": "1998-01-21",
+                    "place": "Esmeraldas",
+                    "country": "Ecuador"
+                },
+                "nationality": "Ecuador",
+                "height": "175 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/46731.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 533,
+                        "name": "Villarreal",
+                        "logo": "https://media-2.api-sports.io/football/teams/533.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 83,
+                "name": "A. Danjuma",
+                "firstname": "Arnaut",
+                "lastname": "Danjuma Adam Groeneveld",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-31",
+                    "place": "Lagos",
+                    "country": "Nigeria"
+                },
+                "nationality": "Netherlands",
+                "height": "178 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/83.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 533,
+                        "name": "Villarreal",
+                        "logo": "https://media-2.api-sports.io/football/teams/533.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 6,
+                        "minutes": 480,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 4,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 87,
+                        "key": 5,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 28,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 182219,
+                "name": "\u00c1lex Baena",
+                "firstname": "Alejandro",
+                "lastname": "Baena Rodr\u00edguez",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-20",
+                    "place": "Roquetas de Mar",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/182219.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 533,
+                        "name": "Villarreal",
+                        "logo": "https://media-2.api-sports.io/football/teams/533.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 19,
+                        "minutes": 1945,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.896969",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 9,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 44,
+                        "on": 23
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 826,
+                        "key": 31,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 3,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 283,
+                        "won": 112
+                    },
+                    "dribbles": {
+                        "attempts": 49,
+                        "success": 25,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 56,
+                        "committed": 58
+                    },
+                    "cards": {
+                        "yellow": 12,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

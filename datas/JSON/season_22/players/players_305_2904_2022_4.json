@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "305",
+        "team": "2904",
+        "season": "2022",
+        "page": "4"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 4,
+        "total": 4
+    },
+    "response": [
+        {
+            "player": {
+                "id": 42421,
+                "name": "Youssef Ayman",
+                "firstname": "Youssef Ayman",
+                "lastname": "Hafez Farahat",
+                "age": 24,
+                "birth": {
+                    "date": "1999-03-21",
+                    "place": null,
+                    "country": "Qatar"
+                },
+                "nationality": "Qatar",
+                "height": "188 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/42421.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2904,
+                        "name": "Al-Duhail SC",
+                        "logo": "https://media-2.api-sports.io/football/teams/2904.png"
+                    },
+                    "league": {
+                        "id": 305,
+                        "name": "Stars League",
+                        "country": "Qatar",
+                        "logo": "https://media-2.api-sports.io/football/leagues/305.png",
+                        "flag": "https://media-1.api-sports.io/flags/qa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 19,
+                        "minutes": 1705,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2535,
+                "name": "Assim Madibo",
+                "firstname": "Assim Omer",
+                "lastname": "Al Haj Madibo",
+                "age": 27,
+                "birth": {
+                    "date": "1996-10-22",
+                    "place": null,
+                    "country": "Qatar"
+                },
+                "nationality": "Qatar",
+                "height": "168 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2535.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2904,
+                        "name": "Al-Duhail SC",
+                        "logo": "https://media-1.api-sports.io/football/teams/2904.png"
+                    },
+                    "league": {
+                        "id": 305,
+                        "name": "Stars League",
+                        "country": "Qatar",
+                        "logo": "https://media-3.api-sports.io/football/leagues/305.png",
+                        "flag": "https://media-3.api-sports.io/flags/qa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 1,
+                        "minutes": 57,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2543,
+                "name": "Almoez Ali",
+                "firstname": "Almoez Ali Zainalabedeen Moham",
+                "lastname": "Abdulla",
+                "age": 27,
+                "birth": {
+                    "date": "1996-08-19",
+                    "place": "Khartoum",
+                    "country": "Qatar"
+                },
+                "nationality": "Qatar",
+                "height": "180 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/2543.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2904,
+                        "name": "Al-Duhail SC",
+                        "logo": "https://media-1.api-sports.io/football/teams/2904.png"
+                    },
+                    "league": {
+                        "id": 305,
+                        "name": "Stars League",
+                        "country": "Qatar",
+                        "logo": "https://media-1.api-sports.io/football/leagues/305.png",
+                        "flag": "https://media-1.api-sports.io/flags/qa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 13,
+                        "minutes": 1103,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 42089,
+                "name": "Mohammed Muntari",
+                "firstname": "Mohammed",
+                "lastname": "Muntari",
+                "age": 30,
+                "birth": {
+                    "date": "1993-12-20",
+                    "place": null,
+                    "country": "Ghana"
+                },
+                "nationality": "Qatar",
+                "height": "192 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/42089.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2904,
+                        "name": "Al-Duhail SC",
+                        "logo": "https://media-1.api-sports.io/football/teams/2904.png"
+                    },
+                    "league": {
+                        "id": 305,
+                        "name": "Stars League",
+                        "country": "Qatar",
+                        "logo": "https://media-3.api-sports.io/football/leagues/305.png",
+                        "flag": "https://media-2.api-sports.io/flags/qa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 0,
+                        "minutes": 109,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 0,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

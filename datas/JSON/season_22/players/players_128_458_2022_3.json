@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "128",
+        "team": "458",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 354789,
+                "name": "D. Zalazar",
+                "firstname": "David",
+                "lastname": "Zalazar",
+                "age": 21,
+                "birth": {
+                    "date": "2002-05-09",
+                    "place": "Villegas",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/354789.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 458,
+                        "name": "Argentinos JRS",
+                        "logo": "https://media-2.api-sports.io/football/teams/458.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 6,
+                        "minutes": 816,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.670000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 17,
+                        "out": 6,
+                        "bench": 37
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 193,
+                        "key": 14,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 111,
+                        "won": 48
+                    },
+                    "dribbles": {
+                        "attempts": 29,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6713,
+                "name": "J. Galv\u00e1n",
+                "firstname": "Jonathan Sebasti\u00e1n",
+                "lastname": "Galv\u00e1n",
+                "age": 31,
+                "birth": {
+                    "date": "1992-06-25",
+                    "place": "Mar del Plata",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "179 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6713.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 458,
+                        "name": "Argentinos JRS",
+                        "logo": "https://media-2.api-sports.io/football/teams/458.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.911764",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 882,
+                        "key": 10,
+                        "accuracy": 37
+                    },
+                    "tackles": {
+                        "total": 24,
+                        "blocks": 5,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 134,
+                        "won": 89
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6631,
+                "name": "N. Reniero",
+                "firstname": "Gast\u00f3n Nicol\u00e1s",
+                "lastname": "Reniero",
+                "age": 28,
+                "birth": {
+                    "date": "1995-03-18",
+                    "place": "Chajar\u00ed",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "183 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6631.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 458,
+                        "name": "Argentinos JRS",
+                        "logo": "https://media-2.api-sports.io/football/teams/458.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 21,
+                        "minutes": 1952,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.684848",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 19,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 34,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 586,
+                        "key": 24,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 255,
+                        "won": 116
+                    },
+                    "dribbles": {
+                        "attempts": 43,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 44,
+                        "committed": 35
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6410,
+                "name": "E. Kalinski",
+                "firstname": "Enzo Maximiliano",
+                "lastname": "Kalinski",
+                "age": 36,
+                "birth": {
+                    "date": "1987-03-10",
+                    "place": "Santiago del Estero",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "183 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/6410.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 458,
+                        "name": "Argentinos JRS",
+                        "logo": "https://media-3.api-sports.io/football/teams/458.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 1,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 4,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13450,
+                "name": "J. Campa\u00f1a",
+                "firstname": "Johan Camilo",
+                "lastname": "Campa\u00f1a Barrera",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-09",
+                    "place": "Pasto",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "170 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13450.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 458,
+                        "name": "Argentinos JRS",
+                        "logo": "https://media-2.api-sports.io/football/teams/458.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "62",
+        "team": "87",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 3392,
+                "name": "C. Gomez",
+                "firstname": "Charbel Codjo",
+                "lastname": "Gomez",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-27",
+                    "place": "Cotonou",
+                    "country": "Benin"
+                },
+                "nationality": "Benin",
+                "height": "184 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/3392.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 87,
+                        "name": "Amiens",
+                        "logo": "https://media-1.api-sports.io/football/teams/87.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 48154,
+                "name": "J. Lahne",
+                "firstname": "Jack Daniel",
+                "lastname": "Kalichi Lahne",
+                "age": 22,
+                "birth": {
+                    "date": "2001-10-24",
+                    "place": "Lusaka",
+                    "country": "Zambia"
+                },
+                "nationality": "Sweden",
+                "height": "174 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/48154.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 87,
+                        "name": "Amiens",
+                        "logo": "https://media-3.api-sports.io/football/teams/87.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 124149,
+                "name": "E. Lomotey",
+                "firstname": "Emmanuel",
+                "lastname": "Addoquaye Lomotey",
+                "age": 26,
+                "birth": {
+                    "date": "1997-12-19",
+                    "place": "Acra",
+                    "country": "Ghana"
+                },
+                "nationality": "Ghana",
+                "height": "190 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/124149.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 87,
+                        "name": "Amiens",
+                        "logo": "https://media-2.api-sports.io/football/teams/87.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

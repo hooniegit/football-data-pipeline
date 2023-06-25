@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "136",
+        "team": "517",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 30549,
+                "name": "L. Ceppitelli",
+                "firstname": "Luca",
+                "lastname": "Ceppitelli",
+                "age": 34,
+                "birth": {
+                    "date": "1989-08-11",
+                    "place": "Castiglione del lago",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "186 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30549.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-3.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 21,
+                        "minutes": 1783,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.947619",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1208,
+                        "key": 3,
+                        "accuracy": 49
+                    },
+                    "tackles": {
+                        "total": 34,
+                        "blocks": 8,
+                        "interceptions": 37
+                    },
+                    "duels": {
+                        "total": 181,
+                        "won": 115
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30770,
+                "name": "A. Candela",
+                "firstname": "Antonio",
+                "lastname": "Candela",
+                "age": 23,
+                "birth": {
+                    "date": "2000-04-27",
+                    "place": "La Spezia",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "185 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30770.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-3.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 26,
+                        "minutes": 2092,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.571428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 14,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 813,
+                        "key": 15,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 31,
+                        "blocks": 3,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 159,
+                        "won": 60
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 7090,
+                "name": "M. Svoboda",
+                "firstname": "Michael",
+                "lastname": "Svoboda",
+                "age": 25,
+                "birth": {
+                    "date": "1998-10-15",
+                    "place": "Vienna",
+                    "country": "Austria"
+                },
+                "nationality": "Austria",
+                "height": "195 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/7090.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-3.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 18,
+                        "minutes": 1758,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.970000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 964,
+                        "key": 8,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 15,
+                        "interceptions": 31
+                    },
+                    "duels": {
+                        "total": 150,
+                        "won": 92
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 26095,
+                "name": "M. \u0160verko",
+                "firstname": "Marin",
+                "lastname": "\u0160verko",
+                "age": 25,
+                "birth": {
+                    "date": "1998-02-04",
+                    "place": "Pforzheim",
+                    "country": "Germany"
+                },
+                "nationality": "Croatia",
+                "height": "187 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/26095.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-1.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 0,
+                        "minutes": 84,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.625000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 0,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 63,
+                        "key": 1,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 9
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 193270,
+                "name": "A. Carboni",
+                "firstname": "Andrea",
+                "lastname": "Carboni",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-04",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "185 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/193270.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-2.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 17,
+                        "minutes": 1440,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.087500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 5,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 806,
+                        "key": 4,
+                        "accuracy": 39
+                    },
+                    "tackles": {
+                        "total": 46,
+                        "blocks": 13,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 147,
+                        "won": 91
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 367737,
+                "name": "M. Remy",
+                "firstname": "Melvyn Jacques Jean",
+                "lastname": "Remy",
+                "age": 20,
+                "birth": {
+                    "date": "2003-07-19",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "186 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/367737.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-3.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 378967,
+                "name": "L. Busato",
+                "firstname": "Lorenzo",
+                "lastname": "Busato",
+                "age": 19,
+                "birth": {
+                    "date": "2004-02-09",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/378967.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-3.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 278730,
+                "name": "Afonso Peixoto",
+                "firstname": "Afonso",
+                "lastname": "Bento Martins Jesus Peixoto",
+                "age": 20,
+                "birth": {
+                    "date": "2003-01-31",
+                    "place": null,
+                    "country": "Portugal"
+                },
+                "nationality": "Portugal",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/278730.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-3.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31080,
+                "name": "A. Beghetto",
+                "firstname": "Andrea",
+                "lastname": "Beghetto",
+                "age": 29,
+                "birth": {
+                    "date": "1994-10-11",
+                    "place": "Castelfranco Veneto",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "182 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/31080.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-2.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 37,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.640000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 95,
+                        "key": 7,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 80752,
+                "name": "T. Tessmann",
+                "firstname": "Tanner",
+                "lastname": "Tessmann",
+                "age": 22,
+                "birth": {
+                    "date": "2001-09-24",
+                    "place": "Birmingham",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "192 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/80752.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-3.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 28,
+                        "minutes": 2529,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.890625",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 8,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 28,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1343,
+                        "key": 25,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 56,
+                        "blocks": 5,
+                        "interceptions": 22
+                    },
+                    "duels": {
+                        "total": 266,
+                        "won": 138
+                    },
+                    "dribbles": {
+                        "attempts": 45,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 29,
+                        "committed": 30
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 9010,
+                "name": "M. Jajalo",
+                "firstname": "Mato",
+                "lastname": "Jajalo",
+                "age": 35,
+                "birth": {
+                    "date": "1988-05-25",
+                    "place": "Jajce",
+                    "country": "Bosnia and Herzegovina"
+                },
+                "nationality": "Bosnia and Herzegovina",
+                "height": "182 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/9010.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-1.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 6,
+                        "minutes": 456,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.914285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 284,
+                        "key": 6,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 2,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 53,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 923,
+                "name": "D. Cheryshev",
+                "firstname": "Denis",
+                "lastname": "Cheryshev",
+                "age": 33,
+                "birth": {
+                    "date": "1990-12-26",
+                    "place": "Nizhniy Novgorod",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "179 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/923.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-2.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 5,
+                        "minutes": 801,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.814285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 19,
+                        "out": 4,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 249,
+                        "key": 21,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 87,
+                        "won": 37
+                    },
+                    "dribbles": {
+                        "attempts": 22,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15905,
+                "name": "M. Kofod Andersen",
+                "firstname": "Magnus",
+                "lastname": "Kofod Andersen",
+                "age": 24,
+                "birth": {
+                    "date": "1999-05-10",
+                    "place": "Hundested",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "176 cm",
+                "weight": "64 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/15905.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-2.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 16,
+                        "minutes": 1226,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.800000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 15,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 465,
+                        "key": 23,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 3,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 98,
+                        "won": 46
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 289292,
+                "name": "T. Milanese",
+                "firstname": "Tommaso Pantaleo",
+                "lastname": "Milanese",
+                "age": 21,
+                "birth": {
+                    "date": "2002-07-31",
+                    "place": "Galatina",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "173 cm",
+                "weight": "61 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/289292.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-1.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 6,
+                        "minutes": 604,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.654545",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 6,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 235,
+                        "key": 6,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 2,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 65,
+                        "won": 30
+                    },
+                    "dribbles": {
+                        "attempts": 18,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1180,
+                "name": "M. Johnsen",
+                "firstname": "Mikael T\u00f8rset",
+                "lastname": "Johnsen",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-04",
+                    "place": "Skien",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "175 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1180.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-2.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70375,
+                "name": "K. J\u00f3nsson",
+                "firstname": "Krist\u00f3fer",
+                "lastname": "J\u00f3nsson",
+                "age": 20,
+                "birth": {
+                    "date": "2003-03-03",
+                    "place": null,
+                    "country": "Iceland"
+                },
+                "nationality": "Iceland",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/70375.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-3.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 368181,
+                "name": "P. Leal",
+                "firstname": "Patrick Thomas",
+                "lastname": "Leal",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-21",
+                    "place": "Newton",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/368181.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-2.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 119686,
+                "name": "D. Redan",
+                "firstname": "Daishawn Orpheo Marvin",
+                "lastname": "Redan",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-02",
+                    "place": "Amsterdam",
+                    "country": "Netherlands"
+                },
+                "nationality": "Suriname",
+                "height": "176 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/119686.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-3.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 37026,
+                "name": "A. Novakovich",
+                "firstname": "Andrija",
+                "lastname": "Novakovich",
+                "age": 27,
+                "birth": {
+                    "date": "1996-09-21",
+                    "place": "Muskego",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "192 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/37026.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-3.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 8,
+                        "minutes": 1049,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.511764",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 28,
+                        "out": 4,
+                        "bench": 31
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 198,
+                        "key": 13,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 187,
+                        "won": 82
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 36986,
+                "name": "D. Johnsen",
+                "firstname": "Dennis",
+                "lastname": "T\u00f8rset Johnsen",
+                "age": 25,
+                "birth": {
+                    "date": "1998-02-17",
+                    "place": "Skien",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "185 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/36986.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 517,
+                        "name": "Venezia",
+                        "logo": "https://media-3.api-sports.io/football/teams/517.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 20,
+                        "minutes": 1850,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.687500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 16,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 24,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 483,
+                        "key": 32,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 4,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 242,
+                        "won": 87
+                    },
+                    "dribbles": {
+                        "attempts": 89,
+                        "success": 30,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

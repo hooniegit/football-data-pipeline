@@ -1,0 +1,682 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "207",
+        "team": "606",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 7,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 100621,
+                "name": "M. Cinquini",
+                "firstname": "Mattia",
+                "lastname": "Cinquini",
+                "age": 33,
+                "birth": {
+                    "date": "1990-05-11",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/100621.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 606,
+                        "name": "FC Lugano",
+                        "logo": "https://media-3.api-sports.io/football/teams/606.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-3.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-1.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 336086,
+                "name": "Mohamad Alshikh",
+                "firstname": "Mohamad",
+                "lastname": "Alshikh",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-01",
+                    "place": null,
+                    "country": "Syria"
+                },
+                "nationality": "Syria",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/336086.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 606,
+                        "name": "FC Lugano",
+                        "logo": "https://media-3.api-sports.io/football/teams/606.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-1.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-2.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 96373,
+                "name": "H\u00e9lder Bald\u00e9",
+                "firstname": "H\u00e9lder Bafod\u00e9",
+                "lastname": "Bald\u00e9",
+                "age": 25,
+                "birth": {
+                    "date": "1998-08-03",
+                    "place": "Bissau",
+                    "country": "Guinea-Bissau"
+                },
+                "nationality": "Portugal",
+                "height": "196 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/96373.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 606,
+                        "name": "FC Lugano",
+                        "logo": "https://media-1.api-sports.io/football/teams/606.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-3.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-2.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 193645,
+                "name": "Y. Cimignani",
+                "firstname": "Yanis",
+                "lastname": "Cimignani",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-22",
+                    "place": "Lyon",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "176 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/193645.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 606,
+                        "name": "FC Lugano",
+                        "logo": "https://media-3.api-sports.io/football/teams/606.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-3.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-1.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 200139,
+                "name": "M. Amoura",
+                "firstname": "Mohamed El Amine",
+                "lastname": "Amoura",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-09",
+                    "place": "Tahir",
+                    "country": "Algeria"
+                },
+                "nationality": "Algeria",
+                "height": "170 cm",
+                "weight": "61 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/200139.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 606,
+                        "name": "FC Lugano",
+                        "logo": "https://media-2.api-sports.io/football/teams/606.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-2.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-1.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 10,
+                        "minutes": 1071,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.893333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 21,
+                        "out": 10,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": 33,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 313,
+                        "key": 14,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 3,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 193,
+                        "won": 95
+                    },
+                    "dribbles": {
+                        "attempts": 50,
+                        "success": 28,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70532,
+                "name": "A. Saipi",
+                "firstname": "Amir",
+                "lastname": "Saipi",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-08",
+                    "place": null,
+                    "country": "Switzerland"
+                },
+                "nationality": "Switzerland",
+                "height": "194 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/70532.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 606,
+                        "name": "FC Lugano",
+                        "logo": "https://media-2.api-sports.io/football/teams/606.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-2.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-2.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 28,
+                        "minutes": 2520,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.828000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 35,
+                        "assists": null,
+                        "saves": 77
+                    },
+                    "passes": {
+                        "total": 770,
+                        "key": 1,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 48770,
+                "name": "M. Haile-Selassie",
+                "firstname": "Maren",
+                "lastname": "Haile-Selassie",
+                "age": 24,
+                "birth": {
+                    "date": "1999-03-13",
+                    "place": "Z\u00fcrich",
+                    "country": "Switzerland"
+                },
+                "nationality": "Switzerland",
+                "height": "177 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/48770.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 606,
+                        "name": "FC Lugano",
+                        "logo": "https://media-1.api-sports.io/football/teams/606.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-2.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-3.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 8,
+                        "minutes": 689,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.776923",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 7,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 218,
+                        "key": 23,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 64,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 18,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

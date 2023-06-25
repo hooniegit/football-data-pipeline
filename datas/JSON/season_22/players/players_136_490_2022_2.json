@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "136",
+        "team": "490",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 56287,
+                "name": "A. Di Pardo",
+                "firstname": "Alessandro",
+                "lastname": "Di Pardo",
+                "age": 24,
+                "birth": {
+                    "date": "1999-07-18",
+                    "place": "Rimini",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "182 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/56287.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-2.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 13,
+                        "minutes": 1120,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.789473",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 5,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 574,
+                        "key": 8,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 6,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 86,
+                        "won": 55
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31737,
+                "name": "M. Mancosu",
+                "firstname": "Marco",
+                "lastname": "Mancosu",
+                "age": 35,
+                "birth": {
+                    "date": "1988-08-22",
+                    "place": "Cagliari",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/31737.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-1.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 24,
+                        "minutes": 1813,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.214814",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 15,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 34,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 730,
+                        "key": 54,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": null,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 177,
+                        "won": 78
+                    },
+                    "dribbles": {
+                        "attempts": 33,
+                        "success": 18,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2055,
+                "name": "M. Rog",
+                "firstname": "Marko",
+                "lastname": "Rog",
+                "age": 28,
+                "birth": {
+                    "date": "1995-07-19",
+                    "place": "Vara\u017edin",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": "180 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2055.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-1.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 15,
+                        "minutes": 1107,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.547826",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 13,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 542,
+                        "key": 9,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 1,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 136,
+                        "won": 65
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2614,
+                "name": "N. N\u00e1ndez",
+                "firstname": "Nahitan Michel",
+                "lastname": "N\u00e1ndez Acosta",
+                "age": 28,
+                "birth": {
+                    "date": "1995-12-28",
+                    "place": "Punta del Este",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "172 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2614.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-3.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 34,
+                        "minutes": 2883,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.913888",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 15,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 6,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1162,
+                        "key": 61,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 68,
+                        "blocks": 3,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 420,
+                        "won": 215
+                    },
+                    "dribbles": {
+                        "attempts": 79,
+                        "success": 38,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 68,
+                        "committed": 44
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30629,
+                "name": "N. Viola",
+                "firstname": "Benito Nicolas",
+                "lastname": "Viola",
+                "age": 34,
+                "birth": {
+                    "date": "1989-10-12",
+                    "place": "Oppido Mamertina",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "180 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30629.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-2.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 9,
+                        "minutes": 892,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.916666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 7,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 549,
+                        "key": 17,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": null,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 103,
+                        "won": 51
+                    },
+                    "dribbles": {
+                        "attempts": 18,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30561,
+                "name": "A. Deiola",
+                "firstname": "Alessandro",
+                "lastname": "Deiola",
+                "age": 28,
+                "birth": {
+                    "date": "1995-08-01",
+                    "place": "San Gavino Monreale",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "189 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30561.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-3.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 20,
+                        "minutes": 1905,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.863333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 8,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 37,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 810,
+                        "key": 21,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 3,
+                        "interceptions": 22
+                    },
+                    "duels": {
+                        "total": 184,
+                        "won": 94
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 329550,
+                "name": "N. Cavuoti",
+                "firstname": "Nicol\u00f2",
+                "lastname": "Cavuoti",
+                "age": 20,
+                "birth": {
+                    "date": "2003-04-04",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "177 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/329550.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-3.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30551,
+                "name": "N.  Lella",
+                "firstname": "Nunzio",
+                "lastname": "Lella",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-28",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "188 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30551.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-3.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 9,
+                        "minutes": 803,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.550000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 8,
+                        "bench": 30
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 245,
+                        "key": 2,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": null,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 88,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31733,
+                "name": "F. Falco",
+                "firstname": "Filippo",
+                "lastname": "Falco",
+                "age": 31,
+                "birth": {
+                    "date": "1992-02-11",
+                    "place": "Taranto",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "171 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31733.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-1.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 9,
+                        "minutes": 740,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.857142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 9,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 378,
+                        "key": 28,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 76,
+                        "won": 35
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 290046,
+                "name": "A. Makoumbou",
+                "firstname": "Antoine",
+                "lastname": "Makoumbou",
+                "age": 25,
+                "birth": {
+                    "date": "1998-07-18",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "Congo",
+                "height": "183 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/290046.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-1.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 41,
+                        "lineups": 38,
+                        "minutes": 3433,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.877500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 5,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1836,
+                        "key": 31,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 48,
+                        "blocks": 10,
+                        "interceptions": 37
+                    },
+                    "duels": {
+                        "total": 300,
+                        "won": 156
+                    },
+                    "dribbles": {
+                        "attempts": 62,
+                        "success": 45,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 48,
+                        "committed": 48
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 344722,
+                "name": "M. Carboni",
+                "firstname": "Michele",
+                "lastname": "Carboni",
+                "age": 19,
+                "birth": {
+                    "date": "2004-08-03",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/344722.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-3.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 342053,
+                "name": "C. Kourfalidis",
+                "firstname": "Christos",
+                "lastname": "Kourfalidis",
+                "age": 21,
+                "birth": {
+                    "date": "2002-11-11",
+                    "place": "Salonika",
+                    "country": "Greece"
+                },
+                "nationality": "Greece",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/342053.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-1.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 14,
+                        "minutes": 1323,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.786363",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 11,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 534,
+                        "key": 23,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 4,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 151,
+                        "won": 68
+                    },
+                    "dribbles": {
+                        "attempts": 22,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 264476,
+                "name": "I. Delpupo",
+                "firstname": "Isa\u00edas Omar",
+                "lastname": "Delpupo",
+                "age": 20,
+                "birth": {
+                    "date": "2003-03-31",
+                    "place": "El Socorro",
+                    "country": "Argentina"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/264476.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-2.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 16,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 7,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30514,
+                "name": "V. Millico",
+                "firstname": "Vincenzo",
+                "lastname": "Millico",
+                "age": 23,
+                "birth": {
+                    "date": "2000-08-12",
+                    "place": "Turin",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "173 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/30514.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-2.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 2,
+                        "minutes": 329,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.593333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 2,
+                        "bench": 38
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 88,
+                        "key": 11,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 35,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 204054,
+                "name": "N. Prelec",
+                "firstname": "Nik",
+                "lastname": "Prelec",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-10",
+                    "place": "Maribor",
+                    "country": "Slovenia"
+                },
+                "nationality": "Slovenia",
+                "height": "186 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/204054.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-3.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 6,
+                        "minutes": 710,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.607142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 6,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 166,
+                        "key": 11,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 3,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 103,
+                        "won": 43
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30573,
+                "name": "L. Pavoletti",
+                "firstname": "Leonardo",
+                "lastname": "Pavoletti",
+                "age": 35,
+                "birth": {
+                    "date": "1988-11-26",
+                    "place": "Livorno",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "188 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/30573.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-3.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 11,
+                        "minutes": 1038,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.872000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 6,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 40,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 301,
+                        "key": 8,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 180,
+                        "won": 104
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 34
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 269240,
+                "name": "A. Griger",
+                "firstname": "Adam",
+                "lastname": "Griger",
+                "age": 19,
+                "birth": {
+                    "date": "2004-03-16",
+                    "place": "Pre\u0161ov",
+                    "country": "Slovakia"
+                },
+                "nationality": "Slovakia",
+                "height": "195 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/269240.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-1.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 10,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 140831,
+                "name": "Zito Luvumbo",
+                "firstname": "Zito Andr\u00e9",
+                "lastname": "Sebasti\u00e3o Luvumbo",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-09",
+                    "place": null,
+                    "country": "Angola"
+                },
+                "nationality": "Angola",
+                "height": "171 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/140831.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-1.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 41,
+                        "lineups": 19,
+                        "minutes": 1932,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.744736",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 22,
+                        "out": 13,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": 31,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 351,
+                        "key": 23,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 24,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 278,
+                        "won": 129
+                    },
+                    "dribbles": {
+                        "attempts": 70,
+                        "success": 32,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 69,
+                        "committed": 40
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20959,
+                "name": "M. Tramoni",
+                "firstname": "Matt\u00e9o",
+                "lastname": "Tramoni",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-20",
+                    "place": "Ajaccio",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "175 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/20959.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-1.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.733333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 26,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 394,
+                        "key": 25,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 35,
+                        "blocks": 2,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 227,
+                        "won": 94
+                    },
+                    "dribbles": {
+                        "attempts": 53,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 179568,
+                "name": "L. Tramoni",
+                "firstname": "Lisandru",
+                "lastname": "Tramoni",
+                "age": 20,
+                "birth": {
+                    "date": "2003-04-18",
+                    "place": "Ajaccio",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/179568.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 490,
+                        "name": "Cagliari",
+                        "logo": "https://media-3.api-sports.io/football/teams/490.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.540000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 30,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

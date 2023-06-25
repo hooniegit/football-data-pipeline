@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "207",
+        "team": "2184",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 48612,
+                "name": "K. Imeri",
+                "firstname": "Kastriot",
+                "lastname": "Imeri",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-27",
+                    "place": "Genf",
+                    "country": "Switzerland"
+                },
+                "nationality": "Switzerland",
+                "height": "178 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/48612.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2184,
+                        "name": "Servette FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/2184.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-1.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-3.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.029166",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 573,
+                        "key": 30,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 2,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 152,
+                        "won": 74
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 30,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

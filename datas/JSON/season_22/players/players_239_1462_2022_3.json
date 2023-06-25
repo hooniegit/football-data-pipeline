@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "239",
+        "team": "1462",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 13525,
+                "name": "L. Castro",
+                "firstname": "Leonardo Fabio",
+                "lastname": "Castro Loaiza",
+                "age": 31,
+                "birth": {
+                    "date": "1992-06-14",
+                    "place": "El Tambo",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "174 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13525.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1462,
+                        "name": "Deportivo Pereira",
+                        "logo": "https://media-2.api-sports.io/football/teams/1462.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 42,
+                        "lineups": 41,
+                        "minutes": 3648,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.265789",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 14,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 102,
+                        "on": 47
+                    },
+                    "goals": {
+                        "total": 24,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 636,
+                        "key": 40,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 3,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 325,
+                        "won": 140
+                    },
+                    "dribbles": {
+                        "attempts": 71,
+                        "success": 23,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 71,
+                        "committed": 41
+                    },
+                    "cards": {
+                        "yellow": 15,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13668,
+                "name": "A. Correa",
+                "firstname": "Andr\u00e9s Felipe",
+                "lastname": "Correa Osorio",
+                "age": 39,
+                "birth": {
+                    "date": "1984-07-02",
+                    "place": "Itag\u00fc\u00ed",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "180 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/13668.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1462,
+                        "name": "Deportivo Pereira",
+                        "logo": "https://media-1.api-sports.io/football/teams/1462.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 33,
+                        "minutes": 2990,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.745161",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 6,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1031,
+                        "key": 6,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 19,
+                        "interceptions": 42
+                    },
+                    "duels": {
+                        "total": 147,
+                        "won": 78
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 10,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

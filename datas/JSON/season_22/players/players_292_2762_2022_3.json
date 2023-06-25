@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "292",
+        "team": "2762",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 356216,
+                "name": "Park Kyu-Min",
+                "firstname": "Kyu-Min",
+                "lastname": "Park",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-08",
+                    "place": null,
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/356216.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2762,
+                        "name": "Jeonbuk Motors",
+                        "logo": "https://media-3.api-sports.io/football/teams/2762.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-1.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-2.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 9,
+                        "minutes": 288,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.525000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 9,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 53,
+                        "key": 1,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 27,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 34375,
+                "name": "Choi Bo-Kyung",
+                "firstname": "Bo-Kyung",
+                "lastname": "Choi",
+                "age": 35,
+                "birth": {
+                    "date": "1988-04-12",
+                    "place": "Gwangyang",
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "184 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/34375.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2762,
+                        "name": "Jeonbuk Motors",
+                        "logo": "https://media-1.api-sports.io/football/teams/2762.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-2.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-2.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 6,
+                        "minutes": 510,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.100000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 379,
+                        "key": 1,
+                        "accuracy": 48
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 7,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 26,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 34380,
+                "name": "Lee Yong",
+                "firstname": "Yong",
+                "lastname": "Lee",
+                "age": 37,
+                "birth": {
+                    "date": "1986-12-24",
+                    "place": "Seoul",
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "180 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/34380.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2762,
+                        "name": "Jeonbuk Motors",
+                        "logo": "https://media-3.api-sports.io/football/teams/2762.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-1.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-1.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 6,
+                        "minutes": 548,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.028571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 458,
+                        "key": 3,
+                        "accuracy": 48
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 4,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 40,
+                        "won": 24
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 34428,
+                "name": "Kim Bo-Kyung",
+                "firstname": "Bo-Kyung",
+                "lastname": "Kim",
+                "age": 34,
+                "birth": {
+                    "date": "1989-10-06",
+                    "place": "Seoul",
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "178 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/34428.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2762,
+                        "name": "Jeonbuk Motors",
+                        "logo": "https://media-3.api-sports.io/football/teams/2762.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-1.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-2.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 9,
+                        "minutes": 1479,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.904166",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 7,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 624,
+                        "key": 32,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 3,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 154,
+                        "won": 70
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 30,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 356204,
+                "name": "Park Sung-Hyun",
+                "firstname": "Sung-Hyun",
+                "lastname": "Park",
+                "age": 22,
+                "birth": {
+                    "date": "2001-09-25",
+                    "place": null,
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "182 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/356204.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2762,
+                        "name": "Jeonbuk Motors",
+                        "logo": "https://media-3.api-sports.io/football/teams/2762.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-3.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-2.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 46,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 13,
+                        "key": null,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "98",
+        "team": "292",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 34012,
+                "name": "K. Yamashita",
+                "firstname": "Keita",
+                "lastname": "Yamashita",
+                "age": 27,
+                "birth": {
+                    "date": "1996-03-13",
+                    "place": "Fukuoka",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "184 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/34012.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 292,
+                        "name": "FC Tokyo",
+                        "logo": "https://media-1.api-sports.io/football/teams/292.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-1.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-3.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 1,
+                        "minutes": 223,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.527272",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 1,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 52,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 44,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 32867,
+                "name": "Y. Takahagi",
+                "firstname": "Yojiro",
+                "lastname": "Takahagi",
+                "age": 37,
+                "birth": {
+                    "date": "1986-08-02",
+                    "place": "Fukushima",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "183 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/32867.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 292,
+                        "name": "FC Tokyo",
+                        "logo": "https://media-3.api-sports.io/football/teams/292.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-2.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-1.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 1,
+                        "minutes": 64,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.633333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 45,
+                        "key": null,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 141183,
+                "name": "K. Yasuda",
+                "firstname": "Kojiro",
+                "lastname": "Yasuda",
+                "age": 20,
+                "birth": {
+                    "date": "2003-08-14",
+                    "place": null,
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "173 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/141183.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 292,
+                        "name": "FC Tokyo",
+                        "logo": "https://media-1.api-sports.io/football/teams/292.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-2.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-2.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 7,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 7,
+                        "key": null,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 316834,
+                "name": "S. Okaniwa",
+                "firstname": "Shuto",
+                "lastname": "Okaniwa",
+                "age": 24,
+                "birth": {
+                    "date": "1999-09-16",
+                    "place": null,
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "171 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/316834.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 292,
+                        "name": "FC Tokyo",
+                        "logo": "https://media-1.api-sports.io/football/teams/292.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-3.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-1.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

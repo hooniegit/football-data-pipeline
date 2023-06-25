@@ -1,0 +1,1347 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "128",
+        "team": "451",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 14,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 392734,
+                "name": "J. Saralegui",
+                "firstname": "Jabes Esteban",
+                "lastname": "Saralegui",
+                "age": 20,
+                "birth": {
+                    "date": "2003-04-12",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "181 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/392734.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 237090,
+                "name": "E. Zeballos",
+                "firstname": "Oscar Exequiel",
+                "lastname": "Zeballos",
+                "age": 21,
+                "birth": {
+                    "date": "2002-04-24",
+                    "place": "Santiago del Estero",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "174 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/237090.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-3.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 7,
+                        "minutes": 826,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.906250",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 3,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 247,
+                        "key": 22,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 115,
+                        "won": 55
+                    },
+                    "dribbles": {
+                        "attempts": 50,
+                        "success": 31,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2478,
+                "name": "D. Benedetto",
+                "firstname": "Dar\u00edo Ismael",
+                "lastname": "Benedetto",
+                "age": 33,
+                "birth": {
+                    "date": "1990-05-17",
+                    "place": "Berazategui",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "177 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/2478.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 27,
+                        "minutes": 2110,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.024137",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 22,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 48,
+                        "on": 22
+                    },
+                    "goals": {
+                        "total": 12,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 383,
+                        "key": 18,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 195,
+                        "won": 83
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 25,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5187,
+                "name": "N. Orsini",
+                "firstname": "Nicol\u00e1s",
+                "lastname": "Orsini",
+                "age": 29,
+                "birth": {
+                    "date": "1994-09-12",
+                    "place": "Morteros",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "187 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/5187.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 4,
+                        "minutes": 462,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.531250",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 2,
+                        "bench": 28
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 109,
+                        "key": 2,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 55,
+                        "won": 21
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 390809,
+                "name": "J. Morales",
+                "firstname": "Gonzalo Javier",
+                "lastname": "Morales",
+                "age": 20,
+                "birth": {
+                    "date": "2003-04-03",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/390809.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 0,
+                        "minutes": 132,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.540000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 19,
+                        "key": 1,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 20,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6189,
+                "name": "N. Briasco",
+                "firstname": "Norberto Alejandro",
+                "lastname": "Briasco Balekian",
+                "age": 27,
+                "birth": {
+                    "date": "1996-02-29",
+                    "place": "Marcos Paz",
+                    "country": "Argentina"
+                },
+                "nationality": "Armenia",
+                "height": "179 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/6189.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 2,
+                        "minutes": 152,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.425000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 27,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 35,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6490,
+                "name": "L. V\u00e1zquez",
+                "firstname": "Luis Ismael",
+                "lastname": "V\u00e1zquez",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-24",
+                    "place": "Recreo",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "190 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/6490.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-2.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 39,
+                        "lineups": 17,
+                        "minutes": 1757,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.580555",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 22,
+                        "out": 10,
+                        "bench": 26
+                    },
+                    "shots": {
+                        "total": 32,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 309,
+                        "key": 16,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 225,
+                        "won": 82
+                    },
+                    "dribbles": {
+                        "attempts": 36,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 363393,
+                "name": "L. Langoni",
+                "firstname": "Luca Daniel",
+                "lastname": "Langoni",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-09",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "172 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/363393.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 11,
+                        "minutes": 952,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.782352",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 10,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 153,
+                        "key": 9,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 82,
+                        "won": 29
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 324721,
+                "name": "J. Caba\u00f1a",
+                "firstname": "Juan Pablo",
+                "lastname": "Caba\u00f1a",
+                "age": 22,
+                "birth": {
+                    "date": "2001-12-28",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "184 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/324721.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-2.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 323785,
+                "name": "V. Taborda",
+                "firstname": "Vicente",
+                "lastname": "Taborda",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-16",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/323785.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-2.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 5,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 279798,
+                "name": "M. Zalazar",
+                "firstname": "Maximiliano Ezequiel",
+                "lastname": "Zalazar",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-08",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "172 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/279798.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-2.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 56,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.250000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 13,
+                        "key": null,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 201828,
+                "name": "P. Gerzel",
+                "firstname": "Pablo Gast\u00f3n",
+                "lastname": "Gerzel",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-05",
+                    "place": "Resistencia",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "172 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/201828.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 48379,
+                "name": "C. Zambrano",
+                "firstname": "Carlos Augusto",
+                "lastname": "Zambrano Ochandarte",
+                "age": 34,
+                "birth": {
+                    "date": "1989-07-10",
+                    "place": "Callao",
+                    "country": "Peru"
+                },
+                "nationality": "Peru",
+                "height": "185 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/48379.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 21,
+                        "minutes": 1914,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.817391",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 2,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 987,
+                        "key": 1,
+                        "accuracy": 35
+                    },
+                    "tackles": {
+                        "total": 33,
+                        "blocks": 12,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 186,
+                        "won": 111
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 26,
+                        "committed": 34
+                    },
+                    "cards": {
+                        "yellow": 11,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5976,
+                "name": "A. Molinas",
+                "firstname": "Aaron Nicol\u00e1s",
+                "lastname": "Molinas",
+                "age": 23,
+                "birth": {
+                    "date": "2000-08-02",
+                    "place": "Lomas del Mirador",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "175 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/5976.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 451,
+                        "name": "Boca Juniors",
+                        "logo": "https://media-3.api-sports.io/football/teams/451.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 11,
+                        "minutes": 989,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.733333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 10,
+                        "bench": 31
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 554,
+                        "key": 17,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 1,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 105,
+                        "won": 51
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

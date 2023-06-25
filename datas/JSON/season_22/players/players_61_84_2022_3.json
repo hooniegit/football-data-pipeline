@@ -1,0 +1,682 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "61",
+        "team": "84",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 7,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 3099,
+                "name": "Y. Ndayishimiye",
+                "firstname": "Youssouf",
+                "lastname": "Nyange Ndayishimiye",
+                "age": 25,
+                "birth": {
+                    "date": "1998-10-27",
+                    "place": "Bujumbura",
+                    "country": "Burundi"
+                },
+                "nationality": "Burundi",
+                "height": "183 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/3099.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 84,
+                        "name": "Nice",
+                        "logo": "https://media-3.api-sports.io/football/teams/84.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 6,
+                        "minutes": 566,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.020000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 2,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 369,
+                        "key": 1,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 5,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 45,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 334879,
+                "name": "B. Bouanani",
+                "firstname": "Badredine",
+                "lastname": "Bouanani",
+                "age": 19,
+                "birth": {
+                    "date": "2004-12-08",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "Algeria",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/334879.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 84,
+                        "name": "Nice",
+                        "logo": "https://media-3.api-sports.io/football/teams/84.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 9,
+                        "minutes": 860,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.005263",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 8,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 325,
+                        "key": 22,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 118,
+                        "won": 62
+                    },
+                    "dribbles": {
+                        "attempts": 47,
+                        "success": 27,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1459,
+                "name": "A. Ramsey",
+                "firstname": "Aaron James",
+                "lastname": "Ramsey",
+                "age": 33,
+                "birth": {
+                    "date": "1990-12-26",
+                    "place": "Caerphilly",
+                    "country": "Wales"
+                },
+                "nationality": "Wales",
+                "height": "178 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1459.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 84,
+                        "name": "Nice",
+                        "logo": "https://media-1.api-sports.io/football/teams/84.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 18,
+                        "minutes": 1587,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.918518",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 12,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1017,
+                        "key": 28,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 48,
+                        "blocks": 4,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 182,
+                        "won": 87
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18947,
+                "name": "M. Lemina",
+                "firstname": "Mario Ren\u00e9 Junior",
+                "lastname": "Lemina",
+                "age": 30,
+                "birth": {
+                    "date": "1993-09-01",
+                    "place": "Libreville",
+                    "country": "Gabon"
+                },
+                "nationality": "Gabon",
+                "height": "184 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/18947.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 84,
+                        "name": "Nice",
+                        "logo": "https://media-1.api-sports.io/football/teams/84.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 11,
+                        "minutes": 843,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.038461",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 8,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 632,
+                        "key": 4,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 5,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 82,
+                        "won": 53
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 116,
+                "name": "K. Thuram",
+                "firstname": "Kh\u00e9phren",
+                "lastname": "Thuram-Ulien",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-26",
+                    "place": "Reggio Emilia",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "192 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/116.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 84,
+                        "name": "Nice",
+                        "logo": "https://media-3.api-sports.io/football/teams/84.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 30,
+                        "minutes": 2559,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.032352",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 15,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 24,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1323,
+                        "key": 37,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 51,
+                        "blocks": 13,
+                        "interceptions": 38
+                    },
+                    "duels": {
+                        "total": 262,
+                        "won": 131
+                    },
+                    "dribbles": {
+                        "attempts": 69,
+                        "success": 45,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 85041,
+                "name": "A. Gouiri",
+                "firstname": "Amine Ferid",
+                "lastname": "Gouiri",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-16",
+                    "place": "Bourgoin-Jallieu",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "180 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/85041.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 84,
+                        "name": "Nice",
+                        "logo": "https://media-3.api-sports.io/football/teams/84.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 3,
+                        "minutes": 228,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.633333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 66,
+                        "key": 3,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 18,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 22167,
+                "name": "Danilo Barbosa",
+                "firstname": "Danilo",
+                "lastname": "Barbosa da Silva",
+                "age": 27,
+                "birth": {
+                    "date": "1996-02-28",
+                    "place": "Sim\u00f5es Filho",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "183 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/22167.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 84,
+                        "name": "Nice",
+                        "logo": "https://media-2.api-sports.io/football/teams/84.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

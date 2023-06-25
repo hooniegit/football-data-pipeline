@@ -1,0 +1,587 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "135",
+        "team": "511",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 6,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 287374,
+                "name": "E. Ekong",
+                "firstname": "Emmanuel",
+                "lastname": "Ekong",
+                "age": 21,
+                "birth": {
+                    "date": "2002-06-25",
+                    "place": null,
+                    "country": "Sweden"
+                },
+                "nationality": "Sweden",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/287374.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 511,
+                        "name": "Empoli",
+                        "logo": "https://media-2.api-sports.io/football/teams/511.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 18,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 4,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 218,
+                "name": "D. Merola",
+                "firstname": "Davide",
+                "lastname": "Merola",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-27",
+                    "place": "Santa Maria Capua Vetere",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "181 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/218.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 511,
+                        "name": "Empoli",
+                        "logo": "https://media-1.api-sports.io/football/teams/511.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6931,
+                "name": "L. Cacace",
+                "firstname": "Liberato Gianpaolo",
+                "lastname": "Cacace",
+                "age": 23,
+                "birth": {
+                    "date": "2000-09-27",
+                    "place": "Wellington",
+                    "country": "New Zealand"
+                },
+                "nationality": "New Zealand",
+                "height": "170 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6931.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 511,
+                        "name": "Empoli",
+                        "logo": "https://media-1.api-sports.io/football/teams/511.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 5,
+                        "minutes": 581,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.672727",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 1,
+                        "bench": 33
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 314,
+                        "key": 7,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 7,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 95,
+                        "won": 43
+                    },
+                    "dribbles": {
+                        "attempts": 18,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 162141,
+                "name": "K. De Winter",
+                "firstname": "Koni",
+                "lastname": "De Winter",
+                "age": 21,
+                "birth": {
+                    "date": "2002-06-12",
+                    "place": null,
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "188 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/162141.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 511,
+                        "name": "Empoli",
+                        "logo": "https://media-1.api-sports.io/football/teams/511.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 12,
+                        "minutes": 1022,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.669230",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 466,
+                        "key": 2,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 10,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 61,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 136087,
+                "name": "F. Parisi",
+                "firstname": "Fabiano",
+                "lastname": "Parisi",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-09",
+                    "place": "Solofra",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "178 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/136087.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 511,
+                        "name": "Empoli",
+                        "logo": "https://media-1.api-sports.io/football/teams/511.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 33,
+                        "minutes": 2835,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.840625",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1245,
+                        "key": 21,
+                        "accuracy": 30
+                    },
+                    "tackles": {
+                        "total": 65,
+                        "blocks": 16,
+                        "interceptions": 39
+                    },
+                    "duels": {
+                        "total": 387,
+                        "won": 228
+                    },
+                    "dribbles": {
+                        "attempts": 105,
+                        "success": 61,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 72,
+                        "committed": 34
+                    },
+                    "cards": {
+                        "yellow": 10,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30438,
+                "name": "N. Cambiaghi",
+                "firstname": "Nicol\u00f2",
+                "lastname": "Cambiaghi",
+                "age": 23,
+                "birth": {
+                    "date": "2000-12-28",
+                    "place": "Monza",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "173 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30438.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 511,
+                        "name": "Empoli",
+                        "logo": "https://media-2.api-sports.io/football/teams/511.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 12,
+                        "minutes": 1281,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.866666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 9,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 377,
+                        "key": 15,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 1,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 206,
+                        "won": 114
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 60,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

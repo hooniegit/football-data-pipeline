@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "78",
+        "team": "170",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 119685,
+                "name": "D. \u010colina",
+                "firstname": "David",
+                "lastname": "\u010colina",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-19",
+                    "place": null,
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/119685.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 170,
+                        "name": "FC Augsburg",
+                        "logo": "https://media-3.api-sports.io/football/teams/170.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 0,
+                        "minutes": 160,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.528571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 48,
+                        "key": 2,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 27,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 182434,
+                "name": "D. Beljo",
+                "firstname": "Dion Drena",
+                "lastname": "Beljo",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-01",
+                    "place": "Zagreb",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": "195 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/182434.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 170,
+                        "name": "FC Augsburg",
+                        "logo": "https://media-3.api-sports.io/football/teams/170.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 16,
+                        "minutes": 1140,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.694444",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 14,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 241,
+                        "key": 14,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 2,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 192,
+                        "won": 70
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 25144,
+                "name": "M. Bauer",
+                "firstname": "Maximilian",
+                "lastname": "Bauer",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-09",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "189 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/25144.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 170,
+                        "name": "FC Augsburg",
+                        "logo": "https://media-3.api-sports.io/football/teams/170.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 20,
+                        "minutes": 1842,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.516000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 3,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 749,
+                        "key": 5,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 9,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 221,
+                        "won": 126
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2577,
+                "name": "C. Gruezo",
+                "firstname": "Carlos Armando",
+                "lastname": "Gruezo Arboleda",
+                "age": 28,
+                "birth": {
+                    "date": "1995-04-19",
+                    "place": "Santo Domingo",
+                    "country": "Ecuador"
+                },
+                "nationality": "Ecuador",
+                "height": "173 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2577.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 170,
+                        "name": "FC Augsburg",
+                        "logo": "https://media-1.api-sports.io/football/teams/170.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 12,
+                        "minutes": 965,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.592307",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 273,
+                        "key": 7,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 4,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 79,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1991 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "128",
+        "team": "438",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 50766,
+                "name": "L. Jara",
+                "firstname": "Leonardo Rafael",
+                "lastname": "Jara",
+                "age": 32,
+                "birth": {
+                    "date": "1991-05-20",
+                    "place": "Corrientes",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "180 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/50766.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 18,
+                        "minutes": 1589,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.035294",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 4,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 662,
+                        "key": 10,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 43,
+                        "blocks": 5,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 153,
+                        "won": 89
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 16,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 355004,
+                "name": "V. G\u00f3mez",
+                "firstname": "Diego Valent\u00edn",
+                "lastname": "G\u00f3mez",
+                "age": 20,
+                "birth": {
+                    "date": "2003-06-26",
+                    "place": "San Miguel",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/355004.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 25,
+                        "minutes": 2219,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.768000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1298,
+                        "key": 5,
+                        "accuracy": 44
+                    },
+                    "tackles": {
+                        "total": 54,
+                        "blocks": 16,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 183,
+                        "won": 99
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 1,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 129897,
+                "name": "D. Fern\u00e1ndez",
+                "firstname": "Dami\u00e1n Ariel",
+                "lastname": "Fern\u00e1ndez",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-02",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/129897.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 8,
+                        "minutes": 810,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.100000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 521,
+                        "key": 2,
+                        "accuracy": 39
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 3,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 86,
+                        "won": 48
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 119809,
+                "name": "J. Florent\u00edn",
+                "firstname": "Jos\u00e9 Ignacio",
+                "lastname": "Florent\u00edn Bobadilla",
+                "age": 27,
+                "birth": {
+                    "date": "1996-07-05",
+                    "place": "Juan Emiliano O'Leary",
+                    "country": "Paraguay"
+                },
+                "nationality": "Paraguay",
+                "height": "181 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/119809.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 11,
+                        "minutes": 1010,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.759090",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 8,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 491,
+                        "key": 11,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 3,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 136,
+                        "won": 58
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 197668,
+                "name": "N. Garayalde",
+                "firstname": "Nicol\u00e1s",
+                "lastname": "Garayalde",
+                "age": 24,
+                "birth": {
+                    "date": "1999-07-21",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "182 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/197668.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 29,
+                        "minutes": 2475,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.954545",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 18,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1291,
+                        "key": 30,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 112,
+                        "blocks": 7,
+                        "interceptions": 42
+                    },
+                    "duels": {
+                        "total": 398,
+                        "won": 195
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 64
+                    },
+                    "cards": {
+                        "yellow": 10,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 362750,
+                "name": "T. Fern\u00e1ndez",
+                "firstname": "Thiago Cruz",
+                "lastname": "Fern\u00e1ndez",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-03",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "175 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/362750.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 362752,
+                "name": "C. Ordo\u00f1ez",
+                "firstname": "Christian Nahuel",
+                "lastname": "Ordo\u00f1ez",
+                "age": 19,
+                "birth": {
+                    "date": "2004-07-24",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "177 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/362752.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1694,
+                "name": "S. C\u00e1seres",
+                "firstname": "Santiago",
+                "lastname": "C\u00e1seres",
+                "age": 26,
+                "birth": {
+                    "date": "1997-02-25",
+                    "place": "Parque Leloir",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "177 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/1694.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 12,
+                        "minutes": 1089,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.933333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 10,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 784,
+                        "key": 5,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 49,
+                        "blocks": null,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 164,
+                        "won": 97
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.933333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 784,
+                        "key": 5,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 49,
+                        "blocks": null,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 164,
+                        "won": 97
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 311067,
+                "name": "S. Castro",
+                "firstname": "Santiago Thomas",
+                "lastname": "Castro",
+                "age": 19,
+                "birth": {
+                    "date": "2004-09-18",
+                    "place": "San Mart\u00edn",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/311067.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 8,
+                        "minutes": 819,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.617391",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 6,
+                        "bench": 28
+                    },
+                    "shots": {
+                        "total": 34,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 207,
+                        "key": 8,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 185,
+                        "won": 82
+                    },
+                    "dribbles": {
+                        "attempts": 28,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11405,
+                "name": "W. Bou",
+                "firstname": "Walter Ariel",
+                "lastname": "Bou",
+                "age": 30,
+                "birth": {
+                    "date": "1993-08-25",
+                    "place": "Concordia",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "174 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11405.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 13,
+                        "minutes": 1075,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.842105",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 12,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 35,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 555,
+                        "key": 20,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 1,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 233,
+                        "won": 112
+                    },
+                    "dribbles": {
+                        "attempts": 76,
+                        "success": 47,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6161,
+                "name": "L. Janson",
+                "firstname": "Lucas Ezequiel",
+                "lastname": "Janson",
+                "age": 29,
+                "birth": {
+                    "date": "1994-08-16",
+                    "place": "Olavarr\u00eda",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "171 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6161.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 39,
+                        "lineups": 31,
+                        "minutes": 2891,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.008108",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 10,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 60,
+                        "on": 30
+                    },
+                    "goals": {
+                        "total": 11,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1080,
+                        "key": 51,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 1,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 345,
+                        "won": 167
+                    },
+                    "dribbles": {
+                        "attempts": 95,
+                        "success": 38,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 63,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 3,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6014,
+                "name": "L. Pratto",
+                "firstname": "Lucas David",
+                "lastname": "Pratto",
+                "age": 35,
+                "birth": {
+                    "date": "1988-06-04",
+                    "place": "La Plata",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "188 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/6014.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 23,
+                        "minutes": 2090,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.818750",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 14,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 33,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 656,
+                        "key": 29,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 3,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 299,
+                        "won": 137
+                    },
+                    "dribbles": {
+                        "attempts": 36,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 292170,
+                "name": "L. Lobato",
+                "firstname": "Lenny Ivo",
+                "lastname": "Lobato Romanelli",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-03",
+                    "place": "Buzios",
+                    "country": "Brazil"
+                },
+                "nationality": "Argentina",
+                "height": "174 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/292170.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 19,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 6,
+                        "key": 1,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 354232,
+                "name": "J. Fern\u00e1ndez",
+                "firstname": "Juli\u00e1n",
+                "lastname": "Fern\u00e1ndez",
+                "age": 19,
+                "birth": {
+                    "date": "2004-01-30",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/354232.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 17,
+                        "minutes": 1445,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.674193",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 17,
+                        "out": 17,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 458,
+                        "key": 27,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 28,
+                        "blocks": 2,
+                        "interceptions": 20
+                    },
+                    "duels": {
+                        "total": 227,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 67,
+                        "success": 33,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 358600,
+                "name": "A. Osorio",
+                "firstname": "Abiel Alesio",
+                "lastname": "Osorio",
+                "age": 21,
+                "birth": {
+                    "date": "2002-06-13",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/358600.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 14,
+                        "minutes": 1405,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.707407",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 11,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 36,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 279,
+                        "key": 11,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 2,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 250,
+                        "won": 105
+                    },
+                    "dribbles": {
+                        "attempts": 32,
+                        "success": 16,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 29,
+                        "committed": 30
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 357139,
+                "name": "M. Seoane",
+                "firstname": "Mateo",
+                "lastname": "Seoane",
+                "age": 19,
+                "birth": {
+                    "date": "2004-02-09",
+                    "place": "Vicente L\u00f3pez",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/357139.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 7,
+                        "minutes": 611,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.733333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 4,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 357,
+                        "key": 3,
+                        "accuracy": 34
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": null,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 61,
+                        "won": 29
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 362753,
+                "name": "E. Cabrera",
+                "firstname": "El\u00edas Lautaro",
+                "lastname": "Cabrera",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-25",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "172 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/362753.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 4,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 362755,
+                "name": "G. Prestianni",
+                "firstname": "Gianluca",
+                "lastname": "Prestianni Gross",
+                "age": 17,
+                "birth": {
+                    "date": "2006-01-31",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "165 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/362755.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 1,
+                        "minutes": 108,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.466666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 32,
+                        "key": 2,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 20,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 292172,
+                "name": "M. Pellegrino",
+                "firstname": "Mateo",
+                "lastname": "Pellegrino Casalanguila",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-01",
+                    "place": "Valencia",
+                    "country": "Spain"
+                },
+                "nationality": "Argentina",
+                "height": "192 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/292172.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 4,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 32,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 31,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 362745,
+                "name": "L. Escobar",
+                "firstname": "Lucas Nahuel",
+                "lastname": "Escobar",
+                "age": 21,
+                "birth": {
+                    "date": "2002-05-16",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "185 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/362745.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 438,
+                        "name": "Velez Sarsfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "40",
+        "team": "75",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 20061,
+                "name": "J. Thompson",
+                "firstname": "Jordan Andrew",
+                "lastname": "Thompson",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-03",
+                    "place": "Belfast",
+                    "country": "Northern Ireland"
+                },
+                "nationality": "Northern Ireland",
+                "height": "175 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/20061.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-1.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 19,
+                        "minutes": 1808,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.803125",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 7,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 784,
+                        "key": 25,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 43,
+                        "blocks": 8,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 181,
+                        "won": 102
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 33,
+                        "committed": 35
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19454,
+                "name": "B. Pearson",
+                "firstname": "Benjamin David",
+                "lastname": "Pearson",
+                "age": 28,
+                "birth": {
+                    "date": "1995-01-04",
+                    "place": "Oldham",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "176 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/19454.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-3.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 14,
+                        "minutes": 1175,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.800000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 7,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 610,
+                        "key": 6,
+                        "accuracy": 39
+                    },
+                    "tackles": {
+                        "total": 24,
+                        "blocks": 1,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 103,
+                        "won": 47
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19334,
+                "name": "B. Celina",
+                "firstname": "Bersant",
+                "lastname": "Celina",
+                "age": 27,
+                "birth": {
+                    "date": "1996-09-09",
+                    "place": "Prizren",
+                    "country": "Kosovo"
+                },
+                "nationality": "Kosovo",
+                "height": "181 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/19334.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-3.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 3,
+                        "minutes": 263,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 2,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 144,
+                        "key": 4,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 26,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19562,
+                "name": "N. Powell",
+                "firstname": "Nick",
+                "lastname": "Powell",
+                "age": 29,
+                "birth": {
+                    "date": "1994-03-23",
+                    "place": "Crewe",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "183 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/19562.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-1.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 9,
+                        "minutes": 1042,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.687500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 7,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 372,
+                        "key": 12,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 209,
+                        "won": 91
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20303,
+                "name": "J. Laurent",
+                "firstname": "Josh",
+                "lastname": "Laurent",
+                "age": 28,
+                "birth": {
+                    "date": "1995-05-06",
+                    "place": "London",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "183 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/20303.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-3.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 29,
+                        "minutes": 2626,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.954838",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 6,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1064,
+                        "key": 24,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 53,
+                        "blocks": 5,
+                        "interceptions": 44
+                    },
+                    "duels": {
+                        "total": 341,
+                        "won": 168
+                    },
+                    "dribbles": {
+                        "attempts": 67,
+                        "success": 34,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 32,
+                        "committed": 47
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 342438,
+                "name": "B. Kershaw",
+                "firstname": "Ben",
+                "lastname": "Kershaw",
+                "age": 20,
+                "birth": {
+                    "date": "2003-10-23",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/342438.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-3.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 284394,
+                "name": "K. Reddin",
+                "firstname": "Kahrel Azariah",
+                "lastname": "Reddin",
+                "age": 19,
+                "birth": {
+                    "date": "2004-01-13",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/284394.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-1.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 298125,
+                "name": "G. Adebambo",
+                "firstname": "Oluwaseun Mobolaji Gabriel",
+                "lastname": "Adebambo",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-27",
+                    "place": "Dublin",
+                    "country": "Republic of Ireland"
+                },
+                "nationality": "Republic of Ireland",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/298125.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-3.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19802,
+                "name": "J. Brown",
+                "firstname": "Jacob Samuel",
+                "lastname": "Brown",
+                "age": 25,
+                "birth": {
+                    "date": "1998-04-10",
+                    "place": "Halifax",
+                    "country": "England"
+                },
+                "nationality": "Scotland",
+                "height": "178 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/19802.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-3.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 38,
+                        "lineups": 30,
+                        "minutes": 2766,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.686486",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 6,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 50,
+                        "on": 30
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 641,
+                        "key": 26,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 48,
+                        "blocks": 4,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 598,
+                        "won": 243
+                    },
+                    "dribbles": {
+                        "attempts": 52,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 58,
+                        "committed": 52
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20310,
+                "name": "T. Campbell",
+                "firstname": "Tyrese",
+                "lastname": "Campbell",
+                "age": 24,
+                "birth": {
+                    "date": "1999-12-28",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/20310.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-3.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 41,
+                        "lineups": 30,
+                        "minutes": 2659,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.692500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 15,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 59,
+                        "on": 36
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 614,
+                        "key": 29,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 2,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 302,
+                        "won": 108
+                    },
+                    "dribbles": {
+                        "attempts": 91,
+                        "success": 31,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19166,
+                "name": "D. Gayle",
+                "firstname": "Dwight",
+                "lastname": "Gayle",
+                "age": 34,
+                "birth": {
+                    "date": "1989-10-17",
+                    "place": "London",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "174 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/19166.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-3.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 31,
+                        "minutes": 2407,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.750000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 27,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 33,
+                        "on": 17
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 547,
+                        "key": 32,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 1,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 261,
+                        "won": 103
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 38,
+                        "committed": 48
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 284206,
+                "name": "E. Tezgel",
+                "firstname": "Emre",
+                "lastname": "Tezgel",
+                "age": 18,
+                "birth": {
+                    "date": "2005-09-19",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/284206.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-3.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 28,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.366666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 9,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 351338,
+                "name": "N. Lowe",
+                "firstname": "Nathan",
+                "lastname": "Lowe",
+                "age": 18,
+                "birth": {
+                    "date": "2005-09-26",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "190 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/351338.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-3.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 292352,
+                "name": "J. Holland-Wilkinson",
+                "firstname": "Jacob",
+                "lastname": "Holland-Wilkinson",
+                "age": 21,
+                "birth": {
+                    "date": "2002-10-30",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/292352.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-1.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19230,
+                "name": "A. Flint",
+                "firstname": "Aden",
+                "lastname": "Flint",
+                "age": 34,
+                "birth": {
+                    "date": "1989-07-11",
+                    "place": "Birmingham",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "189 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/19230.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-1.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 9,
+                        "minutes": 810,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.977777",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 427,
+                        "key": 4,
+                        "accuracy": 34
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 14,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 72,
+                        "won": 51
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 138836,
+                "name": "H. Clarke",
+                "firstname": "Harrison Thomas",
+                "lastname": "Clarke",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-02",
+                    "place": "Ipswich",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "180 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/138836.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-2.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 9,
+                        "minutes": 976,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 0,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 340,
+                        "key": 10,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 4,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 152,
+                        "won": 73
+                    },
+                    "dribbles": {
+                        "attempts": 28,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 161948,
+                "name": "L. Delap",
+                "firstname": "Liam Rory",
+                "lastname": "Delap",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-08",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/161948.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-2.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 14,
+                        "minutes": 1258,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.406666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 8,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 81,
+                        "key": 4,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 101,
+                        "won": 28
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 130416,
+                "name": "G. Kilkenny",
+                "firstname": "Gavin",
+                "lastname": "Kilkenny",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-01",
+                    "place": "Dublin",
+                    "country": "Republic of Ireland"
+                },
+                "nationality": "Republic of Ireland",
+                "height": "170 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/130416.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-1.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 1,
+                        "minutes": 94,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.166666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 48,
+                        "key": 3,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 13,
+                        "won": 9
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 389040,
+                "name": "M. Baker",
+                "firstname": "Matthew",
+                "lastname": "Baker",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-06",
+                    "place": null,
+                    "country": "Wales"
+                },
+                "nationality": "Wales",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/389040.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-2.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 265712,
+                "name": "B. Noukeu",
+                "firstname": "Blondy Rudolph",
+                "lastname": "Nna Noukeu",
+                "age": 22,
+                "birth": {
+                    "date": "2001-05-31",
+                    "place": null,
+                    "country": "Cameroon"
+                },
+                "nationality": "Cameroon",
+                "height": "184 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/265712.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 75,
+                        "name": "Stoke City",
+                        "logo": "https://media-2.api-sports.io/football/teams/75.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

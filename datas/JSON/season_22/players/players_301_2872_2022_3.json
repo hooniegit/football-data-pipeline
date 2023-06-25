@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "301",
+        "team": "2872",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 50547,
+                "name": "Khaled Al Senani",
+                "firstname": "Khaled Saif",
+                "lastname": "Hamad Ali Al Senani",
+                "age": 34,
+                "birth": {
+                    "date": "1989-10-04",
+                    "place": null,
+                    "country": "United Arab Emirates"
+                },
+                "nationality": "United Arab Emirates",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/50547.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2872,
+                        "name": "Al-Wasl FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/2872.png"
+                    },
+                    "league": {
+                        "id": 301,
+                        "name": "Pro League",
+                        "country": "United-Arab-Emirates",
+                        "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                        "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 26,
+                        "minutes": 2340,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50511,
+                "name": "Yousif Ali Almheiri",
+                "firstname": "Yousif Ali Bakhit",
+                "lastname": "Nasir Almheiri",
+                "age": 24,
+                "birth": {
+                    "date": "1999-11-30",
+                    "place": null,
+                    "country": "United Arab Emirates"
+                },
+                "nationality": "United Arab Emirates",
+                "height": "180 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/50511.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2872,
+                        "name": "Al-Wasl FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/2872.png"
+                    },
+                    "league": {
+                        "id": 301,
+                        "name": "Pro League",
+                        "country": "United-Arab-Emirates",
+                        "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                        "flag": "https://media-2.api-sports.io/flags/ae.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 6,
+                        "minutes": 471,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 4,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50537,
+                "name": "F\u00e1bio Lima",
+                "firstname": "F\u00e1bio",
+                "lastname": "Virginio de Lima",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-30",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "United Arab Emirates",
+                "height": "177 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/50537.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2872,
+                        "name": "Al-Wasl FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/2872.png"
+                    },
+                    "league": {
+                        "id": 301,
+                        "name": "Pro League",
+                        "country": "United-Arab-Emirates",
+                        "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                        "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 25,
+                        "minutes": 2214,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 19,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10041,
+                "name": "Gilberto",
+                "firstname": "Gilberto",
+                "lastname": "Oliveira Souza J\u00fanior",
+                "age": 34,
+                "birth": {
+                    "date": "1989-06-05",
+                    "place": "Piranhas",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "178 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/10041.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2872,
+                        "name": "Al-Wasl FC",
+                        "logo": "https://media-2.api-sports.io/football/teams/2872.png"
+                    },
+                    "league": {
+                        "id": 301,
+                        "name": "Pro League",
+                        "country": "United-Arab-Emirates",
+                        "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                        "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 10,
+                        "minutes": 824,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

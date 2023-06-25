@@ -1,0 +1,872 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "71",
+        "team": "120",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 9,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 390,
+                "name": "Tiquinho Soares",
+                "firstname": "Francisco",
+                "lastname": "das Chagas Soares dos Santos",
+                "age": 32,
+                "birth": {
+                    "date": "1991-01-17",
+                    "place": "Sousa",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "187 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/390.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 120,
+                        "name": "Botafogo",
+                        "logo": "https://media-3.api-sports.io/football/teams/120.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 14,
+                        "minutes": 1239,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.135714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 37,
+                        "on": 21
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 336,
+                        "key": 10,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 212,
+                        "won": 102
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 41,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 41311,
+                "name": "Gustavo Sauer",
+                "firstname": "Gustavo",
+                "lastname": "Affonso Sauerbeck",
+                "age": 30,
+                "birth": {
+                    "date": "1993-04-30",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "181 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/41311.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 120,
+                        "name": "Botafogo",
+                        "logo": "https://media-3.api-sports.io/football/teams/120.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 4,
+                        "minutes": 285,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.650000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 4,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 73,
+                        "key": 4,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 35,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10077,
+                "name": "Luis Henrique",
+                "firstname": "Luis Henrique",
+                "lastname": "Tomaz de Lima",
+                "age": 22,
+                "birth": {
+                    "date": "2001-12-14",
+                    "place": "Jo\u00e3o Pessoa",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "181 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/10077.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 120,
+                        "name": "Botafogo",
+                        "logo": "https://media-1.api-sports.io/football/teams/120.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 1,
+                        "minutes": 257,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.580000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 1,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 100,
+                        "key": 3,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 27,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10432,
+                "name": "J\u00fanior Santos",
+                "firstname": "Jos\u00e9 Antonio",
+                "lastname": "dos Santos Junior",
+                "age": 29,
+                "birth": {
+                    "date": "1994-10-11",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "188 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/10432.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 120,
+                        "name": "Botafogo",
+                        "logo": "https://media-2.api-sports.io/football/teams/120.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 14,
+                        "minutes": 1080,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.673333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 10,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 272,
+                        "key": 12,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 147,
+                        "won": 63
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 16,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 269441,
+                "name": "Matheus Nascimento",
+                "firstname": "Matheus",
+                "lastname": "Nascimento de Paula",
+                "age": 19,
+                "birth": {
+                    "date": "2004-03-03",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "182 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/269441.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 120,
+                        "name": "Botafogo",
+                        "logo": "https://media-1.api-sports.io/football/teams/120.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 4,
+                        "minutes": 597,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.533333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 19,
+                        "out": 3,
+                        "bench": 27
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 107,
+                        "key": 8,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 89,
+                        "won": 31
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2470,
+                "name": "R. Saravia",
+                "firstname": "Renzo",
+                "lastname": "Saravia",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-16",
+                    "place": "Villa Mar\u00eda",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "176 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2470.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 120,
+                        "name": "Botafogo",
+                        "logo": "https://media-1.api-sports.io/football/teams/120.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 22,
+                        "minutes": 1820,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.619047",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 9,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 626,
+                        "key": 13,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 49,
+                        "blocks": 3,
+                        "interceptions": 27
+                    },
+                    "duels": {
+                        "total": 274,
+                        "won": 132
+                    },
+                    "dribbles": {
+                        "attempts": 57,
+                        "success": 23,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 38,
+                        "committed": 32
+                    },
+                    "cards": {
+                        "yellow": 10,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 195985,
+                "name": "Erison",
+                "firstname": "Erison Danilo",
+                "lastname": "de Souza",
+                "age": 24,
+                "birth": {
+                    "date": "1999-04-13",
+                    "place": "Campinas",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/195985.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 120,
+                        "name": "Botafogo",
+                        "logo": "https://media-1.api-sports.io/football/teams/120.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 17,
+                        "minutes": 1488,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.768750",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 9,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 28,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 145,
+                        "key": 14,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 188,
+                        "won": 57
+                    },
+                    "dribbles": {
+                        "attempts": 33,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10059,
+                "name": "Kanu",
+                "firstname": "Victor Hugo",
+                "lastname": "Soares dos Santos",
+                "age": 26,
+                "birth": {
+                    "date": "1997-03-07",
+                    "place": "Duque de Caxias",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "186 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/10059.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 120,
+                        "name": "Botafogo",
+                        "logo": "https://media-1.api-sports.io/football/teams/120.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 16,
+                        "minutes": 1447,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.887500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 3,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 593,
+                        "key": 1,
+                        "accuracy": 34
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 11,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 103,
+                        "won": 64
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 9296,
+                "name": "Diego Gon\u00e7alves",
+                "firstname": "Diego",
+                "lastname": "Gon\u00e7alves",
+                "age": 29,
+                "birth": {
+                    "date": "1994-09-22",
+                    "place": "Guaruj\u00e1",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "181 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/9296.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 120,
+                        "name": "Botafogo",
+                        "logo": "https://media-1.api-sports.io/football/teams/120.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 4,
+                        "minutes": 423,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.571428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 4,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 111,
+                        "key": 4,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 51,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

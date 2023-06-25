@@ -1,0 +1,777 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "218",
+        "team": "571",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 8,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 48389,
+                "name": "N. Okafor",
+                "firstname": "Noah Arinzechukwu",
+                "lastname": "Okafor",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-24",
+                    "place": "Binningen",
+                    "country": "Switzerland"
+                },
+                "nationality": "Switzerland",
+                "height": "185 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/48389.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 571,
+                        "name": "Red Bull Salzburg",
+                        "logo": "https://media-3.api-sports.io/football/teams/571.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-2.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-3.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 11,
+                        "minutes": 1002,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.961904",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 12,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 234,
+                        "key": 27,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 119,
+                        "won": 43
+                    },
+                    "dribbles": {
+                        "attempts": 44,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 119762,
+                "name": "K. Pi\u0105tkowski",
+                "firstname": "Kamil",
+                "lastname": "Pi\u0105tkowski",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-21",
+                    "place": "Jas\u0142o",
+                    "country": "Poland"
+                },
+                "nationality": "Poland",
+                "height": "191 cm",
+                "weight": "87 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/119762.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 571,
+                        "name": "Red Bull Salzburg",
+                        "logo": "https://media-1.api-sports.io/football/teams/571.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-1.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-2.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 2,
+                        "minutes": 224,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 162,
+                        "key": null,
+                        "accuracy": 44
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 2,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 30,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 45826,
+                "name": "S. Pavlovi\u0107",
+                "firstname": "Strahinja",
+                "lastname": "Pavlovi\u0107",
+                "age": 22,
+                "birth": {
+                    "date": "2001-05-24",
+                    "place": "\u0160abac",
+                    "country": "Yugoslavia"
+                },
+                "nationality": "Serbia",
+                "height": "194 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/45826.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 571,
+                        "name": "Red Bull Salzburg",
+                        "logo": "https://media-3.api-sports.io/football/teams/571.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-3.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-3.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 23,
+                        "minutes": 2029,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.129166",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1367,
+                        "key": 10,
+                        "accuracy": 43
+                    },
+                    "tackles": {
+                        "total": 47,
+                        "blocks": 8,
+                        "interceptions": 38
+                    },
+                    "duels": {
+                        "total": 287,
+                        "won": 187
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 30,
+                        "committed": 32
+                    },
+                    "cards": {
+                        "yellow": 10,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 7754,
+                "name": "M. Camara",
+                "firstname": "Mohamed",
+                "lastname": "Camara",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-06",
+                    "place": "Bamako",
+                    "country": "Mali"
+                },
+                "nationality": "Mali",
+                "height": "174 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/7754.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 571,
+                        "name": "Red Bull Salzburg",
+                        "logo": "https://media-1.api-sports.io/football/teams/571.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-2.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-2.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 129119,
+                "name": "I. Van der Brempt",
+                "firstname": "Ignace",
+                "lastname": "Van der Brempt",
+                "age": 21,
+                "birth": {
+                    "date": "2002-04-01",
+                    "place": "Antwerpen",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "187 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/129119.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 571,
+                        "name": "Red Bull Salzburg",
+                        "logo": "https://media-3.api-sports.io/football/teams/571.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-2.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-1.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 6,
+                        "minutes": 615,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.833333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 1,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 256,
+                        "key": 3,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 6,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 89,
+                        "won": 55
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 271066,
+                "name": "R. \u0160imi\u0107",
+                "firstname": "Roko",
+                "lastname": "\u0160imi\u0107",
+                "age": 20,
+                "birth": {
+                    "date": "2003-09-10",
+                    "place": "Milano",
+                    "country": "Italy"
+                },
+                "nationality": "Croatia",
+                "height": "190 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/271066.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 571,
+                        "name": "Red Bull Salzburg",
+                        "logo": "https://media-1.api-sports.io/football/teams/571.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-3.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-3.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 3,
+                        "minutes": 316,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.587500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 1,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 64,
+                        "key": 9,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 41,
+                        "won": 17
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 26507,
+                "name": "N. Mantl",
+                "firstname": "Nico",
+                "lastname": "Mantl",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-06",
+                    "place": "M\u00fcnchen",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "193 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/26507.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 571,
+                        "name": "Red Bull Salzburg",
+                        "logo": "https://media-3.api-sports.io/football/teams/571.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-3.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-3.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 329715,
+                "name": "O. Gloukh",
+                "firstname": "Oscar",
+                "lastname": "Gloukh",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-01",
+                    "place": "Rehovot",
+                    "country": "Israel"
+                },
+                "nationality": "Israel",
+                "height": "170 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/329715.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 571,
+                        "name": "Red Bull Salzburg",
+                        "logo": "https://media-2.api-sports.io/football/teams/571.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-3.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-2.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 8,
+                        "minutes": 775,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.813333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 6,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 318,
+                        "key": 19,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 103,
+                        "won": 47
+                    },
+                    "dribbles": {
+                        "attempts": 48,
+                        "success": 27,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

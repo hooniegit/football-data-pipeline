@@ -1,0 +1,946 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "203",
+        "team": "998",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 9,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 70524,
+                "name": "H. Ye\u015fil",
+                "firstname": "Hakan",
+                "lastname": "Ye\u015fil",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-01",
+                    "place": "Diyarbak\u0131r",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "181 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/70524.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 998,
+                        "name": "Trabzonspor",
+                        "logo": "https://media-3.api-sports.io/football/teams/998.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 286543,
+                "name": "K. \u015een",
+                "firstname": "Kerem",
+                "lastname": "\u015een",
+                "age": 21,
+                "birth": {
+                    "date": "2002-06-14",
+                    "place": "Bursa",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "177 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/286543.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 998,
+                        "name": "Trabzonspor",
+                        "logo": "https://media-3.api-sports.io/football/teams/998.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.514285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 84,
+                        "key": 3,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 45,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 607,
+                "name": "A. Bakasetas",
+                "firstname": "Anastasios",
+                "lastname": "Bakasetas",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-28",
+                    "place": "Korinth",
+                    "country": "Greece"
+                },
+                "nationality": "Greece",
+                "height": "181 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/607.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 998,
+                        "name": "Trabzonspor",
+                        "logo": "https://media-2.api-sports.io/football/teams/998.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 26,
+                        "minutes": 2108,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 11,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 51,
+                        "on": 27
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1405,
+                        "key": 60,
+                        "accuracy": 43
+                    },
+                    "tackles": {
+                        "total": 50,
+                        "blocks": 2,
+                        "interceptions": 22
+                    },
+                    "duels": {
+                        "total": 242,
+                        "won": 131
+                    },
+                    "dribbles": {
+                        "attempts": 33,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 47,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 5,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56114,
+                "name": "E. Siopis",
+                "firstname": "Emmanouil",
+                "lastname": "Siopis",
+                "age": 29,
+                "birth": {
+                    "date": "1994-05-14",
+                    "place": "Alexandroupoli",
+                    "country": "Greece"
+                },
+                "nationality": "Greece",
+                "height": "168 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/56114.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 998,
+                        "name": "Trabzonspor",
+                        "logo": "https://media-2.api-sports.io/football/teams/998.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 26,
+                        "minutes": 2075,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.846666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 14,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1243,
+                        "key": 16,
+                        "accuracy": 36
+                    },
+                    "tackles": {
+                        "total": 46,
+                        "blocks": 1,
+                        "interceptions": 20
+                    },
+                    "duels": {
+                        "total": 261,
+                        "won": 154
+                    },
+                    "dribbles": {
+                        "attempts": 38,
+                        "success": 30,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 55,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2664,
+                "name": "Tr\u00e9z\u00e9guet",
+                "firstname": "Mahmoud Ahmed Ibrahim",
+                "lastname": "Hassan",
+                "age": 29,
+                "birth": {
+                    "date": "1994-10-01",
+                    "place": "Kafr el-Sheikh",
+                    "country": "Egypt"
+                },
+                "nationality": "Egypt",
+                "height": "180 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2664.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 998,
+                        "name": "Trabzonspor",
+                        "logo": "https://media-3.api-sports.io/football/teams/998.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 24,
+                        "minutes": 2133,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.064285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 11,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 65,
+                        "on": 37
+                    },
+                    "goals": {
+                        "total": 11,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 805,
+                        "key": 41,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 44,
+                        "blocks": 1,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 292,
+                        "won": 131
+                    },
+                    "dribbles": {
+                        "attempts": 91,
+                        "success": 31,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 43,
+                        "committed": 28
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 47461,
+                "name": "E. Bardhi",
+                "firstname": "Enis",
+                "lastname": "Bardhi",
+                "age": 28,
+                "birth": {
+                    "date": "1995-07-02",
+                    "place": "Skopje",
+                    "country": "North Macedonia"
+                },
+                "nationality": "North Macedonia",
+                "height": "172 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/47461.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 998,
+                        "name": "Trabzonspor",
+                        "logo": "https://media-1.api-sports.io/football/teams/998.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 12,
+                        "minutes": 1326,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.876666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 18,
+                        "out": 9,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 32,
+                        "on": 20
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 632,
+                        "key": 31,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 163,
+                        "won": 76
+                    },
+                    "dribbles": {
+                        "attempts": 38,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 33
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1274,
+                "name": "A. Cornelius",
+                "firstname": "Andreas Evald",
+                "lastname": "Cornelius",
+                "age": 30,
+                "birth": {
+                    "date": "1993-03-16",
+                    "place": "K\u00f8benhavn",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "193 cm",
+                "weight": "91 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/1274.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 998,
+                        "name": "Trabzonspor",
+                        "logo": "https://media-1.api-sports.io/football/teams/998.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 4,
+                        "minutes": 345,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.975000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 78,
+                        "key": 3,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 49,
+                        "won": 24
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13065,
+                "name": "J. Kouassi",
+                "firstname": "Jean Evrard",
+                "lastname": "Kouassi",
+                "age": 29,
+                "birth": {
+                    "date": "1994-09-25",
+                    "place": "N'Damien",
+                    "country": "C\u00f4te d'Ivoire"
+                },
+                "nationality": "C\u00f4te d'Ivoire",
+                "height": "180 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/13065.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 998,
+                        "name": "Trabzonspor",
+                        "logo": "https://media-3.api-sports.io/football/teams/998.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.766666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 172,
+                        "key": 3,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 89,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 998,
+                        "name": "Trabzonspor",
+                        "logo": "https://media-3.api-sports.io/football/teams/998.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 0,
+                        "minutes": 110,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.766666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 172,
+                        "key": 3,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 89,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30398,
+                "name": "Vitor Hugo",
+                "firstname": "Vitor Hugo",
+                "lastname": "Franchescoli de Souza",
+                "age": 32,
+                "birth": {
+                    "date": "1991-05-20",
+                    "place": "Curitiba",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "187 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/30398.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 998,
+                        "name": "Trabzonspor",
+                        "logo": "https://media-2.api-sports.io/football/teams/998.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 19,
+                        "minutes": 1587,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.945000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1021,
+                        "key": 2,
+                        "accuracy": 46
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 16,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 111,
+                        "won": 68
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "218",
+        "team": "1399",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 7277,
+                "name": "M. Cheukoua",
+                "firstname": "Michael",
+                "lastname": "Cheukoua",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-13",
+                    "place": null,
+                    "country": "Cameroon"
+                },
+                "nationality": "Cameroon",
+                "height": "181 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/7277.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1399,
+                        "name": "Austria Lustenau",
+                        "logo": "https://media-3.api-sports.io/football/teams/1399.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-1.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-1.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 4,
+                        "minutes": 599,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.622222",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 4,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 127,
+                        "key": 4,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 122,
+                        "won": 62
+                    },
+                    "dribbles": {
+                        "attempts": 37,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 319858,
+                "name": "H. Koudossou",
+                "firstname": "Henri",
+                "lastname": "Koudossou",
+                "age": 24,
+                "birth": {
+                    "date": "1999-09-03",
+                    "place": "M\u00fcnchen",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/319858.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1399,
+                        "name": "Austria Lustenau",
+                        "logo": "https://media-1.api-sports.io/football/teams/1399.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-3.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-3.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 2,
+                        "minutes": 194,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.480000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 2,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 60,
+                        "key": null,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 30,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 178130,
+                "name": "A. Schmid",
+                "firstname": "Anthony",
+                "lastname": "Schmid",
+                "age": 24,
+                "birth": {
+                    "date": "1999-01-18",
+                    "place": "Strasbourg",
+                    "country": "France"
+                },
+                "nationality": "Austria",
+                "height": "183 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/178130.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1399,
+                        "name": "Austria Lustenau",
+                        "logo": "https://media-2.api-sports.io/football/teams/1399.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-1.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-2.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 8,
+                        "minutes": 883,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.592000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 19,
+                        "out": 6,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 16,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 96,
+                        "key": 6,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 119,
+                        "won": 48
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 25,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 78321,
+                "name": "L. Fridrikas",
+                "firstname": "Lukas",
+                "lastname": "Fridrikas",
+                "age": 26,
+                "birth": {
+                    "date": "1997-12-30",
+                    "place": null,
+                    "country": "Austria"
+                },
+                "nationality": "Austria",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/78321.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1399,
+                        "name": "Austria Lustenau",
+                        "logo": "https://media-3.api-sports.io/football/teams/1399.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-3.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-3.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 25,
+                        "minutes": 2216,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 19,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 15,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 993,
+                "name": "H. Guenouche",
+                "firstname": "Hakim",
+                "lastname": "Guenouche",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-30",
+                    "place": "Nancy",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "168 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/993.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1399,
+                        "name": "Austria Lustenau",
+                        "logo": "https://media-2.api-sports.io/football/teams/1399.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-3.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-1.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 27,
+                        "minutes": 2265,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.803448",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 15,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 879,
+                        "key": 20,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 60,
+                        "blocks": 7,
+                        "interceptions": 64
+                    },
+                    "duels": {
+                        "total": 308,
+                        "won": 162
+                    },
+                    "dribbles": {
+                        "attempts": 62,
+                        "success": 34,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 42,
+                        "committed": 37
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 322970,
+                "name": "H. K\u00fcng",
+                "firstname": "Hannes",
+                "lastname": "K\u00fcng",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-02",
+                    "place": null,
+                    "country": "Austria"
+                },
+                "nationality": "Austria",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/322970.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1399,
+                        "name": "Austria Lustenau",
+                        "logo": "https://media-2.api-sports.io/football/teams/1399.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-3.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-3.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 109265,
+                "name": "Adriel",
+                "firstname": "Adriel Tadeu",
+                "lastname": "Ferreira da Silva",
+                "age": 26,
+                "birth": {
+                    "date": "1997-05-22",
+                    "place": "S\u00e3o Paulo",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "184 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/109265.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1399,
+                        "name": "Austria Lustenau",
+                        "logo": "https://media-1.api-sports.io/football/teams/1399.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-3.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-1.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 10,
+                        "minutes": 970,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.666666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 5,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 444,
+                        "key": 3,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": 3,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 107,
+                        "won": 65
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 7133,
+                "name": "D. Tiefenbach",
+                "firstname": "Daniel",
+                "lastname": "Tiefenbach",
+                "age": 24,
+                "birth": {
+                    "date": "1999-08-10",
+                    "place": null,
+                    "country": "Hungary"
+                },
+                "nationality": "Hungary",
+                "height": "184 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/7133.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1399,
+                        "name": "Austria Lustenau",
+                        "logo": "https://media-2.api-sports.io/football/teams/1399.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-2.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-3.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 11,
+                        "minutes": 963,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.707142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 9,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 317,
+                        "key": 4,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 24,
+                        "blocks": 1,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 79,
+                        "won": 45
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20786,
+                "name": "Bryan Teixeira",
+                "firstname": "Bryan",
+                "lastname": "Silva Teixeira Jr.",
+                "age": 23,
+                "birth": {
+                    "date": "2000-09-01",
+                    "place": "Melun",
+                    "country": "France"
+                },
+                "nationality": "Cape Verde",
+                "height": "174 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/20786.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1399,
+                        "name": "Austria Lustenau",
+                        "logo": "https://media-2.api-sports.io/football/teams/1399.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-2.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-3.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 15,
+                        "minutes": 1335,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.006250",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 6,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 308,
+                        "key": 19,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": null,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 189,
+                        "won": 92
+                    },
+                    "dribbles": {
+                        "attempts": 76,
+                        "success": 33,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 174783,
+                "name": "Y. Diaby",
+                "firstname": "Yadaly",
+                "lastname": "Diaby",
+                "age": 23,
+                "birth": {
+                    "date": "2000-08-09",
+                    "place": "Saint-Pierre",
+                    "country": "France"
+                },
+                "nationality": "Guinea",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/174783.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1399,
+                        "name": "Austria Lustenau",
+                        "logo": "https://media-3.api-sports.io/football/teams/1399.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-2.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-3.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 15,
+                        "minutes": 1353,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.795833",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 13,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 328,
+                        "key": 10,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": null,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 228,
+                        "won": 115
+                    },
+                    "dribbles": {
+                        "attempts": 66,
+                        "success": 37,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 26,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1062 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "128",
+        "team": "452",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 11,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 130010,
+                "name": "A. Baldi",
+                "firstname": "Agust\u00edn",
+                "lastname": "Baldi",
+                "age": 21,
+                "birth": {
+                    "date": "2002-05-11",
+                    "place": "San Carlos de Bariloche",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "188 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/130010.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 452,
+                        "name": "Tigre",
+                        "logo": "https://media-2.api-sports.io/football/teams/452.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 1,
+                        "minutes": 300,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.446666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 19,
+                        "out": 0,
+                        "bench": 41
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 118,
+                        "key": 1,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 52,
+                        "won": 30
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 353507,
+                "name": "E. Forclaz",
+                "firstname": "Jorge Ezequiel",
+                "lastname": "Forclaz",
+                "age": 20,
+                "birth": {
+                    "date": "2003-04-03",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "175 cm",
+                "weight": "57 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/353507.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 452,
+                        "name": "Tigre",
+                        "logo": "https://media-1.api-sports.io/football/teams/452.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 0,
+                        "minutes": 47,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.233333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 0,
+                        "bench": 30
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 15,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 14,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5682,
+                "name": "C. Zabala",
+                "firstname": "Cristian Exequiel",
+                "lastname": "Zabala",
+                "age": 25,
+                "birth": {
+                    "date": "1998-03-04",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "187 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/5682.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 452,
+                        "name": "Tigre",
+                        "logo": "https://media-1.api-sports.io/football/teams/452.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 38,
+                        "lineups": 23,
+                        "minutes": 2019,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.757142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 21,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 932,
+                        "key": 29,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 4,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 212,
+                        "won": 112
+                    },
+                    "dribbles": {
+                        "attempts": 58,
+                        "success": 35,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 278604,
+                "name": "M. Caceres",
+                "firstname": "Mateo Valent\u00edn",
+                "lastname": "Caceres",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-25",
+                    "place": "Campana",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "169 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/278604.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 452,
+                        "name": "Tigre",
+                        "logo": "https://media-3.api-sports.io/football/teams/452.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 364513,
+                "name": "L. Scipioni",
+                "firstname": "Lorenzo",
+                "lastname": "Scipioni",
+                "age": 19,
+                "birth": {
+                    "date": "2004-11-24",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "179 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/364513.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 452,
+                        "name": "Tigre",
+                        "logo": "https://media-2.api-sports.io/football/teams/452.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5980,
+                "name": "A. Obando",
+                "firstname": "Javier Agust\u00edn",
+                "lastname": "Obando",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-11",
+                    "place": "Monte Caseros",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "172 cm",
+                "weight": "64 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/5980.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 452,
+                        "name": "Tigre",
+                        "logo": "https://media-2.api-sports.io/football/teams/452.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 4,
+                        "minutes": 578,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.676190",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 21,
+                        "out": 4,
+                        "bench": 33
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 177,
+                        "key": 18,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 1,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 62,
+                        "won": 30
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5534,
+                "name": "I. Protti",
+                "firstname": "Ijiel C\u00e9sar",
+                "lastname": "Protti",
+                "age": 28,
+                "birth": {
+                    "date": "1995-01-31",
+                    "place": "Arteaga",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "175 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/5534.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 452,
+                        "name": "Tigre",
+                        "logo": "https://media-3.api-sports.io/football/teams/452.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 39,
+                        "lineups": 23,
+                        "minutes": 2050,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.628571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 20,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 39,
+                        "on": 19
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 641,
+                        "key": 25,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 34,
+                        "blocks": null,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 302,
+                        "won": 147
+                    },
+                    "dribbles": {
+                        "attempts": 70,
+                        "success": 34,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 51,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 214,
+                "name": "F. Colidio",
+                "firstname": "Facundo",
+                "lastname": "Colidio",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-04",
+                    "place": "Rafaela",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "182 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/214.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 452,
+                        "name": "Tigre",
+                        "logo": "https://media-1.api-sports.io/football/teams/452.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 42,
+                        "lineups": 34,
+                        "minutes": 2892,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.923076",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 27,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 61,
+                        "on": 32
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 8,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 841,
+                        "key": 52,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 42,
+                        "blocks": 3,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 381,
+                        "won": 180
+                    },
+                    "dribbles": {
+                        "attempts": 99,
+                        "success": 38,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 63,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70841,
+                "name": "B. Armoa",
+                "firstname": "Blas Esteban",
+                "lastname": "Armoa N\u00fa\u00f1ez",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-03",
+                    "place": "Luque",
+                    "country": "Paraguay"
+                },
+                "nationality": "Paraguay",
+                "height": "171 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/70841.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 452,
+                        "name": "Tigre",
+                        "logo": "https://media-2.api-sports.io/football/teams/452.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 8,
+                        "minutes": 734,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.947368",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 8,
+                        "bench": 27
+                    },
+                    "shots": {
+                        "total": 23,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 162,
+                        "key": 15,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 57,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 278607,
+                "name": "G. Flores",
+                "firstname": "Gonzalo Nahuel",
+                "lastname": "Flores",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-22",
+                    "place": "Tigre",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/278607.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 452,
+                        "name": "Tigre",
+                        "logo": "https://media-3.api-sports.io/football/teams/452.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 0,
+                        "minutes": 46,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.625000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 0,
+                        "bench": 32
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 15,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6420,
+                "name": "M. Retegui",
+                "firstname": "Mateo",
+                "lastname": "Retegui",
+                "age": 24,
+                "birth": {
+                    "date": "1999-04-29",
+                    "place": "San Fernando",
+                    "country": "Argentina"
+                },
+                "nationality": "Italy",
+                "height": "186 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/6420.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 452,
+                        "name": "Tigre",
+                        "logo": "https://media-3.api-sports.io/football/teams/452.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 40,
+                        "lineups": 32,
+                        "minutes": 2860,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.164864",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 14,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 98,
+                        "on": 51
+                    },
+                    "goals": {
+                        "total": 22,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 576,
+                        "key": 33,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 3,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 358,
+                        "won": 149
+                    },
+                    "dribbles": {
+                        "attempts": 50,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 26,
+                        "committed": 33
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 7,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

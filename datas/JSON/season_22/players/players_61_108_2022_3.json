@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "61",
+        "team": "108",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 281323,
+                "name": "I. Metsoko",
+                "firstname": "Idjessi",
+                "lastname": "Metsoko",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-14",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/281323.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 108,
+                        "name": "Auxerre",
+                        "logo": "https://media-3.api-sports.io/football/teams/108.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1253,
+                "name": "B. Costil",
+                "firstname": "Beno\u00eet Guy",
+                "lastname": "Robert Costil",
+                "age": 36,
+                "birth": {
+                    "date": "1987-07-04",
+                    "place": "Caen",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "188 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/1253.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 108,
+                        "name": "Auxerre",
+                        "logo": "https://media-1.api-sports.io/football/teams/108.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 19,
+                        "minutes": 1710,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.631578",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 41,
+                        "assists": null,
+                        "saves": 55
+                    },
+                    "passes": {
+                        "total": 519,
+                        "key": null,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20563,
+                "name": "G. Charbonnier",
+                "firstname": "Ga\u00ebtan",
+                "lastname": "Charbonnier",
+                "age": 35,
+                "birth": {
+                    "date": "1988-12-27",
+                    "place": "Saint-Mand\u00e9",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "188 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/20563.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 108,
+                        "name": "Auxerre",
+                        "logo": "https://media-1.api-sports.io/football/teams/108.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 3,
+                        "minutes": 253,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.566666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 2,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 87,
+                        "key": 3,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 29,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 191392,
+                "name": "P. Joly",
+                "firstname": "Paul",
+                "lastname": "Joly",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-07",
+                    "place": "Orl\u00e9ans",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "182 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/191392.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 108,
+                        "name": "Auxerre",
+                        "logo": "https://media-1.api-sports.io/football/teams/108.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 10,
+                        "minutes": 867,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.850000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 534,
+                        "key": 7,
+                        "accuracy": 43
+                    },
+                    "tackles": {
+                        "total": 33,
+                        "blocks": 2,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 115,
+                        "won": 61
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

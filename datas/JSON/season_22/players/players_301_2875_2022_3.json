@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "301",
+        "team": "2875",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 134967,
+                "name": "Abdulla Hamad",
+                "firstname": "Abdulla Hamad Mohamed",
+                "lastname": "Salmeen Al Menhali",
+                "age": 22,
+                "birth": {
+                    "date": "2001-09-18",
+                    "place": null,
+                    "country": "United Arab Emirates"
+                },
+                "nationality": "United Arab Emirates",
+                "height": "171 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/134967.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2875,
+                        "name": "Al Wahda FC",
+                        "logo": "https://media-2.api-sports.io/football/teams/2875.png"
+                    },
+                    "league": {
+                        "id": 301,
+                        "name": "Pro League",
+                        "country": "United-Arab-Emirates",
+                        "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                        "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 23,
+                        "minutes": 2011,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 8,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 17241,
+                "name": "Ahmed Refaat",
+                "firstname": "Ahmed El Sayed",
+                "lastname": "Refaat Ahmed El Sawy",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-20",
+                    "place": "Kafr El Sheikh",
+                    "country": "Egypt"
+                },
+                "nationality": "Egypt",
+                "height": "180 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/17241.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2875,
+                        "name": "Al Wahda FC",
+                        "logo": "https://media-2.api-sports.io/football/teams/2875.png"
+                    },
+                    "league": {
+                        "id": 301,
+                        "name": "Pro League",
+                        "country": "United-Arab-Emirates",
+                        "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                        "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 4,
+                        "minutes": 353,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 4,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

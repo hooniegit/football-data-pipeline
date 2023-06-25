@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "210",
+        "team": "1017",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 308814,
+                "name": "L. Stojkovi\u0107",
+                "firstname": "Luka",
+                "lastname": "Stojkovi\u0107",
+                "age": 20,
+                "birth": {
+                    "date": "2003-10-28",
+                    "place": "Zagreb",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/308814.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1017,
+                        "name": "NK Lokomotiva Zagreb",
+                        "logo": "https://media-2.api-sports.io/football/teams/1017.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-1.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 25,
+                        "minutes": 2104,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.068421",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 16,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 29,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 571,
+                        "key": 28,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 169,
+                        "won": 75
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 214270,
+                "name": "A. Ibrahim",
+                "firstname": "Aliyu",
+                "lastname": "Ibrahim",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-16",
+                    "place": "Kano",
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/214270.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1017,
+                        "name": "NK Lokomotiva Zagreb",
+                        "logo": "https://media-2.api-sports.io/football/teams/1017.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 23,
+                        "minutes": 1811,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.747058",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 17,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 31,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 295,
+                        "key": 10,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 27,
+                        "blocks": 2,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 193,
+                        "won": 76
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

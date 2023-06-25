@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "71",
+        "team": "124",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 133194,
+                "name": "Calegari",
+                "firstname": "Lucas Felipe",
+                "lastname": "Calegari",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-27",
+                    "place": "Cuiab\u00e1",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "170 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/133194.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 124,
+                        "name": "Fluminense",
+                        "logo": "https://media-1.api-sports.io/football/teams/124.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 7,
+                        "minutes": 659,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.722222",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 4,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 341,
+                        "key": 8,
+                        "accuracy": 29
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 3,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 84,
+                        "won": 46
+                    },
+                    "dribbles": {
+                        "attempts": 18,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

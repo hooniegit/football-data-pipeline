@@ -1,0 +1,1442 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "265",
+        "team": "2316",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 15,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 11830,
+                "name": "Y. Leiva",
+                "firstname": "Yerko Basti\u00e1n",
+                "lastname": "Leiva Lazo",
+                "age": 25,
+                "birth": {
+                    "date": "1998-06-14",
+                    "place": "Santiago de Chile",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "162 cm",
+                "weight": "53 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11830.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-3.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 28,
+                        "minutes": 2396,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.180769",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 10,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 39,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1123,
+                        "key": 30,
+                        "accuracy": 35
+                    },
+                    "tackles": {
+                        "total": 50,
+                        "blocks": 3,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 240,
+                        "won": 128
+                    },
+                    "dribbles": {
+                        "attempts": 47,
+                        "success": 29,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 38,
+                        "committed": 33
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11568,
+                "name": "F. Bechtholdt",
+                "firstname": "Franco",
+                "lastname": "Bechtholdt Chervaz",
+                "age": 30,
+                "birth": {
+                    "date": "1993-08-15",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11568.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-1.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 27,
+                        "minutes": 2421,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.128000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 766,
+                        "key": 3,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 61,
+                        "blocks": 22,
+                        "interceptions": 44
+                    },
+                    "duels": {
+                        "total": 187,
+                        "won": 125
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 296009,
+                "name": "F. Ortiz",
+                "firstname": "Felipe Sebasti\u00e1n",
+                "lastname": "Ortiz Venegas",
+                "age": 22,
+                "birth": {
+                    "date": "2001-09-25",
+                    "place": "Curic\u00f3",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "171 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/296009.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-3.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 16,
+                        "minutes": 1229,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.575000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 15,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 321,
+                        "key": 4,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 82,
+                        "won": 39
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11587,
+                "name": "M. Ormaz\u00e1bal",
+                "firstname": "Mat\u00edas Nicol\u00e1s",
+                "lastname": "Ormaz\u00e1bal Vald\u00e9s",
+                "age": 25,
+                "birth": {
+                    "date": "1998-09-21",
+                    "place": "Licant\u00e9n",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "178 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11587.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-1.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 3,
+                        "minutes": 292,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 82,
+                        "key": null,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 3,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 296010,
+                "name": "R. Albornoz",
+                "firstname": "Rony Alfonso",
+                "lastname": "Albornoz Zenteno",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-23",
+                    "place": "Rengo",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "175 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/296010.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-3.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 4,
+                        "minutes": 227,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.425000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 54,
+                        "key": 2,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 29,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 364736,
+                "name": "N. Barrios",
+                "firstname": "Nicol\u00e1s Antonio",
+                "lastname": "Barrios Rebeco",
+                "age": 20,
+                "birth": {
+                    "date": "2003-09-17",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/364736.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-2.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 355813,
+                "name": "J. Guti\u00e9rrez",
+                "firstname": "Jos\u00e9 Ignacio",
+                "lastname": "Guti\u00e9rrez Castillo",
+                "age": 21,
+                "birth": {
+                    "date": "2002-10-16",
+                    "place": "Curic\u00f3",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "175 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/355813.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-1.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12202,
+                "name": "F. Fritz",
+                "firstname": "Felipe Luciano",
+                "lastname": "Fritz Sald\u00edas",
+                "age": 26,
+                "birth": {
+                    "date": "1997-09-23",
+                    "place": "Coronel",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/12202.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-1.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 2,
+                        "minutes": 571,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.733333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 26,
+                        "out": 1,
+                        "bench": 26
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 249,
+                        "key": 15,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 1,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 96,
+                        "won": 55
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 309497,
+                "name": "J. Gonz\u00e1lez",
+                "firstname": "Joaqu\u00edn Esteban",
+                "lastname": "Gonz\u00e1lez Saavedra",
+                "age": 22,
+                "birth": {
+                    "date": "2001-08-06",
+                    "place": "Curic\u00f3",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/309497.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-1.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 5,
+                        "minutes": 500,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.640000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 4,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 156,
+                        "key": 8,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 76,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5390,
+                "name": "F. Castro",
+                "firstname": "Federico Gast\u00f3n",
+                "lastname": "Castro",
+                "age": 30,
+                "birth": {
+                    "date": "1993-08-24",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "183 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/5390.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-3.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 22,
+                        "minutes": 1910,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.888888",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 17,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 31,
+                        "on": 17
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 631,
+                        "key": 26,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 231,
+                        "won": 105
+                    },
+                    "dribbles": {
+                        "attempts": 42,
+                        "success": 25,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 37,
+                        "committed": 35
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 4,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51347,
+                "name": "D. Coelho",
+                "firstname": "Diego Mart\u00edn",
+                "lastname": "Coelho D\u00edaz",
+                "age": 28,
+                "birth": {
+                    "date": "1995-01-28",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "182 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/51347.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-3.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 17,
+                        "minutes": 1702,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.020000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 8,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 35,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 10,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 339,
+                        "key": 26,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 228,
+                        "won": 100
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 337948,
+                "name": "I. Aliaga",
+                "firstname": "Ian Franco",
+                "lastname": "Aliaga Basaes",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-27",
+                    "place": "La Serena",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "184 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/337948.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-1.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 310604,
+                "name": "C. Bustamante",
+                "firstname": "Cristian",
+                "lastname": "Bustamante Bustamante",
+                "age": 21,
+                "birth": {
+                    "date": "2002-05-18",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/310604.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-2.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 6,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11449,
+                "name": "J. G\u00f3mez",
+                "firstname": "Juan Pablo",
+                "lastname": "G\u00f3mez Vidal",
+                "age": 32,
+                "birth": {
+                    "date": "1991-05-11",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "182 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11449.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-1.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 26,
+                        "minutes": 2332,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.048000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 969,
+                        "key": 33,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 65,
+                        "blocks": 3,
+                        "interceptions": 43
+                    },
+                    "duels": {
+                        "total": 177,
+                        "won": 127
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 30,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11512,
+                "name": "R. Holgado",
+                "firstname": "Rodrigo Juli\u00e1n",
+                "lastname": "Holgado",
+                "age": 28,
+                "birth": {
+                    "date": "1995-06-28",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "180 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11512.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2316,
+                        "name": "Curico Unido",
+                        "logo": "https://media-1.api-sports.io/football/teams/2316.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 21,
+                        "minutes": 1818,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.945833",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 11,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 46,
+                        "on": 28
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 547,
+                        "key": 28,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 3,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 269,
+                        "won": 109
+                    },
+                    "dribbles": {
+                        "attempts": 65,
+                        "success": 37,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

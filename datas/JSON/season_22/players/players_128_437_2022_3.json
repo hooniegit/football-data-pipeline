@@ -1,0 +1,682 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "128",
+        "team": "437",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 7,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 370011,
+                "name": "F. Oviedo",
+                "firstname": "Fabricio",
+                "lastname": "Oviedo",
+                "age": 19,
+                "birth": {
+                    "date": "2004-02-12",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/370011.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 437,
+                        "name": "Rosario Central",
+                        "logo": "https://media-2.api-sports.io/football/teams/437.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 2,
+                        "minutes": 152,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.250000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 2,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 17,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 25,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6540,
+                "name": "J. Rodr\u00edguez",
+                "firstname": "Juan Gabriel",
+                "lastname": "Rodr\u00edguez",
+                "age": 29,
+                "birth": {
+                    "date": "1994-02-28",
+                    "place": "General Alvear",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "188 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/6540.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 437,
+                        "name": "Rosario Central",
+                        "logo": "https://media-2.api-sports.io/football/teams/437.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 11,
+                        "minutes": 886,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.910000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 407,
+                        "key": 3,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 2,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 65,
+                        "won": 46
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50313,
+                "name": "E. Vecchio",
+                "firstname": "Emiliano Gabriel",
+                "lastname": "Vecchio",
+                "age": 35,
+                "birth": {
+                    "date": "1988-11-16",
+                    "place": "Rosario",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "177 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/50313.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 437,
+                        "name": "Rosario Central",
+                        "logo": "https://media-1.api-sports.io/football/teams/437.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 8,
+                        "minutes": 725,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.385714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 535,
+                        "key": 26,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 2,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 93,
+                        "won": 45
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 9515,
+                "name": "M. Ben\u00edtez",
+                "firstname": "Marcelo Nicol\u00e1s",
+                "lastname": "Ben\u00edtez",
+                "age": 32,
+                "birth": {
+                    "date": "1991-01-13",
+                    "place": "San Francisco Solano",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/9515.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 437,
+                        "name": "Rosario Central",
+                        "logo": "https://media-2.api-sports.io/football/teams/437.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 13,
+                        "minutes": 1153,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.831578",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 7,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 640,
+                        "key": 21,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 33,
+                        "blocks": 2,
+                        "interceptions": 18
+                    },
+                    "duels": {
+                        "total": 139,
+                        "won": 68
+                    },
+                    "dribbles": {
+                        "attempts": 25,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 1,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6192,
+                "name": "L. Gamba",
+                "firstname": "Lucas Emanuel",
+                "lastname": "Gamba",
+                "age": 36,
+                "birth": {
+                    "date": "1987-06-24",
+                    "place": "San Rafael",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "165 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/6192.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 437,
+                        "name": "Rosario Central",
+                        "logo": "https://media-2.api-sports.io/football/teams/437.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 15,
+                        "minutes": 1234,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.617647",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 10,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 280,
+                        "key": 12,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 135,
+                        "won": 49
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 36385,
+                "name": "G. Ram\u00edrez",
+                "firstname": "Gustavo Adri\u00e1n",
+                "lastname": "Ram\u00edrez Rojas",
+                "age": 33,
+                "birth": {
+                    "date": "1990-05-13",
+                    "place": "Yuty",
+                    "country": "Paraguay"
+                },
+                "nationality": "Paraguay",
+                "height": "181 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/36385.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 437,
+                        "name": "Rosario Central",
+                        "logo": "https://media-1.api-sports.io/football/teams/437.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 0,
+                        "minutes": 132,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.750000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 29,
+                        "key": null,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 23,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 60007,
+                "name": "J. Leudo",
+                "firstname": "Jos\u00e9 David",
+                "lastname": "Leudo Roma\u00f1a",
+                "age": 30,
+                "birth": {
+                    "date": "1993-11-09",
+                    "place": "Apartad\u00f3",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "182 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/60007.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 437,
+                        "name": "Rosario Central",
+                        "logo": "https://media-2.api-sports.io/football/teams/437.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

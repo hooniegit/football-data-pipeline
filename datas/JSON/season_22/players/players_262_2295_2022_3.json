@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "262",
+        "team": "2295",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 2418,
+                "name": "L. Abram",
+                "firstname": "Luis Alfonso",
+                "lastname": "Abram Ugarelli",
+                "age": 27,
+                "birth": {
+                    "date": "1996-02-27",
+                    "place": "Lima",
+                    "country": "Peru"
+                },
+                "nationality": "Peru",
+                "height": "181 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/2418.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2295,
+                        "name": "Cruz Azul",
+                        "logo": "https://media-1.api-sports.io/football/teams/2295.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-2.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-1.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 13,
+                        "minutes": 1172,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.423076",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 416,
+                        "key": null,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 7,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 61,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

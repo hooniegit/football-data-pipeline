@@ -1,0 +1,777 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "270",
+        "team": "2378",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 8,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 5498,
+                "name": "G. Papa",
+                "firstname": "Gonzalo Sebasti\u00e1n",
+                "lastname": "Papa Palleiro",
+                "age": 34,
+                "birth": {
+                    "date": "1989-05-08",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "178 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/5498.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2378,
+                        "name": "Albion FC",
+                        "logo": "https://media-2.api-sports.io/football/teams/2378.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-3.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-3.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 5,
+                        "minutes": 622,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 3,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51694,
+                "name": "M. Barrios",
+                "firstname": "Mart\u00edn",
+                "lastname": "Barrios do Santos",
+                "age": 24,
+                "birth": {
+                    "date": "1999-01-24",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "177 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/51694.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2378,
+                        "name": "Albion FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/2378.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-1.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-3.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 29,
+                        "minutes": 2345,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 16,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 67899,
+                "name": "N. Acosta",
+                "firstname": "Nahuel",
+                "lastname": "Acosta da Silva",
+                "age": 24,
+                "birth": {
+                    "date": "1999-05-11",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "179 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/67899.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2378,
+                        "name": "Albion FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/2378.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-2.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-3.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 0,
+                        "minutes": 121,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 101935,
+                "name": "M. Goyeni",
+                "firstname": "Math\u00edas Agust\u00edn",
+                "lastname": "Goyeni de Armas",
+                "age": 28,
+                "birth": {
+                    "date": "1995-01-17",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "173 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/101935.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2378,
+                        "name": "Albion FC",
+                        "logo": "https://media-2.api-sports.io/football/teams/2378.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-3.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-3.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 16,
+                        "minutes": 1598,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 5,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30746,
+                "name": "M. Burruchaga",
+                "firstname": "Mauro Antonio",
+                "lastname": "Burruchaga",
+                "age": 25,
+                "birth": {
+                    "date": "1998-06-27",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "181 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/30746.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2378,
+                        "name": "Albion FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/2378.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-1.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-2.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 21,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51748,
+                "name": "J. Neris",
+                "firstname": "Jos\u00e9 Pablo",
+                "lastname": "Neris Figueredo",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-13",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "183 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/51748.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2378,
+                        "name": "Albion FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/2378.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-3.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-3.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 31,
+                        "minutes": 2646,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 10,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 10,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 36494,
+                "name": "Y. Irraz\u00e1bal",
+                "firstname": "Yonatan",
+                "lastname": "Irraz\u00e1bal Condines",
+                "age": 35,
+                "birth": {
+                    "date": "1988-02-12",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "181 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/36494.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2378,
+                        "name": "Albion FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/2378.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-1.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-2.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 27,
+                        "minutes": 2368,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51366,
+                "name": "\u00c1. Pizzorno",
+                "firstname": "\u00c1ngelo Mat\u00edas",
+                "lastname": "Pizzorno Bracco",
+                "age": 31,
+                "birth": {
+                    "date": "1992-10-21",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "185 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/51366.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2378,
+                        "name": "Albion FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/2378.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-3.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-3.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 29,
+                        "minutes": 2502,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

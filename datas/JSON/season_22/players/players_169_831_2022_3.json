@@ -1,0 +1,587 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "169",
+        "team": "831",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 6,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 369727,
+                "name": "Feng Zeyuan",
+                "firstname": "Zeyuan",
+                "lastname": "Feng",
+                "age": 22,
+                "birth": {
+                    "date": "2001-11-19",
+                    "place": null,
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "181 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/369727.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 831,
+                        "name": "Dalian Aerbin",
+                        "logo": "https://media-3.api-sports.io/football/teams/831.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12515,
+                "name": "Yan Xiangchuang",
+                "firstname": "Xiangchuang",
+                "lastname": "Yan",
+                "age": 37,
+                "birth": {
+                    "date": "1986-09-05",
+                    "place": "Dalian",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "175 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/12515.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 831,
+                        "name": "Dalian Aerbin",
+                        "logo": "https://media-2.api-sports.io/football/teams/831.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 24,
+                        "minutes": 1787,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.853571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 22,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 29,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 9,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 402,
+                        "key": 36,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 155,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 25,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 277831,
+                "name": "Gui Zihan",
+                "firstname": "Zihan",
+                "lastname": "Gui",
+                "age": 20,
+                "birth": {
+                    "date": "2003-05-08",
+                    "place": "Dalian",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": null,
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/277831.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 831,
+                        "name": "Dalian Aerbin",
+                        "logo": "https://media-3.api-sports.io/football/teams/831.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 3,
+                        "minutes": 148,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.366666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 3,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 27,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 24,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12477,
+                "name": "Tong Lei",
+                "firstname": "Lei",
+                "lastname": "Tong",
+                "age": 26,
+                "birth": {
+                    "date": "1997-12-16",
+                    "place": null,
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "174 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/12477.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 831,
+                        "name": "Dalian Aerbin",
+                        "logo": "https://media-1.api-sports.io/football/teams/831.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-3.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 8,
+                        "minutes": 623,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.855555",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 228,
+                        "key": 4,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 1,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 53,
+                        "won": 28
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12997,
+                "name": "Sun Guowen",
+                "firstname": "Guowen",
+                "lastname": "Sun",
+                "age": 30,
+                "birth": {
+                    "date": "1993-09-30",
+                    "place": null,
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "182 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/12997.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 831,
+                        "name": "Dalian Aerbin",
+                        "logo": "https://media-2.api-sports.io/football/teams/831.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 22,
+                        "minutes": 1992,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.876923",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 3,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 729,
+                        "key": 23,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 49,
+                        "blocks": 8,
+                        "interceptions": 36
+                    },
+                    "duels": {
+                        "total": 197,
+                        "won": 106
+                    },
+                    "dribbles": {
+                        "attempts": 30,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12982,
+                "name": "Dong Yanfeng",
+                "firstname": "Yanfeng",
+                "lastname": "Dong",
+                "age": 27,
+                "birth": {
+                    "date": "1996-02-11",
+                    "place": "Dalian",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "182 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/12982.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 831,
+                        "name": "Dalian Aerbin",
+                        "logo": "https://media-3.api-sports.io/football/teams/831.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 19,
+                        "minutes": 1577,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.684210",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 634,
+                        "key": 2,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 5,
+                        "interceptions": 26
+                    },
+                    "duels": {
+                        "total": 124,
+                        "won": 58
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

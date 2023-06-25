@@ -1,0 +1,1727 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "136",
+        "team": "510",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 18,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 30652,
+                "name": "S. Branca",
+                "firstname": "Simone",
+                "lastname": "Branca",
+                "age": 31,
+                "birth": {
+                    "date": "1992-03-25",
+                    "place": "Busto Arsizio",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "179 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/30652.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-1.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 32,
+                        "minutes": 2689,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.962500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 12,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1391,
+                        "key": 33,
+                        "accuracy": 34
+                    },
+                    "tackles": {
+                        "total": 108,
+                        "blocks": 6,
+                        "interceptions": 38
+                    },
+                    "duels": {
+                        "total": 398,
+                        "won": 195
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 18,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 36,
+                        "committed": 83
+                    },
+                    "cards": {
+                        "yellow": 10,
+                        "yellowred": 1,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31898,
+                "name": "N. Pavan",
+                "firstname": "Nicola",
+                "lastname": "Pavan",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-15",
+                    "place": "Thiene",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "186 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31898.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-2.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 25,
+                        "minutes": 2327,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.933333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 10,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1028,
+                        "key": 15,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 48,
+                        "blocks": 10,
+                        "interceptions": 39
+                    },
+                    "duels": {
+                        "total": 266,
+                        "won": 165
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 45,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 91526,
+                "name": "V. Mastrantonio",
+                "firstname": "Valerio",
+                "lastname": "Mastrantonio",
+                "age": 24,
+                "birth": {
+                    "date": "1999-06-22",
+                    "place": "Roma",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/91526.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-3.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 14,
+                        "minutes": 1055,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.765217",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 14,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 355,
+                        "key": 11,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 34,
+                        "blocks": 8,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 112,
+                        "won": 61
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30928,
+                "name": "A. Danzi",
+                "firstname": "Andrea",
+                "lastname": "Danzi",
+                "age": 24,
+                "birth": {
+                    "date": "1999-02-25",
+                    "place": "Verona",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "175 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30928.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-1.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 5,
+                        "minutes": 440,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.276923",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 3,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 210,
+                        "key": 3,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 2,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 39,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 2,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 3446,
+                "name": "Carlos Embal\u00f3",
+                "firstname": "Carlos",
+                "lastname": "Apna Embal\u00f3",
+                "age": 29,
+                "birth": {
+                    "date": "1994-11-25",
+                    "place": "Bissau",
+                    "country": "Guinea-Bissau"
+                },
+                "nationality": "Guinea-Bissau",
+                "height": "180 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/3446.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-1.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 5,
+                        "minutes": 499,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.447058",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 5,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 88,
+                        "key": 9,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 70,
+                        "won": 22
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31497,
+                "name": "M. Antonucci",
+                "firstname": "Mirko",
+                "lastname": "Antonucci",
+                "age": 24,
+                "birth": {
+                    "date": "1999-03-11",
+                    "place": "Roma",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "178 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31497.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-3.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 37,
+                        "minutes": 2862,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.765714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 29,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 47,
+                        "on": 23
+                    },
+                    "goals": {
+                        "total": 11,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 645,
+                        "key": 37,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": null,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 289,
+                        "won": 127
+                    },
+                    "dribbles": {
+                        "attempts": 96,
+                        "success": 39,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 46,
+                        "committed": 34
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 3,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51608,
+                "name": "I. Lores",
+                "firstname": "Ign\u00e1cio",
+                "lastname": "Lores Varela",
+                "age": 32,
+                "birth": {
+                    "date": "1991-04-26",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "182 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/51608.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-3.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 10,
+                        "minutes": 1224,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.636000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 18,
+                        "out": 9,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 290,
+                        "key": 7,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 1,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 229,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 31,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 34,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31597,
+                "name": "T. Maistrello",
+                "firstname": "Tommy",
+                "lastname": "Maistrello",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-24",
+                    "place": "Correggio",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "193 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31597.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-3.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 10,
+                        "minutes": 940,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.757894",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 9,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 16,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 254,
+                        "key": 7,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 221,
+                        "won": 116
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 341912,
+                "name": "G. Ambrosino",
+                "firstname": "Giuseppe",
+                "lastname": "Ambrosino Di Bruttopilo",
+                "age": 20,
+                "birth": {
+                    "date": "2003-09-10",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "185 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/341912.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-3.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 8,
+                        "minutes": 658,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.766666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 8,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 115,
+                        "key": 16,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 102,
+                        "won": 42
+                    },
+                    "dribbles": {
+                        "attempts": 22,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30633,
+                "name": "Ra\u00fal Asencio",
+                "firstname": "Ra\u00fal Jos\u00e9",
+                "lastname": "Asencio Moraes",
+                "age": 25,
+                "birth": {
+                    "date": "1998-05-20",
+                    "place": "Villarreal",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "187 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/30633.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-2.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 11,
+                        "minutes": 983,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.688235",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 7,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 194,
+                        "key": 13,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 186,
+                        "won": 80
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31180,
+                "name": "E. Baldini",
+                "firstname": "Enrico",
+                "lastname": "Baldini",
+                "age": 27,
+                "birth": {
+                    "date": "1996-11-13",
+                    "place": "Milano",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31180.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-1.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 6,
+                        "minutes": 448,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.016666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 109,
+                        "key": 8,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 35,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56954,
+                "name": "A. Magrassi",
+                "firstname": "Andrea",
+                "lastname": "Magrassi",
+                "age": 30,
+                "birth": {
+                    "date": "1993-02-06",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/56954.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-3.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 8,
+                        "minutes": 948,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.482608",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 18,
+                        "out": 5,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 243,
+                        "key": 12,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 149,
+                        "won": 61
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 359312,
+                "name": "S. Thioune",
+                "firstname": "Saliou Saliou",
+                "lastname": "Thioune Mbacke",
+                "age": 19,
+                "birth": {
+                    "date": "2004-02-07",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "179 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/359312.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-3.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30596,
+                "name": "S. Icardi",
+                "firstname": "Simone",
+                "lastname": "Icardi",
+                "age": 27,
+                "birth": {
+                    "date": "1996-09-13",
+                    "place": "Roma",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "183 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30596.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-2.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31181,
+                "name": "G. Beretta",
+                "firstname": "Giacomo",
+                "lastname": "Beretta",
+                "age": 31,
+                "birth": {
+                    "date": "1992-03-14",
+                    "place": "Varese",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "185 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31181.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-3.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 6,
+                        "minutes": 571,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 5,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 83,
+                        "key": 7,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 70,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31432,
+                "name": "D. Mazzocco",
+                "firstname": "Davide",
+                "lastname": "Mazzocco",
+                "age": 28,
+                "birth": {
+                    "date": "1995-10-06",
+                    "place": "Feltre",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "186 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/31432.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-3.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 0,
+                        "minutes": 190,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 0,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 75,
+                        "key": 2,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 31,
+                        "won": 14
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 61278,
+                "name": "Mamadou Tounkara",
+                "firstname": "Mamadou",
+                "lastname": "Tounkara",
+                "age": 27,
+                "birth": {
+                    "date": "1996-01-19",
+                    "place": "Blanes",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "186 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/61278.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-1.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 5,
+                        "minutes": 535,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.630769",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 4,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 102,
+                        "key": 6,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 103,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56633,
+                "name": "C. Tavernelli",
+                "firstname": "Camillo",
+                "lastname": "Tavernelli",
+                "age": 24,
+                "birth": {
+                    "date": "1999-07-10",
+                    "place": "Citt\u00e0 di Castello",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "171 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/56633.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 510,
+                        "name": "Cittadella",
+                        "logo": "https://media-2.api-sports.io/football/teams/510.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1421 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "62",
+        "team": "90",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 14,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 87301,
+                "name": "T. Muyumba",
+                "firstname": "Tristan",
+                "lastname": "Muyumba Nkita",
+                "age": 26,
+                "birth": {
+                    "date": "1997-03-07",
+                    "place": "Paris",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "165 cm",
+                "weight": "54 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/87301.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-2.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 30,
+                        "minutes": 2663,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.840000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 19,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1424,
+                        "key": 25,
+                        "accuracy": 35
+                    },
+                    "tackles": {
+                        "total": 78,
+                        "blocks": 4,
+                        "interceptions": 42
+                    },
+                    "duels": {
+                        "total": 295,
+                        "won": 145
+                    },
+                    "dribbles": {
+                        "attempts": 55,
+                        "success": 33,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 36
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20668,
+                "name": "S. Diarra",
+                "firstname": "Souleymane",
+                "lastname": "Diarra",
+                "age": 28,
+                "birth": {
+                    "date": "1995-01-30",
+                    "place": "Bamako",
+                    "country": "Mali"
+                },
+                "nationality": "Mali",
+                "height": "173 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/20668.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-1.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 4,
+                        "minutes": 359,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.511111",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 3,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 231,
+                        "key": 1,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": null,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 55,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 21502,
+                "name": "M. Merghem",
+                "firstname": "Mehdi",
+                "lastname": "Merghem",
+                "age": 26,
+                "birth": {
+                    "date": "1997-07-19",
+                    "place": "Aubervilliers",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "178 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/21502.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-3.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 5,
+                        "minutes": 506,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.733333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 5,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 257,
+                        "key": 4,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 88,
+                        "won": 47
+                    },
+                    "dribbles": {
+                        "attempts": 32,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20591,
+                "name": "W. Tchimbemb\u00e9",
+                "firstname": "Warren",
+                "lastname": "Tchimbemb\u00e9",
+                "age": 25,
+                "birth": {
+                    "date": "1998-04-21",
+                    "place": "Gonesse",
+                    "country": "France"
+                },
+                "nationality": "Congo",
+                "height": "180 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/20591.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-1.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 6,
+                        "minutes": 439,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.586666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 6,
+                        "bench": 26
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 204,
+                        "key": 2,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 2,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 54,
+                        "won": 24
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 174712,
+                "name": "T. Le Normand",
+                "firstname": "Th\u00e9o",
+                "lastname": "Le Normand",
+                "age": 23,
+                "birth": {
+                    "date": "2000-08-08",
+                    "place": "Rennes",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "180 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/174712.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-3.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.433333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 20,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-3.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 22,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.433333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 20,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 174663,
+                "name": "J. Gaudin",
+                "firstname": "Jules",
+                "lastname": "Gaudin",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-09",
+                    "place": "Saint-Brieuc",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "180 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/174663.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-2.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 19,
+                        "minutes": 1780,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.833333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 6,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 846,
+                        "key": 23,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 61,
+                        "blocks": 2,
+                        "interceptions": 37
+                    },
+                    "duels": {
+                        "total": 266,
+                        "won": 146
+                    },
+                    "dribbles": {
+                        "attempts": 30,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 29,
+                        "committed": 39
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20830,
+                "name": "M. Barthelm\u00e9",
+                "firstname": "Maxime",
+                "lastname": "Barthelm\u00e9",
+                "age": 35,
+                "birth": {
+                    "date": "1988-09-08",
+                    "place": "Sartrouville",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "172 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/20830.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-2.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 15,
+                        "minutes": 1231,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.680000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 14,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 512,
+                        "key": 28,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 154,
+                        "won": 51
+                    },
+                    "dribbles": {
+                        "attempts": 35,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20834,
+                "name": "J. Livolant",
+                "firstname": "J\u00e9r\u00e9my",
+                "lastname": "Livolant",
+                "age": 25,
+                "birth": {
+                    "date": "1998-01-09",
+                    "place": "Morlaix",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/20834.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-1.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 38,
+                        "lineups": 37,
+                        "minutes": 3244,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.157894",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 19,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 49,
+                        "on": 29
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": 10,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1122,
+                        "key": 72,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 58,
+                        "blocks": null,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 460,
+                        "won": 228
+                    },
+                    "dribbles": {
+                        "attempts": 91,
+                        "success": 33,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 96,
+                        "committed": 49
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 3,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 201338,
+                "name": "V. Kiankaulua",
+                "firstname": "Vicky",
+                "lastname": "Kiankaulua",
+                "age": 22,
+                "birth": {
+                    "date": "2001-08-03",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "185 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/201338.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-2.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 0,
+                        "minutes": 46,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 18,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 338201,
+                "name": "H. Picard",
+                "firstname": "Hugo",
+                "lastname": "Picard",
+                "age": 20,
+                "birth": {
+                    "date": "2003-05-09",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "168 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/338201.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-1.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 11,
+                        "minutes": 979,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.627272",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 11,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 333,
+                        "key": 17,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 24,
+                        "blocks": null,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 160,
+                        "won": 67
+                    },
+                    "dribbles": {
+                        "attempts": 52,
+                        "success": 31,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 193188,
+                "name": "A. El Ouazzani",
+                "firstname": "Amine",
+                "lastname": "El Ouazzani",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-15",
+                    "place": "Grenoble",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/193188.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-1.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 17,
+                        "minutes": 1534,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.791304",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 14,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 30,
+                        "on": 17
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 346,
+                        "key": 13,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 2,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 188,
+                        "won": 63
+                    },
+                    "dribbles": {
+                        "attempts": 37,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 193705,
+                "name": "J. Siwe",
+                "firstname": "Jacques-Julien",
+                "lastname": "Siwe",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-29",
+                    "place": "Saint-Maurice",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "183 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/193705.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-1.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 0,
+                        "minutes": 103,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 33,
+                        "key": 1,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 34,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20645,
+                "name": "G. Courtet",
+                "firstname": "Ga\u00ebtan",
+                "lastname": "Courtet",
+                "age": 34,
+                "birth": {
+                    "date": "1989-02-22",
+                    "place": "Lorient",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "180 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/20645.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-3.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 19,
+                        "minutes": 1844,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.966666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 6,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 47,
+                        "on": 26
+                    },
+                    "goals": {
+                        "total": 10,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 514,
+                        "key": 22,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 1,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 328,
+                        "won": 137
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 39
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 21450,
+                "name": "B. Guillaume",
+                "firstname": "Baptiste",
+                "lastname": "Guillaume",
+                "age": 28,
+                "birth": {
+                    "date": "1995-06-16",
+                    "place": "Brussel",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "190 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/21450.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 90,
+                        "name": "Guingamp",
+                        "logo": "https://media-2.api-sports.io/football/teams/90.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 26,
+                        "minutes": 2288,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.891176",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 16,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 32,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 595,
+                        "key": 29,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 5,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 405,
+                        "won": 218
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 41,
+                        "committed": 38
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

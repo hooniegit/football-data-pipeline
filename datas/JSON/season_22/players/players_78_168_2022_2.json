@@ -1,0 +1,1537 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "78",
+        "team": "168",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 16,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 794,
+                "name": "P. Schick",
+                "firstname": "Patrik",
+                "lastname": "Schick",
+                "age": 27,
+                "birth": {
+                    "date": "1996-01-24",
+                    "place": "Praha",
+                    "country": "Czech Republic"
+                },
+                "nationality": "Czech Republic",
+                "height": "191 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/794.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-2.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 10,
+                        "minutes": 941,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.714285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 4,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 242,
+                        "key": 10,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 118,
+                        "won": 53
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2298,
+                "name": "C. Hudson-Odoi",
+                "firstname": "Callum James",
+                "lastname": "Hudson-Odoi",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-07",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "182 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2298.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-1.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 7,
+                        "minutes": 607,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.685714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 7,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 229,
+                        "key": 13,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 69,
+                        "won": 38
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 277,
+                "name": "M. Diaby",
+                "firstname": "Moussa",
+                "lastname": "Diaby",
+                "age": 24,
+                "birth": {
+                    "date": "1999-07-07",
+                    "place": "Paris",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "170 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/277.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-2.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 33,
+                        "minutes": 2716,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.157575",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 17,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 61,
+                        "on": 35
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": 8,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 870,
+                        "key": 58,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 218,
+                        "won": 88
+                    },
+                    "dribbles": {
+                        "attempts": 93,
+                        "success": 48,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 976,
+                "name": "K. Bellarabi",
+                "firstname": "Karim",
+                "lastname": "Bellarabi",
+                "age": 33,
+                "birth": {
+                    "date": "1990-04-08",
+                    "place": "Berlin",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "184 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/976.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-1.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 1,
+                        "minutes": 79,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.440000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 1,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 48,
+                        "key": null,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 963,
+                "name": "L. Hr\u00e1deck\u00fd",
+                "firstname": "Luk\u00e1\u0161",
+                "lastname": "Hr\u00e1deck\u00fd",
+                "age": 34,
+                "birth": {
+                    "date": "1989-11-24",
+                    "place": "Bratislava",
+                    "country": "Slovakia"
+                },
+                "nationality": "Finland",
+                "height": "192 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/963.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-1.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 33,
+                        "minutes": 2970,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.851515",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 47,
+                        "assists": null,
+                        "saves": 97
+                    },
+                    "passes": {
+                        "total": 953,
+                        "key": null,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 10,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 986,
+                "name": "J. Pohjanpalo",
+                "firstname": "Joel Julius Ilmari",
+                "lastname": "Pohjanpalo",
+                "age": 29,
+                "birth": {
+                    "date": "1994-09-13",
+                    "place": "Helsinki",
+                    "country": "Finland"
+                },
+                "nationality": "Finland",
+                "height": "186 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/986.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-3.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 3,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1221,
+                "name": "S. Azmoun",
+                "firstname": "Sardar",
+                "lastname": "Azmoun",
+                "age": 28,
+                "birth": {
+                    "date": "1995-01-01",
+                    "place": "Gonbad-e Kavus",
+                    "country": "Iran"
+                },
+                "nationality": "Iran",
+                "height": "186 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1221.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-2.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 8,
+                        "minutes": 916,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.731818",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 5,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 244,
+                        "key": 14,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 118,
+                        "won": 35
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6002,
+                "name": "E. Palacios",
+                "firstname": "Exequiel Alejandro",
+                "lastname": "Palacios",
+                "age": 25,
+                "birth": {
+                    "date": "1998-10-05",
+                    "place": "Famaill\u00e1",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "177 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6002.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-2.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 19,
+                        "minutes": 1655,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.048000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 8,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1186,
+                        "key": 15,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 59,
+                        "blocks": 2,
+                        "interceptions": 33
+                    },
+                    "duels": {
+                        "total": 204,
+                        "won": 122
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 40,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 3,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 127817,
+                "name": "P. Hincapi\u00e9",
+                "firstname": "Piero Mart\u00edn",
+                "lastname": "Hincapi\u00e9 Reyna",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-09",
+                    "place": "Esmeraldas",
+                    "country": "Ecuador"
+                },
+                "nationality": "Ecuador",
+                "height": "183 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/127817.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-3.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 27,
+                        "minutes": 2464,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.826666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 8,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1670,
+                        "key": 10,
+                        "accuracy": 46
+                    },
+                    "tackles": {
+                        "total": 51,
+                        "blocks": 20,
+                        "interceptions": 32
+                    },
+                    "duels": {
+                        "total": 282,
+                        "won": 160
+                    },
+                    "dribbles": {
+                        "attempts": 29,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 35,
+                        "committed": 40
+                    },
+                    "cards": {
+                        "yellow": 11,
+                        "yellowred": 2,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 203224,
+                "name": "F. Wirtz",
+                "firstname": "Florian Richard",
+                "lastname": "Wirtz",
+                "age": 20,
+                "birth": {
+                    "date": "2003-05-03",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "176 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/203224.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-3.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 11,
+                        "minutes": 1090,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.223529",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 6,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 6,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 578,
+                        "key": 39,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 192,
+                        "won": 98
+                    },
+                    "dribbles": {
+                        "attempts": 83,
+                        "success": 49,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 66019,
+                "name": "A. Hlo\u017eek",
+                "firstname": "Adam",
+                "lastname": "Hlo\u017eek",
+                "age": 21,
+                "birth": {
+                    "date": "2002-07-25",
+                    "place": null,
+                    "country": "Czech Republic"
+                },
+                "nationality": "Czech Republic",
+                "height": "188 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/66019.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-3.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 16,
+                        "minutes": 1289,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.748275",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 16,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 316,
+                        "key": 18,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 2,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 157,
+                        "won": 61
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 322858,
+                "name": "Z. Sertdemir",
+                "firstname": "Batuhan Zidan",
+                "lastname": "Sertdemir",
+                "age": 18,
+                "birth": {
+                    "date": "2005-02-04",
+                    "place": null,
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "182 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/322858.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-2.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 129682,
+                "name": "A. Adli",
+                "firstname": "Amine",
+                "lastname": "Adli",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-10",
+                    "place": "B\u00e9ziers",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "174 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/129682.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-3.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 16,
+                        "minutes": 1442,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.723076",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 13,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 29,
+                        "on": 17
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 535,
+                        "key": 20,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 2,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 253,
+                        "won": 119
+                    },
+                    "dribbles": {
+                        "attempts": 48,
+                        "success": 24,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 47,
+                        "committed": 39
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 2
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 330599,
+                "name": "Iker Bravo",
+                "firstname": "Iker",
+                "lastname": "Bravo Solanilla",
+                "age": 18,
+                "birth": {
+                    "date": "2005-01-13",
+                    "place": "Sant Cugat del Vall\u00e8s",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "184 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/330599.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-3.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 987,
+                "name": "Paulinho",
+                "firstname": "Paulo Henrique",
+                "lastname": "Sampaio Filho",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-15",
+                    "place": "Rio de Janeiro",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "177 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/987.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-3.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 1,
+                        "minutes": 80,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 28,
+                        "key": null,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 974,
+                "name": "C. Ar\u00e1nguiz",
+                "firstname": "Charles Mariano",
+                "lastname": "Ar\u00e1nguiz Sandoval",
+                "age": 34,
+                "birth": {
+                    "date": "1989-04-17",
+                    "place": "Santiago de Chile",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "171 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/974.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 168,
+                        "name": "Bayer Leverkusen",
+                        "logo": "https://media-2.api-sports.io/football/teams/168.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 4,
+                        "minutes": 491,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.660000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 4,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 297,
+                        "key": 3,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": null,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 57,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

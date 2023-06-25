@@ -1,0 +1,587 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "39",
+        "team": "39",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 6,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 303019,
+                "name": "N. Fraser",
+                "firstname": "Nathan John Mark",
+                "lastname": "Fraser",
+                "age": 18,
+                "birth": {
+                    "date": "2005-02-22",
+                    "place": "Wolverhampton",
+                    "country": "England"
+                },
+                "nationality": "Republic of Ireland",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/303019.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 39,
+                        "name": "Wolves",
+                        "logo": "https://media-1.api-sports.io/football/teams/39.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1864,
+                "name": "Pedro Neto",
+                "firstname": "Pedro",
+                "lastname": "Lomba Neto",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-09",
+                    "place": "Viana do Castelo",
+                    "country": "Portugal"
+                },
+                "nationality": "Portugal",
+                "height": "172 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1864.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 39,
+                        "name": "Wolves",
+                        "logo": "https://media-3.api-sports.io/football/teams/39.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 13,
+                        "minutes": 970,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.687500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 11,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 312,
+                        "key": 21,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 111,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 48,
+                        "success": 18,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18746,
+                "name": "M. Gibbs-White",
+                "firstname": "Morgan Anthony",
+                "lastname": "Gibbs-White",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-27",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "171 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/18746.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 39,
+                        "name": "Wolves",
+                        "logo": "https://media-2.api-sports.io/football/teams/39.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 2,
+                        "minutes": 180,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.008571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 42,
+                        "on": 22
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 8,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 896,
+                        "key": 68,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 4,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 402,
+                        "won": 152
+                    },
+                    "dribbles": {
+                        "attempts": 86,
+                        "success": 42,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 28,
+                        "committed": 32
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 157912,
+                "name": "B. Traor\u00e9",
+                "firstname": "Boubacar",
+                "lastname": "Traor\u00e9",
+                "age": 22,
+                "birth": {
+                    "date": "2001-08-20",
+                    "place": "Bamako",
+                    "country": "Mali"
+                },
+                "nationality": "Mali",
+                "height": "183 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/157912.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 39,
+                        "name": "Wolves",
+                        "logo": "https://media-2.api-sports.io/football/teams/39.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 4,
+                        "minutes": 406,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 2,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 145,
+                        "key": 1,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 2,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 54,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 195717,
+                "name": "Y. Mosquera",
+                "firstname": "Yerson",
+                "lastname": "Mosquera Valdelamar",
+                "age": 22,
+                "birth": {
+                    "date": "2001-05-02",
+                    "place": "Apartad\u00f3",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "187 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/195717.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 39,
+                        "name": "Wolves",
+                        "logo": "https://media-1.api-sports.io/football/teams/39.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 61178,
+                "name": "C. Ronan",
+                "firstname": "Connor Patrick",
+                "lastname": "Ronan",
+                "age": 25,
+                "birth": {
+                    "date": "1998-03-06",
+                    "place": "Rochdale",
+                    "country": "England"
+                },
+                "nationality": "Republic of Ireland",
+                "height": "170 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/61178.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 39,
+                        "name": "Wolves",
+                        "logo": "https://media-3.api-sports.io/football/teams/39.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

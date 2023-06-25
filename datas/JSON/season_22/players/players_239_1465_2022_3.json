@@ -1,0 +1,872 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "239",
+        "team": "1465",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 9,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 13775,
+                "name": "N. Gil",
+                "firstname": "Nicol\u00e1s",
+                "lastname": "Gil Uribe",
+                "age": 26,
+                "birth": {
+                    "date": "1997-04-01",
+                    "place": "Rionegro",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13775.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1465,
+                        "name": "Union Magdalena",
+                        "logo": "https://media-1.api-sports.io/football/teams/1465.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 13,
+                        "minutes": 1073,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.741666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 5,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 357,
+                        "key": 2,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 5,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 84,
+                        "won": 50
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13328,
+                "name": "J. Castro",
+                "firstname": "James Enrique",
+                "lastname": "Castro Maestre",
+                "age": 39,
+                "birth": {
+                    "date": "1984-11-24",
+                    "place": "Santa Marta",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "175 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13328.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1465,
+                        "name": "Union Magdalena",
+                        "logo": "https://media-1.api-sports.io/football/teams/1465.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 20,
+                        "minutes": 1639,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.590476",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 9,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 397,
+                        "key": 15,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 3,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 96,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13814,
+                "name": "R. Lora",
+                "firstname": "Ronaldo Luis",
+                "lastname": "Lora Ballestas",
+                "age": 26,
+                "birth": {
+                    "date": "1997-07-12",
+                    "place": "Ci\u00e9naga",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13814.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1465,
+                        "name": "Union Magdalena",
+                        "logo": "https://media-1.api-sports.io/football/teams/1465.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 26,
+                        "minutes": 2185,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.854545",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 10,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 890,
+                        "key": 8,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 49,
+                        "blocks": 5,
+                        "interceptions": 39
+                    },
+                    "duels": {
+                        "total": 176,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 59667,
+                "name": "J. Scott",
+                "firstname": "Jahir Stiven",
+                "lastname": "Scott Oliveros",
+                "age": 28,
+                "birth": {
+                    "date": "1995-05-06",
+                    "place": "Santa Marta",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/59667.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1465,
+                        "name": "Union Magdalena",
+                        "logo": "https://media-3.api-sports.io/football/teams/1465.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-3.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 3,
+                        "minutes": 267,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.428571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 2,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 124,
+                        "key": 1,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 23,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 200162,
+                "name": "J. Del Rio",
+                "firstname": "Juan Carlos",
+                "lastname": "Del Rio O\u00f1ate",
+                "age": 22,
+                "birth": {
+                    "date": "2001-11-03",
+                    "place": "Santa Marta",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/200162.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1465,
+                        "name": "Union Magdalena",
+                        "logo": "https://media-3.api-sports.io/football/teams/1465.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 0,
+                        "minutes": 140,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.400000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 8,
+                        "key": 1,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 59913,
+                "name": "D. Vega",
+                "firstname": "Daiver Jos\u00e9",
+                "lastname": "Vega Mej\u00eda",
+                "age": 27,
+                "birth": {
+                    "date": "1996-05-30",
+                    "place": "Santa Marta",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/59913.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1465,
+                        "name": "Union Magdalena",
+                        "logo": "https://media-3.api-sports.io/football/teams/1465.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 13,
+                        "minutes": 1128,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.564000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 11,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 238,
+                        "key": 10,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 155,
+                        "won": 67
+                    },
+                    "dribbles": {
+                        "attempts": 35,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 306641,
+                "name": "I. Camargo",
+                "firstname": "Isaac David",
+                "lastname": "Camargo Pineda",
+                "age": 24,
+                "birth": {
+                    "date": "1999-12-14",
+                    "place": "Barranquilla",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/306641.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1465,
+                        "name": "Union Magdalena",
+                        "logo": "https://media-1.api-sports.io/football/teams/1465.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 6,
+                        "minutes": 667,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.512500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 6,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 158,
+                        "key": 2,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 48,
+                        "won": 14
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13827,
+                "name": "R. M\u00e1rquez",
+                "firstname": "Ricardo Luis",
+                "lastname": "M\u00e1rquez Gonz\u00e1lez",
+                "age": 26,
+                "birth": {
+                    "date": "1997-11-09",
+                    "place": "Santa Marta",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "170 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13827.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1465,
+                        "name": "Union Magdalena",
+                        "logo": "https://media-1.api-sports.io/football/teams/1465.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-3.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 15,
+                        "minutes": 1340,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.554545",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 34,
+                        "key": 1,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 27,
+                        "won": 14
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13228,
+                "name": "J. Contreras",
+                "firstname": "Joel Jes\u00fas",
+                "lastname": "Contreras Torres",
+                "age": 24,
+                "birth": {
+                    "date": "1999-05-01",
+                    "place": "Tib\u00fa",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/13228.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1465,
+                        "name": "Union Magdalena",
+                        "logo": "https://media-2.api-sports.io/football/teams/1465.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 7,
+                        "minutes": 737,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.481818",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 3,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 115,
+                        "key": 5,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 60,
+                        "won": 31
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

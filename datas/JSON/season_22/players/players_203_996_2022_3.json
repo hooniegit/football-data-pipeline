@@ -1,0 +1,777 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "203",
+        "team": "996",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 8,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 302370,
+                "name": "A. Uzun",
+                "firstname": "Muhammed Arda",
+                "lastname": "Uzun",
+                "age": 18,
+                "birth": {
+                    "date": "2005-04-24",
+                    "place": "\u0130stanbul",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "185 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/302370.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 996,
+                        "name": "Alanyaspor",
+                        "logo": "https://media-1.api-sports.io/football/teams/996.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1617,
+                "name": "Koka",
+                "firstname": "Ahmed Hassan Mohamed Abdelmone",
+                "lastname": "Mohamed Mahgoub",
+                "age": 30,
+                "birth": {
+                    "date": "1993-03-05",
+                    "place": "al-Q\u0101hira",
+                    "country": "Egypt"
+                },
+                "nationality": "Egypt",
+                "height": "191 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/1617.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 996,
+                        "name": "Alanyaspor",
+                        "logo": "https://media-1.api-sports.io/football/teams/996.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 21,
+                        "minutes": 1799,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.887500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 10,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 47,
+                        "on": 23
+                    },
+                    "goals": {
+                        "total": 10,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 440,
+                        "key": 7,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 179,
+                        "won": 72
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 335555,
+                "name": "\u0130. Zehir",
+                "firstname": "\u0130smail",
+                "lastname": "Zehir",
+                "age": 20,
+                "birth": {
+                    "date": "2003-06-29",
+                    "place": "\u0130stanbul",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/335555.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 996,
+                        "name": "Alanyaspor",
+                        "logo": "https://media-1.api-sports.io/football/teams/996.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 41088,
+                "name": "Marafona",
+                "firstname": "Jose Carlos",
+                "lastname": "Coentr\u00e3o Marafona",
+                "age": 36,
+                "birth": {
+                    "date": "1987-05-08",
+                    "place": "Vila do Conde",
+                    "country": "Portugal"
+                },
+                "nationality": "Portugal",
+                "height": "190 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/41088.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 996,
+                        "name": "Alanyaspor",
+                        "logo": "https://media-2.api-sports.io/football/teams/996.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 379317,
+                "name": "B. Kahraman",
+                "firstname": "Bedirhan",
+                "lastname": "Kahraman",
+                "age": 20,
+                "birth": {
+                    "date": "2003-01-01",
+                    "place": "\u015eanl\u0131urfa",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/379317.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 996,
+                        "name": "Alanyaspor",
+                        "logo": "https://media-2.api-sports.io/football/teams/996.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19278,
+                "name": "F. Di\u00e9dhiou",
+                "firstname": "Famara",
+                "lastname": "Di\u00e9dhiou",
+                "age": 31,
+                "birth": {
+                    "date": "1992-12-15",
+                    "place": "Saint-Louis",
+                    "country": "Senegal"
+                },
+                "nationality": "Senegal",
+                "height": "192 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/19278.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 996,
+                        "name": "Alanyaspor",
+                        "logo": "https://media-1.api-sports.io/football/teams/996.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 22,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 10,
+                        "key": 2,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2784,
+                "name": "R. R\u00fanarsson",
+                "firstname": "R\u00fanar Alex",
+                "lastname": "R\u00fanarsson",
+                "age": 28,
+                "birth": {
+                    "date": "1995-02-18",
+                    "place": null,
+                    "country": "Iceland"
+                },
+                "nationality": "Iceland",
+                "height": "186 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/2784.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 996,
+                        "name": "Alanyaspor",
+                        "logo": "https://media-2.api-sports.io/football/teams/996.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 30,
+                        "minutes": 2645,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.950000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 54,
+                        "assists": 1,
+                        "saves": 108
+                    },
+                    "passes": {
+                        "total": 1039,
+                        "key": 2,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 8678,
+                "name": "A. Lusamba",
+                "firstname": "Arnaud Rene",
+                "lastname": "Lusamba",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-04",
+                    "place": "Metz",
+                    "country": "France"
+                },
+                "nationality": "Congo DR",
+                "height": "180 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/8678.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 996,
+                        "name": "Alanyaspor",
+                        "logo": "https://media-3.api-sports.io/football/teams/996.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 16,
+                        "minutes": 1444,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.607142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 8,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 746,
+                        "key": 14,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 37,
+                        "blocks": 1,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 169,
+                        "won": 81
+                    },
+                    "dribbles": {
+                        "attempts": 32,
+                        "success": 16,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

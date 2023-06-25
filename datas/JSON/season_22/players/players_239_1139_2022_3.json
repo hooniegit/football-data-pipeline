@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "239",
+        "team": "1139",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 311422,
+                "name": "D. Garc\u00eda",
+                "firstname": "Daniel Enrique",
+                "lastname": "Garc\u00eda Moreno",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-29",
+                    "place": "Bogot\u00e1",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "170 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/311422.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1139,
+                        "name": "Santa Fe",
+                        "logo": "https://media-1.api-sports.io/football/teams/1139.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 1,
+                        "minutes": 157,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.485714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 2,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 45,
+                        "key": 3,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13787,
+                "name": "E. Herrera",
+                "firstname": "Edwin Alberto",
+                "lastname": "Herrera Hern\u00e1ndez",
+                "age": 25,
+                "birth": {
+                    "date": "1998-09-02",
+                    "place": "Cartagena",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "170 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/13787.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1139,
+                        "name": "Santa Fe",
+                        "logo": "https://media-3.api-sports.io/football/teams/1139.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-3.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 24,
+                        "minutes": 2174,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.772000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 6,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 773,
+                        "key": 10,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 53,
+                        "blocks": 6,
+                        "interceptions": 37
+                    },
+                    "duels": {
+                        "total": 175,
+                        "won": 98
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 1,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13435,
+                "name": "A. Estupi\u00f1\u00e1n",
+                "firstname": "Andrey",
+                "lastname": "Estupi\u00f1\u00e1n Qui\u00f1onez",
+                "age": 29,
+                "birth": {
+                    "date": "1994-07-05",
+                    "place": "El Charco",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "177 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/13435.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1139,
+                        "name": "Santa Fe",
+                        "logo": "https://media-2.api-sports.io/football/teams/1139.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 15,
+                        "minutes": 1734,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.892307",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 18,
+                        "out": 15,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 474,
+                        "key": 20,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 27,
+                        "blocks": 2,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 195,
+                        "won": 104
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 49,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13439,
+                "name": "J. Ortiz",
+                "firstname": "Jos\u00e9 Enrique",
+                "lastname": "Ortiz Cort\u00e9s",
+                "age": 25,
+                "birth": {
+                    "date": "1998-11-16",
+                    "place": "Tumaco",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "180 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13439.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1139,
+                        "name": "Santa Fe",
+                        "logo": "https://media-2.api-sports.io/football/teams/1139.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 18,
+                        "minutes": 1608,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.753333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 577,
+                        "key": 1,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 8,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 86,
+                        "won": 47
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13379,
+                "name": "J. Ramos",
+                "firstname": "Jorge Luis",
+                "lastname": "Ramos S\u00e1nchez",
+                "age": 31,
+                "birth": {
+                    "date": "1992-10-02",
+                    "place": "Talaigua Nuevo",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "184 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/13379.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1139,
+                        "name": "Santa Fe",
+                        "logo": "https://media-2.api-sports.io/football/teams/1139.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 11,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

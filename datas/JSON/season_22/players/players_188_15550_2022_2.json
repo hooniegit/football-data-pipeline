@@ -1,0 +1,1210 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "188",
+        "team": "15550",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 11,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 1121,
+                "name": "D. Arzani",
+                "firstname": "Daniel",
+                "lastname": "Arzani",
+                "age": 24,
+                "birth": {
+                    "date": "1999-01-04",
+                    "place": "Chorramabad",
+                    "country": "Iran"
+                },
+                "nationality": "Australia",
+                "height": "171 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1121.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-3.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 12,
+                        "minutes": 1014,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.668421",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 10,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 417,
+                        "key": 26,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 2,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 199,
+                        "won": 88
+                    },
+                    "dribbles": {
+                        "attempts": 79,
+                        "success": 35,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 36,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 41589,
+                "name": "A. Carter",
+                "firstname": "Anthony Charles",
+                "lastname": "Carter",
+                "age": 29,
+                "birth": {
+                    "date": "1994-08-31",
+                    "place": "Melbourne",
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": "191 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/41589.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-1.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 2,
+                        "minutes": 252,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.410000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 2,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 81,
+                        "key": 1,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 67,
+                        "won": 27
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6973,
+                "name": "N. Suman",
+                "firstname": "Nicholas",
+                "lastname": "Suman",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-28",
+                    "place": "Penrith",
+                    "country": "England"
+                },
+                "nationality": "Australia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6973.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-3.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-1.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.366666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 8,
+                        "assists": null,
+                        "saves": 8
+                    },
+                    "passes": {
+                        "total": 42,
+                        "key": null,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 3
+                    }
+                },
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-2.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-1.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 2,
+                        "minutes": 194,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.366666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 8,
+                        "assists": null,
+                        "saves": 8
+                    },
+                    "passes": {
+                        "total": 42,
+                        "key": null,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 3
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 359108,
+                "name": "A. Robinson",
+                "firstname": "Alexander",
+                "lastname": "Robinson",
+                "age": 18,
+                "birth": {
+                    "date": "2005-03-09",
+                    "place": null,
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/359108.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-3.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 269545,
+                "name": "I. Hovar",
+                "firstname": "Isaac",
+                "lastname": "Hovar",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-08",
+                    "place": null,
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/269545.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-1.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-1.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 378860,
+                "name": "J. Bertolissio",
+                "firstname": "Joel",
+                "lastname": "Bertolissio",
+                "age": 20,
+                "birth": {
+                    "date": "2003-05-27",
+                    "place": null,
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/378860.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-1.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 12,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 6,
+                        "key": null,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 312620,
+                "name": "O. Jones",
+                "firstname": "Oliver",
+                "lastname": "Jones",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-06",
+                    "place": null,
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/312620.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-1.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 4,
+                        "minutes": 343,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.750000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 248,
+                        "key": null,
+                        "accuracy": 35
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 4,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 33,
+                        "won": 20
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 375995,
+                "name": "R. Youlley",
+                "firstname": "Rhys",
+                "lastname": "Youlley",
+                "age": 18,
+                "birth": {
+                    "date": "2005-02-13",
+                    "place": null,
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/375995.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-1.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 10,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 5,
+                        "key": null,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 372240,
+                "name": "J. Webber",
+                "firstname": "Jesper",
+                "lastname": "Webber",
+                "age": 19,
+                "birth": {
+                    "date": "2004-06-11",
+                    "place": null,
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/372240.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-2.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-2.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 12,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 4,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-2.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-2.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 4,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 228807,
+                "name": "E. Caspers",
+                "firstname": "Edward",
+                "lastname": "Caspers",
+                "age": 20,
+                "birth": {
+                    "date": "2003-09-24",
+                    "place": null,
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/228807.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-3.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 194491,
+                "name": "A. Auglah",
+                "firstname": "Ali",
+                "lastname": "Auglah",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-11",
+                    "place": null,
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/194491.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 15550,
+                        "name": "Macarthur",
+                        "logo": "https://media-2.api-sports.io/football/teams/15550.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-1.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 3,
+                        "minutes": 350,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.436363",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 3,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 86,
+                        "key": 5,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 2,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 64,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": 22,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "239",
+        "team": "1140",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 13468,
+                "name": "S. Ruiz",
+                "firstname": "Santiago",
+                "lastname": "Ruiz Rojas",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-12",
+                    "place": "Medell\u00edn",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "185 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13468.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1140,
+                        "name": "Patriotas",
+                        "logo": "https://media-3.api-sports.io/football/teams/1140.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 4,
+                        "minutes": 401,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 306,
+                        "key": 3,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 5,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 45,
+                        "won": 26
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13757,
+                "name": "G. Banguera",
+                "firstname": "Geovanni",
+                "lastname": "Banguera Delgado",
+                "age": 28,
+                "birth": {
+                    "date": "1995-12-15",
+                    "place": "El Charco",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "187 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13757.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1140,
+                        "name": "Patriotas",
+                        "logo": "https://media-3.api-sports.io/football/teams/1140.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 5,
+                        "minutes": 406,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.833333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 3,
+                        "assists": null,
+                        "saves": 9
+                    },
+                    "passes": {
+                        "total": 54,
+                        "key": null,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 59450,
+                "name": "L. P\u00e9rez",
+                "firstname": "Luis Felipe",
+                "lastname": "P\u00e9rez Valencia",
+                "age": 27,
+                "birth": {
+                    "date": "1996-05-28",
+                    "place": "Florida",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "176 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/59450.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1140,
+                        "name": "Patriotas",
+                        "logo": "https://media-3.api-sports.io/football/teams/1140.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 30,
+                        "minutes": 2658,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.882758",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 16,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1296,
+                        "key": 26,
+                        "accuracy": 36
+                    },
+                    "tackles": {
+                        "total": 42,
+                        "blocks": 4,
+                        "interceptions": 45
+                    },
+                    "duels": {
+                        "total": 225,
+                        "won": 109
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 32
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 60007,
+                "name": "J. Leudo",
+                "firstname": "Jos\u00e9 David",
+                "lastname": "Leudo Roma\u00f1a",
+                "age": 30,
+                "birth": {
+                    "date": "1993-11-09",
+                    "place": "Apartad\u00f3",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "182 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/60007.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1140,
+                        "name": "Patriotas",
+                        "logo": "https://media-2.api-sports.io/football/teams/1140.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 16,
+                        "minutes": 1337,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.718750",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 6,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 621,
+                        "key": 8,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 8,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 98,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

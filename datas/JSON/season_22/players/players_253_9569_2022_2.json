@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "253",
+        "team": "9569",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 50957,
+                "name": "S. Davis",
+                "firstname": "Sean Akira",
+                "lastname": "Davis",
+                "age": 30,
+                "birth": {
+                    "date": "1993-02-08",
+                    "place": "Long Branch",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "183 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/50957.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9569,
+                        "name": "Nashville SC",
+                        "logo": "https://media-2.api-sports.io/football/teams/9569.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 33,
+                        "minutes": 2925,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.919354",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 11,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1104,
+                        "key": 11,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 65,
+                        "blocks": 10,
+                        "interceptions": 59
+                    },
+                    "duels": {
+                        "total": 204,
+                        "won": 119
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51072,
+                "name": "E. Zubak",
+                "firstname": "Ethan",
+                "lastname": "Zubak",
+                "age": 25,
+                "birth": {
+                    "date": "1998-04-15",
+                    "place": "Corona",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "183 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/51072.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9569,
+                        "name": "Nashville SC",
+                        "logo": "https://media-2.api-sports.io/football/teams/9569.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 2,
+                        "minutes": 202,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.637500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 1,
+                        "bench": 29
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 51,
+                        "key": 4,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 54,
+                        "won": 20
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51017,
+                "name": "T. Bunbury",
+                "firstname": "Teal Alexander",
+                "lastname": "Bunbury",
+                "age": 33,
+                "birth": {
+                    "date": "1990-02-27",
+                    "place": "Hamilton",
+                    "country": "Canada"
+                },
+                "nationality": "USA",
+                "height": "188 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/51017.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9569,
+                        "name": "Nashville SC",
+                        "logo": "https://media-3.api-sports.io/football/teams/9569.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 7,
+                        "minutes": 718,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.661111",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 6,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 27,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 186,
+                        "key": 10,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 109,
+                        "won": 36
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50826,
+                "name": "J. Shaffelburg",
+                "firstname": "Jacob Everett",
+                "lastname": "Shaffelburg",
+                "age": 24,
+                "birth": {
+                    "date": "1999-11-26",
+                    "place": "Port Williams",
+                    "country": "Canada"
+                },
+                "nationality": "Canada",
+                "height": "177 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/50826.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9569,
+                        "name": "Nashville SC",
+                        "logo": "https://media-3.api-sports.io/football/teams/9569.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 7,
+                        "minutes": 532,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.933333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 7,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 97,
+                        "key": 6,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 46,
+                        "won": 24
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51055,
+                "name": "D. Romney",
+                "firstname": "David",
+                "lastname": "Romney",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-12",
+                    "place": "Irvine",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "188 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/51055.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9569,
+                        "name": "Nashville SC",
+                        "logo": "https://media-3.api-sports.io/football/teams/9569.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 31,
+                        "minutes": 2735,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.988888",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 3,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1256,
+                        "key": 7,
+                        "accuracy": 37
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 17,
+                        "interceptions": 25
+                    },
+                    "duels": {
+                        "total": 140,
+                        "won": 95
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 312997,
+                "name": "I. Donasiyano",
+                "firstname": "Irakoze",
+                "lastname": "Donasiyano",
+                "age": 25,
+                "birth": {
+                    "date": "1998-02-03",
+                    "place": null,
+                    "country": "Tanzania"
+                },
+                "nationality": "Burundi",
+                "height": "178 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/312997.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9569,
+                        "name": "Nashville SC",
+                        "logo": "https://media-1.api-sports.io/football/teams/9569.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 353379,
+                "name": "W. Meyer",
+                "firstname": "William",
+                "lastname": "Meyer",
+                "age": 25,
+                "birth": {
+                    "date": "1998-05-25",
+                    "place": null,
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "188 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/353379.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9569,
+                        "name": "Nashville SC",
+                        "logo": "https://media-2.api-sports.io/football/teams/9569.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50918,
+                "name": "C. Sapong",
+                "firstname": "Charles Nana Kwabena",
+                "lastname": "Sapong",
+                "age": 35,
+                "birth": {
+                    "date": "1988-12-27",
+                    "place": "Manassas",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "185 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/50918.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9569,
+                        "name": "Nashville SC",
+                        "logo": "https://media-2.api-sports.io/football/teams/9569.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 30,
+                        "minutes": 2505,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.886666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 22,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 30,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 469,
+                        "key": 24,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 4,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 346,
+                        "won": 182
+                    },
+                    "dribbles": {
+                        "attempts": 28,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 50,
+                        "committed": 35
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51154,
+                "name": "E. Miller",
+                "firstname": "Eric",
+                "lastname": "Miller",
+                "age": 30,
+                "birth": {
+                    "date": "1993-01-15",
+                    "place": "Jacksonville",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "185 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/51154.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9569,
+                        "name": "Nashville SC",
+                        "logo": "https://media-2.api-sports.io/football/teams/9569.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 14,
+                        "minutes": 1342,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.661904",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 5,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 517,
+                        "key": 6,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 6,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 62,
+                        "won": 37
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 102596,
+                "name": "R. Castellanos",
+                "firstname": "Robert",
+                "lastname": "Castellanos",
+                "age": 25,
+                "birth": {
+                    "date": "1998-05-11",
+                    "place": "Palmdale",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "185 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/102596.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9569,
+                        "name": "Nashville SC",
+                        "logo": "https://media-3.api-sports.io/football/teams/9569.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,587 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "71",
+        "team": "119",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 6,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 238338,
+                "name": "Paulo Victor",
+                "firstname": "Paulo Victor",
+                "lastname": "de Almeida Barbosa",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-13",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/238338.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 119,
+                        "name": "Internacional",
+                        "logo": "https://media-3.api-sports.io/football/teams/119.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 143368,
+                "name": "Bruno Gomes",
+                "firstname": "Bruno",
+                "lastname": "Gomes da Silva Clevel\u00e1rio",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-04",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "175 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/143368.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 119,
+                        "name": "Internacional",
+                        "logo": "https://media-2.api-sports.io/football/teams/119.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.866666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 651,
+                        "key": 21,
+                        "accuracy": 29
+                    },
+                    "tackles": {
+                        "total": 40,
+                        "blocks": 4,
+                        "interceptions": 22
+                    },
+                    "duels": {
+                        "total": 211,
+                        "won": 114
+                    },
+                    "dribbles": {
+                        "attempts": 37,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 48,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 9964,
+                "name": "Liziero",
+                "firstname": "Igor Matheus",
+                "lastname": "Liziero Pereira",
+                "age": 25,
+                "birth": {
+                    "date": "1998-02-07",
+                    "place": "Jales",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "176 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/9964.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 119,
+                        "name": "Internacional",
+                        "logo": "https://media-2.api-sports.io/football/teams/119.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 5,
+                        "minutes": 502,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.733333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 3,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 223,
+                        "key": 5,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 1,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 68,
+                        "won": 36
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 21093,
+                "name": "Boschilia",
+                "firstname": "Gabriel",
+                "lastname": "Boschilia",
+                "age": 27,
+                "birth": {
+                    "date": "1996-03-05",
+                    "place": "Piracicaba",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "172 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/21093.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 119,
+                        "name": "Internacional",
+                        "logo": "https://media-2.api-sports.io/football/teams/119.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 0,
+                        "minutes": 52,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.550000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 0,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 170,
+                        "key": 7,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 2,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 48,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 196310,
+                "name": "Matheus Cadorini",
+                "firstname": "Matheus Alfredo",
+                "lastname": "Cadorini da Silva",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-01",
+                    "place": "Taubat\u00e9",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "192 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/196310.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 119,
+                        "name": "Internacional",
+                        "logo": "https://media-2.api-sports.io/football/teams/119.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 1,
+                        "minutes": 87,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.842857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 82,
+                        "key": 3,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 46,
+                        "won": 21
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10371,
+                "name": "Daniel",
+                "firstname": "Daniel",
+                "lastname": "de Sousa Brito",
+                "age": 29,
+                "birth": {
+                    "date": "1994-05-06",
+                    "place": "Barra do Gar\u00e7as",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "188 cm",
+                "weight": "93 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/10371.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 119,
+                        "name": "Internacional",
+                        "logo": "https://media-1.api-sports.io/football/teams/119.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 23,
+                        "minutes": 2070,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "7.060000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 16,
+                        "assists": null,
+                        "saves": 61
+                    },
+                    "passes": {
+                        "total": 425,
+                        "key": null,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 9,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        }
+    ]
+}

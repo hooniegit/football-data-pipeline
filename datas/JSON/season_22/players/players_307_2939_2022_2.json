@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "307",
+        "team": "2939",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 50886,
+                "name": "P. Mart\u00ednez",
+                "firstname": "Gonzalo Nicol\u00e1s",
+                "lastname": "Mart\u00ednez",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-13",
+                    "place": "Mendoza",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "170 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/50886.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-2.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 4,
+                        "minutes": 395,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 4,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 170,
+                        "key": 7,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 41,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 44692,
+                "name": "Sami Al Naji",
+                "firstname": "Sami Khalil Nasser",
+                "lastname": "Al Naji",
+                "age": 26,
+                "birth": {
+                    "date": "1997-02-07",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": "177 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/44692.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-1.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 17,
+                        "minutes": 1418,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.954166",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 12,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 534,
+                        "key": 23,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 36,
+                        "blocks": 2,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 170,
+                        "won": 98
+                    },
+                    "dribbles": {
+                        "attempts": 30,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 41,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1909,
+                "name": "Luiz Gustavo",
+                "firstname": "Luiz Gustavo",
+                "lastname": "Dias",
+                "age": 36,
+                "birth": {
+                    "date": "1987-07-23",
+                    "place": "Pindamonhangaba",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "186 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1909.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-1.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 29,
+                        "minutes": 2520,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.251724",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 7,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 34,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1587,
+                        "key": 27,
+                        "accuracy": 49
+                    },
+                    "tackles": {
+                        "total": 61,
+                        "blocks": 5,
+                        "interceptions": 31
+                    },
+                    "duels": {
+                        "total": 223,
+                        "won": 124
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 16,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 37,
+                        "committed": 45
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 44509,
+                "name": "Ali Al Hassan",
+                "firstname": "Ali Sadiq Nasser",
+                "lastname": "Al Hassan",
+                "age": 26,
+                "birth": {
+                    "date": "1997-03-04",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": "183 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/44509.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-3.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 8,
+                        "minutes": 790,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.760000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 6,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 493,
+                        "key": 12,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": 1,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 106,
+                        "won": 46
+                    },
+                    "dribbles": {
+                        "attempts": 18,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 147812,
+                "name": "Ayman Yahya",
+                "firstname": "Ayman Yahya Salem",
+                "lastname": "Ahmed",
+                "age": 22,
+                "birth": {
+                    "date": "2001-05-14",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": "172 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/147812.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-1.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 10,
+                        "minutes": 868,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.910000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 11,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 359,
+                        "key": 13,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": null,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 100,
+                        "won": 47
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 402635,
+                "name": "Muhammad Sahlouli",
+                "firstname": "Muhammad Ahmed",
+                "lastname": "Yahya Sahlouli",
+                "age": 19,
+                "birth": {
+                    "date": "2004-11-21",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/402635.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-3.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 351914,
+                "name": "Abdulaziz Al Elewai",
+                "firstname": "Abdulaziz Saud",
+                "lastname": "Al Elewai",
+                "age": 19,
+                "birth": {
+                    "date": "2004-02-11",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": "182 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/351914.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-1.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 68,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 23,
+                        "key": 1,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 10,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12724,
+                "name": "Talisca",
+                "firstname": "Anderson",
+                "lastname": "Souza Concei\u00e7\u00e3o",
+                "age": 29,
+                "birth": {
+                    "date": "1994-02-01",
+                    "place": "Feira de Santana",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "191 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/12724.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-3.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 22,
+                        "minutes": 1998,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.582608",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 3,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 88,
+                        "on": 48
+                    },
+                    "goals": {
+                        "total": 20,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 624,
+                        "key": 30,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": null,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 240,
+                        "won": 114
+                    },
+                    "dribbles": {
+                        "attempts": 60,
+                        "success": 28,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 40,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 399111,
+                "name": "Khalid Kaabi",
+                "firstname": "Khalid Hussain",
+                "lastname": "Kaabi",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-10",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/399111.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-1.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 874,
+                "name": "Cristiano Ronaldo",
+                "firstname": "Cristiano Ronaldo",
+                "lastname": "dos Santos Aveiro",
+                "age": 38,
+                "birth": {
+                    "date": "1985-02-05",
+                    "place": "Funchal",
+                    "country": "Portugal"
+                },
+                "nationality": "Portugal",
+                "height": "187 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/874.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-1.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 16,
+                        "minutes": 1434,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.575000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 62,
+                        "on": 33
+                    },
+                    "goals": {
+                        "total": 14,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 436,
+                        "key": 21,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 2,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 149,
+                        "won": 69
+                    },
+                    "dribbles": {
+                        "attempts": 46,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 5,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 193289,
+                "name": "Mohammed Maran",
+                "firstname": "Mohammed Khalil",
+                "lastname": "Maran",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-15",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": "180 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/193289.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-2.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 1,
+                        "minutes": 238,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.773333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 2,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 67,
+                        "key": 5,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 38,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 366575,
+                "name": "Meshari Al Nemer",
+                "firstname": "Meshari Fahad",
+                "lastname": "Al Nemer",
+                "age": 20,
+                "birth": {
+                    "date": "2003-08-05",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": "170 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/366575.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-2.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 409536,
+                "name": "Faisal Sawlan Majrashi",
+                "firstname": "Faisal Sawlan",
+                "lastname": "Majrashi",
+                "age": 20,
+                "birth": {
+                    "date": "2003-08-07",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/409536.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-1.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 402636,
+                "name": "Muhannad Barah",
+                "firstname": "Muhannad",
+                "lastname": "Abdullah Barah",
+                "age": 19,
+                "birth": {
+                    "date": "2004-01-18",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/402636.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-1.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 402455,
+                "name": "Fahad Al Zubaidi",
+                "firstname": "Fahad Aqeel",
+                "lastname": "Al Zubaidi",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-13",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/402455.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-3.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 290640,
+                "name": "Raed Ozaybi",
+                "firstname": "Raed Hussain Mohammed",
+                "lastname": "Ozaybi",
+                "age": 22,
+                "birth": {
+                    "date": "2001-09-22",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/290640.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-2.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 44701,
+                "name": "Khalid Al Ghannam",
+                "firstname": "Khalid Essa Muhammad",
+                "lastname": "Al Ghannam",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-07",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": "171 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/44701.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-1.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 2,
+                        "minutes": 188,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.786666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 2,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 238,
+                        "key": 13,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 100,
+                        "won": 52
+                    },
+                    "dribbles": {
+                        "attempts": 53,
+                        "success": 29,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 386,
+                "name": "V. Aboubakar",
+                "firstname": "Vincent",
+                "lastname": "Aboubakar",
+                "age": 31,
+                "birth": {
+                    "date": "1992-01-22",
+                    "place": "Garoua",
+                    "country": "Cameroon"
+                },
+                "nationality": "Cameroon",
+                "height": "184 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/386.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-2.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 11,
+                        "minutes": 897,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.836363",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 7,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 164,
+                        "key": 7,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 79,
+                        "won": 27
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 53836,
+                "name": "J. Masharipov",
+                "firstname": "Jaloliddin",
+                "lastname": "Masharipov",
+                "age": 30,
+                "birth": {
+                    "date": "1993-09-01",
+                    "place": null,
+                    "country": "Uzbekistan"
+                },
+                "nationality": "Uzbekistan",
+                "height": "178 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/53836.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-1.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 5,
+                        "minutes": 492,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.928571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 5,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 286,
+                        "key": 17,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 2,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 90,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 18,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 44475,
+                "name": "Abdulelah Al Amri",
+                "firstname": "Abdulelah Ali Awadh",
+                "lastname": "Al Amri",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-15",
+                    "place": null,
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": "184 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/44475.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2939,
+                        "name": "Al-Nassr",
+                        "logo": "https://media-3.api-sports.io/football/teams/2939.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 24,
+                        "minutes": 2126,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.933333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 5,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1365,
+                        "key": 12,
+                        "accuracy": 44
+                    },
+                    "tackles": {
+                        "total": 46,
+                        "blocks": 6,
+                        "interceptions": 41
+                    },
+                    "duels": {
+                        "total": 233,
+                        "won": 121
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 28
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

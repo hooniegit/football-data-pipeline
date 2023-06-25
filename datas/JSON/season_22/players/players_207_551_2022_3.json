@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "207",
+        "team": "551",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 303322,
+                "name": "N. Djiga",
+                "firstname": "Yacouba Nasser",
+                "lastname": "Djiga",
+                "age": 21,
+                "birth": {
+                    "date": "2002-11-15",
+                    "place": "Bobo-Dioulasso",
+                    "country": "Burkina Faso"
+                },
+                "nationality": "Burkina Faso",
+                "height": "187 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/303322.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 551,
+                        "name": "FC Basel 1893",
+                        "logo": "https://media-2.api-sports.io/football/teams/551.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-1.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-3.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 37153,
+                "name": "W. Burger",
+                "firstname": "Wouter",
+                "lastname": "Burger",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-16",
+                    "place": "Zuid-Beijerland",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "191 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/37153.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 551,
+                        "name": "FC Basel 1893",
+                        "logo": "https://media-2.api-sports.io/football/teams/551.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-3.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-1.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 23,
+                        "minutes": 1972,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.837037",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 10,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1004,
+                        "key": 26,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 42,
+                        "blocks": 9,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 230,
+                        "won": 116
+                    },
+                    "dribbles": {
+                        "attempts": 18,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 33
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 2
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 135965,
+                "name": "D. Males",
+                "firstname": "Darian",
+                "lastname": "Males",
+                "age": 22,
+                "birth": {
+                    "date": "2001-05-03",
+                    "place": "Luzern",
+                    "country": "Switzerland"
+                },
+                "nationality": "Switzerland",
+                "height": "188 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/135965.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 551,
+                        "name": "FC Basel 1893",
+                        "logo": "https://media-2.api-sports.io/football/teams/551.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-1.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-1.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 21,
+                        "minutes": 1739,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.872000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 14,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 7,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 457,
+                        "key": 24,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 140,
+                        "won": 72
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 42,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 123469,
+                "name": "Z. Amdouni",
+                "firstname": "Mohamed Zeki",
+                "lastname": "Amdouni",
+                "age": 23,
+                "birth": {
+                    "date": "2000-12-04",
+                    "place": "Gen\u00e8ve",
+                    "country": "Switzerland"
+                },
+                "nationality": "Switzerland",
+                "height": "185 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/123469.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 551,
+                        "name": "FC Basel 1893",
+                        "logo": "https://media-3.api-sports.io/football/teams/551.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-1.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-1.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 23,
+                        "minutes": 2192,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.106896",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 8,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 53,
+                        "on": 33
+                    },
+                    "goals": {
+                        "total": 12,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 642,
+                        "key": 37,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 5,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 321,
+                        "won": 140
+                    },
+                    "dribbles": {
+                        "attempts": 102,
+                        "success": 53,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 32,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 48648,
+                "name": "D. Ndoye",
+                "firstname": "Dan Assane",
+                "lastname": "Ndoye",
+                "age": 23,
+                "birth": {
+                    "date": "2000-10-25",
+                    "place": null,
+                    "country": "Switzerland"
+                },
+                "nationality": "Switzerland",
+                "height": "184 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/48648.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 551,
+                        "name": "FC Basel 1893",
+                        "logo": "https://media-2.api-sports.io/football/teams/551.png"
+                    },
+                    "league": {
+                        "id": 207,
+                        "name": "Super League",
+                        "country": "Switzerland",
+                        "logo": "https://media-2.api-sports.io/football/leagues/207.png",
+                        "flag": "https://media-2.api-sports.io/flags/ch.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 25,
+                        "minutes": 2289,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.782758",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 14,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 32,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 624,
+                        "key": 24,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 41,
+                        "blocks": 3,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 336,
+                        "won": 178
+                    },
+                    "dribbles": {
+                        "attempts": 119,
+                        "success": 60,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 70,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

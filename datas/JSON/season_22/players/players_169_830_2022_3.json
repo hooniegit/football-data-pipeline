@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "169",
+        "team": "830",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 12926,
+                "name": "Jin Pengxiang",
+                "firstname": "Pengxiang",
+                "lastname": "Jin",
+                "age": 33,
+                "birth": {
+                    "date": "1990-01-25",
+                    "place": "Dalian",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "188 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/12926.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 830,
+                        "name": "Beijing Guoan",
+                        "logo": "https://media-2.api-sports.io/football/teams/830.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-3.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 3,
+                        "minutes": 239,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.800000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 92,
+                        "key": null,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": 1,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12663,
+                "name": "Liu Guobo",
+                "firstname": "Guobo",
+                "lastname": "Liu",
+                "age": 24,
+                "birth": {
+                    "date": "1999-11-27",
+                    "place": null,
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "189 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12663.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 830,
+                        "name": "Beijing Guoan",
+                        "logo": "https://media-3.api-sports.io/football/teams/830.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 3,
+                        "minutes": 313,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.271428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 2,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 84,
+                        "key": 3,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 51,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 292431,
+                "name": "Xu Dongdong",
+                "firstname": "Dongdong",
+                "lastname": "Xu",
+                "age": 22,
+                "birth": {
+                    "date": "2001-11-07",
+                    "place": null,
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "173 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/292431.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 830,
+                        "name": "Beijing Guoan",
+                        "logo": "https://media-2.api-sports.io/football/teams/830.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 318650,
+                "name": "Hu Jiaqi",
+                "firstname": "Jiaqi",
+                "lastname": "Hu",
+                "age": 22,
+                "birth": {
+                    "date": "2001-08-13",
+                    "place": null,
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "170 cm",
+                "weight": "59 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/318650.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 830,
+                        "name": "Beijing Guoan",
+                        "logo": "https://media-3.api-sports.io/football/teams/830.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12660,
+                "name": "Hou Yongyong",
+                "firstname": "John",
+                "lastname": "Hou S\u00e6ter",
+                "age": 25,
+                "birth": {
+                    "date": "1998-01-13",
+                    "place": "Trondheim",
+                    "country": "Norway"
+                },
+                "nationality": "China PR",
+                "height": "183 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12660.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 830,
+                        "name": "Beijing Guoan",
+                        "logo": "https://media-3.api-sports.io/football/teams/830.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 7,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

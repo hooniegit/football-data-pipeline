@@ -1,0 +1,1062 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "98",
+        "team": "296",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 11,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 32999,
+                "name": "Anderson Lopes",
+                "firstname": "Anderson Jos\u00e9",
+                "lastname": "Lopes de Souza",
+                "age": 30,
+                "birth": {
+                    "date": "1993-09-15",
+                    "place": "Recife",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "185 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/32999.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 296,
+                        "name": "Yokohama F. Marinos",
+                        "logo": "https://media-3.api-sports.io/football/teams/296.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-3.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-3.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 20,
+                        "minutes": 1730,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.116000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 16,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 51,
+                        "on": 24
+                    },
+                    "goals": {
+                        "total": 11,
+                        "conceded": 0,
+                        "assists": 6,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 378,
+                        "key": 25,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 2,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 217,
+                        "won": 97
+                    },
+                    "dribbles": {
+                        "attempts": 42,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 41630,
+                "name": "Yan Matheus",
+                "firstname": "Yan Matheus",
+                "lastname": "Santos Souza",
+                "age": 25,
+                "birth": {
+                    "date": "1998-09-04",
+                    "place": "Alagoinhas",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "175 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/41630.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 296,
+                        "name": "Yokohama F. Marinos",
+                        "logo": "https://media-3.api-sports.io/football/teams/296.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-1.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-2.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 0,
+                        "minutes": 97,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.800000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 53,
+                        "key": 2,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24939,
+                "name": "R. Miyaichi",
+                "firstname": "Ryo",
+                "lastname": "Miyaichi",
+                "age": 31,
+                "birth": {
+                    "date": "1992-12-14",
+                    "place": "Okazaki",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "183 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/24939.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 296,
+                        "name": "Yokohama F. Marinos",
+                        "logo": "https://media-3.api-sports.io/football/teams/296.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-1.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-3.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 7,
+                        "minutes": 625,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.875000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 7,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 182,
+                        "key": 16,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 53,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 846,
+                "name": "T. Nishimura",
+                "firstname": "Takuma",
+                "lastname": "Nishimura",
+                "age": 27,
+                "birth": {
+                    "date": "1996-10-22",
+                    "place": "Nagoya",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "178 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/846.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 296,
+                        "name": "Yokohama F. Marinos",
+                        "logo": "https://media-2.api-sports.io/football/teams/296.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-2.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-1.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 21,
+                        "minutes": 1748,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.991304",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 12,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 36,
+                        "on": 21
+                    },
+                    "goals": {
+                        "total": 10,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 560,
+                        "key": 31,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 3,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 180,
+                        "won": 70
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 26,
+                        "committed": 34
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 9550,
+                "name": "L\u00e9o Cear\u00e1",
+                "firstname": "Leonardo",
+                "lastname": "de Sousa Pereira",
+                "age": 28,
+                "birth": {
+                    "date": "1995-02-03",
+                    "place": "Fortaleza",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "178 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/9550.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 296,
+                        "name": "Yokohama F. Marinos",
+                        "logo": "https://media-3.api-sports.io/football/teams/296.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-2.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-1.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 14,
+                        "minutes": 1303,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.919230",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 17,
+                        "out": 11,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 39,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 11,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 328,
+                        "key": 15,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 153,
+                        "won": 51
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 268610,
+                "name": "R. Kabayama",
+                "firstname": "Ryonosuke",
+                "lastname": "Kabayama",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-17",
+                    "place": "Osaka",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "171 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/268610.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 296,
+                        "name": "Yokohama F. Marinos",
+                        "logo": "https://media-1.api-sports.io/football/teams/296.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-2.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-3.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 0,
+                        "minutes": 61,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.525000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 24,
+                        "key": 1,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 13,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 33027,
+                "name": "T. Nakagawa",
+                "firstname": "Teruhito",
+                "lastname": "Nakagawa",
+                "age": 31,
+                "birth": {
+                    "date": "1992-07-27",
+                    "place": "Kawasaki",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "160 cm",
+                "weight": "57 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/33027.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 296,
+                        "name": "Yokohama F. Marinos",
+                        "logo": "https://media-3.api-sports.io/football/teams/296.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-3.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-1.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 15,
+                        "minutes": 1473,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.944444",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 12,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 26,
+                        "on": 17
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 402,
+                        "key": 27,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 23,
+                        "blocks": 2,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 151,
+                        "won": 72
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 37,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 268608,
+                "name": "T. Tagawa",
+                "firstname": "Tomoki",
+                "lastname": "Tagawa",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-18",
+                    "place": "Osaka",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "180 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/268608.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 296,
+                        "name": "Yokohama F. Marinos",
+                        "logo": "https://media-1.api-sports.io/football/teams/296.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-3.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-3.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 288919,
+                "name": "T. Ndao",
+                "firstname": "Talla",
+                "lastname": "Ndao",
+                "age": 24,
+                "birth": {
+                    "date": "1999-02-23",
+                    "place": null,
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "186 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/288919.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 296,
+                        "name": "Yokohama F. Marinos",
+                        "logo": "https://media-2.api-sports.io/football/teams/296.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-1.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-2.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 22,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 4,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 351017,
+                "name": "Y. Nishida",
+                "firstname": "Yusuke",
+                "lastname": "Nishida",
+                "age": 20,
+                "birth": {
+                    "date": "2003-08-06",
+                    "place": null,
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "179 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/351017.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 296,
+                        "name": "Yokohama F. Marinos",
+                        "logo": "https://media-1.api-sports.io/football/teams/296.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-2.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-2.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 33385,
+                "name": "Y. Takaoka",
+                "firstname": "Yohei",
+                "lastname": "Takaoka",
+                "age": 27,
+                "birth": {
+                    "date": "1996-03-16",
+                    "place": "Yokohama",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "182 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/33385.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 296,
+                        "name": "Yokohama F. Marinos",
+                        "logo": "https://media-1.api-sports.io/football/teams/296.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-2.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-3.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 34,
+                        "minutes": 3060,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.941379",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 29,
+                        "assists": null,
+                        "saves": 68
+                    },
+                    "passes": {
+                        "total": 1252,
+                        "key": 1,
+                        "accuracy": 35
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

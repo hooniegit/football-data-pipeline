@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "307",
+        "team": "2932",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 44551,
+                "name": "Saleh Al Shehri",
+                "firstname": "Saleh Khalid Mohammed",
+                "lastname": "Al Shehri",
+                "age": 30,
+                "birth": {
+                    "date": "1993-11-01",
+                    "place": "Jeddah",
+                    "country": "Saudi Arabia"
+                },
+                "nationality": "Saudi Arabia",
+                "height": "183 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/44551.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2932,
+                        "name": "Al-Hilal Saudi FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/2932.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 4,
+                        "minutes": 538,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.631578",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 17,
+                        "out": 3,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 133,
+                        "key": 7,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 67,
+                        "won": 34
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

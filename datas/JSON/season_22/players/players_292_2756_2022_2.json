@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "292",
+        "team": "2756",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 34579,
+                "name": "Jeong Jae-Yong",
+                "firstname": "Jae-Yong",
+                "lastname": "Jeong",
+                "age": 33,
+                "birth": {
+                    "date": "1990-09-14",
+                    "place": "Seoul",
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "188 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/34579.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2756,
+                        "name": "Suwon City FC",
+                        "logo": "https://media-2.api-sports.io/football/teams/2756.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-1.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-1.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 18,
+                        "minutes": 1990,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.887096",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 4,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 16,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 981,
+                        "key": 14,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 31,
+                        "blocks": 13,
+                        "interceptions": 28
+                    },
+                    "duels": {
+                        "total": 124,
+                        "won": 68
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 9216,
+                "name": "Murilo Henrique",
+                "firstname": "Murilo Henrique",
+                "lastname": "Pereira Rocha",
+                "age": 29,
+                "birth": {
+                    "date": "1994-11-20",
+                    "place": "Jata\u00ed",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "177 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/9216.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2756,
+                        "name": "Suwon City FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/2756.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-2.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-2.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 10,
+                        "minutes": 1449,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.931818",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 12,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 24,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 623,
+                        "key": 30,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 2,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 121,
+                        "won": 64
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 32,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 356245,
+                "name": "Jung Jae-Yoon",
+                "firstname": "Jae-Yoon",
+                "lastname": "Jung",
+                "age": 21,
+                "birth": {
+                    "date": "2002-05-07",
+                    "place": null,
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/356245.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2756,
+                        "name": "Suwon City FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/2756.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-2.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-2.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 11,
+                        "minutes": 168,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.454545",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 11,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 30,
+                        "key": 1,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 34464,
+                "name": "Hwang Soon-Min",
+                "firstname": "Soon-Min",
+                "lastname": "Hwang",
+                "age": 33,
+                "birth": {
+                    "date": "1990-09-14",
+                    "place": null,
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "178 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/34464.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2756,
+                        "name": "Suwon City FC",
+                        "logo": "https://media-2.api-sports.io/football/teams/2756.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-1.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-2.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 7,
+                        "minutes": 414,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.462500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 6,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 157,
+                        "key": 3,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 3,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 30,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 34783,
+                "name": "Kim Hyun",
+                "firstname": "Hyun",
+                "lastname": "Kim",
+                "age": 30,
+                "birth": {
+                    "date": "1993-05-03",
+                    "place": "Suwon",
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "190 cm",
+                "weight": "87 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/34783.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2756,
+                        "name": "Suwon City FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/2756.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-3.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-3.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 14,
+                        "minutes": 1619,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.934482",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 17,
+                        "out": 9,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 37,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 383,
+                        "key": 20,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 3,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 248,
+                        "won": 112
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 37445,
+                "name": "L. Veldwijk",
+                "firstname": "Lars",
+                "lastname": "Veldwijk",
+                "age": 32,
+                "birth": {
+                    "date": "1991-08-21",
+                    "place": "Uithoorn",
+                    "country": "Netherlands"
+                },
+                "nationality": "South Africa",
+                "height": "197 cm",
+                "weight": "94 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/37445.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2756,
+                        "name": "Suwon City FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/2756.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-3.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-1.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 21,
+                        "minutes": 2407,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.025000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 8,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 65,
+                        "on": 30
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 7,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 607,
+                        "key": 40,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 3,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 387,
+                        "won": 192
+                    },
+                    "dribbles": {
+                        "attempts": 28,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2914,
+                "name": "Lee Seung-Woo",
+                "firstname": "Seung-Woo",
+                "lastname": "Lee",
+                "age": 25,
+                "birth": {
+                    "date": "1998-01-06",
+                    "place": "Suwon",
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "173 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2914.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2756,
+                        "name": "Suwon City FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/2756.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-3.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-2.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 14,
+                        "minutes": 2554,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.954545",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 21,
+                        "out": 6,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 45,
+                        "on": 23
+                    },
+                    "goals": {
+                        "total": 14,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 733,
+                        "key": 39,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 34,
+                        "blocks": 1,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 290,
+                        "won": 138
+                    },
+                    "dribbles": {
+                        "attempts": 67,
+                        "success": 38,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 62,
+                        "committed": 44
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 33952,
+                "name": "Yang Dong-Hyen",
+                "firstname": "Dong-Hyen",
+                "lastname": "Yang",
+                "age": 37,
+                "birth": {
+                    "date": "1986-03-28",
+                    "place": "Seoul",
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "186 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/33952.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2756,
+                        "name": "Suwon City FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/2756.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-3.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-2.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 2,
+                        "minutes": 201,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.637500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 2,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 52,
+                        "key": 3,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 27,
+                        "won": 17
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 356247,
+                "name": "Jang Jae-Woong",
+                "firstname": "Jae-Woong",
+                "lastname": "Jang",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-08",
+                    "place": null,
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "176 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/356247.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2756,
+                        "name": "Suwon City FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/2756.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-3.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-3.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 10,
+                        "minutes": 187,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.409090",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 10,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 33,
+                        "key": 3,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 26,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 34761,
+                "name": "Kim Dong-Woo",
+                "firstname": "Dong-Woo",
+                "lastname": "Kim",
+                "age": 35,
+                "birth": {
+                    "date": "1988-02-05",
+                    "place": null,
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "189 cm",
+                "weight": "87 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/34761.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2756,
+                        "name": "Suwon City FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/2756.png"
+                    },
+                    "league": {
+                        "id": 292,
+                        "name": "K League 1",
+                        "country": "South-Korea",
+                        "logo": "https://media-3.api-sports.io/football/leagues/292.png",
+                        "flag": "https://media-3.api-sports.io/flags/kr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 14,
+                        "minutes": 1078,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.707142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 7,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 490,
+                        "key": 2,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 8,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 58,
+                        "won": 30
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

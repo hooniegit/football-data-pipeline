@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "110",
+        "team": "357",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 53206,
+                "name": "M. Wilde",
+                "firstname": "Michael David",
+                "lastname": "Wilde",
+                "age": 40,
+                "birth": {
+                    "date": "1983-08-27",
+                    "place": "Birkenhead",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "184 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/53206.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 357,
+                        "name": "GAP Connah S Quay FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/357.png"
+                    },
+                    "league": {
+                        "id": 110,
+                        "name": "Premier League",
+                        "country": "Wales",
+                        "logo": "https://media-2.api-sports.io/football/leagues/110.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 23,
+                        "minutes": 2081,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 10,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 105733,
+                "name": "A. Williams",
+                "firstname": "Aron Mark",
+                "lastname": "Williams",
+                "age": 28,
+                "birth": {
+                    "date": "1995-11-08",
+                    "place": null,
+                    "country": "Wales"
+                },
+                "nationality": "Wales",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/105733.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 357,
+                        "name": "GAP Connah S Quay FC",
+                        "logo": "https://media-2.api-sports.io/football/teams/357.png"
+                    },
+                    "league": {
+                        "id": 110,
+                        "name": "Premier League",
+                        "country": "Wales",
+                        "logo": "https://media-3.api-sports.io/football/leagues/110.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 19,
+                        "minutes": 1464,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 11,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 355837,
+                "name": "L. Holden",
+                "firstname": "Louis",
+                "lastname": "Holden",
+                "age": 19,
+                "birth": {
+                    "date": "2004-09-06",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/355837.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 357,
+                        "name": "GAP Connah S Quay FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/357.png"
+                    },
+                    "league": {
+                        "id": 110,
+                        "name": "Premier League",
+                        "country": "Wales",
+                        "logo": "https://media-3.api-sports.io/football/leagues/110.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

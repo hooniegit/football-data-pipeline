@@ -1,0 +1,2065 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "40",
+        "team": "37",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 138777,
+                "name": "F. Anjorin",
+                "firstname": "Faustino Adebola Rasheed",
+                "lastname": "Anjorin",
+                "age": 22,
+                "birth": {
+                    "date": "2001-11-23",
+                    "place": "Poole",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "185 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/138777.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 6,
+                        "minutes": 443,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 6,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 126,
+                        "key": 2,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 70,
+                        "won": 26
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18080,
+                "name": "J. Koroma",
+                "firstname": "Josh",
+                "lastname": "Koroma",
+                "age": 25,
+                "birth": {
+                    "date": "1998-11-09",
+                    "place": "Southwark",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "178 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/18080.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 12,
+                        "minutes": 1147,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 6,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 231,
+                        "key": 12,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 148,
+                        "won": 67
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 1,
+                        "minutes": 58,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 231,
+                        "key": 12,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 148,
+                        "won": 67
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19531,
+                "name": "C. Mahoney",
+                "firstname": "Connor",
+                "lastname": "Mahoney",
+                "age": 26,
+                "birth": {
+                    "date": "1997-02-12",
+                    "place": "Blackburn",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "175 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/19531.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 0,
+                        "minutes": 172,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.433333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 0,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 77,
+                        "key": 1,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 25,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 170430,
+                "name": "S. High",
+                "firstname": "Scott John",
+                "lastname": "High",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-15",
+                    "place": "Dewsbury",
+                    "country": "England"
+                },
+                "nationality": "Scotland",
+                "height": "177 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/170430.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 6,
+                        "minutes": 510,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.575000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 4,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 169,
+                        "key": 3,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 32,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.575000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 169,
+                        "key": 3,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 32,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 191976,
+                "name": "J. Hungbo",
+                "firstname": "Joseph Oluwagbemiga Mayowa",
+                "lastname": "Hungbo",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-15",
+                    "place": "London",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "173 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/191976.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 8,
+                        "minutes": 666,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.576923",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 6,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 95,
+                        "key": 7,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 99,
+                        "won": 35
+                    },
+                    "dribbles": {
+                        "attempts": 32,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 17437,
+                "name": "D. Kasumu",
+                "firstname": "David Ayomide",
+                "lastname": "Kasumu",
+                "age": 24,
+                "birth": {
+                    "date": "1999-10-05",
+                    "place": "Lambeth",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "180 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/17437.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 26,
+                        "minutes": 2223,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 14,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 558,
+                        "key": 11,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 56,
+                        "blocks": 8,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 282,
+                        "won": 127
+                    },
+                    "dribbles": {
+                        "attempts": 37,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 33,
+                        "committed": 40
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19214,
+                "name": "D. Holmes",
+                "firstname": "Duane",
+                "lastname": "Holmes",
+                "age": 29,
+                "birth": {
+                    "date": "1994-11-06",
+                    "place": "Columbus",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "172 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/19214.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 20,
+                        "minutes": 1640,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.759259",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 17,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 500,
+                        "key": 28,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 36,
+                        "blocks": 3,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 157,
+                        "won": 73
+                    },
+                    "dribbles": {
+                        "attempts": 30,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20372,
+                "name": "J. Rudoni",
+                "firstname": "Jack",
+                "lastname": "Rudoni",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-14",
+                    "place": "Carshalton",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "186 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/20372.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 46,
+                        "lineups": 42,
+                        "minutes": 3713,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.693333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 7,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 40,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1302,
+                        "key": 42,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 63,
+                        "blocks": 15,
+                        "interceptions": 33
+                    },
+                    "duels": {
+                        "total": 503,
+                        "won": 193
+                    },
+                    "dribbles": {
+                        "attempts": 92,
+                        "success": 41,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 38,
+                        "committed": 61
+                    },
+                    "cards": {
+                        "yellow": 11,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 297139,
+                "name": "E. Camara",
+                "firstname": "Etienne Amara",
+                "lastname": "Camara",
+                "age": 20,
+                "birth": {
+                    "date": "2003-03-30",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "190 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/297139.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 13,
+                        "minutes": 1242,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.715000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 2,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 578,
+                        "key": 7,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 38,
+                        "blocks": 5,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 146,
+                        "won": 81
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 296032,
+                "name": "P. Jones",
+                "firstname": "Patrick Samuel",
+                "lastname": "Jones",
+                "age": 20,
+                "birth": {
+                    "date": "2003-06-09",
+                    "place": null,
+                    "country": "Wales"
+                },
+                "nationality": "Wales",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/296032.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 0,
+                        "minutes": 162,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.566666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 26,
+                        "key": 3,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 35,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 293313,
+                "name": "B. Diarra",
+                "firstname": "Brahima",
+                "lastname": "Diarra",
+                "age": 20,
+                "birth": {
+                    "date": "2003-07-05",
+                    "place": "Paris",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "174 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/293313.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 7,
+                        "minutes": 806,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.590000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 5,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 208,
+                        "key": 16,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 186,
+                        "won": 82
+                    },
+                    "dribbles": {
+                        "attempts": 65,
+                        "success": 33,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 167250,
+                "name": "J. Headley",
+                "firstname": "Jaheim",
+                "lastname": "Headley",
+                "age": 22,
+                "birth": {
+                    "date": "2001-09-24",
+                    "place": "London",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "176 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/167250.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 9,
+                        "minutes": 681,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.563636",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 4,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 152,
+                        "key": 3,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 2,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 96,
+                        "won": 48
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18972,
+                "name": "A. Knockaert",
+                "firstname": "Anthony Patrick",
+                "lastname": "Knockaert",
+                "age": 32,
+                "birth": {
+                    "date": "1991-11-20",
+                    "place": "Roubaix",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "172 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/18972.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 2,
+                        "minutes": 231,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 105,
+                        "key": 3,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 33,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19086,
+                "name": "J. Rhodes",
+                "firstname": "Jordan",
+                "lastname": "Rhodes",
+                "age": 33,
+                "birth": {
+                    "date": "1990-02-05",
+                    "place": "Manchester",
+                    "country": "Scotland"
+                },
+                "nationality": "Scotland",
+                "height": "185 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/19086.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 15,
+                        "minutes": 1449,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.724242",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 19,
+                        "out": 11,
+                        "bench": 25
+                    },
+                    "shots": {
+                        "total": 31,
+                        "on": 20
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 328,
+                        "key": 8,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 3,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 275,
+                        "won": 110
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 37,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 153427,
+                "name": "K. Phillips",
+                "firstname": "Kieran James",
+                "lastname": "Phillips",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-18",
+                    "place": "Pontefract",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "181 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/153427.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19010,
+                "name": "D. Ward",
+                "firstname": "Danny",
+                "lastname": "Ward",
+                "age": 33,
+                "birth": {
+                    "date": "1990-12-09",
+                    "place": "Bradford",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "180 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/19010.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 29,
+                        "minutes": 2549,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.702857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 21,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 37,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 417,
+                        "key": 21,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 6,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 362,
+                        "won": 127
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 138895,
+                "name": "T. Simpson",
+                "firstname": "Tyreece Tyson Nesbett",
+                "lastname": "Simpson",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-07",
+                    "place": "Ipswich",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/138895.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 0,
+                        "minutes": 119,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.411111",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 0,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 30,
+                        "key": 4,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 23,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 159121,
+                "name": "K. Harratt",
+                "firstname": "Kian Shay",
+                "lastname": "Harratt",
+                "age": 21,
+                "birth": {
+                    "date": "2002-06-21",
+                    "place": "Pontefract",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "185 cm",
+                "weight": "64 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/159121.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 0,
+                        "minutes": 15,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 44852,
+                "name": "F. Kamberi",
+                "firstname": "Florian",
+                "lastname": "Kamberi",
+                "age": 28,
+                "birth": {
+                    "date": "1995-03-08",
+                    "place": "Z\u00fcrich",
+                    "country": "Switzerland"
+                },
+                "nationality": "Albania",
+                "height": "189 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/44852.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 14,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 6,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19227,
+                "name": "M. Waghorn",
+                "firstname": "Martyn Thomas",
+                "lastname": "Waghorn",
+                "age": 33,
+                "birth": {
+                    "date": "1990-01-23",
+                    "place": "South Shields",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "176 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/19227.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 37,
+                        "name": "Huddersfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/37.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 7,
+                        "minutes": 629,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.660000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 7,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 82,
+                        "key": 6,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 32,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,777 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "210",
+        "team": "1068",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 8,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 14342,
+                "name": "A. Kalik",
+                "firstname": "Anthony",
+                "lastname": "Kalik",
+                "age": 26,
+                "birth": {
+                    "date": "1997-11-05",
+                    "place": "Sydney",
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": "176 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/14342.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1068,
+                        "name": "HNK Gorica",
+                        "logo": "https://media-2.api-sports.io/football/teams/1068.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-1.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 4,
+                        "minutes": 360,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.516666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 115,
+                        "key": 3,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 52,
+                        "won": 20
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 14887,
+                "name": "D. Juri\u0107",
+                "firstname": "Deni",
+                "lastname": "Juri\u0107",
+                "age": 26,
+                "birth": {
+                    "date": "1997-09-03",
+                    "place": "Kogarah",
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": "188 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/14887.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1068,
+                        "name": "HNK Gorica",
+                        "logo": "https://media-2.api-sports.io/football/teams/1068.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 9,
+                        "minutes": 798,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.512500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 5,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 113,
+                        "key": 3,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 58,
+                        "won": 27
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 129707,
+                "name": "T. Francois",
+                "firstname": "Tyrese Jay",
+                "lastname": "Francois",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-16",
+                    "place": "Campbell Town",
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": "173 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/129707.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1068,
+                        "name": "HNK Gorica",
+                        "logo": "https://media-1.api-sports.io/football/teams/1068.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 9,
+                        "minutes": 739,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.814285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 278,
+                        "key": 7,
+                        "accuracy": 30
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 1,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 39,
+                        "won": 21
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 55902,
+                "name": "P. Golubickas",
+                "firstname": "Paulius",
+                "lastname": "Golubickas",
+                "age": 24,
+                "birth": {
+                    "date": "1999-08-19",
+                    "place": "Ignalina",
+                    "country": "Lithuania"
+                },
+                "nationality": "Lithuania",
+                "height": "173 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/55902.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1068,
+                        "name": "HNK Gorica",
+                        "logo": "https://media-2.api-sports.io/football/teams/1068.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 7,
+                        "minutes": 566,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.637500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 6,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 166,
+                        "key": 1,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 31,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 14361,
+                "name": "K. Krizmani\u0107",
+                "firstname": "Kre\u0161imir",
+                "lastname": "Krizmani\u0107",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-03",
+                    "place": "Zagreb",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/14361.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1068,
+                        "name": "HNK Gorica",
+                        "logo": "https://media-1.api-sports.io/football/teams/1068.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 29,
+                        "minutes": 2566,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.668421",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 5,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 699,
+                        "key": 3,
+                        "accuracy": 29
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 9,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 97,
+                        "won": 54
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 284869,
+                "name": "T. Fruk",
+                "firstname": "Toni",
+                "lastname": "Fruk",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-09",
+                    "place": null,
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/284869.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1068,
+                        "name": "HNK Gorica",
+                        "logo": "https://media-1.api-sports.io/football/teams/1068.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 22,
+                        "minutes": 1694,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.826666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 16,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 346,
+                        "key": 9,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 1,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 150,
+                        "won": 67
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 14599,
+                "name": "J. Pr\u0161ir",
+                "firstname": "Jurica",
+                "lastname": "Pr\u0161ir",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-29",
+                    "place": null,
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/14599.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1068,
+                        "name": "HNK Gorica",
+                        "logo": "https://media-3.api-sports.io/football/teams/1068.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 32,
+                        "minutes": 2734,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.890000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 13,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 680,
+                        "key": 45,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 27,
+                        "blocks": 1,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 178,
+                        "won": 85
+                    },
+                    "dribbles": {
+                        "attempts": 25,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 30,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 146755,
+                "name": "A. Kor\u00e7a",
+                "firstname": "Amet Ylber",
+                "lastname": "Kor\u00e7a",
+                "age": 23,
+                "birth": {
+                    "date": "2000-09-16",
+                    "place": null,
+                    "country": "USA"
+                },
+                "nationality": "Albania",
+                "height": "191 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/146755.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1068,
+                        "name": "HNK Gorica",
+                        "logo": "https://media-3.api-sports.io/football/teams/1068.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-1.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 2,
+                        "minutes": 175,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 30,
+                        "key": null,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

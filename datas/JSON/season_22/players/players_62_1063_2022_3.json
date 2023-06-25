@@ -1,0 +1,1157 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "62",
+        "team": "1063",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 12,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 670,
+                "name": "L. Pintor",
+                "firstname": "Lenny Jean-Pierre",
+                "lastname": "Pintor",
+                "age": 23,
+                "birth": {
+                    "date": "2000-08-05",
+                    "place": "Paris",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "179 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/670.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-1.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 6,
+                        "minutes": 672,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.666666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 6,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 209,
+                        "key": 8,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 105,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 22842,
+                "name": "J. Krasso",
+                "firstname": "Jean-Philippe",
+                "lastname": "Krasso",
+                "age": 26,
+                "birth": {
+                    "date": "1997-07-17",
+                    "place": "Stuttgart",
+                    "country": "Germany"
+                },
+                "nationality": "C\u00f4te d'Ivoire",
+                "height": "187 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/22842.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-2.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 33,
+                        "minutes": 2985,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.229411",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 6,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 59,
+                        "on": 35
+                    },
+                    "goals": {
+                        "total": 17,
+                        "conceded": 0,
+                        "assists": 11,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 913,
+                        "key": 61,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 58,
+                        "blocks": 3,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 600,
+                        "won": 264
+                    },
+                    "dribbles": {
+                        "attempts": 160,
+                        "success": 78,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 65,
+                        "committed": 57
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 7,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 84055,
+                "name": "K. Bamba",
+                "firstname": "Abdoul Kader",
+                "lastname": "Bamba",
+                "age": 29,
+                "birth": {
+                    "date": "1994-04-25",
+                    "place": "Sarcelles",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "177 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/84055.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-3.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 6,
+                        "minutes": 582,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.042857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 6,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 307,
+                        "key": 19,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 82,
+                        "won": 50
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 39248,
+                "name": "I. Wadji",
+                "firstname": "Ibrahima",
+                "lastname": "Wadji",
+                "age": 28,
+                "birth": {
+                    "date": "1995-05-05",
+                    "place": "Bignona",
+                    "country": "Senegal"
+                },
+                "nationality": "Senegal",
+                "height": "175 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/39248.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-3.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 22,
+                        "minutes": 2056,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.717857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 13,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 65,
+                        "on": 33
+                    },
+                    "goals": {
+                        "total": 12,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 256,
+                        "key": 14,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 198,
+                        "won": 67
+                    },
+                    "dribbles": {
+                        "attempts": 47,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 39
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 277058,
+                "name": "Y. Lh\u00e9ry",
+                "firstname": "Yanis",
+                "lastname": "Lh\u00e9ry",
+                "age": 20,
+                "birth": {
+                    "date": "2003-05-07",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/277058.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-2.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 339601,
+                "name": "A. Aiki",
+                "firstname": "Ayman",
+                "lastname": "Aiki",
+                "age": 18,
+                "birth": {
+                    "date": "2005-06-25",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/339601.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-3.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 2,
+                        "minutes": 209,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.683333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 2,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 79,
+                        "key": 4,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 28,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 360098,
+                "name": "J. Othman",
+                "firstname": "Jibril",
+                "lastname": "Othman",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-26",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "Tunisia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/360098.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-1.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 26,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.450000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 11,
+                        "key": 1,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 175035,
+                "name": "A. Sidib\u00e9",
+                "firstname": "Abdoulaye",
+                "lastname": "Sidib\u00e9",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-09",
+                    "place": "Paris",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "180 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/175035.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-3.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 34,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 7,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 344144,
+                "name": "D. Bile",
+                "firstname": "Darnell Eric",
+                "lastname": "Bile",
+                "age": 18,
+                "birth": {
+                    "date": "2005-10-28",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/344144.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-1.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 17,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 156490,
+                "name": "N. Nkounkou",
+                "firstname": "Niels Patrick",
+                "lastname": "Nkounkou",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-01",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "180 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/156490.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-3.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 19,
+                        "minutes": 1682,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.131578",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 3,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 30,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 6,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 561,
+                        "key": 33,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 49,
+                        "blocks": null,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 238,
+                        "won": 113
+                    },
+                    "dribbles": {
+                        "attempts": 85,
+                        "success": 32,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1261,
+                "name": "Sergi Palencia",
+                "firstname": "Sergi",
+                "lastname": "Palencia Hurtado",
+                "age": 27,
+                "birth": {
+                    "date": "1996-03-23",
+                    "place": "Badalona",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "168 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1261.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-2.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 7,
+                        "minutes": 607,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.633333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 237,
+                        "key": 6,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 27,
+                        "blocks": 2,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 110,
+                        "won": 53
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 21437,
+                "name": "D. Bouanga",
+                "firstname": "D\u00e9nis Athanase",
+                "lastname": "Bouanga",
+                "age": 29,
+                "birth": {
+                    "date": "1994-11-11",
+                    "place": "Le Mans",
+                    "country": "France"
+                },
+                "nationality": "Gabon",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/21437.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1063,
+                        "name": "Saint Etienne",
+                        "logo": "https://media-1.api-sports.io/football/teams/1063.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.000000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 14,
+                        "key": 2,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 10,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

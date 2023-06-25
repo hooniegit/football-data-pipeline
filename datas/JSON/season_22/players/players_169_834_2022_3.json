@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "169",
+        "team": "834",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 12543,
+                "name": "Tan Long",
+                "firstname": "Long",
+                "lastname": "Tan",
+                "age": 35,
+                "birth": {
+                    "date": "1988-04-01",
+                    "place": "Dalian",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "185 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12543.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 834,
+                        "name": "Changchun Yatai",
+                        "logo": "https://media-3.api-sports.io/football/teams/834.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 26,
+                        "minutes": 2174,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.929032",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 10,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 49,
+                        "on": 22
+                    },
+                    "goals": {
+                        "total": 10,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 478,
+                        "key": 19,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 1,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 256,
+                        "won": 112
+                    },
+                    "dribbles": {
+                        "attempts": 29,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 42,
+                        "committed": 45
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 368469,
+                "name": "Fan Chao",
+                "firstname": "Chao",
+                "lastname": "Fan",
+                "age": 19,
+                "birth": {
+                    "date": "2004-02-08",
+                    "place": "Hefei",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "187 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/368469.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 834,
+                        "name": "Changchun Yatai",
+                        "logo": "https://media-2.api-sports.io/football/teams/834.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 3,
+                        "minutes": 198,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 3,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 32,
+                        "key": null,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 25,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13039,
+                "name": "Han Pengfei",
+                "firstname": "Pengfei",
+                "lastname": "Han",
+                "age": 30,
+                "birth": {
+                    "date": "1993-04-28",
+                    "place": "Beijing",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "190 cm",
+                "weight": "92 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13039.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 834,
+                        "name": "Changchun Yatai",
+                        "logo": "https://media-2.api-sports.io/football/teams/834.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 7,
+                        "minutes": 537,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.671428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 247,
+                        "key": 2,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 4,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 34,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 34438,
+                "name": "J\u00fanior Negr\u00e3o",
+                "firstname": "Gleidionor",
+                "lastname": "Figueiredo Pinto J\u00fanior",
+                "age": 37,
+                "birth": {
+                    "date": "1986-12-30",
+                    "place": "Salvador",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "188 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/34438.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 834,
+                        "name": "Changchun Yatai",
+                        "logo": "https://media-1.api-sports.io/football/teams/834.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 15,
+                        "minutes": 1349,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.995000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 7,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 31,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 319,
+                        "key": 16,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 126,
+                        "won": 55
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12826,
+                "name": "Dong Honglin",
+                "firstname": "Honglin",
+                "lastname": "Dong",
+                "age": 27,
+                "birth": {
+                    "date": "1996-01-15",
+                    "place": null,
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "188 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12826.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 834,
+                        "name": "Changchun Yatai",
+                        "logo": "https://media-1.api-sports.io/football/teams/834.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 2,
+                        "minutes": 198,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 23,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 24,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 368468,
+                "name": "Abdulla Adil",
+                "firstname": "Abdulla",
+                "lastname": "Adil",
+                "age": 19,
+                "birth": {
+                    "date": "2004-09-10",
+                    "place": "Kashgar",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "180 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/368468.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 834,
+                        "name": "Changchun Yatai",
+                        "logo": "https://media-2.api-sports.io/football/teams/834.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13105,
+                "name": "Rao Weihui",
+                "firstname": "Weihui",
+                "lastname": "Rao",
+                "age": 34,
+                "birth": {
+                    "date": "1989-03-25",
+                    "place": "Xingning",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "175 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/13105.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 834,
+                        "name": "Changchun Yatai",
+                        "logo": "https://media-2.api-sports.io/football/teams/834.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-3.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 25,
+                        "minutes": 2146,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.822222",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 8,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 989,
+                        "key": 11,
+                        "accuracy": 29
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 9,
+                        "interceptions": 26
+                    },
+                    "duels": {
+                        "total": 145,
+                        "won": 74
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 78852,
+                "name": "Liu Weiguo",
+                "firstname": "Weiguo",
+                "lastname": "Liu",
+                "age": 31,
+                "birth": {
+                    "date": "1992-05-03",
+                    "place": "Tianjin",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "198 cm",
+                "weight": "90 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/78852.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 834,
+                        "name": "Changchun Yatai",
+                        "logo": "https://media-1.api-sports.io/football/teams/834.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 7,
+                        "minutes": 601,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 26
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 6,
+                        "assists": null,
+                        "saves": 19
+                    },
+                    "passes": {
+                        "total": 116,
+                        "key": null,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12531,
+                "name": "Li Guangwen",
+                "firstname": "Guangwen",
+                "lastname": "Li",
+                "age": 31,
+                "birth": {
+                    "date": "1992-06-20",
+                    "place": "Hunchun",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "175 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/12531.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 834,
+                        "name": "Changchun Yatai",
+                        "logo": "https://media-2.api-sports.io/football/teams/834.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 3,
+                        "minutes": 176,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.475000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 3,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 56,
+                        "key": null,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 18,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12680,
+                "name": "He Guan",
+                "firstname": "Guan",
+                "lastname": "He",
+                "age": 30,
+                "birth": {
+                    "date": "1993-01-25",
+                    "place": "Tai'an",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "183 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/12680.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 834,
+                        "name": "Changchun Yatai",
+                        "logo": "https://media-3.api-sports.io/football/teams/834.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 13,
+                        "minutes": 1134,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.957142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 4,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 612,
+                        "key": 7,
+                        "accuracy": 37
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 14,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 81,
+                        "won": 45
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

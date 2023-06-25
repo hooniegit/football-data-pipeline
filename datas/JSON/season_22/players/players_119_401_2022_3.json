@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "119",
+        "team": "401",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 15888,
+                "name": "S. Tibbling",
+                "firstname": "Simon Hjalmar Friedel",
+                "lastname": "Tibbling",
+                "age": 29,
+                "birth": {
+                    "date": "1994-09-07",
+                    "place": "Stockholm",
+                    "country": "Sweden"
+                },
+                "nationality": "Sweden",
+                "height": "175 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/15888.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-2.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,587 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "362",
+        "team": "3861",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 6,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 305856,
+                "name": "M. Sato",
+                "firstname": "Misaki",
+                "lastname": "Sato",
+                "age": 25,
+                "birth": {
+                    "date": "1998-06-12",
+                    "place": null,
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/305856.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 3861,
+                        "name": "Hegelmann Litauen",
+                        "logo": "https://media-1.api-sports.io/football/teams/3861.png"
+                    },
+                    "league": {
+                        "id": 362,
+                        "name": "A Lyga",
+                        "country": "Lithuania",
+                        "logo": "https://media-1.api-sports.io/football/leagues/362.png",
+                        "flag": "https://media-3.api-sports.io/flags/lt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 3,
+                        "minutes": 540,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 24,
+                        "out": 3,
+                        "bench": 33
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 180505,
+                "name": "A. Klimavi\u010dius",
+                "firstname": "Augustinas",
+                "lastname": "Klimavi\u010dius",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-27",
+                    "place": "Kaunas",
+                    "country": "Lithuania"
+                },
+                "nationality": "Lithuania",
+                "height": "191 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/180505.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 3861,
+                        "name": "Hegelmann Litauen",
+                        "logo": "https://media-1.api-sports.io/football/teams/3861.png"
+                    },
+                    "league": {
+                        "id": 362,
+                        "name": "A Lyga",
+                        "country": "Lithuania",
+                        "logo": "https://media-3.api-sports.io/football/leagues/362.png",
+                        "flag": "https://media-3.api-sports.io/flags/lt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 22,
+                        "minutes": 1784,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 17,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 69978,
+                "name": "R. Rasimavi\u010dius",
+                "firstname": "Rokas",
+                "lastname": "Rasimavi\u010dius",
+                "age": 22,
+                "birth": {
+                    "date": "2001-09-21",
+                    "place": null,
+                    "country": "Lithuania"
+                },
+                "nationality": "Lithuania",
+                "height": "174 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/69978.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 3861,
+                        "name": "Hegelmann Litauen",
+                        "logo": "https://media-2.api-sports.io/football/teams/3861.png"
+                    },
+                    "league": {
+                        "id": 362,
+                        "name": "A Lyga",
+                        "country": "Lithuania",
+                        "logo": "https://media-3.api-sports.io/football/leagues/362.png",
+                        "flag": "https://media-2.api-sports.io/flags/lt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 1,
+                        "minutes": 139,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 307567,
+                "name": "I. Olaosebikan",
+                "firstname": "Ibrahim Abiodun",
+                "lastname": "Olaosebikan",
+                "age": 23,
+                "birth": {
+                    "date": "2000-04-19",
+                    "place": null,
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/307567.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 3861,
+                        "name": "Hegelmann Litauen",
+                        "logo": "https://media-3.api-sports.io/football/teams/3861.png"
+                    },
+                    "league": {
+                        "id": 362,
+                        "name": "A Lyga",
+                        "country": "Lithuania",
+                        "logo": "https://media-1.api-sports.io/football/leagues/362.png",
+                        "flag": "https://media-1.api-sports.io/flags/lt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 4,
+                        "minutes": 565,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 17,
+                        "out": 3,
+                        "bench": 32
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70012,
+                "name": "V. Armanavi\u010dius",
+                "firstname": "Vilius",
+                "lastname": "Armanavi\u010dius",
+                "age": 28,
+                "birth": {
+                    "date": "1995-05-08",
+                    "place": null,
+                    "country": "Lithuania"
+                },
+                "nationality": "Lithuania",
+                "height": "183 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/70012.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 3861,
+                        "name": "Hegelmann Litauen",
+                        "logo": "https://media-3.api-sports.io/football/teams/3861.png"
+                    },
+                    "league": {
+                        "id": 362,
+                        "name": "A Lyga",
+                        "country": "Lithuania",
+                        "logo": "https://media-3.api-sports.io/football/leagues/362.png",
+                        "flag": "https://media-3.api-sports.io/flags/lt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 30,
+                        "minutes": 2529,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 9,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 13,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 69927,
+                "name": "M. Dedura",
+                "firstname": "Matas",
+                "lastname": "Dedura",
+                "age": 21,
+                "birth": {
+                    "date": "2002-05-17",
+                    "place": null,
+                    "country": "Lithuania"
+                },
+                "nationality": "Lithuania",
+                "height": "189 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/69927.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 3861,
+                        "name": "Hegelmann Litauen",
+                        "logo": "https://media-2.api-sports.io/football/teams/3861.png"
+                    },
+                    "league": {
+                        "id": 362,
+                        "name": "A Lyga",
+                        "country": "Lithuania",
+                        "logo": "https://media-2.api-sports.io/football/leagues/362.png",
+                        "flag": "https://media-2.api-sports.io/flags/lt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 26,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

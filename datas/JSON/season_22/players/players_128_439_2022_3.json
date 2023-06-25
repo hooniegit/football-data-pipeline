@@ -1,0 +1,587 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "128",
+        "team": "439",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 6,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 328706,
+                "name": "F. Altamira",
+                "firstname": "Facundo Alejandro",
+                "lastname": "Altamira",
+                "age": 22,
+                "birth": {
+                    "date": "2001-08-03",
+                    "place": "San Mart\u00edn",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "185 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/328706.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 439,
+                        "name": "Godoy Cruz",
+                        "logo": "https://media-1.api-sports.io/football/teams/439.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5888,
+                "name": "G. Pereira",
+                "firstname": "Guillermo Fabi\u00e1n",
+                "lastname": "Pereira",
+                "age": 29,
+                "birth": {
+                    "date": "1994-01-16",
+                    "place": "Pergamino",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/5888.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 439,
+                        "name": "Godoy Cruz",
+                        "logo": "https://media-1.api-sports.io/football/teams/439.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 28,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.100000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 20,
+                        "key": null,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 9,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6640,
+                "name": "G. Ortiz",
+                "firstname": "Guillermo Luis",
+                "lastname": "Ortiz",
+                "age": 31,
+                "birth": {
+                    "date": "1992-08-09",
+                    "place": "Rosario",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "183 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6640.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 439,
+                        "name": "Godoy Cruz",
+                        "logo": "https://media-1.api-sports.io/football/teams/439.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 21,
+                        "minutes": 1816,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.645454",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 3,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 776,
+                        "key": 3,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 3,
+                        "interceptions": 20
+                    },
+                    "duels": {
+                        "total": 157,
+                        "won": 82
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 3,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 76098,
+                "name": "T. Badaloni",
+                "firstname": "Tom\u00e1s Oscar",
+                "lastname": "Badaloni",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-02",
+                    "place": "Mendoza",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "186 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/76098.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 439,
+                        "name": "Godoy Cruz",
+                        "logo": "https://media-2.api-sports.io/football/teams/439.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 8,
+                        "minutes": 922,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.509677",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 25,
+                        "out": 6,
+                        "bench": 33
+                    },
+                    "shots": {
+                        "total": 26,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 239,
+                        "key": 3,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 175,
+                        "won": 71
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5919,
+                "name": "M. Ojeda",
+                "firstname": "Mart\u00edn Exequiel",
+                "lastname": "Ojeda",
+                "age": 25,
+                "birth": {
+                    "date": "1998-11-27",
+                    "place": "Gualeguaych\u00fa",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "176 cm",
+                "weight": "59 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/5919.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 439,
+                        "name": "Godoy Cruz",
+                        "logo": "https://media-3.api-sports.io/football/teams/439.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 41,
+                        "lineups": 41,
+                        "minutes": 3638,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.490000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 13,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 98,
+                        "on": 47
+                    },
+                    "goals": {
+                        "total": 12,
+                        "conceded": 0,
+                        "assists": 12,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1310,
+                        "key": 132,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 51,
+                        "blocks": 3,
+                        "interceptions": 18
+                    },
+                    "duels": {
+                        "total": 343,
+                        "won": 144
+                    },
+                    "dribbles": {
+                        "attempts": 111,
+                        "success": 47,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 25,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 4,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5385,
+                "name": "F. Negri",
+                "firstname": "Franco",
+                "lastname": "Negri",
+                "age": 28,
+                "birth": {
+                    "date": "1995-02-20",
+                    "place": "San Mart\u00edn",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "170 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/5385.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 439,
+                        "name": "Godoy Cruz",
+                        "logo": "https://media-2.api-sports.io/football/teams/439.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 30,
+                        "minutes": 2488,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.896551",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 12,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1039,
+                        "key": 24,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 88,
+                        "blocks": 1,
+                        "interceptions": 46
+                    },
+                    "duels": {
+                        "total": 306,
+                        "won": 183
+                    },
+                    "dribbles": {
+                        "attempts": 62,
+                        "success": 40,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 34
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

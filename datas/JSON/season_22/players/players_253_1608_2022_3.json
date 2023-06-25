@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "253",
+        "team": "1608",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 2460,
+                "name": "Josef Mart\u00ednez",
+                "firstname": "Josef Alexander",
+                "lastname": "Mart\u00ednez Mencia",
+                "age": 30,
+                "birth": {
+                    "date": "1993-05-19",
+                    "place": "Valencia",
+                    "country": "Venezuela"
+                },
+                "nationality": "Venezuela",
+                "height": "172 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2460.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1608,
+                        "name": "Atlanta United FC",
+                        "logo": "https://media-2.api-sports.io/football/teams/1608.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 12,
+                        "minutes": 1453,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.834782",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 2,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 33,
+                        "on": 19
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 239,
+                        "key": 21,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 62,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1442 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "253",
+        "team": "2242",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 15,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 50763,
+                "name": "L. Acosta",
+                "firstname": "Luciano Federico",
+                "lastname": "Acosta",
+                "age": 29,
+                "birth": {
+                    "date": "1994-05-31",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "161 cm",
+                "weight": "61 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/50763.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-3.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 30,
+                        "minutes": 2680,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.374193",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 10,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 53,
+                        "on": 25
+                    },
+                    "goals": {
+                        "total": 11,
+                        "conceded": 0,
+                        "assists": 13,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1293,
+                        "key": 107,
+                        "accuracy": 30
+                    },
+                    "tackles": {
+                        "total": 49,
+                        "blocks": 1,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 419,
+                        "won": 181
+                    },
+                    "dribbles": {
+                        "attempts": 133,
+                        "success": 65,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 65,
+                        "committed": 56
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 4,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6052,
+                "name": "\u00c1. Barreal",
+                "firstname": "\u00c1lvaro Mart\u00edn",
+                "lastname": "Barreal",
+                "age": 23,
+                "birth": {
+                    "date": "2000-08-17",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "172 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6052.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-2.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 27,
+                        "minutes": 2385,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.134375",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 15,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 35,
+                        "on": 21
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 953,
+                        "key": 41,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 57,
+                        "blocks": 7,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 269,
+                        "won": 128
+                    },
+                    "dribbles": {
+                        "attempts": 54,
+                        "success": 23,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 34,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2450,
+                "name": "J. Moreno",
+                "firstname": "Junior Leonardo",
+                "lastname": "Moreno Borrero",
+                "age": 30,
+                "birth": {
+                    "date": "1993-07-20",
+                    "place": "San Crist\u00f3bal",
+                    "country": "Venezuela"
+                },
+                "nationality": "Venezuela",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/2450.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-3.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 27,
+                        "minutes": 2206,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.910344",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 16,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1039,
+                        "key": 16,
+                        "accuracy": 30
+                    },
+                    "tackles": {
+                        "total": 53,
+                        "blocks": 11,
+                        "interceptions": 38
+                    },
+                    "duels": {
+                        "total": 164,
+                        "won": 83
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 33
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 25621,
+                "name": "Y. Kubo",
+                "firstname": "Yuya",
+                "lastname": "Kubo",
+                "age": 30,
+                "birth": {
+                    "date": "1993-12-24",
+                    "place": "Yamaguchi",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "178 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/25621.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-3.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 14,
+                        "minutes": 1371,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.892307",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 10,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 605,
+                        "key": 23,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 56,
+                        "blocks": 4,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 200,
+                        "won": 108
+                    },
+                    "dribbles": {
+                        "attempts": 41,
+                        "success": 25,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 28
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 9975,
+                "name": "Brenner",
+                "firstname": "Brenner",
+                "lastname": "Souza da Silva",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-16",
+                    "place": "Cuiab\u00e1",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/9975.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-1.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 24,
+                        "minutes": 2216,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.186206",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 12,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 57,
+                        "on": 35
+                    },
+                    "goals": {
+                        "total": 18,
+                        "conceded": 0,
+                        "assists": 6,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 621,
+                        "key": 25,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 180,
+                        "won": 74
+                    },
+                    "dribbles": {
+                        "attempts": 38,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51140,
+                "name": "D. Badji",
+                "firstname": "Dominique",
+                "lastname": "Badji",
+                "age": 31,
+                "birth": {
+                    "date": "1992-10-16",
+                    "place": "Dakar",
+                    "country": "Senegal"
+                },
+                "nationality": "Senegal",
+                "height": "183 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/51140.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-2.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 13,
+                        "minutes": 1098,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.568181",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 10,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 229,
+                        "key": 8,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": null,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 137,
+                        "won": 55
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50751,
+                "name": "Sergio Santos",
+                "firstname": "Sergio Henrique",
+                "lastname": "Santos Gomes",
+                "age": 29,
+                "birth": {
+                    "date": "1994-09-04",
+                    "place": "Belo Horizonte",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "183 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/50751.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-1.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 0,
+                        "minutes": 170,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 1,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 52,
+                        "key": 5,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 63,
+                        "won": 31
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50893,
+                "name": "B. V\u00e1zquez",
+                "firstname": "Brandon",
+                "lastname": "V\u00e1zquez Toledo",
+                "age": 25,
+                "birth": {
+                    "date": "1998-10-14",
+                    "place": "Chula Vista",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "188 cm",
+                "weight": "90 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/50893.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-1.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 34,
+                        "minutes": 2934,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.112121",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 16,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 74,
+                        "on": 43
+                    },
+                    "goals": {
+                        "total": 19,
+                        "conceded": 0,
+                        "assists": 8,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 612,
+                        "key": 24,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 3,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 409,
+                        "won": 176
+                    },
+                    "dribbles": {
+                        "attempts": 45,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 55,
+                        "committed": 44
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 319420,
+                "name": "A. Ord\u00f3\u00f1ez",
+                "firstname": "Arqu\u00edmides Rafael Zacar\u00edas",
+                "lastname": "Ord\u00f3\u00f1ez",
+                "age": 20,
+                "birth": {
+                    "date": "2003-08-05",
+                    "place": "Cincinnati, OH",
+                    "country": "USA"
+                },
+                "nationality": "Guatemala",
+                "height": "184 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/319420.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-3.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 0,
+                        "minutes": 82,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 0,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 19,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 27,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50962,
+                "name": "B. Mines",
+                "firstname": "Benjamin",
+                "lastname": "Mines",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-13",
+                    "place": "Ridgefield",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "175 cm",
+                "weight": "64 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/50962.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-3.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 16536,
+                "name": "G. Vallecilla",
+                "firstname": "Exon Gustavo",
+                "lastname": "Vallecilla Godoy",
+                "age": 24,
+                "birth": {
+                    "date": "1999-05-28",
+                    "place": "Esmeraldas",
+                    "country": "Ecuador"
+                },
+                "nationality": "Ecuador",
+                "height": "186 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/16536.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-2.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.400000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 266,
+                        "key": 3,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 2,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 40,
+                        "won": 21
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 103186,
+                "name": "Z. Bailey",
+                "firstname": "Zico",
+                "lastname": "Bailey",
+                "age": 23,
+                "birth": {
+                    "date": "2000-08-27",
+                    "place": "Henderson",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "170 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/103186.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-3.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 1,
+                        "minutes": 79,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.466666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 27,
+                        "key": null,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 90502,
+                "name": "K. Scott",
+                "firstname": "Kyle Michael",
+                "lastname": "Scott",
+                "age": 26,
+                "birth": {
+                    "date": "1997-12-22",
+                    "place": "Bath",
+                    "country": "England"
+                },
+                "nationality": "USA",
+                "height": "175 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/90502.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-1.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51126,
+                "name": "J. Nelson",
+                "firstname": "John Vincent",
+                "lastname": "Nelson",
+                "age": 25,
+                "birth": {
+                    "date": "1998-07-11",
+                    "place": "Medina",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "175 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/51126.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-2.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 14,
+                        "minutes": 1205,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.580000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 9,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 420,
+                        "key": 10,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 2,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 54,
+                        "won": 30
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 94341,
+                "name": "C. Harris",
+                "firstname": "Calvin",
+                "lastname": "Harris",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-20",
+                    "place": "Middlesbrough",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "183 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/94341.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2242,
+                        "name": "FC Cincinnati",
+                        "logo": "https://media-3.api-sports.io/football/teams/2242.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 2,
+                        "minutes": 175,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 2,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 45,
+                        "key": 2,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 23,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

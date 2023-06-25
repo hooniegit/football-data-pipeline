@@ -1,0 +1,1537 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "265",
+        "team": "2341",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 16,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 11620,
+                "name": "R. Paredes",
+                "firstname": "Richard Nicol\u00e1s",
+                "lastname": "Paredes Moraga",
+                "age": 26,
+                "birth": {
+                    "date": "1997-12-04",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "178 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11620.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-1.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 4,
+                        "minutes": 600,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 4,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 157,
+                        "key": 7,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 93,
+                        "won": 40
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11372,
+                "name": "J. Carre\u00f1o",
+                "firstname": "Jaime Mat\u00edas",
+                "lastname": "Carre\u00f1o Lee-Chong",
+                "age": 26,
+                "birth": {
+                    "date": "1997-03-03",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11372.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-2.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 6,
+                        "minutes": 626,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.545454",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 3,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 204,
+                        "key": 4,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": null,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 60,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70464,
+                "name": "B. Soto",
+                "firstname": "Bryan Andr\u00e9s",
+                "lastname": "Soto Pereira",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-01",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/70464.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-3.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 6,
+                        "minutes": 621,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.520000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 3,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 182,
+                        "key": 2,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 3,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 75,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 68077,
+                "name": "D. Monardes",
+                "firstname": "Daniel Alejandro",
+                "lastname": "Monardes Zelada",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-11",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/68077.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-1.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 309983,
+                "name": "G. Zuleta",
+                "firstname": "Guillermo Andr\u00e9s",
+                "lastname": "Zuleta Pereira",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-18",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/309983.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-3.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11608,
+                "name": "C. Jorquera",
+                "firstname": "Crist\u00f3bal Andr\u00e9s",
+                "lastname": "Jorquera Torres",
+                "age": 35,
+                "birth": {
+                    "date": "1988-08-04",
+                    "place": "Santiago de Chile",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "174 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11608.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-3.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 9,
+                        "minutes": 681,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.542857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 9,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 375,
+                        "key": 5,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 62,
+                        "won": 20
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11987,
+                "name": "R. Brito",
+                "firstname": "Rodrigo Andr\u00e9s",
+                "lastname": "Brito Tobar",
+                "age": 40,
+                "birth": {
+                    "date": "1983-02-23",
+                    "place": "Santiago de Chile",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "185 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11987.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-1.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 13,
+                        "minutes": 1186,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.863636",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 323,
+                        "key": null,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 7,
+                        "interceptions": 26
+                    },
+                    "duels": {
+                        "total": 57,
+                        "won": 32
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11380,
+                "name": "A. C\u00e1ceres",
+                "firstname": "Ariel Ignacio",
+                "lastname": "C\u00e1ceres Lizana",
+                "age": 24,
+                "birth": {
+                    "date": "1999-11-21",
+                    "place": "Independencia",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11380.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-3.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 20,
+                        "minutes": 1663,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.590476",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 5,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 495,
+                        "key": 16,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 56,
+                        "blocks": 5,
+                        "interceptions": 25
+                    },
+                    "duels": {
+                        "total": 203,
+                        "won": 91
+                    },
+                    "dribbles": {
+                        "attempts": 37,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 117968,
+                "name": "H. Suazo",
+                "firstname": "Humberto Andr\u00e9s",
+                "lastname": "Suazo Pontivo",
+                "age": 42,
+                "birth": {
+                    "date": "1981-05-10",
+                    "place": "San Antonio",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "172 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/117968.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-2.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 22,
+                        "minutes": 2013,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 10,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 32,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 512,
+                        "key": 30,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 135,
+                        "won": 50
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10071,
+                "name": "L. Valencia",
+                "firstname": "Leonardo Felipe",
+                "lastname": "Valencia Rossel",
+                "age": 32,
+                "birth": {
+                    "date": "1991-04-25",
+                    "place": "Pe\u00f1aflor",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "173 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/10071.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-3.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 13,
+                        "minutes": 1241,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.916666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 3,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 349,
+                        "key": 21,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 121,
+                        "won": 50
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 353858,
+                "name": "D. Ulloa",
+                "firstname": "Diego Ismael",
+                "lastname": "Ulloa N\u00fa\u00f1ez",
+                "age": 20,
+                "birth": {
+                    "date": "2003-06-16",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/353858.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-3.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 2,
+                        "minutes": 198,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 38,
+                        "key": null,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 307115,
+                "name": "J. Fuentealba",
+                "firstname": "Jeison Joaqu\u00edn",
+                "lastname": "Fuentealba Vergara",
+                "age": 20,
+                "birth": {
+                    "date": "2003-01-10",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/307115.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-1.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 5,
+                        "minutes": 420,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.216666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 4,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 75,
+                        "key": null,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 44,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11737,
+                "name": "L. D\u00edaz",
+                "firstname": "Leandro Enrique",
+                "lastname": "D\u00edaz Parra",
+                "age": 24,
+                "birth": {
+                    "date": "1999-03-16",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "173 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11737.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-3.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 19,
+                        "minutes": 1584,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.712500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 5,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 500,
+                        "key": 8,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 36,
+                        "blocks": 9,
+                        "interceptions": 28
+                    },
+                    "duels": {
+                        "total": 134,
+                        "won": 76
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11351,
+                "name": "E. Ferrario",
+                "firstname": "Enzo Nicol\u00e1s",
+                "lastname": "Ferrario Arg\u00fcello",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-03",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "182 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11351.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-2.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 10,
+                        "minutes": 840,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.863636",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 2,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 301,
+                        "key": null,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": 11,
+                        "interceptions": 18
+                    },
+                    "duels": {
+                        "total": 81,
+                        "won": 57
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6126,
+                "name": "F. Andrada",
+                "firstname": "Federico Oscar",
+                "lastname": "Andrada",
+                "age": 29,
+                "birth": {
+                    "date": "1994-03-03",
+                    "place": "Vicente L\u00f3pez",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "180 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6126.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-2.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 9,
+                        "minutes": 876,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.791666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 5,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 161,
+                        "key": 10,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 70,
+                        "won": 39
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 27613,
+                "name": "M. Estigarribia",
+                "firstname": "Marcelo Luciano",
+                "lastname": "Estigarribia",
+                "age": 28,
+                "birth": {
+                    "date": "1995-05-10",
+                    "place": "Villaguay",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/27613.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2341,
+                        "name": "D. La Serena",
+                        "logo": "https://media-3.api-sports.io/football/teams/2341.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 6,
+                        "minutes": 576,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.618181",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 3,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 120,
+                        "key": 5,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 100,
+                        "won": 46
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

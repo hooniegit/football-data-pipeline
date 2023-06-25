@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "79",
+        "team": "171",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 411,
+                "name": "B. Goller",
+                "firstname": "Benjamin",
+                "lastname": "Goller",
+                "age": 24,
+                "birth": {
+                    "date": "1999-01-01",
+                    "place": "Reutlingen",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "180 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/411.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-3.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 2,
+                        "minutes": 234,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.383333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 2,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 61,
+                        "key": 4,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 28,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 25361,
+                "name": "P. K\u00f6pke",
+                "firstname": "Pascal",
+                "lastname": "K\u00f6pke",
+                "age": 28,
+                "birth": {
+                    "date": "1995-09-03",
+                    "place": "Hanau",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "176 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/25361.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-1.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 0,
+                        "minutes": 36,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.650000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 0,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 20,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 10,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 48610,
+                "name": "K. Duah",
+                "firstname": "Kwadwo Antwi",
+                "lastname": "Duah",
+                "age": 26,
+                "birth": {
+                    "date": "1997-02-24",
+                    "place": "London",
+                    "country": "England"
+                },
+                "nationality": "Switzerland",
+                "height": "185 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/48610.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-1.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 29,
+                        "minutes": 2446,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.874193",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 21,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 59,
+                        "on": 27
+                    },
+                    "goals": {
+                        "total": 11,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 354,
+                        "key": 17,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 204,
+                        "won": 92
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 35,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 26254,
+                "name": "C. Daferner",
+                "firstname": "Christoph",
+                "lastname": "Daferner",
+                "age": 25,
+                "birth": {
+                    "date": "1998-01-12",
+                    "place": "Aichach-Friedberg",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "189 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/26254.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-1.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 16,
+                        "minutes": 1515,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.773076",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 10,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 38,
+                        "on": 17
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 276,
+                        "key": 20,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 3,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 216,
+                        "won": 92
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24890,
+                "name": "M. Wintzheimer",
+                "firstname": "Manuel Paul",
+                "lastname": "Wintzheimer",
+                "age": 24,
+                "birth": {
+                    "date": "1999-01-10",
+                    "place": "Arnstein",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "180 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/24890.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-3.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 1,
+                        "minutes": 298,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.714285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 170,
+                        "key": 10,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 119,
+                        "won": 39
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 16,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 25539,
+                "name": "M. Sch\u00e4ffler",
+                "firstname": "Manuel",
+                "lastname": "Sch\u00e4ffler",
+                "age": 34,
+                "birth": {
+                    "date": "1989-02-06",
+                    "place": "F\u00fcrstenfeldbruck",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "189 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/25539.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-3.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24985,
+                "name": "A. S\u00f8rensen",
+                "firstname": "Asger",
+                "lastname": "Str\u00f8mgaard S\u00f8rensen",
+                "age": 27,
+                "birth": {
+                    "date": "1996-06-05",
+                    "place": "Silkeborg",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "191 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/24985.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-3.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 66,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24791,
+                "name": "J. Horn",
+                "firstname": "Jannes-Kilian",
+                "lastname": "Horn",
+                "age": 26,
+                "birth": {
+                    "date": "1997-02-06",
+                    "place": "Braunschweig",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "186 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/24791.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-2.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 7,
+                        "minutes": 586,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.585714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 323,
+                        "key": 5,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 3,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 47,
+                        "won": 23
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 202709,
+                "name": "N. Kemlein",
+                "firstname": "Nikolai",
+                "lastname": "Kemlein",
+                "age": 21,
+                "birth": {
+                    "date": "2002-07-12",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/202709.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-1.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 25651,
+                "name": "J. Reichert",
+                "firstname": "Jan",
+                "lastname": "Reichert",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-28",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/25651.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-1.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 321685,
+                "name": "L. Breunig",
+                "firstname": "Louis",
+                "lastname": "Breunig",
+                "age": 20,
+                "birth": {
+                    "date": "2003-11-14",
+                    "place": "W\u00fcrzburg",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "184 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/321685.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-3.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 27,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "5.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 8,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 280074,
+                "name": "N. Brown",
+                "firstname": "Nathaniel",
+                "lastname": "Brown",
+                "age": 20,
+                "birth": {
+                    "date": "2003-06-16",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/280074.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-1.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 8,
+                        "minutes": 733,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.944444",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 5,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 277,
+                        "key": 7,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 28,
+                        "blocks": 2,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 93,
+                        "won": 61
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 38113,
+                "name": "T. Handwerker",
+                "firstname": "Tim-Henry",
+                "lastname": "Handwerker",
+                "age": 25,
+                "birth": {
+                    "date": "1998-05-19",
+                    "place": "Bergisch Gladbach",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "182 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/38113.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-1.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 4,
+                        "minutes": 324,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 90,
+                        "key": 1,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 19,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 260882,
+                "name": "J. Hofmann",
+                "firstname": "Jannik",
+                "lastname": "Hofmann",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-28",
+                    "place": "Bayreuth",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/260882.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-3.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 329472,
+                "name": "N. Jahn",
+                "firstname": "Niklas",
+                "lastname": "Jahn",
+                "age": 19,
+                "birth": {
+                    "date": "2004-07-26",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/329472.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-1.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 71109,
+                "name": "B. Kayo",
+                "firstname": "Bryang William",
+                "lastname": "Kayo",
+                "age": 21,
+                "birth": {
+                    "date": "2002-07-27",
+                    "place": "Montgomery",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "185 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/71109.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-3.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 1,
+                        "minutes": 43,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.250000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 11,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 280431,
+                "name": "S. Fofana",
+                "firstname": "Sadik",
+                "lastname": "Fofana",
+                "age": 20,
+                "birth": {
+                    "date": "2003-05-16",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Togo",
+                "height": "192 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/280431.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-3.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 6,
+                        "minutes": 689,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.578571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 2,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 337,
+                        "key": 1,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 6,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 80,
+                        "won": 37
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 339887,
+                "name": "C. Uzun",
+                "firstname": "Can",
+                "lastname": "Y\u0131lmaz Uzun",
+                "age": 18,
+                "birth": {
+                    "date": "2005-11-11",
+                    "place": null,
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/339887.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-2.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 1,
+                        "minutes": 74,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.550000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 33,
+                        "key": 4,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 14,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 202962,
+                "name": "S. Blum",
+                "firstname": "Shawn Marc",
+                "lastname": "Blum",
+                "age": 20,
+                "birth": {
+                    "date": "2003-01-14",
+                    "place": "Frankenthal",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/202962.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-2.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 279893,
+                "name": "Jermain Nischalke",
+                "firstname": "Jermain",
+                "lastname": "Nischalke",
+                "age": 20,
+                "birth": {
+                    "date": "2003-03-26",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Angola",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/279893.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 171,
+                        "name": "FC Nurnberg",
+                        "logo": "https://media-2.api-sports.io/football/teams/171.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 1,
+                        "minutes": 99,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.766666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 15,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 26,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

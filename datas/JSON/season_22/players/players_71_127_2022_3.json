@@ -1,0 +1,1157 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "71",
+        "team": "127",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 12,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 10174,
+                "name": "Gabriel Barbosa",
+                "firstname": "Gabriel",
+                "lastname": "Barbosa Almeida",
+                "age": 27,
+                "birth": {
+                    "date": "1996-08-30",
+                    "place": "S\u00e3o Bernardo do Campo",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "178 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/10174.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-3.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 22,
+                        "minutes": 2053,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.107407",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 9,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 46,
+                        "on": 24
+                    },
+                    "goals": {
+                        "total": 11,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 644,
+                        "key": 28,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 89,
+                        "won": 42
+                    },
+                    "dribbles": {
+                        "attempts": 25,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 10,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 2,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2414,
+                "name": "Everton",
+                "firstname": "Everton",
+                "lastname": "Sousa Soares",
+                "age": 27,
+                "birth": {
+                    "date": "1996-03-22",
+                    "place": "Fortaleza",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "174 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/2414.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-1.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 15,
+                        "minutes": 1422,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.035000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 10,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 30,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 448,
+                        "key": 33,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": null,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 229,
+                        "won": 104
+                    },
+                    "dribbles": {
+                        "attempts": 99,
+                        "success": 52,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10180,
+                "name": "Bruno Henrique",
+                "firstname": "Bruno Henrique",
+                "lastname": "Pinto",
+                "age": 33,
+                "birth": {
+                    "date": "1990-12-30",
+                    "place": "Belo Horizonte",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "183 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/10180.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-2.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 8,
+                        "minutes": 616,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.985714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 191,
+                        "key": 10,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 83,
+                        "won": 43
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10506,
+                "name": "Marinho",
+                "firstname": "M\u00e1rio S\u00e9rgio",
+                "lastname": "Santos Costa",
+                "age": 33,
+                "birth": {
+                    "date": "1990-05-29",
+                    "place": "Penedo",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "168 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/10506.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-2.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 16,
+                        "minutes": 1386,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.165217",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 14,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 31,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 354,
+                        "key": 28,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 1,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 195,
+                        "won": 113
+                    },
+                    "dribbles": {
+                        "attempts": 41,
+                        "success": 18,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 66,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 325717,
+                "name": "Andr\u00e9 Luiz",
+                "firstname": "Andr\u00e9 Luiz",
+                "lastname": "In\u00e1cio da Silva",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-23",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/325717.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-3.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 44,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 9,
+                        "key": 1,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 352372,
+                "name": "Matheus Gon\u00e7alves",
+                "firstname": "Matheus",
+                "lastname": "Gon\u00e7alves Martins",
+                "age": 18,
+                "birth": {
+                    "date": "2005-08-18",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/352372.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-3.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 24,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 19,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 311157,
+                "name": "Matheus Fran\u00e7a",
+                "firstname": "Matheus",
+                "lastname": "Fran\u00e7a de Oliveira",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-01",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "178 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/311157.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-3.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 7,
+                        "minutes": 668,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.913333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 6,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 224,
+                        "key": 9,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 98,
+                        "won": 48
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 266020,
+                "name": "Ryan Luka",
+                "firstname": "Ryan Luka",
+                "lastname": "Cordeiro de Souza",
+                "age": 20,
+                "birth": {
+                    "date": "2003-04-30",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "185 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/266020.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-1.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 311158,
+                "name": "Werton",
+                "firstname": "Werton",
+                "lastname": "de Almeida R\u00eago",
+                "age": 20,
+                "birth": {
+                    "date": "2003-09-16",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "170 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/311158.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-3.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 27,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.800000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 7,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 306216,
+                "name": "Mateus\u00e3o",
+                "firstname": "Mateus",
+                "lastname": "Dias Lima",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-23",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "184 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/306216.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-3.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 2,
+                        "minutes": 224,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.437500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 2,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 42,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 30,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 352374,
+                "name": "Petterson",
+                "firstname": "Petterson",
+                "lastname": "Novaes Reis",
+                "age": 19,
+                "birth": {
+                    "date": "2004-01-04",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/352374.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-2.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 27,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 7,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10163,
+                "name": "Ren\u00ea",
+                "firstname": "Ren\u00ea",
+                "lastname": "Rodrigues Martins",
+                "age": 31,
+                "birth": {
+                    "date": "1992-09-14",
+                    "place": "Picos",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "174 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/10163.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 127,
+                        "name": "Flamengo",
+                        "logo": "https://media-2.api-sports.io/football/teams/127.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

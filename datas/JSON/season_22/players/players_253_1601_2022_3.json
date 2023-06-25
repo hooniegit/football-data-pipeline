@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "253",
+        "team": "1601",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 203436,
+                "name": "R. Priso",
+                "firstname": "Ralph-William Johnson",
+                "lastname": "Priso-Mbongue",
+                "age": 21,
+                "birth": {
+                    "date": "2002-08-02",
+                    "place": "Toronto",
+                    "country": "Canada"
+                },
+                "nationality": "Canada",
+                "height": "175 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/203436.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1601,
+                        "name": "Toronto FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/1601.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 4,
+                        "minutes": 276,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.933333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 3,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 86,
+                        "key": 3,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 19,
+                        "won": 14
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

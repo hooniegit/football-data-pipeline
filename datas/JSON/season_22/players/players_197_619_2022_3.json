@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "197",
+        "team": "619",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 161579,
+                "name": "G. Koutsias",
+                "firstname": "Georgios",
+                "lastname": "Koutsias",
+                "age": 19,
+                "birth": {
+                    "date": "2004-02-08",
+                    "place": "Thessaloniki",
+                    "country": "Greece"
+                },
+                "nationality": "Greece",
+                "height": "180 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/161579.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-3.api-sports.io/football/teams/619.png"
+                    },
+                    "league": {
+                        "id": 197,
+                        "name": "Super League 1",
+                        "country": "Greece",
+                        "logo": "https://media-1.api-sports.io/football/leagues/197.png",
+                        "flag": "https://media-3.api-sports.io/flags/gr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.728571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 170,
+                        "key": 9,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 75,
+                        "won": 29
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

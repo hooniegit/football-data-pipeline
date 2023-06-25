@@ -1,0 +1,1157 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "210",
+        "team": "1016",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 12,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 14291,
+                "name": "M. Vuk",
+                "firstname": "Matej",
+                "lastname": "Vuk",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-10",
+                    "place": "\u010cakovec",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": "182 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/14291.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-1.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 10,
+                        "minutes": 862,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.557142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 8,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 101,
+                        "key": 4,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 33,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 296333,
+                "name": "M. Bakrar",
+                "firstname": "Monsef",
+                "lastname": "Bakrar",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-13",
+                    "place": null,
+                    "country": "Algeria"
+                },
+                "nationality": "Algeria",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/296333.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-3.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 18,
+                        "minutes": 1679,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.881250",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 8,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 28,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 113,
+                        "key": 6,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 3,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 106,
+                        "won": 43
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 53126,
+                "name": "D. Matheus",
+                "firstname": "Darwin Daniel",
+                "lastname": "Matheus Tovar",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-09",
+                    "place": "Barinas",
+                    "country": "Venezuela"
+                },
+                "nationality": "Venezuela",
+                "height": "170 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/53126.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-3.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 3,
+                        "minutes": 281,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 11,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 48864,
+                "name": "Z. Josipovi\u0107",
+                "firstname": "Zoran",
+                "lastname": "Josipovi\u0107",
+                "age": 28,
+                "birth": {
+                    "date": "1995-08-25",
+                    "place": "Mendrisio",
+                    "country": "Switzerland"
+                },
+                "nationality": "Switzerland",
+                "height": "191 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/48864.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-2.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-1.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 1,
+                        "minutes": 97,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 368052,
+                "name": "M. \u017dgomba",
+                "firstname": "Marin",
+                "lastname": "\u017dgomba",
+                "age": 18,
+                "birth": {
+                    "date": "2005-05-30",
+                    "place": null,
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/368052.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-2.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 1,
+                        "minutes": 142,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 27,
+                        "key": 1,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 265491,
+                "name": "M. Lisica",
+                "firstname": "Mateo",
+                "lastname": "Lisica",
+                "age": 20,
+                "birth": {
+                    "date": "2003-07-09",
+                    "place": "Pula",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/265491.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-3.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 5,
+                        "minutes": 626,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.425000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 5,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 87,
+                        "key": 2,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 26,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15890,
+                "name": "A. Erceg",
+                "firstname": "Ante",
+                "lastname": "Erceg",
+                "age": 34,
+                "birth": {
+                    "date": "1989-12-12",
+                    "place": "Split",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": "179 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/15890.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-1.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-1.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 17,
+                        "minutes": 1490,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.162500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 10,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 31,
+                        "on": 19
+                    },
+                    "goals": {
+                        "total": 11,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 361,
+                        "key": 9,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": null,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 186,
+                        "won": 82
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 25,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 76896,
+                "name": "B. Mati\u0107",
+                "firstname": "Bernardo",
+                "lastname": "Mati\u0107",
+                "age": 29,
+                "birth": {
+                    "date": "1994-07-27",
+                    "place": "Sinj",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": "194 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/76896.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-3.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.910000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 272,
+                        "key": 2,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 2,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 99,
+                        "won": 54
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 270429,
+                "name": "M. Perkovi\u0107",
+                "firstname": "Mauro",
+                "lastname": "Perkovi\u0107",
+                "age": 20,
+                "birth": {
+                    "date": "2003-03-22",
+                    "place": "Pula",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/270429.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-3.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 17,
+                        "minutes": 1530,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.850000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 120,
+                        "key": 1,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 31,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11817,
+                "name": "G. Collao",
+                "firstname": "Gonzalo Antonio",
+                "lastname": "Collao Villegas",
+                "age": 26,
+                "birth": {
+                    "date": "1997-09-09",
+                    "place": "Coquimbo",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "193 cm",
+                "weight": "90 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/11817.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-1.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 289480,
+                "name": "G. Desio",
+                "firstname": "Gonzalo",
+                "lastname": "Desio Mugica",
+                "age": 24,
+                "birth": {
+                    "date": "1999-08-15",
+                    "place": "Gasteiz",
+                    "country": "Spain"
+                },
+                "nationality": "Argentina",
+                "height": "177 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/289480.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-3.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-1.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20997,
+                "name": "Rafa Navarro",
+                "firstname": "Rafael Jes\u00fas",
+                "lastname": "Navarro Mazuelos",
+                "age": 29,
+                "birth": {
+                    "date": "1994-02-24",
+                    "place": "Valencina de la Concepci\u00f3n",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "173 cm",
+                "weight": "61 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/20997.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1016,
+                        "name": "Istra 1961",
+                        "logo": "https://media-2.api-sports.io/football/teams/1016.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 44,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 8,
+                        "key": null,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

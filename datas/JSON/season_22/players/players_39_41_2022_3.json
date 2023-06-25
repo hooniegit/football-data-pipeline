@@ -1,0 +1,566 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "39",
+        "team": "41",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 105971,
+                "name": "G. Bazunu",
+                "firstname": "Gavin Okeroghene",
+                "lastname": "Bazunu",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-20",
+                    "place": "Dublin",
+                    "country": "Republic of Ireland"
+                },
+                "nationality": "Republic of Ireland",
+                "height": "189 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/105971.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 41,
+                        "name": "Southampton",
+                        "logo": "https://media-3.api-sports.io/football/teams/41.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 32,
+                        "minutes": 2880,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.571875",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 56,
+                        "assists": null,
+                        "saves": 69
+                    },
+                    "passes": {
+                        "total": 1028,
+                        "key": 1,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 19,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2999,
+                "name": "J. Bednarek",
+                "firstname": "Jan Kacper",
+                "lastname": "Bednarek",
+                "age": 27,
+                "birth": {
+                    "date": "1996-04-12",
+                    "place": "S\u0142upca",
+                    "country": "Poland"
+                },
+                "nationality": "Poland",
+                "height": "189 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2999.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 41,
+                        "name": "Southampton",
+                        "logo": "https://media-1.api-sports.io/football/teams/41.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 18,
+                        "minutes": 1514,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.866666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 66,
+                        "key": null,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 41,
+                        "name": "Southampton",
+                        "logo": "https://media-2.api-sports.io/football/teams/41.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 2,
+                        "minutes": 160,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.866666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 66,
+                        "key": null,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18942,
+                "name": "Y. Valery",
+                "firstname": "Yan",
+                "lastname": "Valery",
+                "age": 24,
+                "birth": {
+                    "date": "1999-02-22",
+                    "place": "Champigny-sur-Marne",
+                    "country": "France"
+                },
+                "nationality": "Tunisia",
+                "height": "180 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/18942.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 41,
+                        "name": "Southampton",
+                        "logo": "https://media-2.api-sports.io/football/teams/41.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 46,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.000000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 22,
+                        "key": null,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18946,
+                "name": "M. Elyounoussi",
+                "firstname": "Mohamed Amine",
+                "lastname": "Elyounoussi",
+                "age": 29,
+                "birth": {
+                    "date": "1994-08-04",
+                    "place": "Al Hoceima",
+                    "country": "Morocco"
+                },
+                "nationality": "Norway",
+                "height": "178 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/18946.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 41,
+                        "name": "Southampton",
+                        "logo": "https://media-2.api-sports.io/football/teams/41.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 27,
+                        "minutes": 2180,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.636363",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 18,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 26,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 581,
+                        "key": 18,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 46,
+                        "blocks": 3,
+                        "interceptions": 27
+                    },
+                    "duels": {
+                        "total": 291,
+                        "won": 125
+                    },
+                    "dribbles": {
+                        "attempts": 44,
+                        "success": 24,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 41
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18945,
+                "name": "S. Armstrong",
+                "firstname": "Stuart",
+                "lastname": "Armstrong",
+                "age": 31,
+                "birth": {
+                    "date": "1992-03-30",
+                    "place": "Inverness",
+                    "country": "Scotland"
+                },
+                "nationality": "Scotland",
+                "height": "183 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/18945.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 41,
+                        "name": "Southampton",
+                        "logo": "https://media-3.api-sports.io/football/teams/41.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 14,
+                        "minutes": 1403,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.590625",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 18,
+                        "out": 14,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 623,
+                        "key": 18,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": null,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 176,
+                        "won": 79
+                    },
+                    "dribbles": {
+                        "attempts": 42,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

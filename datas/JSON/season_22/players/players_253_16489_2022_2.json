@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "253",
+        "team": "16489",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 13824,
+                "name": "J. Valencia",
+                "firstname": "Jhojan Manuel",
+                "lastname": "Valencia Jim\u00e9nez",
+                "age": 27,
+                "birth": {
+                    "date": "1996-07-27",
+                    "place": "Cali",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "172 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/13824.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 16489,
+                        "name": "Austin",
+                        "logo": "https://media-2.api-sports.io/football/teams/16489.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 5,
+                        "minutes": 511,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 4,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 232,
+                        "key": 2,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 2,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 55,
+                        "won": 22
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 310975,
+                "name": "D. Pereira",
+                "firstname": "Daniel Alejandro",
+                "lastname": "Pereira Gil",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-14",
+                    "place": "Caracas",
+                    "country": "Venezuela"
+                },
+                "nationality": "Venezuela",
+                "height": "175 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/310975.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 16489,
+                        "name": "Austin",
+                        "logo": "https://media-3.api-sports.io/football/teams/16489.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 28,
+                        "minutes": 2328,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.839285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 16,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1183,
+                        "key": 22,
+                        "accuracy": 38
+                    },
+                    "tackles": {
+                        "total": 28,
+                        "blocks": 5,
+                        "interceptions": 29
+                    },
+                    "duels": {
+                        "total": 174,
+                        "won": 91
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 38,
+                        "committed": 36
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 1,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1218,
+                "name": "E. Rigoni",
+                "firstname": "Emiliano Ariel",
+                "lastname": "Rigoni",
+                "age": 30,
+                "birth": {
+                    "date": "1993-02-04",
+                    "place": "Colonia Caroya",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "181 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1218.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 16489,
+                        "name": "Austin",
+                        "logo": "https://media-1.api-sports.io/football/teams/16489.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 4,
+                        "minutes": 446,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.910000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 4,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 145,
+                        "key": 13,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 55,
+                        "won": 35
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50861,
+                "name": "A. Ring",
+                "firstname": "Alexander Michael",
+                "lastname": "Ring",
+                "age": 32,
+                "birth": {
+                    "date": "1991-04-09",
+                    "place": "Helsinki",
+                    "country": "Finland"
+                },
+                "nationality": "Finland",
+                "height": "178 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/50861.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 16489,
+                        "name": "Austin",
+                        "logo": "https://media-1.api-sports.io/football/teams/16489.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 35,
+                        "minutes": 3050,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.828125",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 10,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 37,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1279,
+                        "key": 32,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 53,
+                        "blocks": 11,
+                        "interceptions": 22
+                    },
+                    "duels": {
+                        "total": 249,
+                        "won": 95
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 48
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1222,
+                "name": "S. Driussi",
+                "firstname": "Sebasti\u00e1n",
+                "lastname": "Driussi",
+                "age": 27,
+                "birth": {
+                    "date": "1996-02-09",
+                    "place": "San Justo",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1222.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 16489,
+                        "name": "Austin",
+                        "logo": "https://media-1.api-sports.io/football/teams/16489.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 35,
+                        "minutes": 3180,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.284375",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 8,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 87,
+                        "on": 43
+                    },
+                    "goals": {
+                        "total": 25,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1155,
+                        "key": 29,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 4,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 332,
+                        "won": 154
+                    },
+                    "dribbles": {
+                        "attempts": 103,
+                        "success": 50,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 53,
+                        "committed": 37
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 5,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70606,
+                "name": "R. Redes",
+                "firstname": "Rodney Iv\u00e1n",
+                "lastname": "Redes C\u00e1ceres",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-22",
+                    "place": "La Colmena",
+                    "country": "Paraguay"
+                },
+                "nationality": "Paraguay",
+                "height": "173 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/70606.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 16489,
+                        "name": "Austin",
+                        "logo": "https://media-3.api-sports.io/football/teams/16489.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 0,
+                        "minutes": 160,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.509090",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 0,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 55,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 24,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51157,
+                "name": "E. Finlay",
+                "firstname": "Ethan Christopher",
+                "lastname": "Finlay",
+                "age": 33,
+                "birth": {
+                    "date": "1990-08-06",
+                    "place": "Duluth",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "174 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/51157.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 16489,
+                        "name": "Austin",
+                        "logo": "https://media-3.api-sports.io/football/teams/16489.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 23,
+                        "minutes": 1965,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.693750",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 21,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 395,
+                        "key": 21,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 4,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 164,
+                        "won": 66
+                    },
+                    "dribbles": {
+                        "attempts": 35,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51010,
+                "name": "D. Fagundez",
+                "firstname": "Diego Santiago",
+                "lastname": "Fagundez Pepe",
+                "age": 28,
+                "birth": {
+                    "date": "1995-02-14",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "173 cm",
+                "weight": "64 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/51010.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 16489,
+                        "name": "Austin",
+                        "logo": "https://media-1.api-sports.io/football/teams/16489.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 35,
+                        "minutes": 3006,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.156250",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 20,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 13,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 940,
+                        "key": 71,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 3,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 173,
+                        "won": 77
+                    },
+                    "dribbles": {
+                        "attempts": 51,
+                        "success": 23,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 30,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 267866,
+                "name": "O. Wolff",
+                "firstname": "Owen Michael",
+                "lastname": "Wolff",
+                "age": 19,
+                "birth": {
+                    "date": "2004-12-30",
+                    "place": null,
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "175 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/267866.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 16489,
+                        "name": "Austin",
+                        "logo": "https://media-2.api-sports.io/football/teams/16489.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 11,
+                        "minutes": 923,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.426315",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 11,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 218,
+                        "key": 10,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 2,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 78,
+                        "won": 28
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50799,
+                "name": "M. Urruti",
+                "firstname": "Maximiliano Nicol\u00e1s",
+                "lastname": "Urruti Mussa",
+                "age": 32,
+                "birth": {
+                    "date": "1991-02-22",
+                    "place": "Rosario",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "184 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/50799.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 16489,
+                        "name": "Austin",
+                        "logo": "https://media-1.api-sports.io/football/teams/16489.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 29,
+                        "minutes": 2306,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.743333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 24,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 34,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 235,
+                        "key": 13,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 2,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 129,
+                        "won": 58
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,587 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "141",
+        "team": "716",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 6,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 182789,
+                "name": "I. Thiam",
+                "firstname": "Idrissa",
+                "lastname": "Thiam",
+                "age": 23,
+                "birth": {
+                    "date": "2000-09-02",
+                    "place": "Nouakchott",
+                    "country": "Mauritania"
+                },
+                "nationality": "Mauritania",
+                "height": "177 cm",
+                "weight": "61 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/182789.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 716,
+                        "name": "Lugo",
+                        "logo": "https://media-1.api-sports.io/football/teams/716.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 3,
+                        "minutes": 375,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.690909",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 2,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 86,
+                        "key": 7,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 51,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 331308,
+                "name": "Xabi Dom\u00ednguez",
+                "firstname": "Xabier",
+                "lastname": "Dom\u00ednguez Pen\u00edn",
+                "age": 21,
+                "birth": {
+                    "date": "2002-08-31",
+                    "place": null,
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/331308.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 716,
+                        "name": "Lugo",
+                        "logo": "https://media-2.api-sports.io/football/teams/716.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 182858,
+                "name": "Christian Mart\u00ednez",
+                "firstname": "Christian",
+                "lastname": "Mart\u00ednez D\u00edaz",
+                "age": 23,
+                "birth": {
+                    "date": "2000-10-13",
+                    "place": "A Coru\u00f1a",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/182858.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 716,
+                        "name": "Lugo",
+                        "logo": "https://media-2.api-sports.io/football/teams/716.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 3,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 338900,
+                "name": "L. Antonetti",
+                "firstname": "Leandro",
+                "lastname": "Antonetti L\u00f3pez",
+                "age": 20,
+                "birth": {
+                    "date": "2003-01-13",
+                    "place": null,
+                    "country": "Puerto Rico"
+                },
+                "nationality": "Puerto Rico",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/338900.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 716,
+                        "name": "Lugo",
+                        "logo": "https://media-2.api-sports.io/football/teams/716.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 2,
+                        "minutes": 215,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.240000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 2,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 25,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 39,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 47156,
+                "name": "O. Lebedenko",
+                "firstname": "Orest",
+                "lastname": "Lebedenko",
+                "age": 25,
+                "birth": {
+                    "date": "1998-09-23",
+                    "place": "Lviv",
+                    "country": "Ukraine"
+                },
+                "nationality": "Ukraine",
+                "height": "174 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/47156.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 716,
+                        "name": "Lugo",
+                        "logo": "https://media-2.api-sports.io/football/teams/716.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 4,
+                        "minutes": 401,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.472727",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 2,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 124,
+                        "key": 5,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": null,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 62,
+                        "won": 29
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 46969,
+                "name": "N. Lozano",
+                "firstname": "Neyder Yessy",
+                "lastname": "Lozano Renter\u00eda",
+                "age": 29,
+                "birth": {
+                    "date": "1994-03-04",
+                    "place": "Quibd\u00f3",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "185 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/46969.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 716,
+                        "name": "Lugo",
+                        "logo": "https://media-3.api-sports.io/football/teams/716.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 9,
+                        "minutes": 721,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.544444",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 187,
+                        "key": 1,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 5,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 60,
+                        "won": 34
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

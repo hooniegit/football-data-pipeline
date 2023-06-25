@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "307",
+        "team": "2936",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 2514,
+                "name": "A. Gamarra",
+                "firstname": "Alejandro Sebasti\u00e1n",
+                "lastname": "Romero Gamarra",
+                "age": 28,
+                "birth": {
+                    "date": "1995-01-11",
+                    "place": "Ciudadela",
+                    "country": "Argentina"
+                },
+                "nationality": "Paraguay",
+                "height": "168 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2514.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2936,
+                        "name": "Al Taawon",
+                        "logo": "https://media-3.api-sports.io/football/teams/2936.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 20,
+                        "minutes": 1891,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.596153",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 7,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 15,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1059,
+                        "key": 83,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 160,
+                        "won": 77
+                    },
+                    "dribbles": {
+                        "attempts": 51,
+                        "success": 32,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 16862,
+                "name": "Mostafa Fathi",
+                "firstname": "Mostafa Mohamed Fathi",
+                "lastname": "Abdel Hameid Mohamed Abdelha",
+                "age": 29,
+                "birth": {
+                    "date": "1994-05-12",
+                    "place": "Mansoura",
+                    "country": "Egypt"
+                },
+                "nationality": "Egypt",
+                "height": "169 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/16862.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2936,
+                        "name": "Al Taawon",
+                        "logo": "https://media-2.api-sports.io/football/teams/2936.png"
+                    },
+                    "league": {
+                        "id": 307,
+                        "name": "Pro League",
+                        "country": "Saudi-Arabia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                        "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

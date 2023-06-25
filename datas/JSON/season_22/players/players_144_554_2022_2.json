@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "144",
+        "team": "554",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 1428,
+                "name": "A. Tr\u00e9bel",
+                "firstname": "Adrien",
+                "lastname": "Tr\u00e9bel",
+                "age": 32,
+                "birth": {
+                    "date": "1991-03-03",
+                    "place": "Dreux",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "174 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1428.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-1.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-1.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 6,
+                        "minutes": 572,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 4,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 259,
+                        "key": 6,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 2,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 54,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 296455,
+                "name": "M. Stroeykens",
+                "firstname": "Mario",
+                "lastname": "Stroeykens",
+                "age": 19,
+                "birth": {
+                    "date": "2004-09-29",
+                    "place": null,
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "174 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/296455.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-3.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 11,
+                        "minutes": 1150,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.747058",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 8,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 253,
+                        "key": 12,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 88,
+                        "won": 32
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 45017,
+                "name": "A. Dreyer",
+                "firstname": "Anders",
+                "lastname": "Laustrup Dreyer",
+                "age": 25,
+                "birth": {
+                    "date": "1998-05-02",
+                    "place": "Bramming",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "174 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/45017.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-1.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-3.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 13,
+                        "minutes": 1172,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.183333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 307,
+                        "key": 19,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 68,
+                        "won": 30
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 277745,
+                "name": "K. Arnstad",
+                "firstname": "Kristian Fredrik",
+                "lastname": "Malt Arnstad",
+                "age": 20,
+                "birth": {
+                    "date": "2003-09-07",
+                    "place": "Oslo",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "165 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/277745.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-3.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 12,
+                        "minutes": 1259,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 9,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 162768,
+                "name": "T. Leoni",
+                "firstname": "Th\u00e9o",
+                "lastname": "Leoni",
+                "age": 23,
+                "birth": {
+                    "date": "2000-04-21",
+                    "place": null,
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "180 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/162768.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-1.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-3.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 1,
+                        "minutes": 83,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 7,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 48097,
+                "name": "H. Bellman",
+                "firstname": "Henrik",
+                "lastname": "Bellman",
+                "age": 24,
+                "birth": {
+                    "date": "1999-03-24",
+                    "place": null,
+                    "country": "Sweden"
+                },
+                "nationality": "Sweden",
+                "height": "170 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/48097.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-3.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 25467,
+                "name": "B. Raman",
+                "firstname": "Benito Dirk",
+                "lastname": "Raman",
+                "age": 29,
+                "birth": {
+                    "date": "1994-11-07",
+                    "place": "Gent",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "172 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/25467.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-1.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 9,
+                        "minutes": 810,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.789473",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 8,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 142,
+                        "key": 11,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 2,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 54,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 311543,
+                "name": "N. Angulo",
+                "firstname": "Nilson David",
+                "lastname": "Angulo Ram\u00edrez",
+                "age": 20,
+                "birth": {
+                    "date": "2003-06-19",
+                    "place": null,
+                    "country": "Ecuador"
+                },
+                "nationality": "Ecuador",
+                "height": "184 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/311543.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-3.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-3.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 0,
+                        "minutes": 23,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.475000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 0,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 13,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 13,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 322560,
+                "name": "L. Stassin",
+                "firstname": "Lucas Fr\u00e9d\u00e9ric",
+                "lastname": "Stassin",
+                "age": 19,
+                "birth": {
+                    "date": "2004-11-29",
+                    "place": null,
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "171 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/322560.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-1.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 2,
+                        "minutes": 111,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 8,
+                        "key": null,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 47430,
+                "name": "W. Hoedt",
+                "firstname": "Wesley Theodorus",
+                "lastname": "Hoedt",
+                "age": 29,
+                "birth": {
+                    "date": "1994-03-06",
+                    "place": "Alkmaar",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "188 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/47430.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-2.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-1.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 15,
+                        "minutes": 1290,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.225000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 808,
+                        "key": 4,
+                        "accuracy": 58
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 6,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 79,
+                        "won": 51
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 162767,
+                "name": "A. Colassin",
+                "firstname": "Antoine Benjamin",
+                "lastname": "Colassin",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-26",
+                    "place": "Charleroi",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "188 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/162767.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-2.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-1.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 119115,
+                "name": "M. Bouchouari",
+                "firstname": "Mohamed",
+                "lastname": "Bouchouari",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-15",
+                    "place": null,
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "170 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/119115.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-2.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-3.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 36776,
+                "name": "T. Wellenreuther",
+                "firstname": "Timon Janis",
+                "lastname": "Wellenreuther",
+                "age": 28,
+                "birth": {
+                    "date": "1995-12-03",
+                    "place": "Karlsruhe",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "188 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/36776.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-2.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-1.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 63446,
+                "name": "B. Mykhailichenko",
+                "firstname": "Bohdan",
+                "lastname": "Mykhailichenko",
+                "age": 26,
+                "birth": {
+                    "date": "1997-03-21",
+                    "place": "Boryspil",
+                    "country": "Ukraine"
+                },
+                "nationality": "Ukraine",
+                "height": "179 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/63446.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-2.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2973,
+                "name": "A. Murillo",
+                "firstname": "Michael Amir",
+                "lastname": "Murillo Berm\u00fadez",
+                "age": 27,
+                "birth": {
+                    "date": "1996-02-11",
+                    "place": "Col\u00f3n",
+                    "country": "Panama"
+                },
+                "nationality": "Panama",
+                "height": "183 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/2973.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-2.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-1.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 27,
+                        "minutes": 2475,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.804347",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 844,
+                        "key": 19,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 37,
+                        "blocks": 4,
+                        "interceptions": 21
+                    },
+                    "duels": {
+                        "total": 221,
+                        "won": 120
+                    },
+                    "dribbles": {
+                        "attempts": 45,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1374,
+                "name": "I. Slimani",
+                "firstname": "Islam",
+                "lastname": "Slimani",
+                "age": 35,
+                "birth": {
+                    "date": "1988-06-18",
+                    "place": "Alger",
+                    "country": "Algeria"
+                },
+                "nationality": "Algeria",
+                "height": "188 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/1374.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-3.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-1.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 7,
+                        "minutes": 633,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 4,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 189,
+                        "key": 10,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 79,
+                        "won": 46
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 170,
+                "name": "J. Vertonghen",
+                "firstname": "Jan",
+                "lastname": "Vertonghen",
+                "age": 36,
+                "birth": {
+                    "date": "1987-04-24",
+                    "place": "Sint-Niklaas",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "189 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/170.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-1.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-3.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 23,
+                        "minutes": 2105,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.978947",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1229,
+                        "key": 7,
+                        "accuracy": 54
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 13,
+                        "interceptions": 21
+                    },
+                    "duels": {
+                        "total": 161,
+                        "won": 110
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2086,
+                "name": "K. Olsson",
+                "firstname": "Mats Kristoffer",
+                "lastname": "Olsson",
+                "age": 28,
+                "birth": {
+                    "date": "1995-06-30",
+                    "place": "Vrinnevi",
+                    "country": "Sweden"
+                },
+                "nationality": "Sweden",
+                "height": "178 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/2086.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-1.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-1.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 45,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.033333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 44,
+                        "key": 3,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19827,
+                "name": "J. Cullen",
+                "firstname": "Joshua Jon",
+                "lastname": "Cullen",
+                "age": 27,
+                "birth": {
+                    "date": "1996-04-07",
+                    "place": "Westcliff-on-Sea",
+                    "country": "England"
+                },
+                "nationality": "Republic of Ireland",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/19827.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-3.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-3.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 304228,
+                "name": "Z. Debast",
+                "firstname": "Zeno Koen",
+                "lastname": "Debast",
+                "age": 20,
+                "birth": {
+                    "date": "2003-10-24",
+                    "place": null,
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "189 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/304228.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 554,
+                        "name": "Anderlecht",
+                        "logo": "https://media-1.api-sports.io/football/teams/554.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-1.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 34,
+                        "minutes": 2905,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.748148",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1609,
+                        "key": 6,
+                        "accuracy": 49
+                    },
+                    "tackles": {
+                        "total": 33,
+                        "blocks": 7,
+                        "interceptions": 25
+                    },
+                    "duels": {
+                        "total": 154,
+                        "won": 86
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 18,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2139 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "40",
+        "team": "61",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 331551,
+                "name": "C. Hughes",
+                "firstname": "Charlie",
+                "lastname": "Hughes",
+                "age": 20,
+                "birth": {
+                    "date": "2003-10-16",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/331551.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-1.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 19,
+                        "minutes": 1518,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.826315",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 6,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 796,
+                        "key": 8,
+                        "accuracy": 30
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 13,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 121,
+                        "won": 71
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19870,
+                "name": "T. Naylor",
+                "firstname": "Thomas Keith",
+                "lastname": "Naylor",
+                "age": 32,
+                "birth": {
+                    "date": "1991-06-28",
+                    "place": "Sutton-in-Ashfield",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "181 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/19870.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-3.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 22,
+                        "minutes": 2001,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.680000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 10,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 796,
+                        "key": 11,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 34,
+                        "blocks": 9,
+                        "interceptions": 39
+                    },
+                    "duels": {
+                        "total": 202,
+                        "won": 109
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 31,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19585,
+                "name": "J. Cousins",
+                "firstname": "Jordan Paul",
+                "lastname": "Cousins",
+                "age": 29,
+                "birth": {
+                    "date": "1994-03-06",
+                    "place": "London",
+                    "country": "England"
+                },
+                "nationality": "Jamaica",
+                "height": "177 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/19585.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-2.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 8,
+                        "minutes": 648,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.660000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 7,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 317,
+                        "key": 3,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 47,
+                        "won": 26
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19912,
+                "name": "M. Power",
+                "firstname": "Max Mcauley",
+                "lastname": "Power",
+                "age": 30,
+                "birth": {
+                    "date": "1993-07-27",
+                    "place": "Birkenhead",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "181 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/19912.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-2.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 45,
+                        "lineups": 45,
+                        "minutes": 4027,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.972727",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2291,
+                        "key": 65,
+                        "accuracy": 42
+                    },
+                    "tackles": {
+                        "total": 51,
+                        "blocks": 4,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 258,
+                        "won": 129
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 43,
+                        "committed": 34
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 144713,
+                "name": "A. Scully",
+                "firstname": "Anthony Richard",
+                "lastname": "Scully",
+                "age": 24,
+                "birth": {
+                    "date": "1999-04-19",
+                    "place": "London",
+                    "country": "England"
+                },
+                "nationality": "Republic of Ireland",
+                "height": "173 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/144713.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-1.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 1,
+                        "minutes": 100,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.560000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 27,
+                        "key": 2,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 138842,
+                "name": "M. Azeez",
+                "firstname": "Miguel",
+                "lastname": "Azeez",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-20",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/138842.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-1.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 1,
+                        "minutes": 104,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.250000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 49,
+                        "key": 2,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20698,
+                "name": "C. Ti\u00e9hi",
+                "firstname": "Christ Jo\u00ebl",
+                "lastname": "Junior Ti\u00e9hi",
+                "age": 25,
+                "birth": {
+                    "date": "1998-06-16",
+                    "place": "Paris",
+                    "country": "France"
+                },
+                "nationality": "C\u00f4te d'Ivoire",
+                "height": "180 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/20698.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-1.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 17,
+                        "minutes": 1334,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.838888",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 11,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 588,
+                        "key": 7,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 31,
+                        "blocks": 2,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 150,
+                        "won": 83
+                    },
+                    "dribbles": {
+                        "attempts": 31,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 277930,
+                "name": "T. Aasgaard",
+                "firstname": "Thelo  Gerard",
+                "lastname": "Aasgaard",
+                "age": 21,
+                "birth": {
+                    "date": "2002-05-02",
+                    "place": "Liverpool",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "170 cm",
+                "weight": "58 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/277930.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-3.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 41,
+                        "lineups": 12,
+                        "minutes": 1566,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.615384",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 29,
+                        "out": 8,
+                        "bench": 34
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 461,
+                        "key": 8,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 10,
+                        "interceptions": 22
+                    },
+                    "duels": {
+                        "total": 182,
+                        "won": 89
+                    },
+                    "dribbles": {
+                        "attempts": 37,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 215849,
+                "name": "S. Smith",
+                "firstname": "Scott",
+                "lastname": "Smith",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-07",
+                    "place": "Wigan",
+                    "country": "England"
+                },
+                "nationality": "Wales",
+                "height": "173 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/215849.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-2.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 13,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 12,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-2.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 12,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 331552,
+                "name": "B. Adeeko",
+                "firstname": "Babajide",
+                "lastname": "Adeeko",
+                "age": 20,
+                "birth": {
+                    "date": "2003-04-03",
+                    "place": null,
+                    "country": "Nigeria"
+                },
+                "nationality": "Republic of Ireland",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/331552.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-2.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 289510,
+                "name": "H. McHugh",
+                "firstname": "Harry",
+                "lastname": "McHugh",
+                "age": 21,
+                "birth": {
+                    "date": "2002-10-14",
+                    "place": "Liverpool",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/289510.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-2.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 163061,
+                "name": "A. Sharif",
+                "firstname": "Abdulrahman Mohamoud",
+                "lastname": "Sharif",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-01",
+                    "place": null,
+                    "country": "Somalia"
+                },
+                "nationality": "England",
+                "height": "185 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/163061.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-1.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 21,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 10,
+                        "key": null,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 379983,
+                "name": "J. Adams",
+                "firstname": "Joe",
+                "lastname": "Adams",
+                "age": 19,
+                "birth": {
+                    "date": "2004-06-03",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/379983.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-2.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19735,
+                "name": "G. Edwards",
+                "firstname": "Gwion Dafydd Rhys",
+                "lastname": "Edwards",
+                "age": 30,
+                "birth": {
+                    "date": "1993-03-01",
+                    "place": "Carmarthen",
+                    "country": "Wales"
+                },
+                "nationality": "Wales",
+                "height": "175 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/19735.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-3.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.450000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 15,
+                        "key": null,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-1.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 24,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.450000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 15,
+                        "key": null,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 44812,
+                "name": "G. Shinnie",
+                "firstname": "Graeme Garry",
+                "lastname": "Shinnie",
+                "age": 32,
+                "birth": {
+                    "date": "1991-08-04",
+                    "place": "Aberdeen",
+                    "country": "Scotland"
+                },
+                "nationality": "Scotland",
+                "height": "175 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/44812.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-1.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.611111",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 411,
+                        "key": 4,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": null,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 138,
+                        "won": 78
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-1.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 8,
+                        "minutes": 873,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.611111",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 1,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 411,
+                        "key": 4,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": null,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 138,
+                        "won": 78
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19918,
+                "name": "C. Wyke",
+                "firstname": "Charles Thomas",
+                "lastname": "Wyke",
+                "age": 31,
+                "birth": {
+                    "date": "1992-12-06",
+                    "place": "Middlesbrough",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "181 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/19918.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-1.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 8,
+                        "minutes": 774,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.688888",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 7,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 187,
+                        "key": 5,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 152,
+                        "won": 80
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19745,
+                "name": "W. Keane",
+                "firstname": "William David",
+                "lastname": "Keane",
+                "age": 30,
+                "birth": {
+                    "date": "1993-01-11",
+                    "place": "Stockport",
+                    "country": "England"
+                },
+                "nationality": "Republic of Ireland",
+                "height": "188 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/19745.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-2.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 43,
+                        "lineups": 38,
+                        "minutes": 3287,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.750000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 20,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 54,
+                        "on": 24
+                    },
+                    "goals": {
+                        "total": 12,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 762,
+                        "key": 22,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 43,
+                        "blocks": 7,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 390,
+                        "won": 157
+                    },
+                    "dribbles": {
+                        "attempts": 59,
+                        "success": 38,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 44
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 17760,
+                "name": "C. Lang",
+                "firstname": "Callum Joseph",
+                "lastname": "Lang",
+                "age": 25,
+                "birth": {
+                    "date": "1998-09-08",
+                    "place": "Liverpool",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "180 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/17760.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-3.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 29,
+                        "minutes": 2578,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.655882",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 14,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 38,
+                        "on": 19
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 478,
+                        "key": 23,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 33,
+                        "blocks": 2,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 400,
+                        "won": 168
+                    },
+                    "dribbles": {
+                        "attempts": 89,
+                        "success": 31,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 70,
+                        "committed": 50
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19251,
+                "name": "A. Fletcher",
+                "firstname": "Ashley Michael",
+                "lastname": "Fletcher",
+                "age": 28,
+                "birth": {
+                    "date": "1995-10-02",
+                    "place": "Keighley",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "185 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/19251.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-3.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 13,
+                        "minutes": 1189,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.636000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 8,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 221,
+                        "key": 12,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 3,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 216,
+                        "won": 94
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19715,
+                "name": "J. Magennis",
+                "firstname": "Joshua Brendan David",
+                "lastname": "Magennis",
+                "age": 33,
+                "birth": {
+                    "date": "1990-08-15",
+                    "place": "Bangor",
+                    "country": "Northern Ireland"
+                },
+                "nationality": "Northern Ireland",
+                "height": "188 cm",
+                "weight": "92 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/19715.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 61,
+                        "name": "Wigan",
+                        "logo": "https://media-2.api-sports.io/football/teams/61.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 14,
+                        "minutes": 1277,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.635294",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 22,
+                        "out": 14,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 234,
+                        "key": 14,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 255,
+                        "won": 116
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

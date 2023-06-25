@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "79",
+        "team": "186",
+        "season": "2022",
+        "page": "1"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 9026,
+                "name": "N. Vasilj",
+                "firstname": "Nikola",
+                "lastname": "Vasilj",
+                "age": 28,
+                "birth": {
+                    "date": "1995-12-02",
+                    "place": "Mostar",
+                    "country": "Bosnia and Herzegovina"
+                },
+                "nationality": "Bosnia and Herzegovina",
+                "height": "193 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/9026.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-3.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 28,
+                        "minutes": 2520,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.867857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 29,
+                        "assists": null,
+                        "saves": 61
+                    },
+                    "passes": {
+                        "total": 896,
+                        "key": null,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 7649,
+                "name": "D. Nemeth",
+                "firstname": "David",
+                "lastname": "Nemeth",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-18",
+                    "place": "Eisenstadt",
+                    "country": "Austria"
+                },
+                "nationality": "Austria",
+                "height": "191 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/7649.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-2.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 8,
+                        "minutes": 598,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.850000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 474,
+                        "key": null,
+                        "accuracy": 52
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 4,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 50,
+                        "won": 31
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 135520,
+                "name": "B. Fazliji",
+                "firstname": "Betim",
+                "lastname": "Fazliji",
+                "age": 24,
+                "birth": {
+                    "date": "1999-04-25",
+                    "place": "Vranje",
+                    "country": "Serbia"
+                },
+                "nationality": "Kosovo",
+                "height": "186 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/135520.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-2.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 6,
+                        "minutes": 563,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.562500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 4,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 447,
+                        "key": 2,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 4,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 57,
+                        "won": 30
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24921,
+                "name": "C. Avevor",
+                "firstname": "Christopher",
+                "lastname": "Avevor",
+                "age": 31,
+                "birth": {
+                    "date": "1992-02-11",
+                    "place": "Kiel",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "185 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/24921.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-2.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 80219,
+                "name": "J. Medi\u0107",
+                "firstname": "Jakov",
+                "lastname": "Medi\u0107",
+                "age": 25,
+                "birth": {
+                    "date": "1998-09-07",
+                    "place": "Zagreb",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": "193 cm",
+                "weight": "91 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/80219.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-1.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 29,
+                        "minutes": 2588,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.103571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1857,
+                        "key": 3,
+                        "accuracy": 58
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 21,
+                        "interceptions": 20
+                    },
+                    "duels": {
+                        "total": 213,
+                        "won": 134
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 25178,
+                "name": "L. Paqarada",
+                "firstname": "Leart",
+                "lastname": "Paqarada",
+                "age": 29,
+                "birth": {
+                    "date": "1994-10-08",
+                    "place": "Bremen",
+                    "country": "Germany"
+                },
+                "nationality": "Kosovo",
+                "height": "184 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/25178.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-3.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 32,
+                        "minutes": 2815,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.396774",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 7,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 54,
+                        "on": 19
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 9,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1847,
+                        "key": 82,
+                        "accuracy": 45
+                    },
+                    "tackles": {
+                        "total": 59,
+                        "blocks": 9,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 301,
+                        "won": 162
+                    },
+                    "dribbles": {
+                        "attempts": 75,
+                        "success": 39,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 44,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 2,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 40274,
+                "name": "A. D\u017awiga\u0142a",
+                "firstname": "Adam",
+                "lastname": "D\u017awiga\u0142a",
+                "age": 28,
+                "birth": {
+                    "date": "1995-09-25",
+                    "place": "Warszawa",
+                    "country": "Poland"
+                },
+                "nationality": "Poland",
+                "height": "185 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/40274.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-1.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 13,
+                        "minutes": 1188,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.835294",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 5,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 672,
+                        "key": 3,
+                        "accuracy": 30
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 8,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 120,
+                        "won": 70
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2749,
+                "name": "J. Irvine",
+                "firstname": "Jackson Alexander",
+                "lastname": "Irvine",
+                "age": 30,
+                "birth": {
+                    "date": "1993-03-07",
+                    "place": "Melbourne",
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": "189 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/2749.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-2.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 33,
+                        "minutes": 2844,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.121875",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 33,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1424,
+                        "key": 19,
+                        "accuracy": 35
+                    },
+                    "tackles": {
+                        "total": 64,
+                        "blocks": 4,
+                        "interceptions": 56
+                    },
+                    "duels": {
+                        "total": 333,
+                        "won": 201
+                    },
+                    "dribbles": {
+                        "attempts": 30,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 28,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 8486,
+                "name": "E. Smith",
+                "firstname": "Eric Anders",
+                "lastname": "Smith",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-08",
+                    "place": "Halmstad",
+                    "country": "Sweden"
+                },
+                "nationality": "Sweden",
+                "height": "192 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/8486.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-1.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 26,
+                        "minutes": 2272,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.040000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 7,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1314,
+                        "key": 18,
+                        "accuracy": 45
+                    },
+                    "tackles": {
+                        "total": 36,
+                        "blocks": 14,
+                        "interceptions": 38
+                    },
+                    "duels": {
+                        "total": 179,
+                        "won": 95
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 33,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24850,
+                "name": "M. Hartel",
+                "firstname": "Marcel",
+                "lastname": "Hartel",
+                "age": 27,
+                "birth": {
+                    "date": "1996-01-19",
+                    "place": "K\u00f6ln",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "177 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/24850.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-1.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 34,
+                        "minutes": 3043,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.251515",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 45,
+                        "on": 19
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 7,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1477,
+                        "key": 88,
+                        "accuracy": 36
+                    },
+                    "tackles": {
+                        "total": 40,
+                        "blocks": 5,
+                        "interceptions": 18
+                    },
+                    "duels": {
+                        "total": 247,
+                        "won": 117
+                    },
+                    "dribbles": {
+                        "attempts": 69,
+                        "success": 25,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 43,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 25268,
+                "name": "L. Daschner",
+                "firstname": "Lukas Stephan",
+                "lastname": "Horst Daschner",
+                "age": 25,
+                "birth": {
+                    "date": "1998-10-01",
+                    "place": "Duisburg",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "182 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/25268.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-1.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 30,
+                        "minutes": 2656,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.906060",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 20,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 54,
+                        "on": 26
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": 6,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 764,
+                        "key": 33,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 3,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 310,
+                        "won": 111
+                    },
+                    "dribbles": {
+                        "attempts": 90,
+                        "success": 38,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 57248,
+                "name": "A. Aremu",
+                "firstname": "Afeez",
+                "lastname": "Aremu Olalekan",
+                "age": 24,
+                "birth": {
+                    "date": "1999-10-03",
+                    "place": "Ibadan",
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": "181 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/57248.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-1.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 9,
+                        "minutes": 792,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.550000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 9,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 444,
+                        "key": 3,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": null,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 98,
+                        "won": 46
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12550,
+                "name": "Maurides",
+                "firstname": "Maurides",
+                "lastname": "Roque Junior",
+                "age": 29,
+                "birth": {
+                    "date": "1994-03-10",
+                    "place": "Col\u00f4mbia",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "189 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12550.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-2.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 0,
+                        "minutes": 136,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.642857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 57,
+                        "key": 2,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 28,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 25326,
+                "name": "J. Eggestein",
+                "firstname": "Johannes",
+                "lastname": "Eggestein",
+                "age": 25,
+                "birth": {
+                    "date": "1998-05-08",
+                    "place": "Hannover",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "183 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/25326.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-1.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 12,
+                        "minutes": 986,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.833333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 11,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 24,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 232,
+                        "key": 14,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 105,
+                        "won": 31
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 26339,
+                "name": "E. Amenyido",
+                "firstname": "Etienne",
+                "lastname": "Amenyido",
+                "age": 25,
+                "birth": {
+                    "date": "1998-03-01",
+                    "place": "Herford",
+                    "country": "Germany"
+                },
+                "nationality": "Togo",
+                "height": "180 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/26339.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-1.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 8,
+                        "minutes": 754,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 6,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 190,
+                        "key": 9,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 122,
+                        "won": 42
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 17756,
+                "name": "O. Afolayan",
+                "firstname": "Oladapo Joshua",
+                "lastname": "Afolayan",
+                "age": 26,
+                "birth": {
+                    "date": "1997-09-11",
+                    "place": "London",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "180 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/17756.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-2.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 15,
+                        "minutes": 1228,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.893750",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 13,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 16,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 322,
+                        "key": 19,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 226,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 64,
+                        "success": 27,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 38,
+                        "committed": 28
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 728,
+                "name": "D. Otto",
+                "firstname": "David",
+                "lastname": "Otto",
+                "age": 24,
+                "birth": {
+                    "date": "1999-03-03",
+                    "place": "Pforzheim",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "185 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/728.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-3.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 4,
+                        "minutes": 662,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.587500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 23,
+                        "out": 4,
+                        "bench": 29
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 183,
+                        "key": 7,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 118,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 178410,
+                "name": "J. Peitzmeier",
+                "firstname": "Jhonny",
+                "lastname": "Peitzmeier",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-04",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "190 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/178410.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-1.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 178425,
+                "name": "S. Ahlers",
+                "firstname": "S\u00f6ren",
+                "lastname": "Ahlers",
+                "age": 26,
+                "birth": {
+                    "date": "1997-09-09",
+                    "place": "Oldenburg",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "194 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/178425.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-1.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 25141,
+                "name": "S. Burchert",
+                "firstname": "Sascha",
+                "lastname": "Burchert",
+                "age": 34,
+                "birth": {
+                    "date": "1989-10-30",
+                    "place": "Berlin",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "187 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/25141.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 186,
+                        "name": "FC St. Pauli",
+                        "logo": "https://media-1.api-sports.io/football/teams/186.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 28
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

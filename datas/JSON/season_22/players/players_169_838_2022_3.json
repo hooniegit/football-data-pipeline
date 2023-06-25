@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "169",
+        "team": "838",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 12945,
+                "name": "Zhang Gong",
+                "firstname": "Gong",
+                "lastname": "Zhang",
+                "age": 31,
+                "birth": {
+                    "date": "1992-04-10",
+                    "place": "Beijing",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "183 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/12945.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 838,
+                        "name": "Guangzhou R&F",
+                        "logo": "https://media-3.api-sports.io/football/teams/838.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 29,
+                        "minutes": 2331,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.644827",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 16,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1135,
+                        "key": 8,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 57,
+                        "blocks": 8,
+                        "interceptions": 26
+                    },
+                    "duels": {
+                        "total": 231,
+                        "won": 106
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 55
+                    },
+                    "cards": {
+                        "yellow": 10,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12927,
+                "name": "Tang Miao",
+                "firstname": "Miao",
+                "lastname": "Tang",
+                "age": 33,
+                "birth": {
+                    "date": "1990-10-16",
+                    "place": "Dalian",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "177 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12927.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 838,
+                        "name": "Guangzhou R&F",
+                        "logo": "https://media-3.api-sports.io/football/teams/838.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-3.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 14,
+                        "minutes": 1181,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.906666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 3,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 496,
+                        "key": 7,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 24,
+                        "blocks": 3,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 73,
+                        "won": 43
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12925,
+                "name": "Jiang Jihong",
+                "firstname": "Jihong",
+                "lastname": "Jiang",
+                "age": 33,
+                "birth": {
+                    "date": "1990-02-08",
+                    "place": "Dalian",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "191 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12925.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 838,
+                        "name": "Guangzhou R&F",
+                        "logo": "https://media-2.api-sports.io/football/teams/838.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 29,
+                        "minutes": 2642,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.775862",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1216,
+                        "key": 4,
+                        "accuracy": 35
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 29,
+                        "interceptions": 34
+                    },
+                    "duels": {
+                        "total": 160,
+                        "won": 80
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 341009,
+                "name": "Liao Jiajun",
+                "firstname": "Jiajun",
+                "lastname": "Liao",
+                "age": 21,
+                "birth": {
+                    "date": "2002-12-24",
+                    "place": null,
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "172 cm",
+                "weight": "57 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/341009.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 838,
+                        "name": "Guangzhou R&F",
+                        "logo": "https://media-1.api-sports.io/football/teams/838.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 14,
+                        "minutes": 1405,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.490476",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 5,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 402,
+                        "key": 4,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 48,
+                        "blocks": 3,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 149,
+                        "won": 82
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 49908,
+                "name": "Guilherme Marques",
+                "firstname": "Guilherme",
+                "lastname": "Costa Marques",
+                "age": 32,
+                "birth": {
+                    "date": "1991-05-21",
+                    "place": "Tr\u00eas Rios",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "174 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/49908.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 838,
+                        "name": "Guangzhou R&F",
+                        "logo": "https://media-1.api-sports.io/football/teams/838.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 16,
+                        "minutes": 1311,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.164705",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 7,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 24,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 507,
+                        "key": 13,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 23,
+                        "blocks": 2,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 180,
+                        "won": 97
+                    },
+                    "dribbles": {
+                        "attempts": 31,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 51,
+                        "committed": 33
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

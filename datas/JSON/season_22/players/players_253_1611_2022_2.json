@@ -1,0 +1,1252 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "253",
+        "team": "1611",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 13,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 102466,
+                "name": "J. Davis",
+                "firstname": "Jacob",
+                "lastname": "Davis",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-03",
+                    "place": "Rochester",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "178 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/102466.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-1.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 15,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 73870,
+                "name": "F. Hern\u00e1ndez",
+                "firstname": "Luis Felipe",
+                "lastname": "Hern\u00e1ndez Rico",
+                "age": 25,
+                "birth": {
+                    "date": "1998-06-08",
+                    "place": "Ibagu\u00e9",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "173 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/73870.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-2.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 16,
+                        "minutes": 1770,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.717241",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 18,
+                        "out": 9,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 16,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 386,
+                        "key": 25,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 27,
+                        "blocks": 1,
+                        "interceptions": 25
+                    },
+                    "duels": {
+                        "total": 129,
+                        "won": 67
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 28,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 308691,
+                "name": "O. Cisneros",
+                "firstname": "Osvaldo",
+                "lastname": "Cisneros",
+                "age": 19,
+                "birth": {
+                    "date": "2004-03-13",
+                    "place": "Omaha",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "165 cm",
+                "weight": "59 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/308691.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-3.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 26311,
+                "name": "E. Thommy",
+                "firstname": "Erik",
+                "lastname": "Thommy",
+                "age": 29,
+                "birth": {
+                    "date": "1994-08-20",
+                    "place": "Ulm",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "175 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/26311.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-1.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 10,
+                        "minutes": 885,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.250000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 8,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 28,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 419,
+                        "key": 24,
+                        "accuracy": 30
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 108,
+                        "won": 53
+                    },
+                    "dribbles": {
+                        "attempts": 25,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 133226,
+                "name": "C. Duke",
+                "firstname": "Cameron",
+                "lastname": "Duke",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-13",
+                    "place": "Overland Park",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "168 cm",
+                "weight": "61 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/133226.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-3.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 13,
+                        "minutes": 1219,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.375000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 5,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 332,
+                        "key": 14,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 1,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 157,
+                        "won": 68
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 30,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 22175,
+                "name": "R. Walter",
+                "firstname": "R\u00e9mi",
+                "lastname": "Walter",
+                "age": 28,
+                "birth": {
+                    "date": "1995-04-26",
+                    "place": "Essey-l\u00e8s-Nancy",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "174 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/22175.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-3.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 34,
+                        "minutes": 2974,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.851724",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1269,
+                        "key": 29,
+                        "accuracy": 39
+                    },
+                    "tackles": {
+                        "total": 38,
+                        "blocks": 3,
+                        "interceptions": 29
+                    },
+                    "duels": {
+                        "total": 171,
+                        "won": 85
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51271,
+                "name": "J. Russell",
+                "firstname": "Johnathon Simpson",
+                "lastname": "Snedden Russell",
+                "age": 33,
+                "birth": {
+                    "date": "1990-04-08",
+                    "place": "Glasgow",
+                    "country": "Scotland"
+                },
+                "nationality": "Scotland",
+                "height": "178 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/51271.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-3.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 31,
+                        "minutes": 2711,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.000000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 15,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 39,
+                        "on": 20
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 733,
+                        "key": 37,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 2,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 282,
+                        "won": 141
+                    },
+                    "dribbles": {
+                        "attempts": 84,
+                        "success": 39,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 51,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 3,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35894,
+                "name": "A. Pulido",
+                "firstname": "Alan",
+                "lastname": "Pulido Izaguirre",
+                "age": 32,
+                "birth": {
+                    "date": "1991-03-08",
+                    "place": "Ciudad Victoria",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "178 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/35894.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-2.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24834,
+                "name": "K. Shelton",
+                "firstname": "Khiry Lamar",
+                "lastname": "Shelton",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-26",
+                    "place": "Colorado Springs",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "191 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/24834.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-1.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-1.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 15,
+                        "minutes": 1406,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.640000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 8,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 235,
+                        "key": 5,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 145,
+                        "won": 62
+                    },
+                    "dribbles": {
+                        "attempts": 25,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51272,
+                "name": "D. Sall\u00f3i",
+                "firstname": "D\u00e1niel",
+                "lastname": "Sall\u00f3i",
+                "age": 27,
+                "birth": {
+                    "date": "1996-07-19",
+                    "place": "Si\u00f3fok",
+                    "country": "Hungary"
+                },
+                "nationality": "Hungary",
+                "height": "185 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/51272.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-2.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-2.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 28,
+                        "minutes": 2533,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.888000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 49,
+                        "on": 23
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 629,
+                        "key": 27,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 2,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 199,
+                        "won": 82
+                    },
+                    "dribbles": {
+                        "attempts": 73,
+                        "success": 31,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 34,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 110563,
+                "name": "W. Agada",
+                "firstname": "William",
+                "lastname": "Agada",
+                "age": 24,
+                "birth": {
+                    "date": "1999-09-17",
+                    "place": null,
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": "175 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/110563.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-2.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 10,
+                        "minutes": 920,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.191666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 4,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 34,
+                        "on": 22
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 146,
+                        "key": 10,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 2,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 98,
+                        "won": 39
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15388,
+                "name": "M. Tzionis",
+                "firstname": "Marinos",
+                "lastname": "Tzionis",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-16",
+                    "place": "Nicosia",
+                    "country": "Cyprus"
+                },
+                "nationality": "Cyprus",
+                "height": "169 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/15388.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-1.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-3.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 6,
+                        "minutes": 764,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.627272",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 21,
+                        "out": 6,
+                        "bench": 26
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 233,
+                        "key": 7,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 106,
+                        "won": 60
+                    },
+                    "dribbles": {
+                        "attempts": 44,
+                        "success": 25,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50938,
+                "name": "Uri Rosell",
+                "firstname": "Oriol",
+                "lastname": "Rosell Argerich",
+                "age": 31,
+                "birth": {
+                    "date": "1992-07-07",
+                    "place": null,
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "183 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/50938.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1611,
+                        "name": "Sporting Kansas City",
+                        "logo": "https://media-2.api-sports.io/football/teams/1611.png"
+                    },
+                    "league": {
+                        "id": 253,
+                        "name": "Major League Soccer",
+                        "country": "USA",
+                        "logo": "https://media-3.api-sports.io/football/leagues/253.png",
+                        "flag": "https://media-2.api-sports.io/flags/us.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 13,
+                        "minutes": 907,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.564285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 9,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 429,
+                        "key": 4,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 2,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 66,
+                        "won": 31
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

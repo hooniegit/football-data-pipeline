@@ -1,0 +1,1727 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "140",
+        "team": "543",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 18,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 1573,
+                "name": "A. Guardado",
+                "firstname": "Jos\u00e9 Andr\u00e9s",
+                "lastname": "Guardado Hern\u00e1ndez",
+                "age": 37,
+                "birth": {
+                    "date": "1986-09-28",
+                    "place": "Guadalajara",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "169 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/1573.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 16,
+                        "minutes": 1374,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.756000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 10,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 851,
+                        "key": 12,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 41,
+                        "blocks": 5,
+                        "interceptions": 22
+                    },
+                    "duels": {
+                        "total": 154,
+                        "won": 73
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 185202,
+                "name": "Juan Cruz",
+                "firstname": "Juan Cruz",
+                "lastname": "D\u00edaz Esp\u00f3sito",
+                "age": 23,
+                "birth": {
+                    "date": "2000-04-25",
+                    "place": "Quilmes",
+                    "country": "Argentina"
+                },
+                "nationality": "Spain",
+                "height": "177 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/185202.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 1,
+                        "minutes": 174,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.466666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 33,
+                        "key": 2,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 19,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 163447,
+                "name": "Jos\u00e9 Lara",
+                "firstname": "Jos\u00e9",
+                "lastname": "Alonso Lara",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-07",
+                    "place": "Sevilla",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "161 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/163447.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-3.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 305797,
+                "name": "Enrique Fern\u00e1ndez",
+                "firstname": "Enrique",
+                "lastname": "Fern\u00e1ndez L\u00f3pez",
+                "age": 20,
+                "birth": {
+                    "date": "2003-09-16",
+                    "place": "Trebujena",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "177 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/305797.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 351131,
+                "name": "Dani P\u00e9rez",
+                "firstname": "Daniel",
+                "lastname": "P\u00e9rez Guerrero",
+                "age": 18,
+                "birth": {
+                    "date": "2005-07-26",
+                    "place": "Sevilla",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "173 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/351131.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-3.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 47320,
+                "name": "Juanmi",
+                "firstname": "Juan Miguel",
+                "lastname": "Jim\u00e9nez L\u00f3pez",
+                "age": 30,
+                "birth": {
+                    "date": "1993-05-20",
+                    "place": "Co\u00edn",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "172 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/47320.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-1.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 9,
+                        "minutes": 919,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.566666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 6,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 240,
+                        "key": 4,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 138,
+                        "won": 57
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 668,
+                "name": "N. Fekir",
+                "firstname": "Nabil",
+                "lastname": "Fekir",
+                "age": 30,
+                "birth": {
+                    "date": "1993-07-18",
+                    "place": "Lyon",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "173 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/668.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 12,
+                        "minutes": 965,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.826666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 6,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 430,
+                        "key": 23,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 2,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 146,
+                        "won": 71
+                    },
+                    "dribbles": {
+                        "attempts": 33,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 38,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 47348,
+                "name": "Borja Iglesias",
+                "firstname": "Borja",
+                "lastname": "Iglesias Quint\u00e1s",
+                "age": 30,
+                "birth": {
+                    "date": "1993-01-17",
+                    "place": "Santiago de Compostela",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "187 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/47348.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-1.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 29,
+                        "minutes": 2382,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.845714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 22,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 50,
+                        "on": 29
+                    },
+                    "goals": {
+                        "total": 15,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 517,
+                        "key": 22,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 242,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 53,
+                        "committed": 41
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 5,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 265785,
+                "name": "Luiz Henrique",
+                "firstname": "Luiz Henrique Andr\u00e9",
+                "lastname": "Rosa da Silva",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-02",
+                    "place": "Petr\u00f3polis",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "181 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/265785.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-1.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 21,
+                        "minutes": 1812,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.660606",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 18,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 33,
+                        "on": 17
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 522,
+                        "key": 17,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 48,
+                        "blocks": null,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 370,
+                        "won": 172
+                    },
+                    "dribbles": {
+                        "attempts": 107,
+                        "success": 56,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 41,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 47319,
+                "name": "Willian Jos\u00e9",
+                "firstname": "Willian Jos\u00e9",
+                "lastname": "da Silva",
+                "age": 32,
+                "birth": {
+                    "date": "1991-11-23",
+                    "place": "Porto Calvo",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "189 cm",
+                "weight": "93 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/47319.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 6,
+                        "minutes": 711,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.608695",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 22,
+                        "out": 4,
+                        "bench": 29
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 262,
+                        "key": 8,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 80,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18906,
+                "name": "Ayoze P\u00e9rez",
+                "firstname": "Ayoze",
+                "lastname": "P\u00e9rez Guti\u00e9rrez",
+                "age": 30,
+                "birth": {
+                    "date": "1993-07-29",
+                    "place": "Santa Cruz de Tenerife",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "178 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/18906.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 17,
+                        "minutes": 1395,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.731578",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 12,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 24,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 377,
+                        "key": 13,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 31,
+                        "blocks": null,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 247,
+                        "won": 110
+                    },
+                    "dribbles": {
+                        "attempts": 72,
+                        "success": 42,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 29,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18998,
+                "name": "Camarasa",
+                "firstname": "V\u00edctor",
+                "lastname": "Camarasa Ferrando",
+                "age": 29,
+                "birth": {
+                    "date": "1994-05-28",
+                    "place": "Meliana",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "183 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/18998.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-1.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1584,
+                "name": "Loren Mor\u00f3n",
+                "firstname": "Lorenzo Jes\u00fas",
+                "lastname": "Mor\u00f3n Garc\u00eda",
+                "age": 30,
+                "birth": {
+                    "date": "1993-12-30",
+                    "place": "Marbella",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "188 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1584.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 13,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 4,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2469,
+                "name": "G. Pezzella",
+                "firstname": "Germ\u00e1n Alejo",
+                "lastname": "Pezzella",
+                "age": 32,
+                "birth": {
+                    "date": "1991-06-27",
+                    "place": "Bah\u00eda Blanca",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "187 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2469.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 29,
+                        "minutes": 2515,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.919354",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 4,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1304,
+                        "key": 4,
+                        "accuracy": 36
+                    },
+                    "tackles": {
+                        "total": 41,
+                        "blocks": 15,
+                        "interceptions": 49
+                    },
+                    "duels": {
+                        "total": 208,
+                        "won": 135
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 3
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2476,
+                "name": "G. Rodr\u00edguez",
+                "firstname": "Guido",
+                "lastname": "Rodr\u00edguez",
+                "age": 29,
+                "birth": {
+                    "date": "1994-04-12",
+                    "place": "Caseros",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "185 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2476.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 33,
+                        "minutes": 2877,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.088235",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 6,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1671,
+                        "key": 11,
+                        "accuracy": 43
+                    },
+                    "tackles": {
+                        "total": 115,
+                        "blocks": 14,
+                        "interceptions": 42
+                    },
+                    "duels": {
+                        "total": 409,
+                        "won": 245
+                    },
+                    "dribbles": {
+                        "attempts": 30,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 64,
+                        "committed": 45
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 47547,
+                "name": "\u00c1lex Moreno",
+                "firstname": "Alexandre",
+                "lastname": "Moreno Lopera",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-08",
+                    "place": "Sant Sadurn\u00ed d'Anoia",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "179 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/47547.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-3.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 15,
+                        "minutes": 1350,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.806666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 526,
+                        "key": 9,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 28,
+                        "blocks": 4,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 148,
+                        "won": 70
+                    },
+                    "dribbles": {
+                        "attempts": 35,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 134,
+                "name": "Juan Miranda",
+                "firstname": "Juan",
+                "lastname": "Miranda Gonz\u00e1lez",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-19",
+                    "place": "Olivares",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "185 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/134.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 16,
+                        "minutes": 1473,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.865000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 5,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 625,
+                        "key": 21,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 23,
+                        "blocks": 7,
+                        "interceptions": 20
+                    },
+                    "duels": {
+                        "total": 134,
+                        "won": 73
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 185477,
+                "name": "Rodri",
+                "firstname": "Rodrigo",
+                "lastname": "S\u00e1nchez Rodr\u00edguez",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-16",
+                    "place": "Talayuela",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "168 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/185477.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 19,
+                        "minutes": 1606,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.813333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 16,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 796,
+                        "key": 23,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": null,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 162,
+                        "won": 84
+                    },
+                    "dribbles": {
+                        "attempts": 59,
+                        "success": 27,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 39,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

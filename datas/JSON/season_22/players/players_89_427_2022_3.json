@@ -1,0 +1,872 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "89",
+        "team": "427",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 9,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 275910,
+                "name": "K. Blommestijn",
+                "firstname": "Koen",
+                "lastname": "Blommestijn",
+                "age": 24,
+                "birth": {
+                    "date": "1999-10-14",
+                    "place": null,
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/275910.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 427,
+                        "name": "Telstar",
+                        "logo": "https://media-3.api-sports.io/football/teams/427.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-2.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 8,
+                        "minutes": 696,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.508333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 5,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 89,
+                        "key": 1,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 123,
+                        "won": 47
+                    },
+                    "dribbles": {
+                        "attempts": 38,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 93007,
+                "name": "D. Min",
+                "firstname": "David",
+                "lastname": "Min",
+                "age": 24,
+                "birth": {
+                    "date": "1999-06-23",
+                    "place": "Zaandam",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "188 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/93007.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 427,
+                        "name": "Telstar",
+                        "logo": "https://media-2.api-sports.io/football/teams/427.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-1.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-1.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 24,
+                        "minutes": 2215,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.782758",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 11,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 41,
+                        "on": 22
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 387,
+                        "key": 24,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 2,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 255,
+                        "won": 105
+                    },
+                    "dribbles": {
+                        "attempts": 47,
+                        "success": 24,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 32,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 37939,
+                "name": "Y. Boussakou",
+                "firstname": "Yahya",
+                "lastname": "Boussakou",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-04",
+                    "place": "Den Haag",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "178 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/37939.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 427,
+                        "name": "Telstar",
+                        "logo": "https://media-2.api-sports.io/football/teams/427.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-2.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 14,
+                        "minutes": 1348,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.704545",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 12,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 394,
+                        "key": 27,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 4,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 145,
+                        "won": 66
+                    },
+                    "dribbles": {
+                        "attempts": 46,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 180850,
+                "name": "R. Smit",
+                "firstname": "Rein",
+                "lastname": "Smit",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-05",
+                    "place": null,
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "189 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/180850.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 427,
+                        "name": "Telstar",
+                        "logo": "https://media-3.api-sports.io/football/teams/427.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-3.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 2,
+                        "minutes": 280,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.660000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 2,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 65,
+                        "key": 3,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 37,
+                        "won": 14
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 161903,
+                "name": "S. Vandermeulen",
+                "firstname": "Siebe",
+                "lastname": "Vandermeulen",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-02",
+                    "place": "Tienen",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "179 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/161903.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 427,
+                        "name": "Telstar",
+                        "logo": "https://media-3.api-sports.io/football/teams/427.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-2.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-2.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 60358,
+                "name": "M. Ainsalu",
+                "firstname": "Mihkel",
+                "lastname": "Ainsalu",
+                "age": 27,
+                "birth": {
+                    "date": "1996-03-08",
+                    "place": "Tartu",
+                    "country": "Estonia"
+                },
+                "nationality": "Estonia",
+                "height": "189 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/60358.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 427,
+                        "name": "Telstar",
+                        "logo": "https://media-2.api-sports.io/football/teams/427.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-1.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-2.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 5,
+                        "minutes": 511,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 3,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 161,
+                        "key": 2,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 2,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 53,
+                        "won": 26
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 37442,
+                "name": "Y. El Kachati",
+                "firstname": "Youssef",
+                "lastname": "El Kachati",
+                "age": 24,
+                "birth": {
+                    "date": "1999-11-30",
+                    "place": null,
+                    "country": "Netherlands"
+                },
+                "nationality": "Morocco",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/37442.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 427,
+                        "name": "Telstar",
+                        "logo": "https://media-3.api-sports.io/football/teams/427.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-1.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-1.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 128314,
+                "name": "C. Dijkstra",
+                "firstname": "Cas",
+                "lastname": "Dijkstra",
+                "age": 22,
+                "birth": {
+                    "date": "2001-09-12",
+                    "place": "Alkmaar",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/128314.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 427,
+                        "name": "Telstar",
+                        "logo": "https://media-1.api-sports.io/football/teams/427.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-3.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 48,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 18,
+                        "key": 2,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 37756,
+                "name": "A. Berenstein",
+                "firstname": "Anthony",
+                "lastname": "Berenstein",
+                "age": 26,
+                "birth": {
+                    "date": "1997-03-02",
+                    "place": "Amsterdam",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/37756.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 427,
+                        "name": "Telstar",
+                        "logo": "https://media-2.api-sports.io/football/teams/427.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-1.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

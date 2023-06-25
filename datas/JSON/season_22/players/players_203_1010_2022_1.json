@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "203",
+        "team": "1010",
+        "season": "2022",
+        "page": "1"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 457,
+                "name": "E. Derdiyok",
+                "firstname": "Eren",
+                "lastname": "Derdiyok",
+                "age": 35,
+                "birth": {
+                    "date": "1988-06-12",
+                    "place": "Basel",
+                    "country": "Switzerland"
+                },
+                "nationality": "Switzerland",
+                "height": "191 cm",
+                "weight": "90 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/457.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-1.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 22,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "5.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1355,
+                "name": "T. Ci\u011ferci",
+                "firstname": "Tolga",
+                "lastname": "Ci\u011ferci",
+                "age": 31,
+                "birth": {
+                    "date": "1992-03-23",
+                    "place": "Nordenham",
+                    "country": "Germany"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "185 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/1355.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-1.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 16,
+                        "minutes": 1431,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.175000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1022,
+                        "key": 23,
+                        "accuracy": 54
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 1,
+                        "interceptions": 32
+                    },
+                    "duels": {
+                        "total": 159,
+                        "won": 72
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 35
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 26759,
+                "name": "F. Macheda",
+                "firstname": "Federico",
+                "lastname": "Macheda",
+                "age": 32,
+                "birth": {
+                    "date": "1991-08-22",
+                    "place": "Roma",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "185 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/26759.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-2.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 4,
+                        "minutes": 343,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 2,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 69,
+                        "key": 1,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 33,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 214427,
+                "name": "M. Yi\u011fit",
+                "firstname": "Mervan Yusuf",
+                "lastname": "Yi\u011fit",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-27",
+                    "place": "Kocaeli",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "181 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/214427.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-2.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1585,
+                "name": "Jes\u00e9",
+                "firstname": "Jes\u00e9",
+                "lastname": "Rodr\u00edguez Ruiz",
+                "age": 30,
+                "birth": {
+                    "date": "1993-02-26",
+                    "place": "Las Palmas de Gran Canaria",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "178 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1585.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-3.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 6,
+                        "minutes": 579,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.664285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 6,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 155,
+                        "key": 5,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 58,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1814,
+                "name": "\u015e. \u00c7etin",
+                "firstname": "\u015eahverdi",
+                "lastname": "\u00c7etin",
+                "age": 23,
+                "birth": {
+                    "date": "2000-09-28",
+                    "place": "Mainz",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "174 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1814.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-2.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 61953,
+                "name": "O. Ceylan",
+                "firstname": "O\u011fuz",
+                "lastname": "Ceylan",
+                "age": 33,
+                "birth": {
+                    "date": "1990-12-15",
+                    "place": "\u00c7anakkale",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "174 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/61953.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-2.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 8,
+                        "minutes": 725,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.508333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 2,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 360,
+                        "key": 4,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 3,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 99,
+                        "won": 47
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 61930,
+                "name": "S. Osmano\u011flu",
+                "firstname": "Sinan",
+                "lastname": "Osmano\u011flu",
+                "age": 33,
+                "birth": {
+                    "date": "1990-01-09",
+                    "place": "\u0130stanbul",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "197 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/61930.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-2.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 1,
+                        "minutes": 95,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.450000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 61,
+                        "key": null,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 214444,
+                "name": "D. Kaya",
+                "firstname": "Do\u011fukan",
+                "lastname": "Kaya",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-16",
+                    "place": "Kocaeli",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "191 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/214444.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-2.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 2,
+                        "assists": null,
+                        "saves": 2
+                    },
+                    "passes": {
+                        "total": 32,
+                        "key": null,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50020,
+                "name": "G. Akkan",
+                "firstname": "G\u00f6khan",
+                "lastname": "Akkan",
+                "age": 28,
+                "birth": {
+                    "date": "1995-01-01",
+                    "place": "Yozgat",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "188 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/50020.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-1.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 23,
+                        "minutes": 2014,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.973913",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 31,
+                        "assists": null,
+                        "saves": 82
+                    },
+                    "passes": {
+                        "total": 667,
+                        "key": null,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 314357,
+                "name": "K. \u00c7inkaya",
+                "firstname": "Kaan",
+                "lastname": "\u00c7inkaya",
+                "age": 19,
+                "birth": {
+                    "date": "2004-01-06",
+                    "place": "Amasya",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/314357.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-2.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 194689,
+                "name": "B. G\u00fcng\u00f6rd\u00fc",
+                "firstname": "Bahad\u0131r Han",
+                "lastname": "G\u00fcng\u00f6rd\u00fc",
+                "age": 27,
+                "birth": {
+                    "date": "1996-01-16",
+                    "place": "\u00c7orum",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "190 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/194689.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-3.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 11,
+                        "minutes": 1046,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.714285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 20,
+                        "assists": null,
+                        "saves": 37
+                    },
+                    "passes": {
+                        "total": 349,
+                        "key": null,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50136,
+                "name": "M. Akan",
+                "firstname": "Mahmut",
+                "lastname": "Akan",
+                "age": 29,
+                "birth": {
+                    "date": "1994-07-14",
+                    "place": "Ankara",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "181 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/50136.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-2.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 66011,
+                "name": "M. Hanousek",
+                "firstname": "Mat\u011bj",
+                "lastname": "Hanousek",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-02",
+                    "place": "Praha",
+                    "country": "Czech Republic"
+                },
+                "nationality": "Czech Republic",
+                "height": "182 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/66011.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-3.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 8,
+                        "minutes": 815,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.590909",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 284,
+                        "key": 10,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 3,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 60,
+                        "won": 30
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50142,
+                "name": "S. Kitsiou",
+                "firstname": "Stelios",
+                "lastname": "Kitsiou",
+                "age": 30,
+                "birth": {
+                    "date": "1993-09-28",
+                    "place": "Thessaloniki",
+                    "country": "Greece"
+                },
+                "nationality": "Greece",
+                "height": "173 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/50142.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-2.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 10,
+                        "minutes": 858,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.608333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 324,
+                        "key": 14,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 3,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 98,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 76867,
+                "name": "N. Mujaki\u0107",
+                "firstname": "Nihad",
+                "lastname": "Mujaki\u0107",
+                "age": 25,
+                "birth": {
+                    "date": "1998-04-15",
+                    "place": "Sarajevo",
+                    "country": "Bosnia and Herzegovina"
+                },
+                "nationality": "Bosnia and Herzegovina",
+                "height": "189 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/76867.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-3.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 32,
+                        "minutes": 2880,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.668750",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1673,
+                        "key": 5,
+                        "accuracy": 43
+                    },
+                    "tackles": {
+                        "total": 57,
+                        "blocks": 15,
+                        "interceptions": 34
+                    },
+                    "duels": {
+                        "total": 217,
+                        "won": 120
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 422567,
+                "name": "M. Can",
+                "firstname": "Mert",
+                "lastname": "Can",
+                "age": 18,
+                "birth": {
+                    "date": "2005-02-07",
+                    "place": "Ankara",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/422567.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-1.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 3,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 5,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 321,
+                "name": "K. Malcuit",
+                "firstname": "K\u00e9vin",
+                "lastname": "Malcuit",
+                "age": 32,
+                "birth": {
+                    "date": "1991-07-31",
+                    "place": "Chatenay-Malabry",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "178 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/321.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-1.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 19,
+                        "minutes": 1669,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.920000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 740,
+                        "key": 17,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 49,
+                        "blocks": null,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 164,
+                        "won": 100
+                    },
+                    "dribbles": {
+                        "attempts": 33,
+                        "success": 16,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 66013,
+                "name": "U. Radakovi\u0107",
+                "firstname": "Uro\u0161",
+                "lastname": "Radakovi\u0107",
+                "age": 29,
+                "birth": {
+                    "date": "1994-03-31",
+                    "place": "Beograd",
+                    "country": "Serbia"
+                },
+                "nationality": "Serbia",
+                "height": "194 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/66013.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-1.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 22,
+                        "minutes": 1960,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.950000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1193,
+                        "key": 2,
+                        "accuracy": 48
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 15,
+                        "interceptions": 34
+                    },
+                    "duels": {
+                        "total": 151,
+                        "won": 87
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 404443,
+                "name": "A. \u00dcnyay",
+                "firstname": "Arda",
+                "lastname": "\u00dcnyay",
+                "age": 16,
+                "birth": {
+                    "date": "2007-01-18",
+                    "place": "Ankara",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "184 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/404443.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1010,
+                        "name": "Ankaragucu",
+                        "logo": "https://media-1.api-sports.io/football/teams/1010.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 20,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 10,
+                        "key": null,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

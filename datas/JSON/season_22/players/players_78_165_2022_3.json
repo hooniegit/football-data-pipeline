@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "78",
+        "team": "165",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 161919,
+                "name": "Y. Moukoko",
+                "firstname": "Youssoufa",
+                "lastname": "Moukoko",
+                "age": 19,
+                "birth": {
+                    "date": "2004-11-20",
+                    "place": "Yaound\u00e9",
+                    "country": "Cameroon"
+                },
+                "nationality": "Germany",
+                "height": "179 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/161919.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 165,
+                        "name": "Borussia Dortmund",
+                        "logo": "https://media-1.api-sports.io/football/teams/165.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 11,
+                        "minutes": 1133,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.728000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 7,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 31,
+                        "on": 19
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 194,
+                        "key": 12,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 104,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 43,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

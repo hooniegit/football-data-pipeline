@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "61",
+        "team": "94",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 147831,
+                "name": "A. Kalimuendo",
+                "firstname": "Arnaud",
+                "lastname": "Kalimuendo-Muinga",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-20",
+                    "place": "Suresnes",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "175 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/147831.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 94,
+                        "name": "Rennes",
+                        "logo": "https://media-3.api-sports.io/football/teams/94.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 24,
+                        "minutes": 1862,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 21,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

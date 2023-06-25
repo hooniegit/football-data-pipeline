@@ -1,0 +1,756 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "140",
+        "team": "536",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 7,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 1911,
+                "name": "L. Ocampos",
+                "firstname": "Lucas Ariel",
+                "lastname": "Ocampos",
+                "age": 29,
+                "birth": {
+                    "date": "1994-07-11",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "187 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1911.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 536,
+                        "name": "Sevilla",
+                        "logo": "https://media-2.api-sports.io/football/teams/536.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 10,
+                        "minutes": 1031,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.721052",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 4,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 24,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 398,
+                        "key": 13,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 2,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 203,
+                        "won": 101
+                    },
+                    "dribbles": {
+                        "attempts": 60,
+                        "success": 25,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 3,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 536,
+                        "name": "Sevilla",
+                        "logo": "https://media-3.api-sports.io/football/teams/536.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 1,
+                        "minutes": 132,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.721052",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 24,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 398,
+                        "key": 13,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 2,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 203,
+                        "won": 101
+                    },
+                    "dribbles": {
+                        "attempts": 60,
+                        "success": 25,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 3,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2701,
+                "name": "Y. Bounou",
+                "firstname": "Yassine",
+                "lastname": "Bounou",
+                "age": 32,
+                "birth": {
+                    "date": "1991-04-05",
+                    "place": "Montr\u00e9al",
+                    "country": "Canada"
+                },
+                "nationality": "Morocco",
+                "height": "195 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2701.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 536,
+                        "name": "Sevilla",
+                        "logo": "https://media-1.api-sports.io/football/teams/536.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 25,
+                        "minutes": 2153,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.640000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 41,
+                        "assists": null,
+                        "saves": 67
+                    },
+                    "passes": {
+                        "total": 856,
+                        "key": null,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 47422,
+                "name": "Y. En-Nesyri",
+                "firstname": "Youssef",
+                "lastname": "En-Nesyri",
+                "age": 26,
+                "birth": {
+                    "date": "1997-06-01",
+                    "place": "F\u00e8s",
+                    "country": "Morocco"
+                },
+                "nationality": "Morocco",
+                "height": "188 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/47422.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 536,
+                        "name": "Sevilla",
+                        "logo": "https://media-2.api-sports.io/football/teams/536.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 17,
+                        "minutes": 1659,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.768965",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 11,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 48,
+                        "on": 22
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 226,
+                        "key": 10,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 2,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 212,
+                        "won": 86
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 378,
+                "name": "Alex Telles",
+                "firstname": "Alex",
+                "lastname": "Nicolao Telles",
+                "age": 31,
+                "birth": {
+                    "date": "1992-12-15",
+                    "place": "Caxias do Sul",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "181 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/378.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 536,
+                        "name": "Sevilla",
+                        "logo": "https://media-1.api-sports.io/football/teams/536.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 15,
+                        "minutes": 1425,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.776923",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 9,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 542,
+                        "key": 19,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 5,
+                        "interceptions": 21
+                    },
+                    "duels": {
+                        "total": 135,
+                        "won": 74
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 174918,
+                "name": "L. Bad\u00e9",
+                "firstname": "Lo\u00efc",
+                "lastname": "Bad\u00e9",
+                "age": 23,
+                "birth": {
+                    "date": "2000-04-11",
+                    "place": "S\u00e8vres",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "191 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/174918.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 536,
+                        "name": "Sevilla",
+                        "logo": "https://media-3.api-sports.io/football/teams/536.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 16,
+                        "minutes": 1447,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.117647",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 812,
+                        "key": 2,
+                        "accuracy": 42
+                    },
+                    "tackles": {
+                        "total": 27,
+                        "blocks": 13,
+                        "interceptions": 20
+                    },
+                    "duels": {
+                        "total": 123,
+                        "won": 67
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 188445,
+                "name": "Luismi Cruz",
+                "firstname": "Luis Miguel",
+                "lastname": "Cruz Hern\u00e1ndez",
+                "age": 22,
+                "birth": {
+                    "date": "2001-05-23",
+                    "place": "El Puerto de Santa Mar\u00eda",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "166 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/188445.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 536,
+                        "name": "Sevilla",
+                        "logo": "https://media-2.api-sports.io/football/teams/536.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 253699,
+                "name": "Antonio Zarzana",
+                "firstname": "Antonio",
+                "lastname": "Zarzana P\u00e9rez",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-21",
+                    "place": "Jerez de la Frontera",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "177 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/253699.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 536,
+                        "name": "Sevilla",
+                        "logo": "https://media-2.api-sports.io/football/teams/536.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

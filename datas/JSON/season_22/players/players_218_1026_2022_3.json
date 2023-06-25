@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "218",
+        "team": "1026",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 33321,
+                "name": "K. Nakamura",
+                "firstname": "Keito",
+                "lastname": "Nakamura",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-28",
+                    "place": "Abiko",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/33321.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1026,
+                        "name": "Lask Linz",
+                        "logo": "https://media-1.api-sports.io/football/teams/1026.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-2.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-2.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 30,
+                        "minutes": 2521,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.125806",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 19,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 60,
+                        "on": 35
+                    },
+                    "goals": {
+                        "total": 14,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 874,
+                        "key": 47,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 1,
+                        "interceptions": 22
+                    },
+                    "duels": {
+                        "total": 358,
+                        "won": 162
+                    },
+                    "dribbles": {
+                        "attempts": 136,
+                        "success": 84,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 35,
+                        "committed": 42
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 26519,
+                "name": "Hong Hyun-Seok",
+                "firstname": "Hyun-Seok",
+                "lastname": "Hong",
+                "age": 24,
+                "birth": {
+                    "date": "1999-06-16",
+                    "place": null,
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "177 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/26519.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1026,
+                        "name": "Lask Linz",
+                        "logo": "https://media-2.api-sports.io/football/teams/1026.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-3.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-1.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 3,
+                        "minutes": 215,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.933333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 72,
+                        "key": 6,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 19,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 59853,
+                "name": "F. Valencia",
+                "firstname": "Fredy Alexander",
+                "lastname": "Valencia Ramos",
+                "age": 22,
+                "birth": {
+                    "date": "2001-08-16",
+                    "place": "Bello",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "182 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/59853.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1026,
+                        "name": "Lask Linz",
+                        "logo": "https://media-1.api-sports.io/football/teams/1026.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-2.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-2.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 7,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 126630,
+                "name": "M. Talovierov",
+                "firstname": "Maksym",
+                "lastname": "Talovierov",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-28",
+                    "place": "Donetsk",
+                    "country": "Ukraine"
+                },
+                "nationality": "Ukraine",
+                "height": "195 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/126630.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1026,
+                        "name": "Lask Linz",
+                        "logo": "https://media-2.api-sports.io/football/teams/1026.png"
+                    },
+                    "league": {
+                        "id": 218,
+                        "name": "Bundesliga",
+                        "country": "Austria",
+                        "logo": "https://media-2.api-sports.io/football/leagues/218.png",
+                        "flag": "https://media-3.api-sports.io/flags/at.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 5,
+                        "minutes": 502,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.770000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 2,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 323,
+                        "key": 4,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 3,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 51,
+                        "won": 27
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

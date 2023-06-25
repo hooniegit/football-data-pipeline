@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "239",
+        "team": "1133",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 13621,
+                "name": "D. Padilla",
+                "firstname": "Daniel Enrique",
+                "lastname": "Padilla P\u00e9rez",
+                "age": 30,
+                "birth": {
+                    "date": "1993-12-15",
+                    "place": "Barranquilla",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "176 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/13621.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1133,
+                        "name": "Jaguares",
+                        "logo": "https://media-1.api-sports.io/football/teams/1133.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 13,
+                        "minutes": 1392,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.603846",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 17,
+                        "out": 4,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 576,
+                        "key": 10,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 6,
+                        "interceptions": 18
+                    },
+                    "duels": {
+                        "total": 122,
+                        "won": 55
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 52710,
+                "name": "J. Castellanos",
+                "firstname": "Juan Carlos",
+                "lastname": "Castellanos Anuel",
+                "age": 28,
+                "birth": {
+                    "date": "1995-10-30",
+                    "place": "El Tigre",
+                    "country": "Venezuela"
+                },
+                "nationality": "Venezuela",
+                "height": "170 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/52710.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1133,
+                        "name": "Jaguares",
+                        "logo": "https://media-1.api-sports.io/football/teams/1133.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-3.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 18,
+                        "minutes": 1279,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.795833",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 16,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 16,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 411,
+                        "key": 29,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 92,
+                        "won": 39
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 372586,
+                "name": "E. Villalobos",
+                "firstname": "Elian David",
+                "lastname": "Villalobos Miranda",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-06",
+                    "place": null,
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "177 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/372586.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1133,
+                        "name": "Jaguares",
+                        "logo": "https://media-2.api-sports.io/football/teams/1133.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 18,
+                        "minutes": 1444,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 12,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13564,
+                "name": "P. Rojas",
+                "firstname": "Pablo Jos\u00e9",
+                "lastname": "Rojas Cardales",
+                "age": 32,
+                "birth": {
+                    "date": "1991-09-23",
+                    "place": "Apartad\u00f3",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "167 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13564.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1133,
+                        "name": "Jaguares",
+                        "logo": "https://media-3.api-sports.io/football/teams/1133.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-3.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 25,
+                        "minutes": 2193,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.136363",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 28,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 644,
+                        "key": 43,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 4,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 174,
+                        "won": 99
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 27,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 36,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 3,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 324894,
+                "name": "J. D\u00edaz",
+                "firstname": "Jaime de Jes\u00fas",
+                "lastname": "D\u00edaz Montes",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-25",
+                    "place": "Sincelejo",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/324894.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1133,
+                        "name": "Jaguares",
+                        "logo": "https://media-3.api-sports.io/football/teams/1133.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 16,
+                        "minutes": 1370,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 6,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 320130,
+                "name": "C. Copete",
+                "firstname": "Carlos Andr\u00e9s",
+                "lastname": "Copete V\u00e9lez",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-07",
+                    "place": "Apartad\u00f3",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/320130.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1133,
+                        "name": "Jaguares",
+                        "logo": "https://media-1.api-sports.io/football/teams/1133.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-3.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 4,
+                        "minutes": 472,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.436363",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 3,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 70,
+                        "key": 4,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 47,
+                        "won": 21
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13309,
+                "name": "O. Duarte",
+                "firstname": "William Omar",
+                "lastname": "Duarte Figueroa",
+                "age": 28,
+                "birth": {
+                    "date": "1995-07-18",
+                    "place": "C\u00facuta",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13309.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1133,
+                        "name": "Jaguares",
+                        "logo": "https://media-3.api-sports.io/football/teams/1133.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 6,
+                        "minutes": 568,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.614285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 6,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 59,
+                        "key": 4,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 45,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 59416,
+                "name": "I. Scarpeta",
+                "firstname": "Iv\u00e1n Ren\u00e9",
+                "lastname": "Scarpeta Silgado",
+                "age": 27,
+                "birth": {
+                    "date": "1996-06-05",
+                    "place": "Cartagena",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "180 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/59416.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1133,
+                        "name": "Jaguares",
+                        "logo": "https://media-2.api-sports.io/football/teams/1133.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 33,
+                        "minutes": 2896,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.879310",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1009,
+                        "key": 7,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 28,
+                        "blocks": 24,
+                        "interceptions": 49
+                    },
+                    "duels": {
+                        "total": 161,
+                        "won": 84
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 79529,
+                "name": "J. Lloreda",
+                "firstname": "Jos\u00e9 David",
+                "lastname": "Lloreda Guevara",
+                "age": 29,
+                "birth": {
+                    "date": "1994-08-12",
+                    "place": "Bagad\u00f3",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "178 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/79529.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1133,
+                        "name": "Jaguares",
+                        "logo": "https://media-1.api-sports.io/football/teams/1133.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-3.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.657142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 264,
+                        "key": 13,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 153,
+                        "won": 72
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 30,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 137406,
+                "name": "J. Altamiranda",
+                "firstname": "Jhon Bayro",
+                "lastname": "Altamiranda Arrieta",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-19",
+                    "place": "Sincelejo",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "180 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/137406.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1133,
+                        "name": "Jaguares",
+                        "logo": "https://media-3.api-sports.io/football/teams/1133.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 73,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 31,
+                        "key": null,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

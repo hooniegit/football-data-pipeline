@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "71",
+        "team": "134",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 9976,
+                "name": "Pablo",
+                "firstname": "Pablo Felipe",
+                "lastname": "Teixeira",
+                "age": 31,
+                "birth": {
+                    "date": "1992-06-23",
+                    "place": "Londrina",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "187 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/9976.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 134,
+                        "name": "Atletico Paranaense",
+                        "logo": "https://media-1.api-sports.io/football/teams/134.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 17,
+                        "minutes": 1494,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.809090",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 11,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 28,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 303,
+                        "key": 20,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 2,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 186,
+                        "won": 72
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 34
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 321648,
+                "name": "Emersonn",
+                "firstname": "Emersonn",
+                "lastname": "Correia da Silva",
+                "age": 19,
+                "birth": {
+                    "date": "2004-07-16",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "186 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/321648.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 134,
+                        "name": "Atletico Paranaense",
+                        "logo": "https://media-1.api-sports.io/football/teams/134.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2485,
+                "name": "L. Orejuela",
+                "firstname": "Luis Manuel",
+                "lastname": "Orejuela Garc\u00eda",
+                "age": 28,
+                "birth": {
+                    "date": "1995-08-20",
+                    "place": "Cali",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "180 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/2485.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 134,
+                        "name": "Atletico Paranaense",
+                        "logo": "https://media-1.api-sports.io/football/teams/134.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 15,
+                        "minutes": 1176,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.713333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 9,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 368,
+                        "key": 7,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 2,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 142,
+                        "won": 76
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13286,
+                "name": "N. Hern\u00e1ndez",
+                "firstname": "Nicol\u00e1s",
+                "lastname": "Hern\u00e1ndez Rodr\u00edguez",
+                "age": 25,
+                "birth": {
+                    "date": "1998-01-18",
+                    "place": "Villavicencio",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "185 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/13286.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 134,
+                        "name": "Atletico Paranaense",
+                        "logo": "https://media-1.api-sports.io/football/teams/134.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 18,
+                        "minutes": 1620,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.800000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 544,
+                        "key": 1,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": 12,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 91,
+                        "won": 45
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 9925,
+                "name": "Matheus Fernandes",
+                "firstname": "Matheus",
+                "lastname": "Fernandes Siqueira",
+                "age": 25,
+                "birth": {
+                    "date": "1998-06-30",
+                    "place": "Itabora\u00ed",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "183 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/9925.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 134,
+                        "name": "Atletico Paranaense",
+                        "logo": "https://media-2.api-sports.io/football/teams/134.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 8,
+                        "minutes": 685,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.646153",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 5,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 212,
+                        "key": 4,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 2,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 77,
+                        "won": 38
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10147,
+                "name": "Vitinho",
+                "firstname": "Vitor Hugo",
+                "lastname": "Naum dos Santos",
+                "age": 24,
+                "birth": {
+                    "date": "1999-04-01",
+                    "place": "S\u00e3o Jos\u00e9 dos Campos",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "177 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/10147.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 134,
+                        "name": "Atletico Paranaense",
+                        "logo": "https://media-1.api-sports.io/football/teams/134.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 17,
+                        "minutes": 1433,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.520833",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 14,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 30,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 380,
+                        "key": 8,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 23,
+                        "blocks": null,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 200,
+                        "won": 79
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 80173,
+                "name": "Anderson",
+                "firstname": "Anderson",
+                "lastname": "Silva da Paix\u00e3o",
+                "age": 25,
+                "birth": {
+                    "date": "1998-03-05",
+                    "place": "Ribeir\u00e3o Pires",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "192 cm",
+                "weight": "99 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/80173.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 134,
+                        "name": "Atletico Paranaense",
+                        "logo": "https://media-1.api-sports.io/football/teams/134.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 5,
+                        "minutes": 450,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.720000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 33
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 10,
+                        "assists": null,
+                        "saves": 20
+                    },
+                    "passes": {
+                        "total": 125,
+                        "key": null,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 309999,
+                "name": "Jo\u00e3o Vialle",
+                "firstname": "Jo\u00e3o Victor",
+                "lastname": "Dall' Stella Vialle",
+                "age": 21,
+                "birth": {
+                    "date": "2002-08-19",
+                    "place": "Curitiba",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "184 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/309999.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 134,
+                        "name": "Atletico Paranaense",
+                        "logo": "https://media-2.api-sports.io/football/teams/134.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 23,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10120,
+                "name": "Lucas Halter",
+                "firstname": "Lucas",
+                "lastname": "Halter",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-02",
+                    "place": "Salto",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "188 cm",
+                "weight": "94 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/10120.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 134,
+                        "name": "Atletico Paranaense",
+                        "logo": "https://media-3.api-sports.io/football/teams/134.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 1,
+                        "minutes": 96,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10048,
+                "name": "Marcinho",
+                "firstname": "M\u00e1rcio",
+                "lastname": "Almeida de Oliveira",
+                "age": 27,
+                "birth": {
+                    "date": "1996-05-16",
+                    "place": "Rio de Janeiro",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "177 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/10048.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 134,
+                        "name": "Atletico Paranaense",
+                        "logo": "https://media-2.api-sports.io/football/teams/134.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "197",
+        "team": "575",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 35576,
+                "name": "O. Pineda",
+                "firstname": "Orbel\u00edn",
+                "lastname": "Pineda Alvarado",
+                "age": 27,
+                "birth": {
+                    "date": "1996-03-24",
+                    "place": "Ciudad de M\u00e9xico",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "169 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/35576.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 575,
+                        "name": "AEK Athens FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/575.png"
+                    },
+                    "league": {
+                        "id": 197,
+                        "name": "Super League 1",
+                        "country": "Greece",
+                        "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                        "flag": "https://media-2.api-sports.io/flags/gr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 31,
+                        "minutes": 2554,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.022222",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 25,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 26,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 926,
+                        "key": 33,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 23,
+                        "blocks": 3,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 163,
+                        "won": 76
+                    },
+                    "dribbles": {
+                        "attempts": 31,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 33,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 3011,
+                "name": "D. Szyma\u0144ski",
+                "firstname": "Damian Dawid",
+                "lastname": "Szyma\u0144ski",
+                "age": 28,
+                "birth": {
+                    "date": "1995-06-16",
+                    "place": "Kra\u015bnik",
+                    "country": "Poland"
+                },
+                "nationality": "Poland",
+                "height": "185 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/3011.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 575,
+                        "name": "AEK Athens FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/575.png"
+                    },
+                    "league": {
+                        "id": 197,
+                        "name": "Super League 1",
+                        "country": "Greece",
+                        "logo": "https://media-1.api-sports.io/football/leagues/197.png",
+                        "flag": "https://media-3.api-sports.io/flags/gr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 28,
+                        "minutes": 2333,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.995238",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 9,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1114,
+                        "key": 11,
+                        "accuracy": 46
+                    },
+                    "tackles": {
+                        "total": 48,
+                        "blocks": 3,
+                        "interceptions": 25
+                    },
+                    "duels": {
+                        "total": 165,
+                        "won": 79
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 48
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 93059,
+                "name": "L. Garcia",
+                "firstname": "Levi Samuel",
+                "lastname": "Garcia",
+                "age": 26,
+                "birth": {
+                    "date": "1997-11-20",
+                    "place": "Santa Flora",
+                    "country": "Trinidad and Tobago"
+                },
+                "nationality": "Trinidad and Tobago",
+                "height": "182 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/93059.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 575,
+                        "name": "AEK Athens FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/575.png"
+                    },
+                    "league": {
+                        "id": 197,
+                        "name": "Super League 1",
+                        "country": "Greece",
+                        "logo": "https://media-1.api-sports.io/football/leagues/197.png",
+                        "flag": "https://media-3.api-sports.io/flags/gr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 26,
+                        "minutes": 2337,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.100000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 13,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 53,
+                        "on": 23
+                    },
+                    "goals": {
+                        "total": 14,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 319,
+                        "key": 33,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 182,
+                        "won": 80
+                    },
+                    "dribbles": {
+                        "attempts": 38,
+                        "success": 18,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 29,
+                        "committed": 28
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

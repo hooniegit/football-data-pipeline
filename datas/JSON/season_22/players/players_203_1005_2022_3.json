@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "203",
+        "team": "1005",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 404374,
+                "name": "A. Y\u0131lmaz",
+                "firstname": "Emirhan Alperen",
+                "lastname": "Y\u0131lmaz",
+                "age": 18,
+                "birth": {
+                    "date": "2005-07-29",
+                    "place": "Antalya",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "187 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/404374.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1005,
+                        "name": "Antalyaspor",
+                        "logo": "https://media-2.api-sports.io/football/teams/1005.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 182155,
+                "name": "E. Bilsel",
+                "firstname": "Ege",
+                "lastname": "Bilsel",
+                "age": 19,
+                "birth": {
+                    "date": "2004-01-04",
+                    "place": "Ankara",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "Azerbaijan",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/182155.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1005,
+                        "name": "Antalyaspor",
+                        "logo": "https://media-2.api-sports.io/football/teams/1005.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 459,
+                "name": "S. G\u00fcm\u00fc\u015f",
+                "firstname": "Sinan",
+                "lastname": "G\u00fcm\u00fc\u015f",
+                "age": 29,
+                "birth": {
+                    "date": "1994-01-15",
+                    "place": "Pfullendorf",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "179 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/459.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1005,
+                        "name": "Antalyaspor",
+                        "logo": "https://media-3.api-sports.io/football/teams/1005.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 4,
+                        "minutes": 470,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.628571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 4,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 133,
+                        "key": 3,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 55,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 96468,
+                "name": "Diogo Sousa",
+                "firstname": "Diogo Fesnard",
+                "lastname": "Nogueira Sousa",
+                "age": 25,
+                "birth": {
+                    "date": "1998-09-16",
+                    "place": "Albufeira",
+                    "country": "Portugal"
+                },
+                "nationality": "Portugal",
+                "height": "198 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/96468.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1005,
+                        "name": "Antalyaspor",
+                        "logo": "https://media-2.api-sports.io/football/teams/1005.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 49977,
+                "name": "H. \u00d6zmert",
+                "firstname": "Hakan",
+                "lastname": "\u00d6zmert",
+                "age": 38,
+                "birth": {
+                    "date": "1985-06-03",
+                    "place": "Nantes",
+                    "country": "France"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "178 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/49977.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1005,
+                        "name": "Antalyaspor",
+                        "logo": "https://media-3.api-sports.io/football/teams/1005.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 1,
+                        "minutes": 208,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.755555",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 1,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 141,
+                        "key": 4,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 35,
+                        "won": 20
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 143705,
+                "name": "G. Bayrakdar",
+                "firstname": "G\u00f6kdeniz",
+                "lastname": "Bayrakdar",
+                "age": 22,
+                "birth": {
+                    "date": "2001-11-23",
+                    "place": "Kocaeli",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "181 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/143705.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1005,
+                        "name": "Antalyaspor",
+                        "logo": "https://media-1.api-sports.io/football/teams/1005.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 3,
+                        "minutes": 405,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.661538",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 3,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 123,
+                        "key": 6,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 60,
+                        "won": 22
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 129145,
+                "name": "E. Eyibil",
+                "firstname": "Erkan",
+                "lastname": "Eyibil",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-15",
+                    "place": "Kassel",
+                    "country": "Germany"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "175 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/129145.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1005,
+                        "name": "Antalyaspor",
+                        "logo": "https://media-1.api-sports.io/football/teams/1005.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-2.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 14,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 11,
+                        "key": null,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 49848,
+                "name": "S. Aydo\u011fdu",
+                "firstname": "Soner",
+                "lastname": "Aydo\u011fdu",
+                "age": 32,
+                "birth": {
+                    "date": "1991-01-05",
+                    "place": "Ankara",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "180 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/49848.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1005,
+                        "name": "Antalyaspor",
+                        "logo": "https://media-2.api-sports.io/football/teams/1005.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 7,
+                        "minutes": 504,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.469230",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 6,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 288,
+                        "key": 7,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 3,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 41,
+                        "won": 22
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 36970,
+                "name": "S. Floranus",
+                "firstname": "Sherel Constancio",
+                "lastname": "Floranus",
+                "age": 25,
+                "birth": {
+                    "date": "1998-08-23",
+                    "place": "Rotterdam",
+                    "country": "Netherlands"
+                },
+                "nationality": "Cura\u00e7ao",
+                "height": "181 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/36970.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1005,
+                        "name": "Antalyaspor",
+                        "logo": "https://media-1.api-sports.io/football/teams/1005.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 5,
+                        "minutes": 475,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.633333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 3,
+                        "bench": 30
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 177,
+                        "key": 2,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 3,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 30,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1793,
+                "name": "Luiz Adriano",
+                "firstname": "Luiz Adriano",
+                "lastname": "de Souza da Silva",
+                "age": 36,
+                "birth": {
+                    "date": "1987-04-12",
+                    "place": "Porto Alegre",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "184 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/1793.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1005,
+                        "name": "Antalyaspor",
+                        "logo": "https://media-3.api-sports.io/football/teams/1005.png"
+                    },
+                    "league": {
+                        "id": 203,
+                        "name": "S\u00fcper Lig",
+                        "country": "Turkey",
+                        "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                        "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 15,
+                        "minutes": 1186,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.715789",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 9,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 286,
+                        "key": 12,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 3,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 133,
+                        "won": 73
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

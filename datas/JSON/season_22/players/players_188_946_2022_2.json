@@ -1,0 +1,682 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "188",
+        "team": "946",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 7,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 15419,
+                "name": "B. Mikeltadze",
+                "firstname": "Beka",
+                "lastname": "Mikeltadze",
+                "age": 26,
+                "birth": {
+                    "date": "1997-11-26",
+                    "place": "Kutaisi",
+                    "country": "Georgia"
+                },
+                "nationality": "Georgia",
+                "height": "185 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/15419.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 946,
+                        "name": "Newcastle Jets",
+                        "logo": "https://media-3.api-sports.io/football/teams/946.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-2.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 21,
+                        "minutes": 1949,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.873913",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 3,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 44,
+                        "on": 19
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 526,
+                        "key": 14,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 3,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 210,
+                        "won": 99
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 43,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 3,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 304119,
+                "name": "A. Goodwin",
+                "firstname": "Archie Stuart",
+                "lastname": "Goodwin",
+                "age": 19,
+                "birth": {
+                    "date": "2004-11-07",
+                    "place": null,
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/304119.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 946,
+                        "name": "Newcastle Jets",
+                        "logo": "https://media-3.api-sports.io/football/teams/946.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 1,
+                        "minutes": 138,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.714285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 1,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 24,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 20,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 32963,
+                "name": "M. Sait\u014d",
+                "firstname": "Manabu",
+                "lastname": "Sait\u014d",
+                "age": 33,
+                "birth": {
+                    "date": "1990-04-04",
+                    "place": "Kanagawa",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "169 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/32963.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 946,
+                        "name": "Newcastle Jets",
+                        "logo": "https://media-3.api-sports.io/football/teams/946.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-1.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 4,
+                        "minutes": 405,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.637500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 4,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 124,
+                        "key": 6,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 45,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6998,
+                "name": "J. Sotirio",
+                "firstname": "Jaushua",
+                "lastname": "Sotirio",
+                "age": 28,
+                "birth": {
+                    "date": "1995-10-11",
+                    "place": "Sydney",
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": "175 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/6998.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 946,
+                        "name": "Newcastle Jets",
+                        "logo": "https://media-2.api-sports.io/football/teams/946.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-1.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 16,
+                        "minutes": 1422,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.669565",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 12,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 435,
+                        "key": 19,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": null,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 199,
+                        "won": 82
+                    },
+                    "dribbles": {
+                        "attempts": 36,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 31,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24607,
+                "name": "B. Dartsmelia",
+                "firstname": "Beka",
+                "lastname": "Dartsmelia",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-21",
+                    "place": null,
+                    "country": "Georgia"
+                },
+                "nationality": "Georgia",
+                "height": "177 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/24607.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 946,
+                        "name": "Newcastle Jets",
+                        "logo": "https://media-1.api-sports.io/football/teams/946.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-2.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 11,
+                        "minutes": 1046,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.716666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 9,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 530,
+                        "key": 11,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 1,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 70,
+                        "won": 31
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 269544,
+                "name": "R. Jordan",
+                "firstname": "Rory",
+                "lastname": "Jordan",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-09",
+                    "place": null,
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/269544.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 946,
+                        "name": "Newcastle Jets",
+                        "logo": "https://media-1.api-sports.io/football/teams/946.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-2.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 67572,
+                "name": "M. Weier",
+                "firstname": "Michael",
+                "lastname": "Weier",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-27",
+                    "place": null,
+                    "country": "Australia"
+                },
+                "nationality": "Australia",
+                "height": "198 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/67572.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 946,
+                        "name": "Newcastle Jets",
+                        "logo": "https://media-3.api-sports.io/football/teams/946.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 10,
+                        "minutes": 900,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.790000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 20,
+                        "assists": null,
+                        "saves": 35
+                    },
+                    "passes": {
+                        "total": 247,
+                        "key": null,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

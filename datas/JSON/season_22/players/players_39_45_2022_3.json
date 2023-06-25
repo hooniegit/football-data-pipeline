@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "39",
+        "team": "45",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 138787,
+                "name": "A. Gordon",
+                "firstname": "Anthony Michael",
+                "lastname": "Gordon",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-24",
+                    "place": "Liverpool",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "183 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/138787.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 45,
+                        "name": "Everton",
+                        "logo": "https://media-3.api-sports.io/football/teams/45.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 12,
+                        "minutes": 1096,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.725000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 5,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 253,
+                        "key": 8,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 34,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 182,
+                        "won": 68
+                    },
+                    "dribbles": {
+                        "attempts": 38,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 156490,
+                "name": "N. Nkounkou",
+                "firstname": "Niels Patrick",
+                "lastname": "Nkounkou",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-01",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "180 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/156490.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 45,
+                        "name": "Everton",
+                        "logo": "https://media-3.api-sports.io/football/teams/45.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2461,
+                "name": "S. Rond\u00f3n",
+                "firstname": "Jos\u00e9 Salom\u00f3n",
+                "lastname": "Rond\u00f3n Gim\u00e9nez",
+                "age": 34,
+                "birth": {
+                    "date": "1989-09-16",
+                    "place": "Caracas",
+                    "country": "Venezuela"
+                },
+                "nationality": "Venezuela",
+                "height": "186 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2461.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 45,
+                        "name": "Everton",
+                        "logo": "https://media-2.api-sports.io/football/teams/45.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 1,
+                        "minutes": 104,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.516666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 1,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 28,
+                        "key": 2,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 19,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18770,
+                "name": "E. Jakupovi\u0107",
+                "firstname": "Eldin",
+                "lastname": "Jakupovi\u0107",
+                "age": 39,
+                "birth": {
+                    "date": "1984-10-02",
+                    "place": "Kozarac",
+                    "country": "Bosnia and Herzegovina"
+                },
+                "nationality": "Switzerland",
+                "height": "191 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/18770.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 45,
+                        "name": "Everton",
+                        "logo": "https://media-3.api-sports.io/football/teams/45.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

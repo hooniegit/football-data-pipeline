@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "78",
+        "team": "169",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 177745,
+                "name": "F. Alidou",
+                "firstname": "Faride",
+                "lastname": "Alidou",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-18",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "186 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/177745.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 169,
+                        "name": "Eintracht Frankfurt",
+                        "logo": "https://media-1.api-sports.io/football/teams/169.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 0,
+                        "minutes": 171,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.492307",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 0,
+                        "bench": 25
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 77,
+                        "key": 3,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 47,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 161922,
+                "name": "A. Knauff",
+                "firstname": "Ansgar",
+                "lastname": "Knauff",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-10",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "180 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/161922.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 169,
+                        "name": "Eintracht Frankfurt",
+                        "logo": "https://media-1.api-sports.io/football/teams/169.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 14,
+                        "minutes": 1286,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.641666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 10,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 498,
+                        "key": 8,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 36,
+                        "blocks": 1,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 174,
+                        "won": 84
+                    },
+                    "dribbles": {
+                        "attempts": 55,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

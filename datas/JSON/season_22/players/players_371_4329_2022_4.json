@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "371",
+        "team": "4329",
+        "season": "2022",
+        "page": "4"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 4,
+        "total": 4
+    },
+    "response": [
+        {
+            "player": {
+                "id": 380741,
+                "name": "F. Spirkoski",
+                "firstname": "Filip",
+                "lastname": "Spirkoski",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-08",
+                    "place": null,
+                    "country": "North Macedonia"
+                },
+                "nationality": "North Macedonia",
+                "height": "173 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/380741.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4329,
+                        "name": "Pobeda",
+                        "logo": "https://media-1.api-sports.io/football/teams/4329.png"
+                    },
+                    "league": {
+                        "id": 371,
+                        "name": "First League",
+                        "country": "Macedonia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/371.png",
+                        "flag": "https://media-2.api-sports.io/flags/mk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 1,
+                        "minutes": 143,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 391850,
+                "name": "D. Varoshanoski",
+                "firstname": "Dino",
+                "lastname": "Varoshanoski",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-01",
+                    "place": null,
+                    "country": "North Macedonia"
+                },
+                "nationality": "North Macedonia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/391850.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4329,
+                        "name": "Pobeda",
+                        "logo": "https://media-3.api-sports.io/football/teams/4329.png"
+                    },
+                    "league": {
+                        "id": 371,
+                        "name": "First League",
+                        "country": "Macedonia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/371.png",
+                        "flag": "https://media-2.api-sports.io/flags/mk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 13,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

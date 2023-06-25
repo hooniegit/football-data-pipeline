@@ -1,0 +1,587 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "144",
+        "team": "734",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 6,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 194628,
+                "name": "S. Sissoko",
+                "firstname": "Sambou",
+                "lastname": "Sissoko",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-29",
+                    "place": null,
+                    "country": "Mali"
+                },
+                "nationality": "Mali",
+                "height": "181 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/194628.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 734,
+                        "name": "Kortrijk",
+                        "logo": "https://media-1.api-sports.io/football/teams/734.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 3,
+                        "minutes": 261,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 79,
+                        "key": null,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 28,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 3394,
+                "name": "D. Lamkel Z\u00e9",
+                "firstname": "Didier",
+                "lastname": "Lamkel Z\u00e9",
+                "age": 27,
+                "birth": {
+                    "date": "1996-09-17",
+                    "place": "Bertoua",
+                    "country": "Cameroon"
+                },
+                "nationality": "Cameroon",
+                "height": "192 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/3394.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 734,
+                        "name": "Kortrijk",
+                        "logo": "https://media-2.api-sports.io/football/teams/734.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 10,
+                        "minutes": 862,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.680000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 307,
+                        "key": 9,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 137,
+                        "won": 64
+                    },
+                    "dribbles": {
+                        "attempts": 28,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 287791,
+                "name": "Luqman Hakim",
+                "firstname": "Luqman Hakim",
+                "lastname": "bin Shamsudin",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-05",
+                    "place": "Kota Bharu",
+                    "country": "Malaysia"
+                },
+                "nationality": "Malaysia",
+                "height": "170 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/287791.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 734,
+                        "name": "Kortrijk",
+                        "logo": "https://media-2.api-sports.io/football/teams/734.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-1.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 2,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 208391,
+                "name": "O. Sych",
+                "firstname": "Oleksii",
+                "lastname": "Sych",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-01",
+                    "place": "Zorya",
+                    "country": "Ukraine"
+                },
+                "nationality": "Ukraine",
+                "height": "185 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/208391.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 734,
+                        "name": "Kortrijk",
+                        "logo": "https://media-3.api-sports.io/football/teams/734.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-3.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 14,
+                        "minutes": 1206,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.772727",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 5,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 335,
+                        "key": 7,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 24,
+                        "blocks": 5,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 101,
+                        "won": 51
+                    },
+                    "dribbles": {
+                        "attempts": 22,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20660,
+                "name": "A. Radovanovi\u0107",
+                "firstname": "Aleksandar",
+                "lastname": "Radovanovi\u0107",
+                "age": 30,
+                "birth": {
+                    "date": "1993-11-11",
+                    "place": "\u0160abac",
+                    "country": "Serbia"
+                },
+                "nationality": "Serbia",
+                "height": "189 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/20660.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 734,
+                        "name": "Kortrijk",
+                        "logo": "https://media-2.api-sports.io/football/teams/734.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-3.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 10,
+                        "minutes": 878,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 324,
+                        "key": 1,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 15,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 61,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 46043,
+                "name": "M. Ili\u0107",
+                "firstname": "Marko",
+                "lastname": "Ili\u0107",
+                "age": 25,
+                "birth": {
+                    "date": "1998-02-03",
+                    "place": "Novi Sad",
+                    "country": "Serbia"
+                },
+                "nationality": "Serbia",
+                "height": "191 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/46043.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 734,
+                        "name": "Kortrijk",
+                        "logo": "https://media-1.api-sports.io/football/teams/734.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 17,
+                        "minutes": 1530,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "7.120000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 26,
+                        "assists": null,
+                        "saves": 60
+                    },
+                    "passes": {
+                        "total": 460,
+                        "key": null,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

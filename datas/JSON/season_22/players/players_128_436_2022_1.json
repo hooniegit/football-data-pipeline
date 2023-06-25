@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "128",
+        "team": "436",
+        "season": "2022",
+        "page": "1"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 6659,
+                "name": "T. Chancalay",
+                "firstname": "Tom\u00e1s Alejandro",
+                "lastname": "Chancalay",
+                "age": 24,
+                "birth": {
+                    "date": "1999-01-01",
+                    "place": "Viale",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "179 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/6659.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-1.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 17,
+                        "minutes": 1484,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.909090",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 9,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 37,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 510,
+                        "key": 36,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 23,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 195,
+                        "won": 84
+                    },
+                    "dribbles": {
+                        "attempts": 68,
+                        "success": 33,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 30
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 3
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 195993,
+                "name": "C. Alcaraz",
+                "firstname": "Carlos Jonas",
+                "lastname": "Alcaraz",
+                "age": 21,
+                "birth": {
+                    "date": "2002-11-30",
+                    "place": "La Plata",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "176 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/195993.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-3.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 21,
+                        "minutes": 1865,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.890000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 19,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 57,
+                        "on": 25
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 839,
+                        "key": 25,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 35,
+                        "blocks": 6,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 293,
+                        "won": 139
+                    },
+                    "dribbles": {
+                        "attempts": 94,
+                        "success": 38,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 28,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 144743,
+                "name": "B. Garr\u00e9",
+                "firstname": "Benjam\u00edn Antonio",
+                "lastname": "Garr\u00e9",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-11",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "171 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/144743.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-1.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 2,
+                        "minutes": 191,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.934782",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 2,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 625,
+                        "key": 31,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 37,
+                        "blocks": 3,
+                        "interceptions": 25
+                    },
+                    "duels": {
+                        "total": 282,
+                        "won": 127
+                    },
+                    "dribbles": {
+                        "attempts": 82,
+                        "success": 39,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 37,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 108434,
+                "name": "G. C\u00f3rdoba",
+                "firstname": "Gonzalo Germ\u00e1n",
+                "lastname": "C\u00f3rdoba",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-29",
+                    "place": "Villa Dom\u00ednico",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "160 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/108434.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-1.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 363343,
+                "name": "N. Meaurio",
+                "firstname": "Nicol\u00e1s Gabriel",
+                "lastname": "Meaurio",
+                "age": 20,
+                "birth": {
+                    "date": "2003-04-29",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "175 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/363343.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 6,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35790,
+                "name": "J. Correa",
+                "firstname": "Marcelo Javier",
+                "lastname": "Correa",
+                "age": 31,
+                "birth": {
+                    "date": "1992-10-23",
+                    "place": "C\u00f3rdoba",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "184 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/35790.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 6,
+                        "minutes": 661,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.009090",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 4,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 129,
+                        "key": 4,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 71,
+                        "won": 27
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 16389,
+                "name": "G. Cortez",
+                "firstname": "Gustavo Orlando",
+                "lastname": "Cortez Qui\u00f1\u00f3nez",
+                "age": 26,
+                "birth": {
+                    "date": "1997-10-11",
+                    "place": "Quinind\u00e9",
+                    "country": "Ecuador"
+                },
+                "nationality": "Ecuador",
+                "height": "176 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/16389.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30743,
+                "name": "E. Schelotto",
+                "firstname": "Mat\u00edas Ezequiel",
+                "lastname": "Schelotto",
+                "age": 34,
+                "birth": {
+                    "date": "1989-05-23",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Italy",
+                "height": "187 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/30743.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.566666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 38,
+                        "key": null,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 31,
+                        "won": 14
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5925,
+                "name": "A. Cuello",
+                "firstname": "Alexis Ricardo",
+                "lastname": "Cuello",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-18",
+                    "place": "Dock Sud",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "170 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/5925.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-3.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5915,
+                "name": "N. Dom\u00ednguez",
+                "firstname": "Nery Andr\u00e9s",
+                "lastname": "Dom\u00ednguez",
+                "age": 33,
+                "birth": {
+                    "date": "1990-04-09",
+                    "place": "Ca\u00f1ada de G\u00f3mez",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "184 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/5915.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 4,
+                        "minutes": 503,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.950000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 0,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 419,
+                        "key": 3,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 3,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 37,
+                        "won": 24
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2554,
+                "name": "E. Mena",
+                "firstname": "Eugenio Esteban",
+                "lastname": "Mena Reveco",
+                "age": 35,
+                "birth": {
+                    "date": "1988-07-18",
+                    "place": "Vi\u00f1a del Mar",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "174 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/2554.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 23,
+                        "minutes": 2032,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.855555",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 8,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 932,
+                        "key": 24,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 43,
+                        "blocks": 6,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 208,
+                        "won": 104
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 126868,
+                "name": "F. Dom\u00ednguez",
+                "firstname": "Fabricio",
+                "lastname": "Dom\u00ednguez Huertas",
+                "age": 25,
+                "birth": {
+                    "date": "1998-06-24",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "179 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/126868.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 1,
+                        "minutes": 327,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.738461",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 1,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 140,
+                        "key": 5,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 1,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 100,
+                        "won": 58
+                    },
+                    "dribbles": {
+                        "attempts": 30,
+                        "success": 18,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 201829,
+                "name": "F. Prado",
+                "firstname": "Fernando Andr\u00e9s",
+                "lastname": "Prado Avelino",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-21",
+                    "place": "Carmelo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "177 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/201829.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-1.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 13,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.000000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 9,
+                        "key": 1,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5904,
+                "name": "G. G\u00f3mez",
+                "firstname": "Gast\u00f3n",
+                "lastname": "G\u00f3mez",
+                "age": 27,
+                "birth": {
+                    "date": "1996-03-04",
+                    "place": "Mar del Plata",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "189 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/5904.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-3.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 28,
+                        "minutes": 2520,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "7.168000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 19,
+                        "assists": null,
+                        "saves": 76
+                    },
+                    "passes": {
+                        "total": 527,
+                        "key": null,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 195992,
+                "name": "J. C\u00e1ceres",
+                "firstname": "Juan Jos\u00e9",
+                "lastname": "C\u00e1ceres",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-01",
+                    "place": "Avellaneda",
+                    "country": "Argentina"
+                },
+                "nationality": "Paraguay",
+                "height": "173 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/195992.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 2,
+                        "minutes": 295,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.816666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 0,
+                        "bench": 40
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 267,
+                        "key": 1,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 53,
+                        "won": 34
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5917,
+                "name": "J. L\u00f3pez",
+                "firstname": "Juli\u00e1n Alejo",
+                "lastname": "L\u00f3pez",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-08",
+                    "place": "Avellaneda",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "186 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/5917.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-1.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 432,
+                        "key": 5,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 40,
+                        "blocks": 8,
+                        "interceptions": 21
+                    },
+                    "duels": {
+                        "total": 154,
+                        "won": 83
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5624,
+                "name": "M. Tagliamonte",
+                "firstname": "Mat\u00edas Nicol\u00e1s",
+                "lastname": "Tagliamonte",
+                "age": 25,
+                "birth": {
+                    "date": "1998-02-19",
+                    "place": "Rafaela",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "195 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/5624.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-1.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "7.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 38
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 1,
+                        "assists": null,
+                        "saves": 4
+                    },
+                    "passes": {
+                        "total": 25,
+                        "key": null,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2547,
+                "name": "G. Arias",
+                "firstname": "Gabriel",
+                "lastname": "Arias Arroyo",
+                "age": 36,
+                "birth": {
+                    "date": "1987-09-13",
+                    "place": "Neuqu\u00e9n",
+                    "country": "Argentina"
+                },
+                "nationality": "Chile",
+                "height": "187 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/2547.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 14,
+                        "minutes": 1260,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "7.071428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 12,
+                        "assists": null,
+                        "saves": 40
+                    },
+                    "passes": {
+                        "total": 293,
+                        "key": null,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 278351,
+                "name": "D. Ju\u00e1rez",
+                "firstname": "Sergio Daniel",
+                "lastname": "Ju\u00e1rez",
+                "age": 22,
+                "birth": {
+                    "date": "2001-12-04",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "184 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/278351.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-1.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5908,
+                "name": "I. Pillud",
+                "firstname": "Iv\u00e1n Alexis",
+                "lastname": "Pillud",
+                "age": 37,
+                "birth": {
+                    "date": "1986-04-24",
+                    "place": "Santa Fe",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "177 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/5908.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 436,
+                        "name": "Racing Club",
+                        "logo": "https://media-3.api-sports.io/football/teams/436.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 10,
+                        "minutes": 788,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.830769",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 8,
+                        "bench": 33
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 361,
+                        "key": 4,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 5,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 73,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "235",
+        "team": "1084",
+        "season": "2022",
+        "page": "1"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 150140,
+                "name": "I. Kuzmichev",
+                "firstname": "Ivan",
+                "lastname": "Kuzmichev",
+                "age": 23,
+                "birth": {
+                    "date": "2000-10-20",
+                    "place": "Togliatti",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "193 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/150140.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-3.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 6,
+                        "minutes": 568,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.961538",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 585,
+                        "key": 2,
+                        "accuracy": 35
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 9,
+                        "interceptions": 27
+                    },
+                    "duels": {
+                        "total": 116,
+                        "won": 78
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 270110,
+                "name": "D. Landakov",
+                "firstname": "Dmitri",
+                "lastname": "Landakov",
+                "age": 24,
+                "birth": {
+                    "date": "1999-05-21",
+                    "place": "Moskva",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "198 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/270110.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-1.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 53617,
+                "name": "O. Baklov",
+                "firstname": "Oleg",
+                "lastname": "Baklov",
+                "age": 29,
+                "birth": {
+                    "date": "1994-10-20",
+                    "place": "Syzran",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "201 cm",
+                "weight": "92 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/53617.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-2.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 357817,
+                "name": "N. Alekseev",
+                "firstname": "Nikita",
+                "lastname": "Alekseev",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-09",
+                    "place": "Lukino",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "195 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/357817.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-2.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "7.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": 2
+                    },
+                    "passes": {
+                        "total": 22,
+                        "key": null,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 53564,
+                "name": "S. Begi\u0107",
+                "firstname": "Silvije",
+                "lastname": "Begi\u0107",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-03",
+                    "place": "Posu\u0161je",
+                    "country": "Bosnia and Herzegovina"
+                },
+                "nationality": "Croatia",
+                "height": "197 cm",
+                "weight": "87 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/53564.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-2.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 13,
+                        "minutes": 1185,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.886666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 659,
+                        "key": 2,
+                        "accuracy": 41
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 7,
+                        "interceptions": 31
+                    },
+                    "duels": {
+                        "total": 90,
+                        "won": 54
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 43424,
+                "name": "L. Goglichidze",
+                "firstname": "Leo",
+                "lastname": "Goglichidze",
+                "age": 26,
+                "birth": {
+                    "date": "1997-05-29",
+                    "place": "Rostov-na-Donu",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "179 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/43424.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-2.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 19,
+                        "minutes": 1557,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.560000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 8,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 664,
+                        "key": 12,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": 3,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 154,
+                        "won": 79
+                    },
+                    "dribbles": {
+                        "attempts": 25,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15664,
+                "name": "Emmers\u00f3n",
+                "firstname": "Vladis-Emmers\u00f3n",
+                "lastname": "Illoy-Ayet",
+                "age": 28,
+                "birth": {
+                    "date": "1995-10-07",
+                    "place": "Odesa",
+                    "country": "Ukraine"
+                },
+                "nationality": "Congo",
+                "height": "195 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/15664.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-3.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 18,
+                        "minutes": 1744,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.863636",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 885,
+                        "key": 8,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 31,
+                        "blocks": 10,
+                        "interceptions": 36
+                    },
+                    "duels": {
+                        "total": 129,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 53626,
+                "name": "D. Kulakov",
+                "firstname": "Denys",
+                "lastname": "Kulakov",
+                "age": 37,
+                "birth": {
+                    "date": "1986-05-01",
+                    "place": "Izyum",
+                    "country": "Ukraine"
+                },
+                "nationality": "Ukraine",
+                "height": "182 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/53626.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-1.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 15,
+                        "minutes": 1401,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.672222",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 4,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 608,
+                        "key": 11,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 23,
+                        "blocks": 4,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 101,
+                        "won": 56
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 53621,
+                "name": "M. Beveev",
+                "firstname": "Mingiyan",
+                "lastname": "Beveev",
+                "age": 28,
+                "birth": {
+                    "date": "1995-11-30",
+                    "place": "Elista",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "182 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/53621.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-1.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 20,
+                        "minutes": 1879,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.752000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 4,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 916,
+                        "key": 14,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 38,
+                        "blocks": 12,
+                        "interceptions": 37
+                    },
+                    "duels": {
+                        "total": 182,
+                        "won": 94
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 34,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2304,
+                "name": "E. Filipenko",
+                "firstname": "Egor",
+                "lastname": "Filipenko",
+                "age": 35,
+                "birth": {
+                    "date": "1988-04-10",
+                    "place": "Minsk",
+                    "country": "Belarus"
+                },
+                "nationality": "Belarus",
+                "height": "194 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/2304.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-1.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 13,
+                        "minutes": 1040,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.076923",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 535,
+                        "key": 5,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 10,
+                        "interceptions": 26
+                    },
+                    "duels": {
+                        "total": 95,
+                        "won": 63
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 340413,
+                "name": "E. Mosin",
+                "firstname": "Egor",
+                "lastname": "Mosin",
+                "age": 20,
+                "birth": {
+                    "date": "2003-08-31",
+                    "place": null,
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/340413.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-3.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1777,
+                "name": "A. Mamin",
+                "firstname": "Artem",
+                "lastname": "Mamin",
+                "age": 26,
+                "birth": {
+                    "date": "1997-07-25",
+                    "place": "Ekaterinburg",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "187 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1777.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-3.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 7,
+                        "minutes": 651,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.744444",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 369,
+                        "key": null,
+                        "accuracy": 35
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 3,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 45,
+                        "won": 26
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 215853,
+                "name": "I. Bykovskiy",
+                "firstname": "Ilya",
+                "lastname": "Bykovskiy",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-16",
+                    "place": "Lyubertsy",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "175 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/215853.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-3.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 4,
+                        "minutes": 397,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.657142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 2,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 175,
+                        "key": 3,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": null,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 25,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 53635,
+                "name": "A. Egorychev",
+                "firstname": "Andrey",
+                "lastname": "Egorychev",
+                "age": 30,
+                "birth": {
+                    "date": "1993-02-14",
+                    "place": "Voronezh",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "183 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/53635.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-2.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 20,
+                        "minutes": 1653,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.715000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 8,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 16,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 497,
+                        "key": 18,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 3,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 155,
+                        "won": 56
+                    },
+                    "dribbles": {
+                        "attempts": 29,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 30
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 3125,
+                "name": "I. Ciss\u00e9",
+                "firstname": "Ibrahima",
+                "lastname": "Ciss\u00e9",
+                "age": 29,
+                "birth": {
+                    "date": "1994-02-28",
+                    "place": "Li\u00e8ge",
+                    "country": "Belgium"
+                },
+                "nationality": "Guinea",
+                "height": "184 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/3125.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-2.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 14,
+                        "minutes": 1165,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.858823",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 6,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 619,
+                        "key": 6,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 3,
+                        "interceptions": 25
+                    },
+                    "duels": {
+                        "total": 112,
+                        "won": 66
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 8196,
+                "name": "A. Yushin",
+                "firstname": "Aleksandr",
+                "lastname": "Yushin",
+                "age": 28,
+                "birth": {
+                    "date": "1995-04-04",
+                    "place": "Moskva",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "181 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/8196.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-3.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 14,
+                        "minutes": 1213,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.876000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 14,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 34,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 257,
+                        "key": 21,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 77,
+                        "won": 24
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 45792,
+                "name": "L. Ran\u0111elovi\u0107",
+                "firstname": "Lazar",
+                "lastname": "Ran\u0111elovi\u0107",
+                "age": 26,
+                "birth": {
+                    "date": "1997-08-05",
+                    "place": "Leskovac",
+                    "country": "Serbia"
+                },
+                "nationality": "Serbia",
+                "height": "178 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/45792.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-1.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 15,
+                        "minutes": 1195,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.050000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 12,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 340,
+                        "key": 40,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 94,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 53633,
+                "name": "E. Bicfalvi",
+                "firstname": "Eric Cosmin",
+                "lastname": "Bicfalvi",
+                "age": 35,
+                "birth": {
+                    "date": "1988-02-05",
+                    "place": "Carei",
+                    "country": "Romania"
+                },
+                "nationality": "Romania",
+                "height": "187 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/53633.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-1.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 21,
+                        "minutes": 1829,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.745833",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 13,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 36,
+                        "on": 19
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 455,
+                        "key": 31,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 1,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 237,
+                        "won": 93
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 32,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 53606,
+                "name": "I. Konovalov",
+                "firstname": "Igor",
+                "lastname": "Konovalov",
+                "age": 27,
+                "birth": {
+                    "date": "1996-07-08",
+                    "place": "Belorechensk",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "185 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/53606.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-1.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 4,
+                        "minutes": 396,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.880000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 180,
+                        "key": 10,
+                        "accuracy": 29
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 25,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 202332,
+                "name": "Y. Zheleznov",
+                "firstname": "Yuri",
+                "lastname": "Zheleznov",
+                "age": 21,
+                "birth": {
+                    "date": "2002-11-15",
+                    "place": "Saransk",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "173 cm",
+                "weight": "64 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/202332.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1084,
+                        "name": "Ural",
+                        "logo": "https://media-2.api-sports.io/football/teams/1084.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 1,
+                        "minutes": 289,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.376923",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 2,
+                        "bench": 29
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 79,
+                        "key": 6,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 41,
+                        "won": 14
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

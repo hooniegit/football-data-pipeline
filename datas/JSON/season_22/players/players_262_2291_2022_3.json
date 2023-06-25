@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "262",
+        "team": "2291",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 36088,
+                "name": "G. Mart\u00ednez",
+                "firstname": "Guillermo",
+                "lastname": "Mart\u00ednez Ayala",
+                "age": 28,
+                "birth": {
+                    "date": "1995-03-15",
+                    "place": "Celaya",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "191 cm",
+                "weight": "93 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/36088.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2291,
+                        "name": "Puebla",
+                        "logo": "https://media-3.api-sports.io/football/teams/2291.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-3.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 7,
+                        "minutes": 752,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.777272",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 6,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 29,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 150,
+                        "key": 8,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 4,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 159,
+                        "won": 73
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51589,
+                "name": "K. Ram\u00edrez",
+                "firstname": "Kevin Federik",
+                "lastname": "Ram\u00edrez Dutra",
+                "age": 29,
+                "birth": {
+                    "date": "1994-04-01",
+                    "place": "Rivera",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "180 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/51589.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2291,
+                        "name": "Puebla",
+                        "logo": "https://media-1.api-sports.io/football/teams/2291.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-3.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 0,
+                        "minutes": 92,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.550000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 0,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 27,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 14,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51776,
+                "name": "M. Ara\u00fajo",
+                "firstname": "Maximiliano Javier",
+                "lastname": "Ara\u00fajo Vilches",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-15",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "179 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/51776.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2291,
+                        "name": "Puebla",
+                        "logo": "https://media-1.api-sports.io/football/teams/2291.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-1.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 19,
+                        "minutes": 1591,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.577777",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 9,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 27,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 383,
+                        "key": 17,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 3,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 207,
+                        "won": 89
+                    },
+                    "dribbles": {
+                        "attempts": 73,
+                        "success": 23,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 40,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2455,
+                "name": "F. Aristeguieta",
+                "firstname": "Fernando Luis",
+                "lastname": "Aristeguieta de Luca",
+                "age": 31,
+                "birth": {
+                    "date": "1992-04-09",
+                    "place": "Caracas",
+                    "country": "Venezuela"
+                },
+                "nationality": "Venezuela",
+                "height": "187 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/2455.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2291,
+                        "name": "Puebla",
+                        "logo": "https://media-3.api-sports.io/football/teams/2291.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 3,
+                        "minutes": 251,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 52,
+                        "key": 2,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 40,
+                        "won": 21
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50820,
+                "name": "J. Altidore",
+                "firstname": "Josmer Volmy",
+                "lastname": "Altidore",
+                "age": 34,
+                "birth": {
+                    "date": "1989-11-06",
+                    "place": "Livingston",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "183 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/50820.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2291,
+                        "name": "Puebla",
+                        "logo": "https://media-1.api-sports.io/football/teams/2291.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 0,
+                        "minutes": 87,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.533333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 16,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 9,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

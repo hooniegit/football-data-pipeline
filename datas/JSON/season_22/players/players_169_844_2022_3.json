@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "169",
+        "team": "844",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 364018,
+                "name": "Maiwulang Mijiti",
+                "firstname": "Maiwulang",
+                "lastname": "Mijiti",
+                "age": 19,
+                "birth": {
+                    "date": "2004-01-27",
+                    "place": "Ili",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "179 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/364018.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 844,
+                        "name": "Shandong Luneng",
+                        "logo": "https://media-3.api-sports.io/football/teams/844.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 1,
+                        "minutes": 48,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 16,
+                        "key": 1,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12767,
+                "name": "Tian Xin",
+                "firstname": "Xin",
+                "lastname": "Tian",
+                "age": 25,
+                "birth": {
+                    "date": "1998-03-29",
+                    "place": null,
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "176 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12767.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 844,
+                        "name": "Shandong Luneng",
+                        "logo": "https://media-3.api-sports.io/football/teams/844.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 2,
+                        "minutes": 133,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 24,
+                        "key": 4,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 9,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12751,
+                "name": "Chen Kerui",
+                "firstname": "Kerui",
+                "lastname": "Chen",
+                "age": 27,
+                "birth": {
+                    "date": "1996-03-09",
+                    "place": "Chongqing",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "183 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12751.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 844,
+                        "name": "Shandong Luneng",
+                        "logo": "https://media-1.api-sports.io/football/teams/844.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "39",
+        "team": "52",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 313636,
+                "name": "Adler Nascimento",
+                "firstname": "Adler Bruno",
+                "lastname": "S\u00e1 Nogueira de Nascimento",
+                "age": 19,
+                "birth": {
+                    "date": "2004-11-25",
+                    "place": null,
+                    "country": "Portugal"
+                },
+                "nationality": "Portugal",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/313636.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 52,
+                        "name": "Crystal Palace",
+                        "logo": "https://media-3.api-sports.io/football/teams/52.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2930,
+                "name": "J. Butland",
+                "firstname": "Jack",
+                "lastname": "Butland",
+                "age": 30,
+                "birth": {
+                    "date": "1993-03-10",
+                    "place": "Bristol",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "196 cm",
+                "weight": "95 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2930.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 52,
+                        "name": "Crystal Palace",
+                        "logo": "https://media-2.api-sports.io/football/teams/52.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19617,
+                "name": "M. Olise",
+                "firstname": "Michael Akpovie",
+                "lastname": "Olise",
+                "age": 22,
+                "birth": {
+                    "date": "2001-12-12",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "France",
+                "height": "184 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/19617.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 52,
+                        "name": "Crystal Palace",
+                        "logo": "https://media-1.api-sports.io/football/teams/52.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 31,
+                        "minutes": 2757,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.135135",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 14,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 29,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 11,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1158,
+                        "key": 72,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 58,
+                        "blocks": 1,
+                        "interceptions": 26
+                    },
+                    "duels": {
+                        "total": 404,
+                        "won": 198
+                    },
+                    "dribbles": {
+                        "attempts": 113,
+                        "success": 54,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 69,
+                        "committed": 28
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2928,
+                "name": "C. Benteke",
+                "firstname": "Christian",
+                "lastname": "Benteke Liolo",
+                "age": 33,
+                "birth": {
+                    "date": "1990-12-03",
+                    "place": "Kinshasa",
+                    "country": "Congo DR"
+                },
+                "nationality": "Belgium",
+                "height": "190 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/2928.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 52,
+                        "name": "Crystal Palace",
+                        "logo": "https://media-2.api-sports.io/football/teams/52.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

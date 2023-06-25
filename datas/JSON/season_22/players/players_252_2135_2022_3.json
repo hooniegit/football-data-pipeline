@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "252",
+        "team": "2135",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 70810,
+                "name": "R. Ruiz D\u00edaz",
+                "firstname": "Rodrigo",
+                "lastname": "Ruiz D\u00edaz Molinas",
+                "age": 24,
+                "birth": {
+                    "date": "1999-01-15",
+                    "place": "San Juan Nepomuceno",
+                    "country": "Paraguay"
+                },
+                "nationality": "Paraguay",
+                "height": "184 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/70810.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2135,
+                        "name": "Resistencia",
+                        "logo": "https://media-1.api-sports.io/football/teams/2135.png"
+                    },
+                    "league": {
+                        "id": 250,
+                        "name": "Division Profesional - Apertura",
+                        "country": "Paraguay",
+                        "logo": "https://media-2.api-sports.io/football/leagues/250.png",
+                        "flag": "https://media-2.api-sports.io/flags/py.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 7,
+                        "minutes": 718,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 6,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70774,
+                "name": "J. Ortega",
+                "firstname": "Jorge Miguel",
+                "lastname": "Ortega Salinas",
+                "age": 32,
+                "birth": {
+                    "date": "1991-04-16",
+                    "place": "Caacup\u00e9",
+                    "country": "Paraguay"
+                },
+                "nationality": "Paraguay",
+                "height": "183 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/70774.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2135,
+                        "name": "Resistencia",
+                        "logo": "https://media-3.api-sports.io/football/teams/2135.png"
+                    },
+                    "league": {
+                        "id": 250,
+                        "name": "Division Profesional - Apertura",
+                        "country": "Paraguay",
+                        "logo": "https://media-2.api-sports.io/football/leagues/250.png",
+                        "flag": "https://media-1.api-sports.io/flags/py.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 2,
+                        "minutes": 262,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 2,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 95314,
+                "name": "R. Mart\u00ednez",
+                "firstname": "Ronaldo Iv\u00e1n",
+                "lastname": "Mart\u00ednez Rol\u00f3n",
+                "age": 27,
+                "birth": {
+                    "date": "1996-04-25",
+                    "place": null,
+                    "country": "Paraguay"
+                },
+                "nationality": "Paraguay",
+                "height": "178 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/95314.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2135,
+                        "name": "Resistencia",
+                        "logo": "https://media-2.api-sports.io/football/teams/2135.png"
+                    },
+                    "league": {
+                        "id": 250,
+                        "name": "Division Profesional - Apertura",
+                        "country": "Paraguay",
+                        "logo": "https://media-2.api-sports.io/football/leagues/250.png",
+                        "flag": "https://media-1.api-sports.io/flags/py.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 40,
+                        "lineups": 33,
+                        "minutes": 2755,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 20,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 13,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70829,
+                "name": "F. Mart\u00ednez",
+                "firstname": "Fernando",
+                "lastname": "Mart\u00ednez Rojas",
+                "age": 29,
+                "birth": {
+                    "date": "1994-05-13",
+                    "place": "Itaugu\u00e1",
+                    "country": "Paraguay"
+                },
+                "nationality": "Paraguay",
+                "height": "176 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/70829.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2135,
+                        "name": "Resistencia",
+                        "logo": "https://media-2.api-sports.io/football/teams/2135.png"
+                    },
+                    "league": {
+                        "id": 250,
+                        "name": "Division Profesional - Apertura",
+                        "country": "Paraguay",
+                        "logo": "https://media-3.api-sports.io/football/leagues/250.png",
+                        "flag": "https://media-1.api-sports.io/flags/py.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 17,
+                        "minutes": 1526,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

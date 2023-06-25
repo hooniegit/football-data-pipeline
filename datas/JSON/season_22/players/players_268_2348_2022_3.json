@@ -1,0 +1,872 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "268",
+        "team": "2348",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 9,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 288760,
+                "name": "A. da Silveira",
+                "firstname": "Agust\u00edn",
+                "lastname": "da Silveira Mu\u00f1oa",
+                "age": 23,
+                "birth": {
+                    "date": "2000-12-11",
+                    "place": "Artigas",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "179 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/288760.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2348,
+                        "name": "Penarol",
+                        "logo": "https://media-3.api-sports.io/football/teams/2348.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-1.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-1.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 10,
+                        "minutes": 1031,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 0,
+                        "bench": 26
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 310750,
+                "name": "L. Fern\u00e1ndez",
+                "firstname": "Luciano",
+                "lastname": "Fern\u00e1ndez Sosa",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-16",
+                    "place": "Pan de Az\u00facar",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "174 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/310750.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2348,
+                        "name": "Penarol",
+                        "logo": "https://media-1.api-sports.io/football/teams/2348.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-3.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-1.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51555,
+                "name": "B. Olivera",
+                "firstname": "Bryan",
+                "lastname": "Olivera Calvo",
+                "age": 29,
+                "birth": {
+                    "date": "1994-03-11",
+                    "place": "Fort Lauderdale",
+                    "country": "USA"
+                },
+                "nationality": "Uruguay",
+                "height": "168 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/51555.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2348,
+                        "name": "Penarol",
+                        "logo": "https://media-2.api-sports.io/football/teams/2348.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-3.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-3.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 4,
+                        "minutes": 220,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51603,
+                "name": "A. Canobbio",
+                "firstname": "Agust\u00edn",
+                "lastname": "Canobbio Graviz",
+                "age": 25,
+                "birth": {
+                    "date": "1998-10-01",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "175 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/51603.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2348,
+                        "name": "Penarol",
+                        "logo": "https://media-2.api-sports.io/football/teams/2348.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-1.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-2.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 5,
+                        "minutes": 422,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51464,
+                "name": "I. Laquintana",
+                "firstname": "Ignacio Jes\u00fas",
+                "lastname": "Laquintana Marsico",
+                "age": 24,
+                "birth": {
+                    "date": "1999-02-01",
+                    "place": "Paysand\u00fa",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "173 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/51464.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2348,
+                        "name": "Penarol",
+                        "logo": "https://media-1.api-sports.io/football/teams/2348.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-2.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-2.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 20,
+                        "minutes": 2119,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 7,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13293,
+                "name": "P. Ceppelini",
+                "firstname": "Pablo Daniel",
+                "lastname": "Ceppelini Gatto",
+                "age": 32,
+                "birth": {
+                    "date": "1991-09-11",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "176 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/13293.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2348,
+                        "name": "Penarol",
+                        "logo": "https://media-3.api-sports.io/football/teams/2348.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-3.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-1.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 17,
+                        "minutes": 1502,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 7,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31482,
+                "name": "E. Elizalde",
+                "firstname": "Edgar Joel",
+                "lastname": "Elizalde Ferreira",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-27",
+                    "place": "Casup\u00e1",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "179 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31482.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2348,
+                        "name": "Penarol",
+                        "logo": "https://media-2.api-sports.io/football/teams/2348.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-3.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-1.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 10,
+                        "minutes": 981,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13417,
+                "name": "Neto Volpi",
+                "firstname": "Alvino",
+                "lastname": "Volpi Neto",
+                "age": 31,
+                "birth": {
+                    "date": "1992-08-01",
+                    "place": "Rio do Campo",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "191 cm",
+                "weight": "90 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/13417.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2348,
+                        "name": "Penarol",
+                        "logo": "https://media-2.api-sports.io/football/teams/2348.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-1.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-1.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 4,
+                        "minutes": 404,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 16553,
+                "name": "B. Arce",
+                "firstname": "Billy Vladimir",
+                "lastname": "Arce Mina",
+                "age": 25,
+                "birth": {
+                    "date": "1998-07-12",
+                    "place": "Esmeraldas",
+                    "country": "Ecuador"
+                },
+                "nationality": "Ecuador",
+                "height": "180 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/16553.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2348,
+                        "name": "Penarol",
+                        "logo": "https://media-3.api-sports.io/football/teams/2348.png"
+                    },
+                    "league": {
+                        "id": 270,
+                        "name": "Primera Divisi\u00f3n - Clausura",
+                        "country": "Uruguay",
+                        "logo": "https://media-2.api-sports.io/football/leagues/270.png",
+                        "flag": "https://media-2.api-sports.io/flags/uy.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 24,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

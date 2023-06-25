@@ -1,0 +1,376 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "144",
+        "team": "266",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 8614,
+                "name": "S. Walsh",
+                "firstname": "Sandy Henny",
+                "lastname": "Walsh",
+                "age": 28,
+                "birth": {
+                    "date": "1995-03-14",
+                    "place": "Brussel",
+                    "country": "Belgium"
+                },
+                "nationality": "Indonesia",
+                "height": "185 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/8614.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 266,
+                        "name": "KV Mechelen",
+                        "logo": "https://media-3.api-sports.io/football/teams/266.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-1.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 25,
+                        "minutes": 2185,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.635000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 5,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 625,
+                        "key": 8,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 24,
+                        "blocks": 2,
+                        "interceptions": 21
+                    },
+                    "duels": {
+                        "total": 125,
+                        "won": 59
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 8944,
+                "name": "G. Engvall",
+                "firstname": "Gustav Per Fredrik",
+                "lastname": "Engvall",
+                "age": 27,
+                "birth": {
+                    "date": "1996-04-29",
+                    "place": "Kalmar",
+                    "country": "Sweden"
+                },
+                "nationality": "Sweden",
+                "height": "185 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/8944.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 266,
+                        "name": "KV Mechelen",
+                        "logo": "https://media-2.api-sports.io/football/teams/266.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-3.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 26,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.620000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 14,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 266,
+                        "name": "KV Mechelen",
+                        "logo": "https://media-3.api-sports.io/football/teams/266.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-3.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 46,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.620000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 14,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 71231,
+                "name": "J. Hern\u00e1ndez",
+                "firstname": "Jorge",
+                "lastname": "Hern\u00e1ndez Zapi\u00e9n",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-08",
+                    "place": "Sahuayo de Morelos",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "170 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/71231.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 266,
+                        "name": "KV Mechelen",
+                        "logo": "https://media-2.api-sports.io/football/teams/266.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 0,
+                        "minutes": 114,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.357142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 0,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 44,
+                        "key": 2,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 10,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

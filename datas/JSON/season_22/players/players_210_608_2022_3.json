@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "210",
+        "team": "608",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 364812,
+                "name": "R. Brajkovi\u0107",
+                "firstname": "Roko",
+                "lastname": "Brajkovi\u0107",
+                "age": 18,
+                "birth": {
+                    "date": "2005-07-03",
+                    "place": null,
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/364812.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 608,
+                        "name": "HNK Hajduk Split",
+                        "logo": "https://media-2.api-sports.io/football/teams/608.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 1,
+                        "minutes": 134,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.420000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 30,
+                        "key": 2,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 20,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 301465,
+                "name": "A. Anello",
+                "firstname": "Augustin",
+                "lastname": "Anello",
+                "age": 21,
+                "birth": {
+                    "date": "2002-04-22",
+                    "place": null,
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/301465.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 608,
+                        "name": "HNK Hajduk Split",
+                        "logo": "https://media-3.api-sports.io/football/teams/608.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 4,
+                        "minutes": 374,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.566666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 3,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 107,
+                        "key": 2,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 32,
+                        "won": 14
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 91457,
+                "name": "J. Mlakar",
+                "firstname": "Jan",
+                "lastname": "Mlakar",
+                "age": 25,
+                "birth": {
+                    "date": "1998-10-23",
+                    "place": null,
+                    "country": "Slovenia"
+                },
+                "nationality": "Slovenia",
+                "height": "183 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/91457.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 608,
+                        "name": "HNK Hajduk Split",
+                        "logo": "https://media-1.api-sports.io/football/teams/608.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 24,
+                        "minutes": 2090,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.795000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 20,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 29,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 11,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 321,
+                        "key": 5,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 2,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 98,
+                        "won": 46
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 340564,
+                "name": "M. Antunovi\u0107",
+                "firstname": "Mate",
+                "lastname": "Antunovi\u0107",
+                "age": 19,
+                "birth": {
+                    "date": "2004-03-03",
+                    "place": null,
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/340564.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 608,
+                        "name": "HNK Hajduk Split",
+                        "logo": "https://media-3.api-sports.io/football/teams/608.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 14351,
+                "name": "E. Sahiti",
+                "firstname": "Emir",
+                "lastname": "Sahiti",
+                "age": 25,
+                "birth": {
+                    "date": "1998-11-29",
+                    "place": "Zemun",
+                    "country": "Serbia"
+                },
+                "nationality": "Kosovo",
+                "height": "174 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/14351.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 608,
+                        "name": "HNK Hajduk Split",
+                        "logo": "https://media-3.api-sports.io/football/teams/608.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 20,
+                        "minutes": 1711,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.925000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 15,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 375,
+                        "key": 15,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 23,
+                        "blocks": 1,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 131,
+                        "won": 67
+                    },
+                    "dribbles": {
+                        "attempts": 44,
+                        "success": 26,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 321635,
+                "name": "I. Peri\u0107",
+                "firstname": "Ivan",
+                "lastname": "Peri\u0107",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-02",
+                    "place": "Split",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/321635.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 608,
+                        "name": "HNK Hajduk Split",
+                        "logo": "https://media-3.api-sports.io/football/teams/608.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50231,
+                "name": "J. Atanasov",
+                "firstname": "Jani",
+                "lastname": "Atanasov",
+                "age": 24,
+                "birth": {
+                    "date": "1999-10-31",
+                    "place": "Strumica",
+                    "country": "North Macedonia"
+                },
+                "nationality": "North Macedonia",
+                "height": "187 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/50231.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 608,
+                        "name": "HNK Hajduk Split",
+                        "logo": "https://media-2.api-sports.io/football/teams/608.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 3,
+                        "minutes": 308,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.800000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 3,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 100,
+                        "key": 4,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 34,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 119685,
+                "name": "D. \u010colina",
+                "firstname": "David",
+                "lastname": "\u010colina",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-19",
+                    "place": null,
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/119685.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 608,
+                        "name": "HNK Hajduk Split",
+                        "logo": "https://media-1.api-sports.io/football/teams/608.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-2.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 5,
+                        "minutes": 474,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.725000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 5,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 99,
+                        "key": 3,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 34,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 416901,
+                "name": "N. Sigur",
+                "firstname": "Niko Kristian",
+                "lastname": "Sigur",
+                "age": 20,
+                "birth": {
+                    "date": "2003-09-09",
+                    "place": "Burnaby",
+                    "country": "Canada"
+                },
+                "nationality": "Croatia",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/416901.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 608,
+                        "name": "HNK Hajduk Split",
+                        "logo": "https://media-3.api-sports.io/football/teams/608.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 7,
+                        "minutes": 605,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.180000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 189,
+                        "key": 3,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 43,
+                        "won": 26
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 292219,
+                "name": "S. Biuk",
+                "firstname": "Stipe",
+                "lastname": "Biuk",
+                "age": 21,
+                "birth": {
+                    "date": "2002-12-26",
+                    "place": "Split",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/292219.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 608,
+                        "name": "HNK Hajduk Split",
+                        "logo": "https://media-1.api-sports.io/football/teams/608.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 14,
+                        "minutes": 1118,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.720000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 11,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 179,
+                        "key": 11,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 95,
+                        "won": 43
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

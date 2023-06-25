@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "136",
+        "team": "493",
+        "season": "2022",
+        "page": "1"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 282031,
+                "name": "A. Boccia",
+                "firstname": "Alessandro",
+                "lastname": "Boccia",
+                "age": 19,
+                "birth": {
+                    "date": "2004-06-30",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/282031.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-2.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31737,
+                "name": "M. Mancosu",
+                "firstname": "Marco",
+                "lastname": "Mancosu",
+                "age": 35,
+                "birth": {
+                    "date": "1988-08-22",
+                    "place": "Cagliari",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31737.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-1.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 81,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.214814",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 34,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 730,
+                        "key": 54,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": null,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 177,
+                        "won": 78
+                    },
+                    "dribbles": {
+                        "attempts": 33,
+                        "success": 18,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30658,
+                "name": "F. Proia",
+                "firstname": "Federico",
+                "lastname": "Proia",
+                "age": 27,
+                "birth": {
+                    "date": "1996-02-04",
+                    "place": "Roma",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "185 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30658.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-2.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 8,
+                        "minutes": 618,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.720000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 7,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 152,
+                        "key": 9,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 1,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 72,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31090,
+                "name": "F. Viviani",
+                "firstname": "Federico",
+                "lastname": "Viviani",
+                "age": 31,
+                "birth": {
+                    "date": "1992-03-24",
+                    "place": "Lecco",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31090.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-3.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 69,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.014285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 17,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 477,
+                        "key": 11,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 1,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 81,
+                        "won": 48
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30664,
+                "name": "M. Finotto",
+                "firstname": "Mattia",
+                "lastname": "Finotto",
+                "age": 31,
+                "birth": {
+                    "date": "1992-12-28",
+                    "place": "Valdobbiadene",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "186 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/30664.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-1.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 3,
+                        "minutes": 361,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.562500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 3,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 115,
+                        "key": 8,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 89,
+                        "won": 37
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31126,
+                "name": "E. Alfonso",
+                "firstname": "Enrico",
+                "lastname": "Alfonso",
+                "age": 35,
+                "birth": {
+                    "date": "1988-05-04",
+                    "place": "Padova",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "191 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31126.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-3.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 35,
+                        "minutes": 3056,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.942857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 43,
+                        "assists": null,
+                        "saves": 102
+                    },
+                    "passes": {
+                        "total": 919,
+                        "key": null,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 20,
+                        "won": 14
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 359819,
+                "name": "L. Abati",
+                "firstname": "Lorenzo",
+                "lastname": "Abati",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-07",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/359819.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-2.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31539,
+                "name": "A. Pomini",
+                "firstname": "Alberto",
+                "lastname": "Pomini",
+                "age": 42,
+                "birth": {
+                    "date": "1981-03-17",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "185 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31539.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-1.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 3,
+                        "minutes": 270,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.566666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 4,
+                        "assists": null,
+                        "saves": 7
+                    },
+                    "passes": {
+                        "total": 101,
+                        "key": null,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31007,
+                "name": "Gabriel Braz\u00e3o",
+                "firstname": "Gabriel",
+                "lastname": "Nascimento Resende Braz\u00e3o",
+                "age": 23,
+                "birth": {
+                    "date": "2000-10-05",
+                    "place": "Uberl\u00e2ndia",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "192 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/31007.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-3.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 18,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "5.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 3,
+                        "assists": null,
+                        "saves": 1
+                    },
+                    "passes": {
+                        "total": 6,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 350102,
+                "name": "L. Martelli",
+                "firstname": "Luca",
+                "lastname": "Martelli",
+                "age": 18,
+                "birth": {
+                    "date": "2005-04-25",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/350102.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-2.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56643,
+                "name": "A. Fiordaliso",
+                "firstname": "Alessandro",
+                "lastname": "Fiordaliso",
+                "age": 24,
+                "birth": {
+                    "date": "1999-03-20",
+                    "place": "Torino",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "184 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/56643.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-1.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 3,
+                        "minutes": 450,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.486666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 2,
+                        "bench": 31
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 261,
+                        "key": 3,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 48,
+                        "won": 23
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30986,
+                "name": "A. Tripaldelli",
+                "firstname": "Alessandro",
+                "lastname": "Tripaldelli",
+                "age": 24,
+                "birth": {
+                    "date": "1999-02-09",
+                    "place": "Naples",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "182 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/30986.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-2.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 17,
+                        "minutes": 1515,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.713636",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 8,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 458,
+                        "key": 13,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 28,
+                        "blocks": 5,
+                        "interceptions": 18
+                    },
+                    "duels": {
+                        "total": 180,
+                        "won": 92
+                    },
+                    "dribbles": {
+                        "attempts": 43,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 35,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 196843,
+                "name": "C. Dalle Mura",
+                "firstname": "Christian",
+                "lastname": "Dalle Mura",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-02",
+                    "place": "Pietrasanta",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "185 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/196843.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-2.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 19,
+                        "minutes": 1827,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.885185",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 9,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1242,
+                        "key": 11,
+                        "accuracy": 39
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": 14,
+                        "interceptions": 42
+                    },
+                    "duels": {
+                        "total": 123,
+                        "won": 64
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31727,
+                "name": "B. Meccariello",
+                "firstname": "Biagio",
+                "lastname": "Meccariello",
+                "age": 32,
+                "birth": {
+                    "date": "1991-03-27",
+                    "place": "Benevento",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "188 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/31727.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-2.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 35,
+                        "minutes": 3063,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.157142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2105,
+                        "key": 9,
+                        "accuracy": 53
+                    },
+                    "tackles": {
+                        "total": 79,
+                        "blocks": 23,
+                        "interceptions": 82
+                    },
+                    "duels": {
+                        "total": 366,
+                        "won": 234
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 42,
+                        "committed": 64
+                    },
+                    "cards": {
+                        "yellow": 10,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30430,
+                "name": "M. Varnier",
+                "firstname": "Marco",
+                "lastname": "Varnier",
+                "age": 25,
+                "birth": {
+                    "date": "1998-06-08",
+                    "place": "Padova",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "186 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/30430.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-1.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 11,
+                        "minutes": 856,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.986666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 6,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 562,
+                        "key": 2,
+                        "accuracy": 34
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 5,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 85,
+                        "won": 60
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 343560,
+                "name": "F. Saiani",
+                "firstname": "Filippo",
+                "lastname": "Saiani",
+                "age": 18,
+                "birth": {
+                    "date": "2005-02-16",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/343560.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-3.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31634,
+                "name": "M. Arena",
+                "firstname": "Matteo",
+                "lastname": "Arena",
+                "age": 24,
+                "birth": {
+                    "date": "1999-01-14",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31634.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-3.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 14,
+                        "minutes": 1219,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.738888",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 4,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 776,
+                        "key": 1,
+                        "accuracy": 35
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": 13,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 155,
+                        "won": 89
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 28
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56433,
+                "name": "R. Celia",
+                "firstname": "Raffaele",
+                "lastname": "Celia",
+                "age": 24,
+                "birth": {
+                    "date": "1999-03-04",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "180 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/56433.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-3.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 21,
+                        "minutes": 1819,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.750000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 6,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 774,
+                        "key": 20,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 35,
+                        "blocks": 6,
+                        "interceptions": 22
+                    },
+                    "duels": {
+                        "total": 179,
+                        "won": 91
+                    },
+                    "dribbles": {
+                        "attempts": 58,
+                        "success": 23,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 25,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 30857,
+                "name": "L. Dickmann",
+                "firstname": "Lorenzo Maria",
+                "lastname": "Dickmann",
+                "age": 27,
+                "birth": {
+                    "date": "1996-09-24",
+                    "place": "Milano",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "177 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/30857.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-2.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 34,
+                        "minutes": 2917,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.775000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 18,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1230,
+                        "key": 39,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 54,
+                        "blocks": 6,
+                        "interceptions": 41
+                    },
+                    "duels": {
+                        "total": 219,
+                        "won": 107
+                    },
+                    "dribbles": {
+                        "attempts": 30,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 33,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 310576,
+                "name": "P. Peda",
+                "firstname": "Patryk",
+                "lastname": "Peda",
+                "age": 21,
+                "birth": {
+                    "date": "2002-04-16",
+                    "place": null,
+                    "country": "Poland"
+                },
+                "nationality": "Poland",
+                "height": "190 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/310576.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 493,
+                        "name": "Spal",
+                        "logo": "https://media-2.api-sports.io/football/teams/493.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 16,
+                        "minutes": 1439,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.842857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 4,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1014,
+                        "key": 2,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 35,
+                        "blocks": 15,
+                        "interceptions": 36
+                    },
+                    "duels": {
+                        "total": 152,
+                        "won": 88
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 1,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

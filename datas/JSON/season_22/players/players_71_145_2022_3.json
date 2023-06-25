@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "71",
+        "team": "145",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 10344,
+                "name": "Rafael Vaz",
+                "firstname": "Rafael",
+                "lastname": "Vaz dos Santos",
+                "age": 35,
+                "birth": {
+                    "date": "1988-09-17",
+                    "place": "S\u00e3o Paulo",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "188 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/10344.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 145,
+                        "name": "Avai",
+                        "logo": "https://media-3.api-sports.io/football/teams/145.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 16,
+                        "minutes": 1400,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.764705",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 4,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 807,
+                        "key": 3,
+                        "accuracy": 38
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 12,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 96,
+                        "won": 56
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 54011,
+                "name": "Diego Matos",
+                "firstname": "Diego Daniel",
+                "lastname": "Rodrigues de Matos",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-08",
+                    "place": "Bel\u00e9m",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "160 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/54011.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 145,
+                        "name": "Avai",
+                        "logo": "https://media-1.api-sports.io/football/teams/145.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 1,
+                        "minutes": 104,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 50,
+                        "key": null,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10394,
+                "name": "Matheus Galdezani",
+                "firstname": "Matheus",
+                "lastname": "Galdezani",
+                "age": 31,
+                "birth": {
+                    "date": "1992-03-13",
+                    "place": "Limeira",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "179 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/10394.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 145,
+                        "name": "Avai",
+                        "logo": "https://media-3.api-sports.io/football/teams/145.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 3,
+                        "minutes": 291,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.783333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 3,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 137,
+                        "key": 3,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 2,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 50,
+                        "won": 24
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12432,
+                "name": "Muriqui",
+                "firstname": "Luiz Guilherme",
+                "lastname": "da Concei\u00e7\u00e3o Silva",
+                "age": 37,
+                "birth": {
+                    "date": "1986-06-16",
+                    "place": "Rio de Janeiro",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "172 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/12432.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 145,
+                        "name": "Avai",
+                        "logo": "https://media-2.api-sports.io/football/teams/145.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 18,
+                        "minutes": 1299,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.563636",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 17,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 328,
+                        "key": 9,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": null,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 133,
+                        "won": 61
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 26,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 54032,
+                "name": "Vin\u00edcius Leite",
+                "firstname": "Vin\u00edcius",
+                "lastname": "Leite Silva",
+                "age": 30,
+                "birth": {
+                    "date": "1993-10-25",
+                    "place": "Ipor\u00e1",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "176 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/54032.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 145,
+                        "name": "Avai",
+                        "logo": "https://media-3.api-sports.io/football/teams/145.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 2,
+                        "minutes": 138,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 35,
+                        "key": 1,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10508,
+                "name": "Vladimir",
+                "firstname": "Vladimir Orlando",
+                "lastname": "Cardoso de Ara\u00fajo Filho",
+                "age": 34,
+                "birth": {
+                    "date": "1989-07-16",
+                    "place": "Ipia\u00fa",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "190 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/10508.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 145,
+                        "name": "Avai",
+                        "logo": "https://media-2.api-sports.io/football/teams/145.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 22,
+                        "minutes": 2024,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.933333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 35,
+                        "assists": null,
+                        "saves": 75
+                    },
+                    "passes": {
+                        "total": 522,
+                        "key": null,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 9
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 2
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 160436,
+                "name": "Raniele",
+                "firstname": "Raniele",
+                "lastname": "Almeida Melo",
+                "age": 27,
+                "birth": {
+                    "date": "1996-12-31",
+                    "place": "Baixa Grande",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "184 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/160436.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 145,
+                        "name": "Avai",
+                        "logo": "https://media-1.api-sports.io/football/teams/145.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 33,
+                        "minutes": 2831,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.965517",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 14,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1364,
+                        "key": 12,
+                        "accuracy": 36
+                    },
+                    "tackles": {
+                        "total": 50,
+                        "blocks": 22,
+                        "interceptions": 28
+                    },
+                    "duels": {
+                        "total": 376,
+                        "won": 229
+                    },
+                    "dribbles": {
+                        "attempts": 53,
+                        "success": 33,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 80,
+                        "committed": 32
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10400,
+                "name": "William Pottker",
+                "firstname": "William",
+                "lastname": "de Oliveira Pottker",
+                "age": 30,
+                "birth": {
+                    "date": "1993-12-22",
+                    "place": "Foz do Igua\u00e7u",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "180 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/10400.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 145,
+                        "name": "Avai",
+                        "logo": "https://media-1.api-sports.io/football/teams/145.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 23,
+                        "minutes": 1971,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.883333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 11,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 28,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 587,
+                        "key": 37,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 1,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 281,
+                        "won": 127
+                    },
+                    "dribbles": {
+                        "attempts": 89,
+                        "success": 45,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 45,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10401,
+                "name": "P. Guerrero",
+                "firstname": "Jos\u00e9 Paolo",
+                "lastname": "Guerrero Gonz\u00e1les",
+                "age": 39,
+                "birth": {
+                    "date": "1984-01-01",
+                    "place": "Lima",
+                    "country": "Peru"
+                },
+                "nationality": "Peru",
+                "height": "184 cm",
+                "weight": "87 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/10401.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 145,
+                        "name": "Avai",
+                        "logo": "https://media-3.api-sports.io/football/teams/145.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 4,
+                        "minutes": 427,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.510000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 2,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 109,
+                        "key": 6,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 89,
+                        "won": 36
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70734,
+                "name": "A. Cougo",
+                "firstname": "Carlos Ayrton",
+                "lastname": "Cougo Rivero",
+                "age": 27,
+                "birth": {
+                    "date": "1996-06-15",
+                    "place": "Melo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "180 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/70734.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 145,
+                        "name": "Avai",
+                        "logo": "https://media-2.api-sports.io/football/teams/145.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

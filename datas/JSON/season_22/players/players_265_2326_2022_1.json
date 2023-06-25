@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "265",
+        "team": "2326",
+        "season": "2022",
+        "page": "1"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 196154,
+                "name": "Pedro Henrique",
+                "firstname": "Pedro Henrique",
+                "lastname": "Alves Santana",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-31",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "188 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/196154.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-3.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 13,
+                        "minutes": 1074,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.684615",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 482,
+                        "key": 2,
+                        "accuracy": 29
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 5,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 88,
+                        "won": 48
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11424,
+                "name": "W. Alarc\u00f3n",
+                "firstname": "Williams H\u00e9ctor",
+                "lastname": "Alarc\u00f3n Cepeda",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-29",
+                    "place": "Conchal\u00ed",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "182 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11424.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-2.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 22,
+                        "minutes": 1923,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.026086",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1123,
+                        "key": 23,
+                        "accuracy": 42
+                    },
+                    "tackles": {
+                        "total": 37,
+                        "blocks": 7,
+                        "interceptions": 34
+                    },
+                    "duels": {
+                        "total": 156,
+                        "won": 79
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 16,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11856,
+                "name": "M. Fern\u00e1ndez",
+                "firstname": "Mat\u00edas Ignacio",
+                "lastname": "Fern\u00e1ndez Cordero",
+                "age": 28,
+                "birth": {
+                    "date": "1995-08-14",
+                    "place": "Valpara\u00edso",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "171 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/11856.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-3.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 10,
+                        "minutes": 804,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.836363",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 336,
+                        "key": 8,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 1,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 43,
+                        "won": 29
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 344344,
+                "name": "A. Lacalle",
+                "firstname": "Andr\u00e9s Patricio",
+                "lastname": "Lacalle de la Fuente",
+                "age": 21,
+                "birth": {
+                    "date": "2002-07-12",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/344344.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-2.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11918,
+                "name": "H. Sanhueza",
+                "firstname": "Henry Steven",
+                "lastname": "Sanhueza Gonz\u00e1lez",
+                "age": 27,
+                "birth": {
+                    "date": "1996-03-24",
+                    "place": "Constituci\u00f3n",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "178 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/11918.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-2.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 20,
+                        "minutes": 1804,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.685714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 5,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 712,
+                        "key": 1,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 38,
+                        "blocks": 9,
+                        "interceptions": 37
+                    },
+                    "duels": {
+                        "total": 137,
+                        "won": 71
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70159,
+                "name": "M. Villarroel",
+                "firstname": "Mart\u00edn Ignacio",
+                "lastname": "Villarroel Robles",
+                "age": 22,
+                "birth": {
+                    "date": "2001-09-23",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/70159.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-1.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 1,
+                        "minutes": 120,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.433333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 16,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11871,
+                "name": "C. Gonz\u00e1lez",
+                "firstname": "Claudio Iv\u00e1n",
+                "lastname": "Gonz\u00e1lez Landeros",
+                "age": 33,
+                "birth": {
+                    "date": "1990-04-26",
+                    "place": "Curic\u00f3",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "176 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11871.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-3.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11376,
+                "name": "S. S\u00e1ez",
+                "firstname": "Jorge Sebasti\u00e1n",
+                "lastname": "S\u00e1ez",
+                "age": 38,
+                "birth": {
+                    "date": "1985-01-24",
+                    "place": "Santiago del Estero",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11376.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-3.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 28,
+                        "minutes": 2333,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.000000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 12,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 52,
+                        "on": 22
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 654,
+                        "key": 24,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 235,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 22,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11387,
+                "name": "C. Vilches",
+                "firstname": "Christian Alberto",
+                "lastname": "Vilches Gonz\u00e1lez",
+                "age": 40,
+                "birth": {
+                    "date": "1983-07-13",
+                    "place": "Quinta Normal",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "182 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11387.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-1.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 25,
+                        "minutes": 2221,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.887500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1103,
+                        "key": 1,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 12,
+                        "interceptions": 28
+                    },
+                    "duels": {
+                        "total": 78,
+                        "won": 48
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12167,
+                "name": "M. Vidangossy",
+                "firstname": "Math\u00edas Leonardo",
+                "lastname": "Vidangossy Rebolledo",
+                "age": 36,
+                "birth": {
+                    "date": "1987-05-25",
+                    "place": "Santiago de Chile",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "172 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12167.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-1.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 11,
+                        "minutes": 876,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.675000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 10,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 364,
+                        "key": 11,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 76,
+                        "won": 39
+                    },
+                    "dribbles": {
+                        "attempts": 37,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11646,
+                "name": "S. Pereira",
+                "firstname": "Sebasti\u00e1n Rodrigo",
+                "lastname": "Pereira Abarca",
+                "age": 26,
+                "birth": {
+                    "date": "1997-06-23",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "186 cm",
+                "weight": "92 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/11646.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-2.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 3,
+                        "minutes": 395,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.510000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 0,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 127,
+                        "key": null,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 4,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 30,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11355,
+                "name": "Y. Oyanedel",
+                "firstname": "Yerco Abraham",
+                "lastname": "Oyanedel Hern\u00e1ndez",
+                "age": 23,
+                "birth": {
+                    "date": "2000-09-19",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "170 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/11355.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-2.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 7,
+                        "minutes": 869,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.544444",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 3,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 250,
+                        "key": 6,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 36,
+                        "won": 22
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 307107,
+                "name": "R. Cancino",
+                "firstname": "Rodrigo Esteban",
+                "lastname": "Cancino Herrera",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-09",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/307107.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-1.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11388,
+                "name": "\u00c9. Wiemberg",
+                "firstname": "\u00c9rick Andr\u00e9s",
+                "lastname": "Wiemberg Higuera",
+                "age": 29,
+                "birth": {
+                    "date": "1994-06-20",
+                    "place": "Valdivia",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "175 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/11388.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-2.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 14,
+                        "minutes": 1260,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.028571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 730,
+                        "key": 17,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 7,
+                        "interceptions": 26
+                    },
+                    "duels": {
+                        "total": 112,
+                        "won": 60
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 355309,
+                "name": "J. Tapia",
+                "firstname": "Joshua Vicente",
+                "lastname": "Tapia Alfaro",
+                "age": 20,
+                "birth": {
+                    "date": "2003-07-18",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "182 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/355309.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-2.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 237260,
+                "name": "P. Flores",
+                "firstname": "Patricio Alessandro",
+                "lastname": "Flores Bascur",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-30",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "172 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/237260.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-3.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 2,
+                        "minutes": 251,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.350000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 48,
+                        "key": null,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 143573,
+                "name": "L. Robles",
+                "firstname": "Luis Felipe",
+                "lastname": "Robles M\u00e9ndez",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-19",
+                    "place": "Santiago de Chile",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "187 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/143573.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-1.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 15,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 12,
+                        "key": null,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11402,
+                "name": "E. Valencia",
+                "firstname": "Esteban Crist\u00f3bal",
+                "lastname": "Valencia Reyes",
+                "age": 24,
+                "birth": {
+                    "date": "1999-08-13",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "176 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11402.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-1.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 12,
+                        "minutes": 953,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.571428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 9,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 348,
+                        "key": 11,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 1,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 59,
+                        "won": 14
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11728,
+                "name": "N. Orellana",
+                "firstname": "Nicol\u00e1s Iv\u00e1n",
+                "lastname": "Orellana Acu\u00f1a",
+                "age": 28,
+                "birth": {
+                    "date": "1995-09-03",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "180 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11728.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-2.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 16,
+                        "minutes": 1378,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.875000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 12,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 470,
+                        "key": 12,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 33,
+                        "blocks": 6,
+                        "interceptions": 31
+                    },
+                    "duels": {
+                        "total": 137,
+                        "won": 77
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12281,
+                "name": "B. Garrido",
+                "firstname": "Brayan Andr\u00e9s",
+                "lastname": "Garrido Mart\u00ednez",
+                "age": 24,
+                "birth": {
+                    "date": "1999-01-22",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/12281.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2326,
+                        "name": "Union La Calera",
+                        "logo": "https://media-1.api-sports.io/football/teams/2326.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 4,
+                        "minutes": 632,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.675000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 18,
+                        "out": 3,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 243,
+                        "key": 10,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 2,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 58,
+                        "won": 29
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

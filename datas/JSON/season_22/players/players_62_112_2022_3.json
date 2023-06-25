@@ -1,0 +1,587 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "62",
+        "team": "112",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 6,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 129676,
+                "name": "P. Yade",
+                "firstname": "Papa Ndiaga",
+                "lastname": "Yade",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-05",
+                    "place": "Saint-Louis",
+                    "country": "Senegal"
+                },
+                "nationality": "Senegal",
+                "height": "185 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/129676.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 112,
+                        "name": "Metz",
+                        "logo": "https://media-1.api-sports.io/football/teams/112.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 45,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.533333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 13,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 14,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20591,
+                "name": "W. Tchimbemb\u00e9",
+                "firstname": "Warren",
+                "lastname": "Tchimbemb\u00e9",
+                "age": 25,
+                "birth": {
+                    "date": "1998-04-21",
+                    "place": "Gonesse",
+                    "country": "France"
+                },
+                "nationality": "Congo",
+                "height": "180 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/20591.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 112,
+                        "name": "Metz",
+                        "logo": "https://media-2.api-sports.io/football/teams/112.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 12,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.586666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 204,
+                        "key": 2,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 2,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 54,
+                        "won": 24
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 180496,
+                "name": "G. Mikautadze",
+                "firstname": "Georges",
+                "lastname": "Mikautadze",
+                "age": 23,
+                "birth": {
+                    "date": "2000-10-31",
+                    "place": "Lyon",
+                    "country": "France"
+                },
+                "nationality": "Georgia",
+                "height": "176 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/180496.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 112,
+                        "name": "Metz",
+                        "logo": "https://media-2.api-sports.io/football/teams/112.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 35,
+                        "minutes": 3080,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.240540",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 21,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 77,
+                        "on": 44
+                    },
+                    "goals": {
+                        "total": 23,
+                        "conceded": 0,
+                        "assists": 8,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 847,
+                        "key": 54,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 4,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 405,
+                        "won": 152
+                    },
+                    "dribbles": {
+                        "attempts": 144,
+                        "success": 58,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 63,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 6,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20530,
+                "name": "A. Jallow",
+                "firstname": "Abdoulie",
+                "lastname": "Jallow",
+                "age": 25,
+                "birth": {
+                    "date": "1998-11-14",
+                    "place": "Bundung",
+                    "country": "Gambia"
+                },
+                "nationality": "Gambia",
+                "height": "166 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/20530.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 112,
+                        "name": "Metz",
+                        "logo": "https://media-1.api-sports.io/football/teams/112.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 30,
+                        "minutes": 2425,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.038235",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 26,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 53,
+                        "on": 25
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1034,
+                        "key": 55,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 34,
+                        "blocks": 1,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 287,
+                        "won": 152
+                    },
+                    "dribbles": {
+                        "attempts": 84,
+                        "success": 52,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 50,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 157912,
+                "name": "B. Traor\u00e9",
+                "firstname": "Boubacar",
+                "lastname": "Traor\u00e9",
+                "age": 22,
+                "birth": {
+                    "date": "2001-08-20",
+                    "place": "Bamako",
+                    "country": "Mali"
+                },
+                "nationality": "Mali",
+                "height": "183 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/157912.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 112,
+                        "name": "Metz",
+                        "logo": "https://media-1.api-sports.io/football/teams/112.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 3,
+                        "minutes": 270,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.966666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 115,
+                        "key": 2,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 32,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20919,
+                "name": "A. Bassi",
+                "firstname": "Amine",
+                "lastname": "Bassi",
+                "age": 26,
+                "birth": {
+                    "date": "1997-11-27",
+                    "place": "Bezons",
+                    "country": "France"
+                },
+                "nationality": "Morocco",
+                "height": "173 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/20919.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 112,
+                        "name": "Metz",
+                        "logo": "https://media-2.api-sports.io/football/teams/112.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 1,
+                        "minutes": 120,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 77,
+                        "key": 5,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

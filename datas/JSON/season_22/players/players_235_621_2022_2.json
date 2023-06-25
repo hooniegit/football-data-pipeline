@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "235",
+        "team": "621",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 321450,
+                "name": "D. Kratkov",
+                "firstname": "Dmitri",
+                "lastname": "Kratkov",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-15",
+                    "place": "Stavropol",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "174 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/321450.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-2.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 27,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 15,
+                        "key": null,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 41210,
+                "name": "Kaio Pantale\u00e3o",
+                "firstname": "Kaio Fernando",
+                "lastname": "da Silva Pantale\u00e3o",
+                "age": 28,
+                "birth": {
+                    "date": "1995-09-18",
+                    "place": "Araraquara",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "183 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/41210.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 20,
+                        "minutes": 1548,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.960000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 5,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1006,
+                        "key": 3,
+                        "accuracy": 43
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": 19,
+                        "interceptions": 29
+                    },
+                    "duels": {
+                        "total": 136,
+                        "won": 99
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 290720,
+                "name": "D. Kokoev",
+                "firstname": "David",
+                "lastname": "Kokoev",
+                "age": 21,
+                "birth": {
+                    "date": "2002-08-29",
+                    "place": "Vladikavkaz",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "179 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/290720.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 4,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 6,
+                        "key": null,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 418327,
+                "name": "R. Chobanov",
+                "firstname": "Ruslan",
+                "lastname": "Chobanov",
+                "age": 19,
+                "birth": {
+                    "date": "2004-03-30",
+                    "place": null,
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "179 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/418327.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-1.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 358557,
+                "name": "I. Nduka",
+                "firstname": "Ifeanyi David",
+                "lastname": "Nduka",
+                "age": 20,
+                "birth": {
+                    "date": "2003-12-02",
+                    "place": "Lagos",
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": "180 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/358557.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-1.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 23,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 5,
+                        "key": null,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 374548,
+                "name": "D. Paderin",
+                "firstname": "Dmitri",
+                "lastname": "Paderin",
+                "age": 19,
+                "birth": {
+                    "date": "2004-01-29",
+                    "place": null,
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "179 cm",
+                "weight": "64 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/374548.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-1.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 202211,
+                "name": "N. Krivtsov",
+                "firstname": "Nikita",
+                "lastname": "Krivtsov",
+                "age": 21,
+                "birth": {
+                    "date": "2002-08-18",
+                    "place": "Dzerzhinsk",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "184 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/202211.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 15,
+                        "minutes": 1285,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.000000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 6,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 589,
+                        "key": 21,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 2,
+                        "interceptions": 21
+                    },
+                    "duels": {
+                        "total": 151,
+                        "won": 68
+                    },
+                    "dribbles": {
+                        "attempts": 28,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24810,
+                "name": "J. C\u00f3rdoba",
+                "firstname": "Jhon Andr\u00e9s",
+                "lastname": "C\u00f3rdoba Copete",
+                "age": 30,
+                "birth": {
+                    "date": "1993-05-11",
+                    "place": "Istimina",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "188 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/24810.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-2.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 22,
+                        "minutes": 1847,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.290909",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 7,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 53,
+                        "on": 35
+                    },
+                    "goals": {
+                        "total": 14,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 343,
+                        "key": 22,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 243,
+                        "won": 107
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 51,
+                        "committed": 34
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 359059,
+                "name": "K. Bogdanets",
+                "firstname": "Kirill",
+                "lastname": "Bogdanets",
+                "age": 19,
+                "birth": {
+                    "date": "2004-03-28",
+                    "place": "Krasnodar",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "179 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/359059.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 130247,
+                "name": "Batxi",
+                "firstname": "Jo\u00e3o Pedro",
+                "lastname": "Fortes Bachiessa",
+                "age": 25,
+                "birth": {
+                    "date": "1998-05-01",
+                    "place": "Sintra",
+                    "country": "Portugal"
+                },
+                "nationality": "Angola",
+                "height": "175 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/130247.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 9,
+                        "minutes": 742,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.814285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 8,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 270,
+                        "key": 12,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 78,
+                        "won": 30
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 43831,
+                "name": "D. Karpov",
+                "firstname": "Danil",
+                "lastname": "Karpov",
+                "age": 24,
+                "birth": {
+                    "date": "1999-06-28",
+                    "place": "Tyumen",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "179 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/43831.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-2.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 237056,
+                "name": "O. Olusegun",
+                "firstname": "Olakunle Junior",
+                "lastname": "Olusegun",
+                "age": 21,
+                "birth": {
+                    "date": "2002-04-23",
+                    "place": "llorin",
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": "170 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/237056.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 19,
+                        "minutes": 1617,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.926086",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 11,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 26,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 444,
+                        "key": 17,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 24,
+                        "blocks": 1,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 217,
+                        "won": 102
+                    },
+                    "dribbles": {
+                        "attempts": 70,
+                        "success": 42,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 43570,
+                "name": "M. Kutovoy",
+                "firstname": "Maksim",
+                "lastname": "Kutovoy",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-01",
+                    "place": "Slavyansk-na-Kubani",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "186 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/43570.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-2.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 322319,
+                "name": "V. Samko",
+                "firstname": "Vladislav",
+                "lastname": "Samko",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-03",
+                    "place": null,
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "173 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/322319.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-2.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 38,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.566666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 19,
+                        "key": 1,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 43569,
+                "name": "R. Khalnazarov",
+                "firstname": "Rustam",
+                "lastname": "Khalnazarov",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-20",
+                    "place": "Novosibirsk",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "175 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/43569.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 2,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 340285,
+                "name": "O. Popov",
+                "firstname": "Omar",
+                "lastname": "Popov",
+                "age": 20,
+                "birth": {
+                    "date": "2003-01-02",
+                    "place": "Labinsk",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "177 cm",
+                "weight": "61 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/340285.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 321451,
+                "name": "S. Volkov",
+                "firstname": "Sergey",
+                "lastname": "Volkov",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-09",
+                    "place": "Chita",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "182 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/321451.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-2.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 24,
+                        "minutes": 2128,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.607407",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 7,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 979,
+                        "key": 15,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 33,
+                        "blocks": 7,
+                        "interceptions": 27
+                    },
+                    "duels": {
+                        "total": 186,
+                        "won": 85
+                    },
+                    "dribbles": {
+                        "attempts": 43,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 358558,
+                "name": "J. Okoronkwo",
+                "firstname": "Jonathan Theophilus",
+                "lastname": "Okoronkwo",
+                "age": 20,
+                "birth": {
+                    "date": "2003-09-13",
+                    "place": "Calabar",
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": "175 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/358558.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 12,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 4,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 323556,
+                "name": "M. Cobnan",
+                "firstname": "Moses David",
+                "lastname": "Cobnan",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-10",
+                    "place": null,
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": "178 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/323556.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-2.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 6,
+                        "minutes": 483,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.610000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 6,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 121,
+                        "key": 3,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 76,
+                        "won": 30
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 391289,
+                "name": "A. Koksharov",
+                "firstname": "Aleksandr",
+                "lastname": "Koksharov",
+                "age": 19,
+                "birth": {
+                    "date": "2004-12-20",
+                    "place": null,
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "188 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/391289.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 621,
+                        "name": "Krasnodar",
+                        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 1,
+                        "minutes": 153,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.528571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 1,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 33,
+                        "key": 2,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 26,
+                        "won": 9
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

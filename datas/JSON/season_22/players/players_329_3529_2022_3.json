@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "329",
+        "team": "3529",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 60625,
+                "name": "M. Kaljum\u00e4e",
+                "firstname": "Marek",
+                "lastname": "Kaljum\u00e4e",
+                "age": 32,
+                "birth": {
+                    "date": "1991-02-18",
+                    "place": "Tallinn",
+                    "country": "Estonia"
+                },
+                "nationality": "Estonia",
+                "height": "185 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/60625.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 3529,
+                        "name": "Tallinna Kalev",
+                        "logo": "https://media-1.api-sports.io/football/teams/3529.png"
+                    },
+                    "league": {
+                        "id": 329,
+                        "name": "Meistriliiga",
+                        "country": "Estonia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/329.png",
+                        "flag": "https://media-1.api-sports.io/flags/ee.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 20,
+                        "minutes": 1896,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 6,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 329214,
+                "name": "F. Trawally",
+                "firstname": "Foday",
+                "lastname": "Trawally",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-28",
+                    "place": "Banjul",
+                    "country": "Gambia"
+                },
+                "nationality": "Gambia",
+                "height": "185 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/329214.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 3529,
+                        "name": "Tallinna Kalev",
+                        "logo": "https://media-2.api-sports.io/football/teams/3529.png"
+                    },
+                    "league": {
+                        "id": 329,
+                        "name": "Meistriliiga",
+                        "country": "Estonia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/329.png",
+                        "flag": "https://media-1.api-sports.io/flags/ee.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 19,
+                        "minutes": 1513,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 14,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 55386,
+                "name": "A. Purje",
+                "firstname": "Ats",
+                "lastname": "Purje",
+                "age": 38,
+                "birth": {
+                    "date": "1985-08-03",
+                    "place": "Tallinn",
+                    "country": "Estonia"
+                },
+                "nationality": "Estonia",
+                "height": "180 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/55386.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 3529,
+                        "name": "Tallinna Kalev",
+                        "logo": "https://media-3.api-sports.io/football/teams/3529.png"
+                    },
+                    "league": {
+                        "id": 329,
+                        "name": "Meistriliiga",
+                        "country": "Estonia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/329.png",
+                        "flag": "https://media-3.api-sports.io/flags/ee.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 27,
+                        "minutes": 2471,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 7,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 10,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 306371,
+                "name": "M. Riisenberg",
+                "firstname": "Markus",
+                "lastname": "Riisenberg",
+                "age": 19,
+                "birth": {
+                    "date": "2004-07-15",
+                    "place": "Tallinn",
+                    "country": "Estonia"
+                },
+                "nationality": "Estonia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/306371.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 3529,
+                        "name": "Tallinna Kalev",
+                        "logo": "https://media-3.api-sports.io/football/teams/3529.png"
+                    },
+                    "league": {
+                        "id": 329,
+                        "name": "Meistriliiga",
+                        "country": "Estonia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/329.png",
+                        "flag": "https://media-2.api-sports.io/flags/ee.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 0,
+                        "minutes": 136,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

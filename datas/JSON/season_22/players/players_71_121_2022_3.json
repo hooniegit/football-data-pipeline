@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "71",
+        "team": "121",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 6327,
+                "name": "M. Merentiel",
+                "firstname": "Miguel \u00c1ngel",
+                "lastname": "Merentiel Serrano",
+                "age": 27,
+                "birth": {
+                    "date": "1996-02-24",
+                    "place": "Paysand\u00fa",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "176 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/6327.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 121,
+                        "name": "Palmeiras",
+                        "logo": "https://media-3.api-sports.io/football/teams/121.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 2,
+                        "minutes": 233,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.588888",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 2,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 45,
+                        "key": 3,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 17,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "141",
+        "team": "9390",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 46816,
+                "name": "Cifu",
+                "firstname": "Miguel \u00c1ngel",
+                "lastname": "Garrido Cifuentes",
+                "age": 33,
+                "birth": {
+                    "date": "1990-10-05",
+                    "place": "Z\u00fajar",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "174 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/46816.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9390,
+                        "name": "Ibiza",
+                        "logo": "https://media-3.api-sports.io/football/teams/9390.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 138794,
+                "name": "A. Shashoua",
+                "firstname": "Armando",
+                "lastname": "Shashoua Sarmiento",
+                "age": 23,
+                "birth": {
+                    "date": "2000-10-31",
+                    "place": "London",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/138794.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9390,
+                        "name": "Ibiza",
+                        "logo": "https://media-1.api-sports.io/football/teams/9390.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 4,
+                        "minutes": 407,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.440000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 3,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 185,
+                        "key": 8,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 34,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 182492,
+                "name": "\u00c1lvaro Garc\u00eda",
+                "firstname": "\u00c1lvaro",
+                "lastname": "Garc\u00eda Segovia",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-01",
+                    "place": "Albacete",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "184 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/182492.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9390,
+                        "name": "Ibiza",
+                        "logo": "https://media-1.api-sports.io/football/teams/9390.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 5,
+                        "minutes": 369,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.833333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 3,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 130,
+                        "key": 1,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 5,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 50,
+                        "won": 27
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 104963,
+                "name": "Ra\u00fal S\u00e1nchez",
+                "firstname": "Ra\u00fal",
+                "lastname": "S\u00e1nchez S\u00e1nchez",
+                "age": 26,
+                "birth": {
+                    "date": "1997-11-08",
+                    "place": "Madrid",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "188 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/104963.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9390,
+                        "name": "Ibiza",
+                        "logo": "https://media-3.api-sports.io/football/teams/9390.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19125,
+                "name": "M. Bogusz",
+                "firstname": "Mateusz Piotr",
+                "lastname": "Bogusz",
+                "age": 22,
+                "birth": {
+                    "date": "2001-08-22",
+                    "place": "Ruda \u015al\u0105ska",
+                    "country": "Poland"
+                },
+                "nationality": "Poland",
+                "height": "175 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/19125.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 9390,
+                        "name": "Ibiza",
+                        "logo": "https://media-1.api-sports.io/football/teams/9390.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 11,
+                        "minutes": 1143,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.636363",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 7,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 263,
+                        "key": 16,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 137,
+                        "won": 53
+                    },
+                    "dribbles": {
+                        "attempts": 31,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

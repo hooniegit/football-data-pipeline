@@ -1,0 +1,587 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "242",
+        "team": "1986",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 6,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 13701,
+                "name": "A. \u00c1vila",
+                "firstname": "Andr\u00e9s Felipe",
+                "lastname": "\u00c1vila Tavera",
+                "age": 29,
+                "birth": {
+                    "date": "1994-01-30",
+                    "place": "Bogot\u00e1",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "177 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/13701.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1986,
+                        "name": "Gualaceo SC",
+                        "logo": "https://media-3.api-sports.io/football/teams/1986.png"
+                    },
+                    "league": {
+                        "id": 242,
+                        "name": "Liga Pro",
+                        "country": "Ecuador",
+                        "logo": "https://media-3.api-sports.io/football/leagues/242.png",
+                        "flag": "https://media-3.api-sports.io/flags/ec.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 15,
+                        "minutes": 1219,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 12,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 16569,
+                "name": "D. Quintero",
+                "firstname": "Dennys Fabi\u00e1n",
+                "lastname": "Quintero Loor",
+                "age": 26,
+                "birth": {
+                    "date": "1997-06-14",
+                    "place": "Yaguachi",
+                    "country": "Ecuador"
+                },
+                "nationality": "Ecuador",
+                "height": "180 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/16569.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1986,
+                        "name": "Gualaceo SC",
+                        "logo": "https://media-1.api-sports.io/football/teams/1986.png"
+                    },
+                    "league": {
+                        "id": 242,
+                        "name": "Liga Pro",
+                        "country": "Ecuador",
+                        "logo": "https://media-1.api-sports.io/football/leagues/242.png",
+                        "flag": "https://media-2.api-sports.io/flags/ec.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 2,
+                        "minutes": 152,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 64536,
+                "name": "G. Gordillo",
+                "firstname": "Gerardo Arturo",
+                "lastname": "Gordillo Olivero",
+                "age": 29,
+                "birth": {
+                    "date": "1994-08-17",
+                    "place": "Guatemala City",
+                    "country": "Guatemala"
+                },
+                "nationality": "Guatemala",
+                "height": "187 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/64536.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1986,
+                        "name": "Gualaceo SC",
+                        "logo": "https://media-3.api-sports.io/football/teams/1986.png"
+                    },
+                    "league": {
+                        "id": 242,
+                        "name": "Liga Pro",
+                        "country": "Ecuador",
+                        "logo": "https://media-1.api-sports.io/football/leagues/242.png",
+                        "flag": "https://media-3.api-sports.io/flags/ec.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 14,
+                        "minutes": 1260,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51676,
+                "name": "F. Millacet",
+                "firstname": "Federico Dami\u00e1n",
+                "lastname": "Millacet Echevarr\u00eda",
+                "age": 32,
+                "birth": {
+                    "date": "1991-07-21",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "175 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/51676.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1986,
+                        "name": "Gualaceo SC",
+                        "logo": "https://media-2.api-sports.io/football/teams/1986.png"
+                    },
+                    "league": {
+                        "id": 242,
+                        "name": "Liga Pro",
+                        "country": "Ecuador",
+                        "logo": "https://media-1.api-sports.io/football/leagues/242.png",
+                        "flag": "https://media-3.api-sports.io/flags/ec.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 7,
+                        "minutes": 609,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 5,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51672,
+                "name": "G. Alles",
+                "firstname": "Gustavo Javier",
+                "lastname": "Alles Vila",
+                "age": 33,
+                "birth": {
+                    "date": "1990-04-09",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "191 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/51672.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1986,
+                        "name": "Gualaceo SC",
+                        "logo": "https://media-1.api-sports.io/football/teams/1986.png"
+                    },
+                    "league": {
+                        "id": 242,
+                        "name": "Liga Pro",
+                        "country": "Ecuador",
+                        "logo": "https://media-1.api-sports.io/football/leagues/242.png",
+                        "flag": "https://media-1.api-sports.io/flags/ec.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 19,
+                        "minutes": 1565,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 12,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 81289,
+                "name": "H. Lino",
+                "firstname": "Herlin Hern\u00e1n",
+                "lastname": "Lino Pluas",
+                "age": 26,
+                "birth": {
+                    "date": "1997-02-06",
+                    "place": "Babahoyo",
+                    "country": "Ecuador"
+                },
+                "nationality": "Ecuador",
+                "height": "173 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/81289.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1986,
+                        "name": "Gualaceo SC",
+                        "logo": "https://media-3.api-sports.io/football/teams/1986.png"
+                    },
+                    "league": {
+                        "id": 242,
+                        "name": "Liga Pro",
+                        "country": "Ecuador",
+                        "logo": "https://media-2.api-sports.io/football/leagues/242.png",
+                        "flag": "https://media-2.api-sports.io/flags/ec.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 4,
+                        "minutes": 395,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

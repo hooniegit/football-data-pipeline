@@ -1,0 +1,682 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "39",
+        "team": "48",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 7,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 665,
+                "name": "M. Cornet",
+                "firstname": "Gnaly Albert Maxwel",
+                "lastname": "Cornet",
+                "age": 27,
+                "birth": {
+                    "date": "1996-09-27",
+                    "place": "Bregbo",
+                    "country": "C\u00f4te d'Ivoire"
+                },
+                "nationality": "C\u00f4te d'Ivoire",
+                "height": "179 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/665.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 48,
+                        "name": "West Ham",
+                        "logo": "https://media-1.api-sports.io/football/teams/48.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 2,
+                        "minutes": 234,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.515384",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 2,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 88,
+                        "key": 1,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 40,
+                        "won": 17
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18955,
+                "name": "D. Ings",
+                "firstname": "Daniel William John",
+                "lastname": "Ings",
+                "age": 31,
+                "birth": {
+                    "date": "1992-07-23",
+                    "place": "Winchester",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "178 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/18955.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 48,
+                        "name": "West Ham",
+                        "logo": "https://media-3.api-sports.io/football/teams/48.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 7,
+                        "minutes": 771,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.872222",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 6,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 158,
+                        "key": 9,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 86,
+                        "won": 40
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19428,
+                "name": "J. Bowen",
+                "firstname": "Jarrod",
+                "lastname": "Bowen",
+                "age": 27,
+                "birth": {
+                    "date": "1996-12-20",
+                    "place": "Leominster",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/19428.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 48,
+                        "name": "West Ham",
+                        "logo": "https://media-1.api-sports.io/football/teams/48.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 38,
+                        "lineups": 36,
+                        "minutes": 3237,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.871052",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 6,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 42,
+                        "on": 24
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 715,
+                        "key": 48,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 39,
+                        "blocks": 9,
+                        "interceptions": 36
+                    },
+                    "duels": {
+                        "total": 416,
+                        "won": 177
+                    },
+                    "dribbles": {
+                        "attempts": 90,
+                        "success": 35,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 69,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19361,
+                "name": "S. Benrahma",
+                "firstname": "Mohamed Sa\u00efd",
+                "lastname": "Benrahma",
+                "age": 28,
+                "birth": {
+                    "date": "1995-08-10",
+                    "place": "A\u00efn T\u00e9mouchent",
+                    "country": "Algeria"
+                },
+                "nationality": "Algeria",
+                "height": "172 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/19361.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 48,
+                        "name": "West Ham",
+                        "logo": "https://media-3.api-sports.io/football/teams/48.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 22,
+                        "minutes": 2070,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.845714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 14,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 52,
+                        "on": 27
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 700,
+                        "key": 48,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 1,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 234,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 107,
+                        "success": 51,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 4,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 284409,
+                "name": "D. Mubama",
+                "firstname": "Divin Saku",
+                "lastname": "Mubama",
+                "age": 19,
+                "birth": {
+                    "date": "2004-10-25",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/284409.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 48,
+                        "name": "West Ham",
+                        "logo": "https://media-2.api-sports.io/football/teams/48.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 35,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 8,
+                        "key": 1,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19147,
+                "name": "C. Dawson",
+                "firstname": "Craig",
+                "lastname": "Dawson",
+                "age": 33,
+                "birth": {
+                    "date": "1990-05-06",
+                    "place": "Rochdale",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "188 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/19147.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 48,
+                        "name": "West Ham",
+                        "logo": "https://media-3.api-sports.io/football/teams/48.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 8,
+                        "minutes": 720,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.787500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 305,
+                        "key": 1,
+                        "accuracy": 30
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 6,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 47,
+                        "won": 27
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18823,
+                "name": "B. Johnson",
+                "firstname": "Benjamin Anthony",
+                "lastname": "Johnson",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-24",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "175 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/18823.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 48,
+                        "name": "West Ham",
+                        "logo": "https://media-3.api-sports.io/football/teams/48.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 9,
+                        "minutes": 859,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.593333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 1,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 456,
+                        "key": 3,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 4,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 80,
+                        "won": 49
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

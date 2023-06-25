@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "78",
+        "team": "159",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 34171,
+                "name": "Lee Dong-Jun",
+                "firstname": "Dong-Jun",
+                "lastname": "Lee",
+                "age": 26,
+                "birth": {
+                    "date": "1997-02-01",
+                    "place": null,
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "173 cm",
+                "weight": "64 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/34171.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 159,
+                        "name": "Hertha Berlin",
+                        "logo": "https://media-2.api-sports.io/football/teams/159.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 541,
+                "name": "J. Ekkelenkamp",
+                "firstname": "Jurgen",
+                "lastname": "Ekkelenkamp",
+                "age": 23,
+                "birth": {
+                    "date": "2000-04-05",
+                    "place": "Zeist",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "188 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/541.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 159,
+                        "name": "Hertha Berlin",
+                        "logo": "https://media-2.api-sports.io/football/teams/159.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 199934,
+                "name": "M. D\u00e1rdai",
+                "firstname": "M\u00e1rton",
+                "lastname": "D\u00e1rdai",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-12",
+                    "place": "Berlin",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "188 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/199934.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 159,
+                        "name": "Hertha Berlin",
+                        "logo": "https://media-1.api-sports.io/football/teams/159.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 11,
+                        "minutes": 946,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.525000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 5,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 371,
+                        "key": 4,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 9,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 87,
+                        "won": 46
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 162771,
+                "name": "J. Ngankam",
+                "firstname": "Ngankam Jessic Ga\u00eftan",
+                "lastname": "Ngankam",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-20",
+                    "place": "Berlin",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "184 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/162771.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 159,
+                        "name": "Hertha Berlin",
+                        "logo": "https://media-3.api-sports.io/football/teams/159.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 8,
+                        "minutes": 823,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.566666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 7,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 109,
+                        "key": 7,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 163,
+                        "won": 50
+                    },
+                    "dribbles": {
+                        "attempts": 26,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 39058,
+                "name": "F. Bj\u00f8rkan",
+                "firstname": "Fredrik Andr\u00e9",
+                "lastname": "Bj\u00f8rkan",
+                "age": 25,
+                "birth": {
+                    "date": "1998-08-21",
+                    "place": null,
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "180 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/39058.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 159,
+                        "name": "Hertha Berlin",
+                        "logo": "https://media-2.api-sports.io/football/teams/159.png"
+                    },
+                    "league": {
+                        "id": 78,
+                        "name": "Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/78.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

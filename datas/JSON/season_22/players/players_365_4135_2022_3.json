@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "365",
+        "team": "4135",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 10605,
+                "name": "G. Minchev",
+                "firstname": "Georgi",
+                "lastname": "Plamenov Minchev",
+                "age": 28,
+                "birth": {
+                    "date": "1995-04-20",
+                    "place": "Ruse",
+                    "country": "Bulgaria"
+                },
+                "nationality": "Bulgaria",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/10605.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4135,
+                        "name": "Auda",
+                        "logo": "https://media-1.api-sports.io/football/teams/4135.png"
+                    },
+                    "league": {
+                        "id": 365,
+                        "name": "Virsliga",
+                        "country": "Latvia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/365.png",
+                        "flag": "https://media-3.api-sports.io/flags/lv.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 9,
+                        "minutes": 735,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 7,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 72536,
+                "name": "V. Stepanovs",
+                "firstname": "Vladimirs",
+                "lastname": "Stepanovs",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-06",
+                    "place": null,
+                    "country": "Latvia"
+                },
+                "nationality": "Latvia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/72536.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4135,
+                        "name": "Auda",
+                        "logo": "https://media-1.api-sports.io/football/teams/4135.png"
+                    },
+                    "league": {
+                        "id": 365,
+                        "name": "Virsliga",
+                        "country": "Latvia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/365.png",
+                        "flag": "https://media-2.api-sports.io/flags/lv.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 9,
+                        "minutes": 685,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 9,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 72556,
+                "name": "R. \u0160ibass",
+                "firstname": "Rendijs",
+                "lastname": "\u0160ibass",
+                "age": 26,
+                "birth": {
+                    "date": "1997-05-01",
+                    "place": null,
+                    "country": "Latvia"
+                },
+                "nationality": "Latvia",
+                "height": "181 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/72556.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4135,
+                        "name": "Auda",
+                        "logo": "https://media-2.api-sports.io/football/teams/4135.png"
+                    },
+                    "league": {
+                        "id": 365,
+                        "name": "Virsliga",
+                        "country": "Latvia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/365.png",
+                        "flag": "https://media-3.api-sports.io/flags/lv.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 9,
+                        "minutes": 1097,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 19,
+                        "out": 5,
+                        "bench": 26
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 282395,
+                "name": "D. Rogovs",
+                "firstname": "De\u0146iss",
+                "lastname": "Rogovs",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-11",
+                    "place": null,
+                    "country": "Latvia"
+                },
+                "nationality": "Latvia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/282395.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4135,
+                        "name": "Auda",
+                        "logo": "https://media-3.api-sports.io/football/teams/4135.png"
+                    },
+                    "league": {
+                        "id": 365,
+                        "name": "Virsliga",
+                        "country": "Latvia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/365.png",
+                        "flag": "https://media-1.api-sports.io/flags/lv.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 169280,
+                "name": "B. Samoilovs",
+                "firstname": "Bogdans",
+                "lastname": "Samoilovs",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-13",
+                    "place": null,
+                    "country": "Latvia"
+                },
+                "nationality": "Latvia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/169280.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4135,
+                        "name": "Auda",
+                        "logo": "https://media-3.api-sports.io/football/teams/4135.png"
+                    },
+                    "league": {
+                        "id": 365,
+                        "name": "Virsliga",
+                        "country": "Latvia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/365.png",
+                        "flag": "https://media-2.api-sports.io/flags/lv.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 39,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 92088,
+                "name": "R. \u0136ir\u0161s",
+                "firstname": "Raivis",
+                "lastname": "\u0136ir\u0161s",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-15",
+                    "place": null,
+                    "country": "Latvia"
+                },
+                "nationality": "Latvia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/92088.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4135,
+                        "name": "Auda",
+                        "logo": "https://media-2.api-sports.io/football/teams/4135.png"
+                    },
+                    "league": {
+                        "id": 365,
+                        "name": "Virsliga",
+                        "country": "Latvia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/365.png",
+                        "flag": "https://media-3.api-sports.io/flags/lv.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 1,
+                        "minutes": 111,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 282394,
+                "name": "A. Krancmanis",
+                "firstname": "Art\u016brs",
+                "lastname": "Krancmanis",
+                "age": 20,
+                "birth": {
+                    "date": "2003-08-15",
+                    "place": null,
+                    "country": "Latvia"
+                },
+                "nationality": "Latvia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/282394.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4135,
+                        "name": "Auda",
+                        "logo": "https://media-3.api-sports.io/football/teams/4135.png"
+                    },
+                    "league": {
+                        "id": 365,
+                        "name": "Virsliga",
+                        "country": "Latvia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/365.png",
+                        "flag": "https://media-3.api-sports.io/flags/lv.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 1,
+                        "minutes": 167,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 1,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 309894,
+                "name": "W. Mukwelle",
+                "firstname": "William Eseme",
+                "lastname": "Mukwelle",
+                "age": 21,
+                "birth": {
+                    "date": "2002-11-11",
+                    "place": null,
+                    "country": "Cameroon"
+                },
+                "nationality": "Cameroon",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/309894.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4135,
+                        "name": "Auda",
+                        "logo": "https://media-1.api-sports.io/football/teams/4135.png"
+                    },
+                    "league": {
+                        "id": 365,
+                        "name": "Virsliga",
+                        "country": "Latvia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/365.png",
+                        "flag": "https://media-1.api-sports.io/flags/lv.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 7,
+                        "minutes": 688,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 6,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 14541,
+                "name": "M. Stolnik",
+                "firstname": "Marko",
+                "lastname": "Stolnik",
+                "age": 27,
+                "birth": {
+                    "date": "1996-07-08",
+                    "place": "Vara\u017edin",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/14541.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4135,
+                        "name": "Auda",
+                        "logo": "https://media-3.api-sports.io/football/teams/4135.png"
+                    },
+                    "league": {
+                        "id": 365,
+                        "name": "Virsliga",
+                        "country": "Latvia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/365.png",
+                        "flag": "https://media-2.api-sports.io/flags/lv.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 17,
+                        "minutes": 1451,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 43415,
+                "name": "S. Krapukhin",
+                "firstname": "Stanislav",
+                "lastname": "Krapukhin",
+                "age": 25,
+                "birth": {
+                    "date": "1998-03-28",
+                    "place": "Sankt-Peterburg",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "190 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/43415.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4135,
+                        "name": "Auda",
+                        "logo": "https://media-3.api-sports.io/football/teams/4135.png"
+                    },
+                    "league": {
+                        "id": 365,
+                        "name": "Virsliga",
+                        "country": "Latvia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/365.png",
+                        "flag": "https://media-1.api-sports.io/flags/lv.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 16,
+                        "minutes": 1619,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 10,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

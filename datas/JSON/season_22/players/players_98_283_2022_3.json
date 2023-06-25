@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "98",
+        "team": "283",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 199142,
+                "name": "I. Kuribara",
+                "firstname": "Ibrahim Junior",
+                "lastname": "Kuribara",
+                "age": 22,
+                "birth": {
+                    "date": "2001-08-14",
+                    "place": "Tokorozawa",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "191 cm",
+                "weight": "88 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/199142.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 283,
+                        "name": "Shimizu S-pulse",
+                        "logo": "https://media-3.api-sports.io/football/teams/283.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-3.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-3.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 7,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 33402,
+                "name": "D. Matsuoka",
+                "firstname": "Daiki",
+                "lastname": "Matsuoka",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-01",
+                    "place": "Kumamoto",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "170 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/33402.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 283,
+                        "name": "Shimizu S-pulse",
+                        "logo": "https://media-2.api-sports.io/football/teams/283.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-3.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-2.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 10,
+                        "minutes": 1122,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.688888",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 2,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 465,
+                        "key": 3,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 7,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 77,
+                        "won": 36
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10581,
+                "name": "Yago Pikachu",
+                "firstname": "Glaybson Yago",
+                "lastname": "Souza Lisboa",
+                "age": 31,
+                "birth": {
+                    "date": "1992-06-05",
+                    "place": "Bel\u00e9m",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "169 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/10581.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 283,
+                        "name": "Shimizu S-pulse",
+                        "logo": "https://media-3.api-sports.io/football/teams/283.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-3.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-1.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 8,
+                        "minutes": 653,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.525000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 7,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 168,
+                        "key": 4,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 60,
+                        "won": 32
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

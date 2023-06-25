@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "89",
+        "team": "193",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 365918,
+                "name": "T. van Gilst",
+                "firstname": "Tristan",
+                "lastname": "van Gilst",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-18",
+                    "place": null,
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "178 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/365918.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 193,
+                        "name": "PEC Zwolle",
+                        "logo": "https://media-1.api-sports.io/football/teams/193.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-3.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-1.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 206253,
+                "name": "C. Landu",
+                "firstname": "Chardi Mpindi",
+                "lastname": "Landu",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-18",
+                    "place": null,
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "175 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/206253.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 193,
+                        "name": "PEC Zwolle",
+                        "logo": "https://media-1.api-sports.io/football/teams/193.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-2.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 3,
+                        "minutes": 432,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 3,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 67,
+                        "key": 4,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 49,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 333854,
+                "name": "E. Mbinga",
+                "firstname": "Elikia Jo\u00ebl",
+                "lastname": "Mbinga",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-08",
+                    "place": null,
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "174 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/333854.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 193,
+                        "name": "PEC Zwolle",
+                        "logo": "https://media-3.api-sports.io/football/teams/193.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-1.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-1.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 38708,
+                "name": "G. Kastaneer",
+                "firstname": "Gervane Zjandric Adonnis",
+                "lastname": "Kastaneer",
+                "age": 27,
+                "birth": {
+                    "date": "1996-06-09",
+                    "place": "Rotterdam",
+                    "country": "Netherlands"
+                },
+                "nationality": "Cura\u00e7ao",
+                "height": "185 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/38708.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 193,
+                        "name": "PEC Zwolle",
+                        "logo": "https://media-3.api-sports.io/football/teams/193.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-1.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-2.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 2,
+                        "minutes": 545,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.595000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 21,
+                        "out": 1,
+                        "bench": 31
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 120,
+                        "key": 5,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 92,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 36881,
+                "name": "J. Schendelaar",
+                "firstname": "Jasper",
+                "lastname": "Schendelaar",
+                "age": 23,
+                "birth": {
+                    "date": "2000-09-02",
+                    "place": "Alkmaar",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "186 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/36881.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 193,
+                        "name": "PEC Zwolle",
+                        "logo": "https://media-1.api-sports.io/football/teams/193.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-1.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-2.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 37,
+                        "minutes": 3252,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 33,
+                        "assists": 1,
+                        "saves": 90
+                    },
+                    "passes": {
+                        "total": 1162,
+                        "key": 1,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 13,
+                        "won": 9
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        }
+    ]
+}

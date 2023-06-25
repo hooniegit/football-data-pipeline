@@ -1,0 +1,471 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "135",
+        "team": "494",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 18799,
+                "name": "A. Masina",
+                "firstname": "Adam",
+                "lastname": "Masina",
+                "age": 29,
+                "birth": {
+                    "date": "1994-01-02",
+                    "place": "Khouribga",
+                    "country": "Morocco"
+                },
+                "nationality": "Morocco",
+                "height": "189 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/18799.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 494,
+                        "name": "Udinese",
+                        "logo": "https://media-2.api-sports.io/football/teams/494.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 8,
+                        "minutes": 785,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.571428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 3,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 389,
+                        "key": 2,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 4,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 72,
+                        "won": 40
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31561,
+                "name": "I. Nestorovski",
+                "firstname": "Ilija",
+                "lastname": "Nestorovski",
+                "age": 33,
+                "birth": {
+                    "date": "1990-03-12",
+                    "place": "Prilep",
+                    "country": "North Macedonia"
+                },
+                "nationality": "North Macedonia",
+                "height": "183 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/31561.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 494,
+                        "name": "Udinese",
+                        "logo": "https://media-3.api-sports.io/football/teams/494.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 5,
+                        "minutes": 622,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.710526",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 1,
+                        "bench": 28
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 162,
+                        "key": 2,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 104,
+                        "won": 43
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10503,
+                "name": "Felipe Vizeu",
+                "firstname": "Felipe",
+                "lastname": "dos Reis Pereira Vizeu do Carm",
+                "age": 26,
+                "birth": {
+                    "date": "1997-03-12",
+                    "place": "Tr\u00eas Rios",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "185 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/10503.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 494,
+                        "name": "Udinese",
+                        "logo": "https://media-3.api-sports.io/football/teams/494.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 204039,
+                "name": "D. Udogie",
+                "firstname": "Iyenoma Destiny",
+                "lastname": "Udogie",
+                "age": 21,
+                "birth": {
+                    "date": "2002-11-28",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "186 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/204039.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 494,
+                        "name": "Udinese",
+                        "logo": "https://media-3.api-sports.io/football/teams/494.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 31,
+                        "minutes": 2714,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.915151",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 11,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 964,
+                        "key": 34,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 71,
+                        "blocks": 6,
+                        "interceptions": 36
+                    },
+                    "duels": {
+                        "total": 359,
+                        "won": 196
+                    },
+                    "dribbles": {
+                        "attempts": 100,
+                        "success": 50,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 58,
+                        "committed": 37
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 494,
+                        "name": "Udinese",
+                        "logo": "https://media-3.api-sports.io/football/teams/494.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.915151",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 964,
+                        "key": 34,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 71,
+                        "blocks": 6,
+                        "interceptions": 36
+                    },
+                    "duels": {
+                        "total": 359,
+                        "won": 196
+                    },
+                    "dribbles": {
+                        "attempts": 100,
+                        "success": 50,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 58,
+                        "committed": 37
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,777 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "239",
+        "team": "1129",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 8,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 324731,
+                "name": "L. D\u00edaz",
+                "firstname": "Luis \u00c1ngel",
+                "lastname": "D\u00edaz Cuesta",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-24",
+                    "place": "Apartad\u00f3",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/324731.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1129,
+                        "name": "Envigado",
+                        "logo": "https://media-2.api-sports.io/football/teams/1129.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 0,
+                        "minutes": 92,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 195991,
+                "name": "C. Paternina",
+                "firstname": "Camilo Andr\u00e9s",
+                "lastname": "Paternina Molina",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-12",
+                    "place": "Itag\u00fc\u00ed",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "166 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/195991.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1129,
+                        "name": "Envigado",
+                        "logo": "https://media-2.api-sports.io/football/teams/1129.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 4,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 4,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 81033,
+                "name": "D. Londo\u00f1o",
+                "firstname": "Daniel",
+                "lastname": "Londo\u00f1o Casta\u00f1eda",
+                "age": 28,
+                "birth": {
+                    "date": "1995-01-01",
+                    "place": "Itag\u00fc\u00ed",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "185 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/81033.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1129,
+                        "name": "Envigado",
+                        "logo": "https://media-3.api-sports.io/football/teams/1129.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 43,
+                        "lineups": 40,
+                        "minutes": 3615,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.837500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 2,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 38,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1284,
+                        "key": 40,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 47,
+                        "blocks": 5,
+                        "interceptions": 43
+                    },
+                    "duels": {
+                        "total": 259,
+                        "won": 143
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 45,
+                        "committed": 42
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13522,
+                "name": "E. Valencia",
+                "firstname": "Ever Augusto",
+                "lastname": "Valencia Ruiz",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-23",
+                    "place": "Villavicencio",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "175 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/13522.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1129,
+                        "name": "Envigado",
+                        "logo": "https://media-2.api-sports.io/football/teams/1129.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 14,
+                        "minutes": 1276,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.635294",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 13,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 408,
+                        "key": 21,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 128,
+                        "won": 51
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 25,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13482,
+                "name": "I. Rojas",
+                "firstname": "Iv\u00e1n Andr\u00e9s",
+                "lastname": "Rojas V\u00e1squez",
+                "age": 26,
+                "birth": {
+                    "date": "1997-07-24",
+                    "place": "El Espinal",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "180 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/13482.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1129,
+                        "name": "Envigado",
+                        "logo": "https://media-1.api-sports.io/football/teams/1129.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 43,
+                        "lineups": 43,
+                        "minutes": 3779,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.717948",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 5,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1428,
+                        "key": 13,
+                        "accuracy": 30
+                    },
+                    "tackles": {
+                        "total": 66,
+                        "blocks": 16,
+                        "interceptions": 71
+                    },
+                    "duels": {
+                        "total": 266,
+                        "won": 120
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 74
+                    },
+                    "cards": {
+                        "yellow": 15,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13462,
+                "name": "S. Jim\u00e9nez",
+                "firstname": "Santiago",
+                "lastname": "Jim\u00e9nez Mej\u00eda",
+                "age": 25,
+                "birth": {
+                    "date": "1998-03-23",
+                    "place": "San Antonio de Prado",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "180 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13462.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1129,
+                        "name": "Envigado",
+                        "logo": "https://media-1.api-sports.io/football/teams/1129.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 17,
+                        "minutes": 1421,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.815789",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 9,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 475,
+                        "key": 6,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 33,
+                        "blocks": 4,
+                        "interceptions": 30
+                    },
+                    "duels": {
+                        "total": 113,
+                        "won": 61
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 126090,
+                "name": "S. Mu\u00f1oz",
+                "firstname": "Santiago",
+                "lastname": "Mu\u00f1oz G\u00f3mez",
+                "age": 24,
+                "birth": {
+                    "date": "1999-06-08",
+                    "place": "Bogot\u00e1",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "173 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/126090.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1129,
+                        "name": "Envigado",
+                        "logo": "https://media-3.api-sports.io/football/teams/1129.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 85,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.450000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 21,
+                        "key": 1,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13331,
+                "name": "W. Guisao",
+                "firstname": "Wilder Andr\u00e9s",
+                "lastname": "Guisao Correa",
+                "age": 32,
+                "birth": {
+                    "date": "1991-07-30",
+                    "place": "Apartad\u00f3",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "177 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/13331.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1129,
+                        "name": "Envigado",
+                        "logo": "https://media-1.api-sports.io/football/teams/1129.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 18,
+                        "minutes": 1256,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.655555",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 17,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 157,
+                        "key": 11,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 57,
+                        "won": 23
+                    },
+                    "dribbles": {
+                        "attempts": 18,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "296",
+        "team": "2786",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 34248,
+                "name": "H. Anier",
+                "firstname": "Henri",
+                "lastname": "Anier",
+                "age": 33,
+                "birth": {
+                    "date": "1990-12-17",
+                    "place": "Tallinn",
+                    "country": "Estonia"
+                },
+                "nationality": "Estonia",
+                "height": "183 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/34248.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2786,
+                        "name": "Muangthong United",
+                        "logo": "https://media-2.api-sports.io/football/teams/2786.png"
+                    },
+                    "league": {
+                        "id": 296,
+                        "name": "Thai League 1",
+                        "country": "Thailand",
+                        "logo": "https://media-1.api-sports.io/football/leagues/296.png",
+                        "flag": "https://media-1.api-sports.io/flags/th.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 11,
+                        "minutes": 918,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 10,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 48975,
+                "name": "P. Khammai",
+                "firstname": "Patiwat",
+                "lastname": "Khammai",
+                "age": 29,
+                "birth": {
+                    "date": "1994-12-24",
+                    "place": null,
+                    "country": "Thailand"
+                },
+                "nationality": "Thailand",
+                "height": "184 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/48975.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2786,
+                        "name": "Muangthong United",
+                        "logo": "https://media-3.api-sports.io/football/teams/2786.png"
+                    },
+                    "league": {
+                        "id": 296,
+                        "name": "Thai League 1",
+                        "country": "Thailand",
+                        "logo": "https://media-1.api-sports.io/football/leagues/296.png",
+                        "flag": "https://media-1.api-sports.io/flags/th.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 14,
+                        "minutes": 1260,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 49380,
+                "name": "W. Pomphan",
+                "firstname": "Weerathep",
+                "lastname": "Pomphan",
+                "age": 27,
+                "birth": {
+                    "date": "1996-09-19",
+                    "place": null,
+                    "country": "Thailand"
+                },
+                "nationality": "Thailand",
+                "height": "181 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/49380.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2786,
+                        "name": "Muangthong United",
+                        "logo": "https://media-1.api-sports.io/football/teams/2786.png"
+                    },
+                    "league": {
+                        "id": 296,
+                        "name": "Thai League 1",
+                        "country": "Thailand",
+                        "logo": "https://media-2.api-sports.io/football/leagues/296.png",
+                        "flag": "https://media-2.api-sports.io/flags/th.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 28,
+                        "minutes": 2544,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 49389,
+                "name": "A. Kraisorn",
+                "firstname": "Adisak",
+                "lastname": "Kraisorn",
+                "age": 32,
+                "birth": {
+                    "date": "1991-02-01",
+                    "place": "Buriram",
+                    "country": "Thailand"
+                },
+                "nationality": "Thailand",
+                "height": "180 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/49389.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2786,
+                        "name": "Muangthong United",
+                        "logo": "https://media-3.api-sports.io/football/teams/2786.png"
+                    },
+                    "league": {
+                        "id": 296,
+                        "name": "Thai League 1",
+                        "country": "Thailand",
+                        "logo": "https://media-1.api-sports.io/football/leagues/296.png",
+                        "flag": "https://media-1.api-sports.io/flags/th.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 6,
+                        "minutes": 528,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 6,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 237093,
+                "name": "Hong Sung-Wook",
+                "firstname": "Sung-Wook",
+                "lastname": "Hong",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-17",
+                    "place": null,
+                    "country": "Korea Republic"
+                },
+                "nationality": "Korea Republic",
+                "height": "187 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/237093.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2786,
+                        "name": "Muangthong United",
+                        "logo": "https://media-1.api-sports.io/football/teams/2786.png"
+                    },
+                    "league": {
+                        "id": 296,
+                        "name": "Thai League 1",
+                        "country": "Thailand",
+                        "logo": "https://media-1.api-sports.io/football/leagues/296.png",
+                        "flag": "https://media-2.api-sports.io/flags/th.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 2,
+                        "minutes": 182,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

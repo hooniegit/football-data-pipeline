@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "262",
+        "team": "2281",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 35614,
+                "name": "C. Guzm\u00e1n",
+                "firstname": "Carlos Alberto",
+                "lastname": "Guzm\u00e1n Fonseca",
+                "age": 29,
+                "birth": {
+                    "date": "1994-05-19",
+                    "place": "Morelia",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "178 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/35614.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-3.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-3.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 9,
+                        "minutes": 820,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.550000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 6,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 162,
+                        "key": null,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 1,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 34,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35659,
+                "name": "R. L\u00f3pez",
+                "firstname": "Ra\u00fal",
+                "lastname": "L\u00f3pez G\u00f3mez",
+                "age": 30,
+                "birth": {
+                    "date": "1993-02-23",
+                    "place": "Zapopan",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "184 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/35659.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-1.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-2.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-3.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 8,
+                        "minutes": 618,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.637500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 4,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 465,
+                        "key": 12,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 24,
+                        "blocks": 4,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 92,
+                        "won": 43
+                    },
+                    "dribbles": {
+                        "attempts": 22,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35716,
+                "name": "K. Casta\u00f1eda",
+                "firstname": "Kevin",
+                "lastname": "Casta\u00f1eda Vargas",
+                "age": 24,
+                "birth": {
+                    "date": "1999-10-28",
+                    "place": "Guadalajara",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "171 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/35716.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-1.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-2.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.663636",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 217,
+                        "key": 9,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 33,
+                        "won": 17
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35715,
+                "name": "A. Canelo",
+                "firstname": "Pedro Alexis",
+                "lastname": "Canelo",
+                "age": 31,
+                "birth": {
+                    "date": "1992-02-03",
+                    "place": "San Miguel de Tucum\u00e1n",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "182 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/35715.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-2.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-1.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 52,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 880,
+                        "key": 43,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 37,
+                        "blocks": 4,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 410,
+                        "won": 197
+                    },
+                    "dribbles": {
+                        "attempts": 56,
+                        "success": 24,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 54,
+                        "committed": 42
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35702,
+                "name": "L. Garc\u00eda",
+                "firstname": "Luis Manuel",
+                "lastname": "Garc\u00eda Palomera",
+                "age": 31,
+                "birth": {
+                    "date": "1992-12-31",
+                    "place": "Talpa de Allende",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "183 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/35702.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-2.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-1.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 266816,
+                "name": "G. Guti\u00e9rrez",
+                "firstname": "Gustavo Guadalupe",
+                "lastname": "Guti\u00e9rrez Mu\u00f1oz",
+                "age": 27,
+                "birth": {
+                    "date": "1996-11-01",
+                    "place": "Tepatitl\u00e1n de Morelos",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "183 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/266816.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-2.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 2,
+                        "minutes": 180,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 2,
+                        "assists": null,
+                        "saves": 6
+                    },
+                    "passes": {
+                        "total": 63,
+                        "key": null,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 9944,
+                "name": "Tiago Volpi",
+                "firstname": "Tiago Luis",
+                "lastname": "Volpi",
+                "age": 33,
+                "birth": {
+                    "date": "1990-12-19",
+                    "place": "Blumenau",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "189 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/9944.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-3.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 41,
+                        "lineups": 41,
+                        "minutes": 3690,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "7.080000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 58,
+                        "assists": 1,
+                        "saves": 139
+                    },
+                    "passes": {
+                        "total": 1314,
+                        "key": 2,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 35,
+                        "won": 29
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 4,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35735,
+                "name": "B. Angulo",
+                "firstname": "Brayan Alexis",
+                "lastname": "Angulo Le\u00f3n",
+                "age": 34,
+                "birth": {
+                    "date": "1989-11-02",
+                    "place": "Cali",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "174 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/35735.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-2.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-1.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 40,
+                        "lineups": 29,
+                        "minutes": 2578,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.918918",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 12,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1537,
+                        "key": 25,
+                        "accuracy": 37
+                    },
+                    "tackles": {
+                        "total": 71,
+                        "blocks": 7,
+                        "interceptions": 32
+                    },
+                    "duels": {
+                        "total": 245,
+                        "won": 143
+                    },
+                    "dribbles": {
+                        "attempts": 42,
+                        "success": 29,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 269462,
+                "name": "B. Garc\u00eda",
+                "firstname": "Brian Alberto",
+                "lastname": "Garc\u00eda Carpizo",
+                "age": 26,
+                "birth": {
+                    "date": "1997-10-31",
+                    "place": "Le\u00f3n",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "168 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/269462.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-2.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 16,
+                        "minutes": 1500,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.988235",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 6,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 592,
+                        "key": 15,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 27,
+                        "blocks": 6,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 80,
+                        "won": 46
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11352,
+                "name": "V. Huerta",
+                "firstname": "Valber Roberto",
+                "lastname": "Huerta Jerez",
+                "age": 30,
+                "birth": {
+                    "date": "1993-08-26",
+                    "place": "Melipilla",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "185 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11352.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-2.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-1.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 43,
+                        "lineups": 43,
+                        "minutes": 3870,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.971428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 29,
+                        "on": 17
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2451,
+                        "key": 7,
+                        "accuracy": 51
+                    },
+                    "tackles": {
+                        "total": 42,
+                        "blocks": 43,
+                        "interceptions": 71
+                    },
+                    "duels": {
+                        "total": 257,
+                        "won": 138
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 362815,
+                "name": "E. L\u00f3pez",
+                "firstname": "Everardo",
+                "lastname": "L\u00f3pez Del Villar",
+                "age": 18,
+                "birth": {
+                    "date": "2005-03-23",
+                    "place": null,
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/362815.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-3.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 20,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 16,
+                        "key": null,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35483,
+                "name": "A. Mosquera",
+                "firstname": "Andr\u00e9s Felipe",
+                "lastname": "Mosquera Guardia",
+                "age": 33,
+                "birth": {
+                    "date": "1990-02-20",
+                    "place": "Turbo",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "182 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/35483.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-3.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 40,
+                        "lineups": 40,
+                        "minutes": 3600,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.825641",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1989,
+                        "key": 12,
+                        "accuracy": 46
+                    },
+                    "tackles": {
+                        "total": 60,
+                        "blocks": 13,
+                        "interceptions": 27
+                    },
+                    "duels": {
+                        "total": 280,
+                        "won": 162
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 38,
+                        "committed": 39
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35780,
+                "name": "C. Orrant\u00eda",
+                "firstname": "Carlos Emilio",
+                "lastname": "Orrant\u00eda Trevi\u00f1o",
+                "age": 32,
+                "birth": {
+                    "date": "1991-02-01",
+                    "place": "Ciudad de M\u00e9xico",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "173 cm",
+                "weight": "61 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/35780.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-1.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 5,
+                        "minutes": 387,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.823529",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 3,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 436,
+                        "key": 17,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 28,
+                        "blocks": 3,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 95,
+                        "won": 45
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35586,
+                "name": "H. Ortega",
+                "firstname": "\u00d3scar Haret",
+                "lastname": "Ortega Gatica",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-19",
+                    "place": "Iguala de la Independencia",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "188 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/35586.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-1.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-2.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-1.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 10,
+                        "minutes": 933,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.684615",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 4,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 409,
+                        "key": 1,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 10,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 78,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 297145,
+                "name": "J. Rodr\u00edguez",
+                "firstname": "Jorge Alejandro",
+                "lastname": "Rodr\u00edguez Hern\u00e1ndez",
+                "age": 22,
+                "birth": {
+                    "date": "2001-09-03",
+                    "place": "Tlaquepaque",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "178 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/297145.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-3.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 5,
+                        "minutes": 490,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.525000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 3,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 194,
+                        "key": 2,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": null,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 53,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35516,
+                "name": "J. Torres Nilo",
+                "firstname": "Jorge Emmanuel",
+                "lastname": "Torres Nilo",
+                "age": 35,
+                "birth": {
+                    "date": "1988-01-16",
+                    "place": "Tijuana",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "180 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/35516.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-2.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-1.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 3,
+                        "minutes": 251,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.585714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 2,
+                        "bench": 40
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 143,
+                        "key": null,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 18,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 351593,
+                "name": "A. Villegas",
+                "firstname": "Abraham",
+                "lastname": "Villegas Maciel",
+                "age": 21,
+                "birth": {
+                    "date": "2002-12-17",
+                    "place": null,
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/351593.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-2.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-3.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51776,
+                "name": "M. Ara\u00fajo",
+                "firstname": "Maximiliano Javier",
+                "lastname": "Ara\u00fajo Vilches",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-15",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "179 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/51776.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-3.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-3.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 19,
+                        "minutes": 1641,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.577777",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 7,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 27,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 383,
+                        "key": 17,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 3,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 207,
+                        "won": 89
+                    },
+                    "dribbles": {
+                        "attempts": 73,
+                        "success": 23,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 40,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 409886,
+                "name": "V. Arteaga",
+                "firstname": "V\u00edctor Manuel",
+                "lastname": "Arteaga Camarena",
+                "age": 19,
+                "birth": {
+                    "date": "2004-02-26",
+                    "place": "Mexico City",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "174 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/409886.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-2.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-1.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 44435,
+                "name": "C. Baeza",
+                "firstname": "Claudio Andr\u00e9s",
+                "lastname": "Baeza Baeza",
+                "age": 30,
+                "birth": {
+                    "date": "1993-12-23",
+                    "place": "Los Angeles",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "171 cm",
+                "weight": "64 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/44435.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2281,
+                        "name": "Toluca",
+                        "logo": "https://media-3.api-sports.io/football/teams/2281.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-3.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 38,
+                        "lineups": 37,
+                        "minutes": 3000,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.854054",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 17,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1984,
+                        "key": 8,
+                        "accuracy": 48
+                    },
+                    "tackles": {
+                        "total": 91,
+                        "blocks": 13,
+                        "interceptions": 31
+                    },
+                    "duels": {
+                        "total": 305,
+                        "won": 163
+                    },
+                    "dribbles": {
+                        "attempts": 30,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 33,
+                        "committed": 60
+                    },
+                    "cards": {
+                        "yellow": 13,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

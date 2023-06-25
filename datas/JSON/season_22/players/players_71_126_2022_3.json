@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "71",
+        "team": "126",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 10133,
+                "name": "Nik\u00e3o",
+                "firstname": "Maycon Vin\u00edcius",
+                "lastname": "Ferreira da Cruz",
+                "age": 31,
+                "birth": {
+                    "date": "1992-07-29",
+                    "place": "Montes Claros",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "174 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/10133.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 126,
+                        "name": "Sao Paulo",
+                        "logo": "https://media-1.api-sports.io/football/teams/126.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 7,
+                        "minutes": 527,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.033333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 7,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 209,
+                        "key": 15,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 46,
+                        "won": 21
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 9951,
+                "name": "L\u00e9o",
+                "firstname": "Leonardo",
+                "lastname": "Pinheiro da Concei\u00e7\u00e3o",
+                "age": 27,
+                "birth": {
+                    "date": "1996-03-06",
+                    "place": "Rio de Janeiro",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "183 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/9951.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 126,
+                        "name": "Sao Paulo",
+                        "logo": "https://media-3.api-sports.io/football/teams/126.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 28,
+                        "minutes": 2482,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.781481",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1491,
+                        "key": 6,
+                        "accuracy": 48
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 10,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 154,
+                        "won": 80
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35667,
+                "name": "N. Bustos",
+                "firstname": "Nahuel Lautaro",
+                "lastname": "Bustos",
+                "age": 25,
+                "birth": {
+                    "date": "1998-07-04",
+                    "place": "C\u00f3rdoba",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "176 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/35667.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 126,
+                        "name": "Sao Paulo",
+                        "logo": "https://media-1.api-sports.io/football/teams/126.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-3.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 3,
+                        "minutes": 281,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.588888",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 3,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 67,
+                        "key": null,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 35,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1218,
+                "name": "E. Rigoni",
+                "firstname": "Emiliano Ariel",
+                "lastname": "Rigoni",
+                "age": 30,
+                "birth": {
+                    "date": "1993-02-04",
+                    "place": "Colonia Caroya",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "181 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/1218.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 126,
+                        "name": "Sao Paulo",
+                        "logo": "https://media-2.api-sports.io/football/teams/126.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-2.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-1.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 1,
+                        "minutes": 236,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.710000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 1,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 109,
+                        "key": 6,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 40,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

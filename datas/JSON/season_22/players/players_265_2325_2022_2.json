@@ -1,0 +1,1632 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "265",
+        "team": "2325",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 17,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 11640,
+                "name": "J. Cuevas",
+                "firstname": "Juan Ezequiel",
+                "lastname": "Cuevas",
+                "age": 35,
+                "birth": {
+                    "date": "1988-06-04",
+                    "place": "Coronel Pringles",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "161 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11640.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-3.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 12,
+                        "minutes": 1012,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.207692",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 6,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 27,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 360,
+                        "key": 29,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 119,
+                        "won": 53
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 25,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35671,
+                "name": "I. Sosa",
+                "firstname": "V\u00edctor Ismael",
+                "lastname": "Sosa",
+                "age": 36,
+                "birth": {
+                    "date": "1987-01-18",
+                    "place": "San Mart\u00edn",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "179 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/35671.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-1.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 7,
+                        "minutes": 785,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.836842",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 6,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 257,
+                        "key": 24,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 53,
+                        "won": 26
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11648,
+                "name": "P. S\u00e1nchez",
+                "firstname": "Pedro  Iv\u00e1n",
+                "lastname": "S\u00e1nchez Torrealba",
+                "age": 25,
+                "birth": {
+                    "date": "1998-02-07",
+                    "place": "Vi\u00f1a del Mar",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "181 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/11648.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-2.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 9,
+                        "minutes": 741,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.660000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 9,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 141,
+                        "key": 8,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 71,
+                        "won": 23
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 325833,
+                "name": "M. Wassenne",
+                "firstname": "Mitchell Andr\u00e9s",
+                "lastname": "Wassenne Turres",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-19",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "172 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/325833.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-2.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 1,
+                        "minutes": 71,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 18,
+                        "key": null,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 345020,
+                "name": "D. Vera",
+                "firstname": "Dilan Daril",
+                "lastname": "Vera N\u00fa\u00f1ez",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-03",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "171 cm",
+                "weight": "61 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/345020.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-2.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 13,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11676,
+                "name": "C. Valenzuela",
+                "firstname": "C\u00e9sar Hern\u00e1n",
+                "lastname": "Valenzuela Mart\u00ednez",
+                "age": 31,
+                "birth": {
+                    "date": "1992-09-04",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "166 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/11676.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-3.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 4,
+                        "minutes": 493,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.646153",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 3,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 176,
+                        "key": 11,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 43,
+                        "won": 20
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 125667,
+                "name": "J. Pe\u00f1a",
+                "firstname": "Jorge Benito",
+                "lastname": "Pe\u00f1a Canales",
+                "age": 23,
+                "birth": {
+                    "date": "2000-07-17",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/125667.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-2.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 1,
+                        "assists": null,
+                        "saves": 1
+                    },
+                    "passes": {
+                        "total": 22,
+                        "key": null,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11646,
+                "name": "S. Pereira",
+                "firstname": "Sebasti\u00e1n Rodrigo",
+                "lastname": "Pereira Abarca",
+                "age": 26,
+                "birth": {
+                    "date": "1997-06-23",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "186 cm",
+                "weight": "92 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/11646.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-3.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 3,
+                        "minutes": 314,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.510000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 1,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 127,
+                        "key": null,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 4,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 30,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11631,
+                "name": "J. L\u00f3pez",
+                "firstname": "Joaqu\u00edn Ernesto",
+                "lastname": "L\u00f3pez Flores",
+                "age": 24,
+                "birth": {
+                    "date": "1999-05-09",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "180 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11631.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-1.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 1,
+                        "minutes": 118,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 39,
+                        "key": null,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 9,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35635,
+                "name": "P. Campos",
+                "firstname": "Pedro Pablo",
+                "lastname": "Campos Olavarr\u00eda",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-02",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "173 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/35635.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-2.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 2,
+                        "minutes": 158,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.475000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 32,
+                        "key": 5,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 27,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 277977,
+                "name": "G. Moya",
+                "firstname": "Gary Germain",
+                "lastname": "Moya Sandoval",
+                "age": 22,
+                "birth": {
+                    "date": "2001-10-23",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "172 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/277977.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-1.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 1,
+                        "minutes": 189,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.483333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 98,
+                        "key": 4,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 18,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11818,
+                "name": "F. De Paul",
+                "firstname": "Fernando Carlos",
+                "lastname": "De Paul Lanciotti",
+                "age": 32,
+                "birth": {
+                    "date": "1991-04-25",
+                    "place": "\u00c1lvarez",
+                    "country": "Argentina"
+                },
+                "nationality": "Chile",
+                "height": "183 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11818.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-2.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 27,
+                        "minutes": 2430,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "7.028000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 23,
+                        "assists": 1,
+                        "saves": 79
+                    },
+                    "passes": {
+                        "total": 547,
+                        "key": 2,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 13,
+                        "won": 9
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11545,
+                "name": "J. Salas",
+                "firstname": "John Michael",
+                "lastname": "Salas Torres",
+                "age": 27,
+                "birth": {
+                    "date": "1996-10-12",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11545.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-1.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 9,
+                        "minutes": 928,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.693333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 5,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 392,
+                        "key": 9,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 1,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 42,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35620,
+                "name": "B. Carvallo",
+                "firstname": "Bryan Andr\u00e9s",
+                "lastname": "Carvallo Utreras",
+                "age": 27,
+                "birth": {
+                    "date": "1996-09-15",
+                    "place": "Santiago",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "168 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/35620.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-1.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 14,
+                        "minutes": 1041,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.023076",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 11,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 464,
+                        "key": 21,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 105,
+                        "won": 38
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5978,
+                "name": "A. S\u00e1nchez",
+                "firstname": "Adri\u00e1n Guillermo",
+                "lastname": "S\u00e1nchez",
+                "age": 24,
+                "birth": {
+                    "date": "1999-05-14",
+                    "place": "Don Torcuato",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "177 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/5978.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-1.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 21,
+                        "minutes": 1801,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.916000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 9,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 868,
+                        "key": 26,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 41,
+                        "blocks": 4,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 152,
+                        "won": 70
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51411,
+                "name": "S. Sosa",
+                "firstname": "Sebasti\u00e1n",
+                "lastname": "Sosa S\u00e1nchez",
+                "age": 29,
+                "birth": {
+                    "date": "1994-03-13",
+                    "place": "Melo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "183 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/51411.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-1.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 12,
+                        "minutes": 1045,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.184615",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 7,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 31,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 252,
+                        "key": 12,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 5,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 132,
+                        "won": 68
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11630,
+                "name": "A. Ibacache",
+                "firstname": "Alex Mat\u00edas",
+                "lastname": "Ibacache Mora",
+                "age": 24,
+                "birth": {
+                    "date": "1999-01-11",
+                    "place": "Quillota",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11630.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2325,
+                        "name": "Everton de Vina",
+                        "logo": "https://media-3.api-sports.io/football/teams/2325.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 15,
+                        "minutes": 1364,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.966666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 5,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 440,
+                        "key": 16,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 4,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 90,
+                        "won": 57
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

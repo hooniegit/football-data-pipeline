@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "135",
+        "team": "489",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 147859,
+                "name": "C. De Ketelaere",
+                "firstname": "Charles Marc",
+                "lastname": "De Ketelaere",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-10",
+                    "place": "Brugge",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "192 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/147859.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 489,
+                        "name": "AC Milan",
+                        "logo": "https://media-2.api-sports.io/football/teams/489.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 9,
+                        "minutes": 1101,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.558064",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 23,
+                        "out": 9,
+                        "bench": 28
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 360,
+                        "key": 20,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 2,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 204,
+                        "won": 94
+                    },
+                    "dribbles": {
+                        "attempts": 50,
+                        "success": 34,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 127413,
+                "name": "A. Vranckx",
+                "firstname": "Aster Jan",
+                "lastname": "Vranckx",
+                "age": 21,
+                "birth": {
+                    "date": "2002-10-04",
+                    "place": "Erps-Kwerps",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "183 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/127413.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 489,
+                        "name": "AC Milan",
+                        "logo": "https://media-1.api-sports.io/football/teams/489.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 2,
+                        "minutes": 236,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.466666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 1,
+                        "bench": 31
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 124,
+                        "key": 1,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 41,
+                        "won": 14
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 162188,
+                "name": "P. Kalulu",
+                "firstname": "Pierre Kazeye Rommel",
+                "lastname": "Kalulu Kyatengwa",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-05",
+                    "place": "Lyon",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "179 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/162188.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 489,
+                        "name": "AC Milan",
+                        "logo": "https://media-2.api-sports.io/football/teams/489.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 26,
+                        "minutes": 2540,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.832352",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 1,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1703,
+                        "key": 10,
+                        "accuracy": 44
+                    },
+                    "tackles": {
+                        "total": 57,
+                        "blocks": 17,
+                        "interceptions": 41
+                    },
+                    "duels": {
+                        "total": 204,
+                        "won": 125
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31146,
+                "name": "S. Tonali",
+                "firstname": "Sandro",
+                "lastname": "Tonali",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-08",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "181 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31146.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 489,
+                        "name": "AC Milan",
+                        "logo": "https://media-1.api-sports.io/football/teams/489.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-3.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 34,
+                        "lineups": 30,
+                        "minutes": 2719,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.245454",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 7,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 7,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1326,
+                        "key": 59,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 59,
+                        "blocks": 9,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 192,
+                        "won": 112
+                    },
+                    "dribbles": {
+                        "attempts": 17,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 31,
+                        "committed": 32
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,777 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "39",
+        "team": "65",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 8,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 1370,
+                "name": "A. Ayew",
+                "firstname": "Andr\u00e9 Morgan",
+                "lastname": "Rami Ayew",
+                "age": 34,
+                "birth": {
+                    "date": "1989-12-17",
+                    "place": "Lille",
+                    "country": "France"
+                },
+                "nationality": "Ghana",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/1370.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 65,
+                        "name": "Nottingham Forest",
+                        "logo": "https://media-2.api-sports.io/football/teams/65.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 1,
+                        "minutes": 305,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.481818",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 1,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 72,
+                        "key": 1,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 62,
+                        "won": 28
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18931,
+                "name": "C. Wood",
+                "firstname": "Christopher Grant",
+                "lastname": "Wood",
+                "age": 32,
+                "birth": {
+                    "date": "1991-12-07",
+                    "place": "Auckland",
+                    "country": "New Zealand"
+                },
+                "nationality": "New Zealand",
+                "height": "191 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/18931.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 65,
+                        "name": "Nottingham Forest",
+                        "logo": "https://media-1.api-sports.io/football/teams/65.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 5,
+                        "minutes": 376,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.593333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 6,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 106,
+                        "key": 3,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 2,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 67,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 339138,
+                "name": "D. Taylor",
+                "firstname": "Dale",
+                "lastname": "Taylor",
+                "age": 20,
+                "birth": {
+                    "date": "2003-12-12",
+                    "place": null,
+                    "country": "Northern Ireland"
+                },
+                "nationality": "Northern Ireland",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/339138.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 65,
+                        "name": "Nottingham Forest",
+                        "logo": "https://media-1.api-sports.io/football/teams/65.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18746,
+                "name": "M. Gibbs-White",
+                "firstname": "Morgan Anthony",
+                "lastname": "Gibbs-White",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-27",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "171 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/18746.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 65,
+                        "name": "Nottingham Forest",
+                        "logo": "https://media-3.api-sports.io/football/teams/65.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 34,
+                        "minutes": 2978,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.008571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 8,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 42,
+                        "on": 22
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 8,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 896,
+                        "key": 68,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 4,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 402,
+                        "won": 152
+                    },
+                    "dribbles": {
+                        "attempts": 86,
+                        "success": 42,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 28,
+                        "committed": 32
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 174918,
+                "name": "L. Bad\u00e9",
+                "firstname": "Lo\u00efc",
+                "lastname": "Bad\u00e9",
+                "age": 23,
+                "birth": {
+                    "date": "2000-04-11",
+                    "place": "S\u00e8vres",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "191 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/174918.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 65,
+                        "name": "Nottingham Forest",
+                        "logo": "https://media-1.api-sports.io/football/teams/65.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20503,
+                "name": "L. O&apos;Brien",
+                "firstname": "Lewis John",
+                "lastname": "O'Brien",
+                "age": 25,
+                "birth": {
+                    "date": "1998-10-14",
+                    "place": "Colchester",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "173 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/20503.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 65,
+                        "name": "Nottingham Forest",
+                        "logo": "https://media-1.api-sports.io/football/teams/65.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 6,
+                        "minutes": 580,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.633333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 3,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 207,
+                        "key": 4,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 2,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 65,
+                        "won": 40
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50816,
+                "name": "R. Laryea",
+                "firstname": "Richmond Mamah",
+                "lastname": "Laryea",
+                "age": 28,
+                "birth": {
+                    "date": "1995-01-07",
+                    "place": "Toronto",
+                    "country": "Canada"
+                },
+                "nationality": "Canada",
+                "height": "175 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/50816.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 65,
+                        "name": "Nottingham Forest",
+                        "logo": "https://media-2.api-sports.io/football/teams/65.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70767,
+                "name": "B. Ojeda",
+                "firstname": "Braian \u00d3scar",
+                "lastname": "Ojeda Rodr\u00edguez",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-27",
+                    "place": "San Lorenzo",
+                    "country": "Paraguay"
+                },
+                "nationality": "Paraguay",
+                "height": "172 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/70767.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 65,
+                        "name": "Nottingham Forest",
+                        "logo": "https://media-2.api-sports.io/football/teams/65.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

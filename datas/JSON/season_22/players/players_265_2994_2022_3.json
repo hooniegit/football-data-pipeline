@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "265",
+        "team": "2994",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 51245,
+                "name": "L. Melano",
+                "firstname": "Lucas Santiago",
+                "lastname": "Melano",
+                "age": 30,
+                "birth": {
+                    "date": "1993-03-01",
+                    "place": "Hernando",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "185 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/51245.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2994,
+                        "name": "U. Catolica",
+                        "logo": "https://media-3.api-sports.io/football/teams/2994.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 1,
+                        "minutes": 102,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "5.975000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 24,
+                        "key": 2,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 17,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11359,
+                "name": "L. Aued",
+                "firstname": "Luciano Rom\u00e1n",
+                "lastname": "Aued",
+                "age": 36,
+                "birth": {
+                    "date": "1987-03-01",
+                    "place": "Berisso",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11359.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2994,
+                        "name": "U. Catolica",
+                        "logo": "https://media-2.api-sports.io/football/teams/2994.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 14,
+                        "minutes": 1232,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.000000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 570,
+                        "key": 12,
+                        "accuracy": 34
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 2,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 99,
+                        "won": 57
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6068,
+                "name": "Y. Asad",
+                "firstname": "Yamil Rodrigo",
+                "lastname": "Asad",
+                "age": 29,
+                "birth": {
+                    "date": "1994-07-27",
+                    "place": "San Antonio de Padua",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/6068.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2994,
+                        "name": "U. Catolica",
+                        "logo": "https://media-3.api-sports.io/football/teams/2994.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 2,
+                        "minutes": 274,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.590000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 4,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 93,
+                        "key": 1,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 31,
+                        "won": 21
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

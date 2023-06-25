@@ -1,0 +1,1727 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "235",
+        "team": "555",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 18,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 53533,
+                "name": "B. Zaynutdinov",
+                "firstname": "Bakhtiyor",
+                "lastname": "Zaynutdinov",
+                "age": 25,
+                "birth": {
+                    "date": "1998-04-02",
+                    "place": "Taraz",
+                    "country": "Kazakhstan"
+                },
+                "nationality": "Kazakhstan",
+                "height": "185 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/53533.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-3.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 19,
+                        "minutes": 1653,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.105000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 4,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 792,
+                        "key": 9,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 31,
+                        "blocks": 11,
+                        "interceptions": 35
+                    },
+                    "duels": {
+                        "total": 168,
+                        "won": 116
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 837,
+                "name": "K. Kuchaev",
+                "firstname": "Konstantin",
+                "lastname": "Kuchaev",
+                "age": 25,
+                "birth": {
+                    "date": "1998-03-18",
+                    "place": "Ryazan",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "182 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/837.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-2.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 10,
+                        "minutes": 784,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.266666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 9,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 321,
+                        "key": 14,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 3,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 72,
+                        "won": 39
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 342198,
+                "name": "K. Glebov",
+                "firstname": "Kirill",
+                "lastname": "Glebov",
+                "age": 18,
+                "birth": {
+                    "date": "2005-11-10",
+                    "place": null,
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "173 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/342198.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-2.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 1,
+                        "minutes": 107,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 35,
+                        "key": 1,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 21,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 408728,
+                "name": "M. Kislyak",
+                "firstname": "Matvey",
+                "lastname": "Kislyak",
+                "age": 18,
+                "birth": {
+                    "date": "2005-07-26",
+                    "place": null,
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "177 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/408728.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-1.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 374088,
+                "name": "N. Ermakov",
+                "firstname": "Nikita",
+                "lastname": "Ermakov",
+                "age": 20,
+                "birth": {
+                    "date": "2003-01-19",
+                    "place": "Syzran",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "182 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/374088.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-3.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 0,
+                        "minutes": 429,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.510000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 22,
+                        "out": 0,
+                        "bench": 26
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 201,
+                        "key": 4,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 2,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 85,
+                        "won": 29
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 408727,
+                "name": "Y. Arbuzov",
+                "firstname": "Yaroslav",
+                "lastname": "Arbuzov",
+                "age": 19,
+                "birth": {
+                    "date": "2004-12-01",
+                    "place": "Luhansk",
+                    "country": "Ukraine"
+                },
+                "nationality": "Russia",
+                "height": "175 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/408727.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-1.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 401709,
+                "name": "A. Slivin",
+                "firstname": "Aleksey",
+                "lastname": "Slivin",
+                "age": 20,
+                "birth": {
+                    "date": "2003-05-10",
+                    "place": null,
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "176 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/401709.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-3.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 843,
+                "name": "F. Chalov",
+                "firstname": "Fedor",
+                "lastname": "Chalov",
+                "age": 25,
+                "birth": {
+                    "date": "1998-04-10",
+                    "place": "Moskva",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "180 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/843.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-2.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 29,
+                        "minutes": 2292,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.320689",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 24,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 72,
+                        "on": 44
+                    },
+                    "goals": {
+                        "total": 19,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 690,
+                        "key": 44,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 2,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 256,
+                        "won": 101
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 6,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 362566,
+                "name": "E. Ushakov",
+                "firstname": "Egor",
+                "lastname": "Ushakov",
+                "age": 21,
+                "birth": {
+                    "date": "2002-12-02",
+                    "place": "Moskva",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "176 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/362566.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-1.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 1,
+                        "minutes": 130,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.250000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 37,
+                        "key": 1,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 31,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1226,
+                "name": "A. Zabolotny",
+                "firstname": "Anton",
+                "lastname": "Zabolotny",
+                "age": 32,
+                "birth": {
+                    "date": "1991-06-13",
+                    "place": "Aizpute",
+                    "country": "Latvia"
+                },
+                "nationality": "Russia",
+                "height": "191 cm",
+                "weight": "91 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/1226.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-3.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 11,
+                        "minutes": 1076,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.838095",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 9,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 15
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 318,
+                        "key": 26,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 154,
+                        "won": 78
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 336248,
+                "name": "D. Kaptilovich",
+                "firstname": "Dmitri",
+                "lastname": "Kaptilovich",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-22",
+                    "place": null,
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "186 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/336248.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-3.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 145998,
+                "name": "M. Eleev",
+                "firstname": "Maksim",
+                "lastname": "Eleev",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-03",
+                    "place": null,
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/145998.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-3.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 304421,
+                "name": "D. Bokov",
+                "firstname": "Danila",
+                "lastname": "Bokov",
+                "age": 21,
+                "birth": {
+                    "date": "2002-08-09",
+                    "place": "Moskva",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "184 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/304421.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-2.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-1.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 839,
+                "name": "I. Oblyakov",
+                "firstname": "Ivan",
+                "lastname": "Oblyakov",
+                "age": 25,
+                "birth": {
+                    "date": "1998-07-05",
+                    "place": "Vyndin Ostrov",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "175 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/839.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-1.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 22,
+                        "minutes": 1885,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.114814",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 9,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 29,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 762,
+                        "key": 30,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 3,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 175,
+                        "won": 81
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 16,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 26,
+                        "committed": 27
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5994,
+                "name": "J. Carrascal",
+                "firstname": "Jorge Andr\u00e9s",
+                "lastname": "Carrascal Guardo",
+                "age": 25,
+                "birth": {
+                    "date": "1998-05-25",
+                    "place": "Cartagena",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/5994.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-3.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 16,
+                        "minutes": 1524,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.158333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 8,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 36,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 665,
+                        "key": 30,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": null,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 258,
+                        "won": 133
+                    },
+                    "dribbles": {
+                        "attempts": 101,
+                        "success": 57,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 36,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11453,
+                "name": "V. M\u00e9ndez",
+                "firstname": "V\u00edctor Felipe",
+                "lastname": "M\u00e9ndez Obando",
+                "age": 24,
+                "birth": {
+                    "date": "1999-09-23",
+                    "place": "Valdivia",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "172 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/11453.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-3.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 22,
+                        "minutes": 1902,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.768000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 7,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1109,
+                        "key": 21,
+                        "accuracy": 37
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 1,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 119,
+                        "won": 55
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50858,
+                "name": "J. Medina",
+                "firstname": "Jes\u00fas Manuel",
+                "lastname": "Medina Maldonado",
+                "age": 26,
+                "birth": {
+                    "date": "1997-04-30",
+                    "place": "Limpio",
+                    "country": "Paraguay"
+                },
+                "nationality": "Paraguay",
+                "height": "179 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/50858.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-1.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 24,
+                        "minutes": 1977,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.350000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 15,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 41,
+                        "on": 21
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 7,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 713,
+                        "key": 49,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 4,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 178,
+                        "won": 74
+                    },
+                    "dribbles": {
+                        "attempts": 59,
+                        "success": 25,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10379,
+                "name": "Bruno Fuchs",
+                "firstname": "Bruno",
+                "lastname": "de Lara Fuchs",
+                "age": 24,
+                "birth": {
+                    "date": "1999-04-01",
+                    "place": "Ponta Grossa",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "190 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/10379.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 555,
+                        "name": "CSKA Moscow",
+                        "logo": "https://media-3.api-sports.io/football/teams/555.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 2,
+                        "minutes": 191,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.766666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 88,
+                        "key": 1,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

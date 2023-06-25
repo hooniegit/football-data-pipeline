@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "119",
+        "team": "625",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 37172,
+                "name": "T. Letschert",
+                "firstname": "Timo",
+                "lastname": "Letschert",
+                "age": 30,
+                "birth": {
+                    "date": "1993-05-25",
+                    "place": "Purmerend",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "188 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/37172.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 625,
+                        "name": "Lyngby",
+                        "logo": "https://media-2.api-sports.io/football/teams/625.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-2.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-1.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 4,
+                        "minutes": 358,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.940000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 234,
+                        "key": 2,
+                        "accuracy": 39
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 3,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 32,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 16061,
+                "name": "A. S\u00f8rensen",
+                "firstname": "Adam",
+                "lastname": "S\u00f8rensen",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-11",
+                    "place": null,
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "165 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/16061.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 625,
+                        "name": "Lyngby",
+                        "logo": "https://media-3.api-sports.io/football/teams/625.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-3.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-1.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 16,
+                        "minutes": 1389,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.813333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 434,
+                        "key": 27,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 28,
+                        "blocks": 1,
+                        "interceptions": 20
+                    },
+                    "duels": {
+                        "total": 76,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15729,
+                "name": "R. Thellufsen",
+                "firstname": "Rasmus",
+                "lastname": "Thellufsen Pedersen",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-09",
+                    "place": "S\u00e6by",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/15729.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 625,
+                        "name": "Lyngby",
+                        "logo": "https://media-3.api-sports.io/football/teams/625.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-1.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-2.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 5,
+                        "minutes": 406,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.571428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 4,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 106,
+                        "key": 3,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

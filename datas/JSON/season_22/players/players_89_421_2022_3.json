@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "89",
+        "team": "421",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 182618,
+                "name": "Asier C\u00f3rdoba",
+                "firstname": "Asier",
+                "lastname": "C\u00f3rdoba Querejeta",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-31",
+                    "place": "Bilbao",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "184 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/182618.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 421,
+                        "name": "Den Bosch",
+                        "logo": "https://media-1.api-sports.io/football/teams/421.png"
+                    },
+                    "league": {
+                        "id": 89,
+                        "name": "Eerste Divisie",
+                        "country": "Netherlands",
+                        "logo": "https://media-2.api-sports.io/football/leagues/89.png",
+                        "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 6,
+                        "minutes": 438,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.645454",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 5,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 90,
+                        "key": 3,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 59,
+                        "won": 25
+                    },
+                    "dribbles": {
+                        "attempts": 18,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

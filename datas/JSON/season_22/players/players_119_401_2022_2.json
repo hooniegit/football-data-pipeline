@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "119",
+        "team": "401",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 411286,
+                "name": "S. Hansen",
+                "firstname": "Sabil",
+                "lastname": "Osman Hansen",
+                "age": 18,
+                "birth": {
+                    "date": "2005-11-14",
+                    "place": null,
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/411286.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-1.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-1.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 3,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 39141,
+                "name": "L. Johnsen",
+                "firstname": "Lasse",
+                "lastname": "Berg Johnsen",
+                "age": 24,
+                "birth": {
+                    "date": "1999-08-18",
+                    "place": "Stavanger",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "179 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/39141.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-3.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 32,
+                        "minutes": 2880,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.037500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 19,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2164,
+                        "key": 27,
+                        "accuracy": 57
+                    },
+                    "tackles": {
+                        "total": 84,
+                        "blocks": 7,
+                        "interceptions": 33
+                    },
+                    "duels": {
+                        "total": 328,
+                        "won": 171
+                    },
+                    "dribbles": {
+                        "attempts": 31,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 30
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15585,
+                "name": "J. Ankersen",
+                "firstname": "Jakob",
+                "lastname": "Svarrer Ankersen",
+                "age": 33,
+                "birth": {
+                    "date": "1990-09-22",
+                    "place": "Esbjerg",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "182 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/15585.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-3.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 17,
+                        "minutes": 1595,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.741379",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 13,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 27,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 591,
+                        "key": 23,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 38,
+                        "blocks": 6,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 234,
+                        "won": 115
+                    },
+                    "dribbles": {
+                        "attempts": 55,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 29,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 118347,
+                "name": "T. Kehinde",
+                "firstname": "Oluwatosin",
+                "lastname": "Kehinde",
+                "age": 25,
+                "birth": {
+                    "date": "1998-06-18",
+                    "place": "Lagos",
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": "178 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/118347.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-2.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 16,
+                        "minutes": 1475,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.765217",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 15,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 498,
+                        "key": 21,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": 1,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 205,
+                        "won": 102
+                    },
+                    "dribbles": {
+                        "attempts": 79,
+                        "success": 44,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15771,
+                "name": "E. Babayan",
+                "firstname": "Edgar",
+                "lastname": "Babayan",
+                "age": 28,
+                "birth": {
+                    "date": "1995-10-28",
+                    "place": "Berlin",
+                    "country": "Germany"
+                },
+                "nationality": "Armenia",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/15771.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-3.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 7,
+                        "minutes": 705,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.678260",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 7,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 227,
+                        "key": 17,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 2,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 118,
+                        "won": 42
+                    },
+                    "dribbles": {
+                        "attempts": 37,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15780,
+                "name": "M. Pedersen",
+                "firstname": "Mikkel",
+                "lastname": "Mejlstrup Pedersen",
+                "age": 27,
+                "birth": {
+                    "date": "1996-01-07",
+                    "place": "Hobro",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "182 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/15780.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-1.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 6,
+                        "minutes": 784,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.529166",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 18,
+                        "out": 3,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 362,
+                        "key": 5,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 27,
+                        "blocks": 4,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 106,
+                        "won": 52
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15697,
+                "name": "F. Lauenborg",
+                "firstname": "Frederik",
+                "lastname": "Lauenborg",
+                "age": 26,
+                "birth": {
+                    "date": "1997-05-18",
+                    "place": "Aarhus",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "181 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/15697.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-1.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 16,
+                        "minutes": 1361,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.975000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 7,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 639,
+                        "key": 16,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 34,
+                        "blocks": 4,
+                        "interceptions": 31
+                    },
+                    "duels": {
+                        "total": 152,
+                        "won": 75
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 281660,
+                "name": "M. Engg\u00e5rd",
+                "firstname": "Mads",
+                "lastname": "Engg\u00e5rd",
+                "age": 19,
+                "birth": {
+                    "date": "2004-01-20",
+                    "place": "Silkeborg",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "178 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/281660.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-3.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-1.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 14,
+                        "minutes": 1082,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.687500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 11,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 499,
+                        "key": 10,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 6,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 121,
+                        "won": 47
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 57422,
+                "name": "S. Nordli",
+                "firstname": "Simen",
+                "lastname": "Bolkan Nordli",
+                "age": 24,
+                "birth": {
+                    "date": "1999-12-25",
+                    "place": "Elverum",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "181 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/57422.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-2.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-3.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 10,
+                        "minutes": 814,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.707142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 10,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 229,
+                        "key": 16,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 3,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 144,
+                        "won": 65
+                    },
+                    "dribbles": {
+                        "attempts": 35,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 32,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15696,
+                "name": "T. Klysner",
+                "firstname": "Tobias",
+                "lastname": "Klysner Breuner",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-03",
+                    "place": "Randers",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "183 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/15696.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-3.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-1.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 12,
+                        "minutes": 1052,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.478571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 12,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 338,
+                        "key": 13,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": null,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 177,
+                        "won": 66
+                    },
+                    "dribbles": {
+                        "attempts": 45,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 291839,
+                "name": "F. Bundgaard",
+                "firstname": "Filip",
+                "lastname": "Bundgaard Kristensen",
+                "age": 19,
+                "birth": {
+                    "date": "2004-07-03",
+                    "place": "Randers",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "176 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/291839.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-1.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 20,
+                        "minutes": 1655,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.770967",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 19,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 33,
+                        "on": 21
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 340,
+                        "key": 14,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 260,
+                        "won": 110
+                    },
+                    "dribbles": {
+                        "attempts": 76,
+                        "success": 39,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 419917,
+                "name": "N. Andreassen",
+                "firstname": "Nikolaj",
+                "lastname": "Krogh Andreassen",
+                "age": 18,
+                "birth": {
+                    "date": "2005-06-17",
+                    "place": null,
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/419917.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-3.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-1.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 416992,
+                "name": "V. Westh",
+                "firstname": "Villads",
+                "lastname": "Westh",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-25",
+                    "place": null,
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/416992.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-2.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-1.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 392187,
+                "name": "M. Isah",
+                "firstname": "Mustapha",
+                "lastname": "Isah Ubandoma",
+                "age": 19,
+                "birth": {
+                    "date": "2004-07-23",
+                    "place": null,
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/392187.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-2.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-1.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 31,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 12,
+                        "key": null,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15703,
+                "name": "M. Egho",
+                "firstname": "Marvin",
+                "lastname": "Egho",
+                "age": 29,
+                "birth": {
+                    "date": "1994-05-09",
+                    "place": "Wien",
+                    "country": "Austria"
+                },
+                "nationality": "Austria",
+                "height": "188 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/15703.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-1.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-1.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 20,
+                        "minutes": 1769,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.842857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 14,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 28,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 294,
+                        "key": 14,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 2,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 317,
+                        "won": 140
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 25,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1020,
+                "name": "S. Odey",
+                "firstname": "Stephen Pius",
+                "lastname": "Odey",
+                "age": 25,
+                "birth": {
+                    "date": "1998-01-15",
+                    "place": "Lagos",
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": "181 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/1020.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-2.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-3.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 17,
+                        "minutes": 1438,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.772413",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 17,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 37,
+                        "on": 17
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 441,
+                        "key": 13,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": 1,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 177,
+                        "won": 83
+                    },
+                    "dribbles": {
+                        "attempts": 48,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 28,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15762,
+                "name": "A. Kamara",
+                "firstname": "Alhaji",
+                "lastname": "Kamara",
+                "age": 29,
+                "birth": {
+                    "date": "1994-04-16",
+                    "place": "Freetown",
+                    "country": "Sierra Leone"
+                },
+                "nationality": "Sierra Leone",
+                "height": "180 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/15762.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-2.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-1.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 2,
+                        "minutes": 413,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.568421",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 18,
+                        "out": 1,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 125,
+                        "key": 4,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 99,
+                        "won": 36
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 396192,
+                "name": "L. Pedersen",
+                "firstname": "Laurits",
+                "lastname": "Raun Pedersen",
+                "age": 17,
+                "birth": {
+                    "date": "2006-01-25",
+                    "place": null,
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/396192.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-3.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 71990,
+                "name": "O. Bundgaard",
+                "firstname": "Oliver",
+                "lastname": "Bundgaard Kristensen",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-15",
+                    "place": null,
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "182 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/71990.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-2.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-2.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 2,
+                        "minutes": 184,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.833333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 59,
+                        "key": 3,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 2,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 22,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 158707,
+                "name": "O. Jensen",
+                "firstname": "Oliver Bjerrum",
+                "lastname": "Jensen",
+                "age": 21,
+                "birth": {
+                    "date": "2002-04-30",
+                    "place": "Sunds",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "178 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/158707.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 401,
+                        "name": "Randers FC",
+                        "logo": "https://media-3.api-sports.io/football/teams/401.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-2.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 12,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 8,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

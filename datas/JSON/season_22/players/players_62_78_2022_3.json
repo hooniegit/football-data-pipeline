@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "62",
+        "team": "78",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 24743,
+                "name": "Z. Davitashvili",
+                "firstname": "Zuriko",
+                "lastname": "Davitashvili",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-15",
+                    "place": "Tbilisi",
+                    "country": "Georgia"
+                },
+                "nationality": "Georgia",
+                "height": "175 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/24743.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 78,
+                        "name": "Bordeaux",
+                        "logo": "https://media-3.api-sports.io/football/teams/78.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 23,
+                        "minutes": 1945,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.837931",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 18,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 28,
+                        "on": 12
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 519,
+                        "key": 26,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 40,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 278,
+                        "won": 114
+                    },
+                    "dribbles": {
+                        "attempts": 90,
+                        "success": 36,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 28
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 43088,
+                "name": "A. Pitu",
+                "firstname": "Alexi Paul",
+                "lastname": "Pitu",
+                "age": 21,
+                "birth": {
+                    "date": "2002-06-05",
+                    "place": "Karlsruhe",
+                    "country": "Germany"
+                },
+                "nationality": "Romania",
+                "height": "170 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/43088.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 78,
+                        "name": "Bordeaux",
+                        "logo": "https://media-2.api-sports.io/football/teams/78.png"
+                    },
+                    "league": {
+                        "id": 62,
+                        "name": "Ligue 2",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 6,
+                        "minutes": 581,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.725000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 5,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 189,
+                        "key": 13,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 17,
+                        "blocks": 3,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 78,
+                        "won": 38
+                    },
+                    "dribbles": {
+                        "attempts": 22,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

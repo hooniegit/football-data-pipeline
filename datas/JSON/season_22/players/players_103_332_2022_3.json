@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "103",
+        "team": "332",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 57175,
+                "name": "W. Kurtovi\u0107",
+                "firstname": "William Albin",
+                "lastname": "Kurtovi\u0107",
+                "age": 27,
+                "birth": {
+                    "date": "1996-06-22",
+                    "place": "Karlskrona",
+                    "country": "Sweden"
+                },
+                "nationality": "Sweden",
+                "height": "190 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/57175.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 332,
+                        "name": "Sandefjord",
+                        "logo": "https://media-2.api-sports.io/football/teams/332.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-2.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-2.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 25,
+                        "minutes": 2259,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.880769",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 924,
+                        "key": 32,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 38,
+                        "blocks": 4,
+                        "interceptions": 32
+                    },
+                    "duels": {
+                        "total": 190,
+                        "won": 94
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 28
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 57492,
+                "name": "S. Gussi\u00e5s",
+                "firstname": "Sivert",
+                "lastname": "Stenseth Gussi\u00e5s",
+                "age": 24,
+                "birth": {
+                    "date": "1999-08-11",
+                    "place": null,
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/57492.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 332,
+                        "name": "Sandefjord",
+                        "logo": "https://media-3.api-sports.io/football/teams/332.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-1.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-3.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 1,
+                        "minutes": 351,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.386956",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 24,
+                        "out": 0,
+                        "bench": 28
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 57,
+                        "key": 4,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 51,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 57186,
+                "name": "Rufo",
+                "firstname": "Rub\u00e9n",
+                "lastname": "Herr\u00e1iz Alcaraz",
+                "age": 30,
+                "birth": {
+                    "date": "1993-01-13",
+                    "place": "Barcelona",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "175 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/57186.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 332,
+                        "name": "Sandefjord",
+                        "logo": "https://media-3.api-sports.io/football/teams/332.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-2.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-1.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 10,
+                        "minutes": 877,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.653846",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 10,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 263,
+                        "key": 9,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": 1,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 155,
+                        "won": 71
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 30,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

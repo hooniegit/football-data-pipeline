@@ -1,0 +1,872 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "135",
+        "team": "503",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 9,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 31156,
+                "name": "V. Milinkovi\u0107-Savi\u0107",
+                "firstname": "Vanja",
+                "lastname": "Milinkovi\u0107-Savi\u0107",
+                "age": 26,
+                "birth": {
+                    "date": "1997-02-20",
+                    "place": "Ourense",
+                    "country": "Spain"
+                },
+                "nationality": "Serbia",
+                "height": "202 cm",
+                "weight": "96 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/31156.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 503,
+                        "name": "Torino",
+                        "logo": "https://media-1.api-sports.io/football/teams/503.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 38,
+                        "lineups": 38,
+                        "minutes": 3420,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.975675",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 39,
+                        "assists": null,
+                        "saves": 96
+                    },
+                    "passes": {
+                        "total": 1564,
+                        "key": 1,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 20,
+                        "won": 17
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 46170,
+                "name": "I. Ili\u0107",
+                "firstname": "Ivan",
+                "lastname": "Ili\u0107",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-17",
+                    "place": "Ni\u0161",
+                    "country": "Serbia"
+                },
+                "nationality": "Serbia",
+                "height": "182 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/46170.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 503,
+                        "name": "Torino",
+                        "logo": "https://media-2.api-sports.io/football/teams/503.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 13,
+                        "minutes": 1180,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.909090",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 351,
+                        "key": 16,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 1,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 80,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 180455,
+                "name": "M. Garbett",
+                "firstname": "Matthew Jimmy David",
+                "lastname": "Garbett",
+                "age": 21,
+                "birth": {
+                    "date": "2002-04-13",
+                    "place": "London",
+                    "country": "England"
+                },
+                "nationality": "New Zealand",
+                "height": "188 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/180455.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 503,
+                        "name": "Torino",
+                        "logo": "https://media-3.api-sports.io/football/teams/503.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 343189,
+                "name": "G. Gineitis",
+                "firstname": "Gvidas",
+                "lastname": "Gineitis",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-15",
+                    "place": null,
+                    "country": "Lithuania"
+                },
+                "nationality": "Lithuania",
+                "height": "187 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/343189.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 503,
+                        "name": "Torino",
+                        "logo": "https://media-3.api-sports.io/football/teams/503.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 2,
+                        "minutes": 136,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.400000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 86,
+                        "key": null,
+                        "accuracy": 36
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 19,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 3009,
+                "name": "K. Linetty",
+                "firstname": "Karol",
+                "lastname": "Linetty",
+                "age": 28,
+                "birth": {
+                    "date": "1995-02-02",
+                    "place": "\u017bnin",
+                    "country": "Poland"
+                },
+                "nationality": "Poland",
+                "height": "176 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/3009.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 503,
+                        "name": "Torino",
+                        "logo": "https://media-1.api-sports.io/football/teams/503.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 22,
+                        "minutes": 1886,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.670967",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 12,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 890,
+                        "key": 19,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": 7,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 185,
+                        "won": 79
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 49
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 128772,
+                "name": "D. Zima",
+                "firstname": "David",
+                "lastname": "Zima",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-08",
+                    "place": null,
+                    "country": "Czech Republic"
+                },
+                "nationality": "Czech Republic",
+                "height": "190 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/128772.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 503,
+                        "name": "Torino",
+                        "logo": "https://media-2.api-sports.io/football/teams/503.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 4,
+                        "minutes": 402,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.655555",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 197,
+                        "key": 2,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 2,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 42,
+                        "won": 27
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2823,
+                "name": "S. Luki\u0107",
+                "firstname": "Sa\u0161a",
+                "lastname": "Luki\u0107",
+                "age": 27,
+                "birth": {
+                    "date": "1996-08-13",
+                    "place": "\u0160abac",
+                    "country": "Serbia"
+                },
+                "nationality": "Serbia",
+                "height": "183 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/2823.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 503,
+                        "name": "Torino",
+                        "logo": "https://media-3.api-sports.io/football/teams/503.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 13,
+                        "minutes": 1194,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.993750",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 700,
+                        "key": 16,
+                        "accuracy": 38
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 7,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 117,
+                        "won": 54
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31056,
+                "name": "S. Ricci",
+                "firstname": "Samuele",
+                "lastname": "Ricci",
+                "age": 22,
+                "birth": {
+                    "date": "2001-08-21",
+                    "place": "Pontedera",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "174 cm",
+                "weight": "59 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/31056.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 503,
+                        "name": "Torino",
+                        "logo": "https://media-1.api-sports.io/football/teams/503.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 23,
+                        "minutes": 2073,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.892857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 8,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1145,
+                        "key": 16,
+                        "accuracy": 36
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 5,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 179,
+                        "won": 109
+                    },
+                    "dribbles": {
+                        "attempts": 20,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 58,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 123,
+                "name": "P. Pellegri",
+                "firstname": "Pietro",
+                "lastname": "Pellegri",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-17",
+                    "place": "Genova",
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "196 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/123.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 503,
+                        "name": "Torino",
+                        "logo": "https://media-1.api-sports.io/football/teams/503.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 4,
+                        "minutes": 459,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 4,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 77,
+                        "key": 5,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 112,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "169",
+        "team": "849",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 12436,
+                "name": "Yang Yiming",
+                "firstname": "Yiming",
+                "lastname": "Yang",
+                "age": 28,
+                "birth": {
+                    "date": "1995-05-25",
+                    "place": "Guangdong",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "193 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12436.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 849,
+                        "name": "Shijiazhuang Y. J.",
+                        "logo": "https://media-3.api-sports.io/football/teams/849.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 20,
+                        "minutes": 1891,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.984000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 2,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 805,
+                        "key": null,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 33,
+                        "blocks": 26,
+                        "interceptions": 37
+                    },
+                    "duels": {
+                        "total": 164,
+                        "won": 103
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 34
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 80922,
+                "name": "Cao Haiqing",
+                "firstname": "Haiqing",
+                "lastname": "Cao",
+                "age": 30,
+                "birth": {
+                    "date": "1993-09-28",
+                    "place": "Hubei",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "174 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/80922.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 849,
+                        "name": "Shijiazhuang Y. J.",
+                        "logo": "https://media-1.api-sports.io/football/teams/849.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 8,
+                        "minutes": 762,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.475000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 4,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 235,
+                        "key": 3,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 3,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 64,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12733,
+                "name": "Bughrahan Iskandar",
+                "firstname": "Bughrahan",
+                "lastname": "Iskandar",
+                "age": 23,
+                "birth": {
+                    "date": "2000-08-11",
+                    "place": "Xinjiang",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "178 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/12733.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 849,
+                        "name": "Shijiazhuang Y. J.",
+                        "logo": "https://media-2.api-sports.io/football/teams/849.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 10,
+                        "minutes": 705,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.486666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 10,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 163,
+                        "key": 3,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 78,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12881,
+                "name": "Wang Chengkuai",
+                "firstname": "Chengkuai",
+                "lastname": "Wang",
+                "age": 28,
+                "birth": {
+                    "date": "1995-01-23",
+                    "place": "Dalian",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "179 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/12881.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 849,
+                        "name": "Shijiazhuang Y. J.",
+                        "logo": "https://media-1.api-sports.io/football/teams/849.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13007,
+                "name": "Zhao Xuebin",
+                "firstname": "Xuebin",
+                "lastname": "Zhao",
+                "age": 30,
+                "birth": {
+                    "date": "1993-01-12",
+                    "place": "Liaoning",
+                    "country": "China PR"
+                },
+                "nationality": "China PR",
+                "height": "183 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/13007.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 849,
+                        "name": "Shijiazhuang Y. J.",
+                        "logo": "https://media-3.api-sports.io/football/teams/849.png"
+                    },
+                    "league": {
+                        "id": 169,
+                        "name": "Super League",
+                        "country": "China",
+                        "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                        "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

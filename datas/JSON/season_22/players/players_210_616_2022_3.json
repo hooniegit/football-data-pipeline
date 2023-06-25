@@ -1,0 +1,492 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "210",
+        "team": "616",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 14308,
+                "name": "A. Grgi\u0107",
+                "firstname": "Alen",
+                "lastname": "Grgi\u0107",
+                "age": 29,
+                "birth": {
+                    "date": "1994-08-10",
+                    "place": "Nova Gradi\u0161ka",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": "187 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/14308.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 616,
+                        "name": "NK Osijek",
+                        "logo": "https://media-2.api-sports.io/football/teams/616.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 14300,
+                "name": "D. Lon\u010dar",
+                "firstname": "Danijel",
+                "lastname": "Lon\u010dar",
+                "age": 26,
+                "birth": {
+                    "date": "1997-06-26",
+                    "place": "Osijek",
+                    "country": "Germany"
+                },
+                "nationality": "Croatia",
+                "height": "189 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/14300.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 616,
+                        "name": "NK Osijek",
+                        "logo": "https://media-3.api-sports.io/football/teams/616.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 9,
+                        "minutes": 854,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.887500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 353,
+                        "key": 3,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 2,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 67,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 41330,
+                "name": "M. Milo\u0161",
+                "firstname": "Mato",
+                "lastname": "Milo\u0161",
+                "age": 30,
+                "birth": {
+                    "date": "1993-06-30",
+                    "place": "Pula",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/41330.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 616,
+                        "name": "NK Osijek",
+                        "logo": "https://media-2.api-sports.io/football/teams/616.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 3,
+                        "minutes": 313,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.560000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 109,
+                        "key": 10,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 29,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 14302,
+                "name": "M. \u0160kori\u0107",
+                "firstname": "Mile",
+                "lastname": "\u0160kori\u0107",
+                "age": 32,
+                "birth": {
+                    "date": "1991-06-19",
+                    "place": "Vinkovci",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": "189 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/14302.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 616,
+                        "name": "NK Osijek",
+                        "logo": "https://media-1.api-sports.io/football/teams/616.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-1.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 10,
+                        "minutes": 862,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.975000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 357,
+                        "key": 1,
+                        "accuracy": 36
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 6,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 63,
+                        "won": 36
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 182434,
+                "name": "D. Beljo",
+                "firstname": "Dion Drena",
+                "lastname": "Beljo",
+                "age": 21,
+                "birth": {
+                    "date": "2002-03-01",
+                    "place": "Zagreb",
+                    "country": "Croatia"
+                },
+                "nationality": "Croatia",
+                "height": "195 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/182434.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 616,
+                        "name": "NK Osijek",
+                        "logo": "https://media-1.api-sports.io/football/teams/616.png"
+                    },
+                    "league": {
+                        "id": 210,
+                        "name": "HNL",
+                        "country": "Croatia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/210.png",
+                        "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 13,
+                        "minutes": 1141,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.060000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 8,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 15,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 158,
+                        "key": 9,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": 2,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 84,
+                        "won": 39
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

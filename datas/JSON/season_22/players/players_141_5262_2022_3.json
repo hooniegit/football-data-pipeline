@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "141",
+        "team": "5262",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 70072,
+                "name": "\u00d3scar Arribas",
+                "firstname": "\u00d3scar",
+                "lastname": "Arribas Pasero",
+                "age": 25,
+                "birth": {
+                    "date": "1998-10-22",
+                    "place": "Getafe",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "183 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/70072.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 5262,
+                        "name": "FC Cartagena",
+                        "logo": "https://media-3.api-sports.io/football/teams/5262.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 2,
+                        "minutes": 251,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.525000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 2,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 53,
+                        "key": 3,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 40,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 287780,
+                "name": "Neskes",
+                "firstname": "Alejandro",
+                "lastname": "Domingo G\u00f3mez",
+                "age": 22,
+                "birth": {
+                    "date": "2001-11-22",
+                    "place": "Granada",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/287780.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 5262,
+                        "name": "FC Cartagena",
+                        "logo": "https://media-3.api-sports.io/football/teams/5262.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-1.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 15,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 23,
+                        "key": null,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

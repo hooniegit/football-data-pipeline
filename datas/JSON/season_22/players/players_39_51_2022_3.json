@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "39",
+        "team": "51",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 18962,
+                "name": "S. Duffy",
+                "firstname": "Shane Patrick Michael",
+                "lastname": "Duffy",
+                "age": 31,
+                "birth": {
+                    "date": "1992-01-01",
+                    "place": "Derry",
+                    "country": "Northern Ireland"
+                },
+                "nationality": "Republic of Ireland",
+                "height": "193 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/18962.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 51,
+                        "name": "Brighton",
+                        "logo": "https://media-3.api-sports.io/football/teams/51.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "4.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 20,
+                        "key": null,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 37276,
+                "name": "K. Scherpen",
+                "firstname": "Kjell",
+                "lastname": "Scherpen",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-23",
+                    "place": null,
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "204 cm",
+                "weight": "98 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/37276.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 51,
+                        "name": "Brighton",
+                        "logo": "https://media-3.api-sports.io/football/teams/51.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 38695,
+                "name": "J. van Hecke",
+                "firstname": "Jan Paul",
+                "lastname": "van Hecke",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-08",
+                    "place": "Arnemuiden",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "189 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/38695.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 51,
+                        "name": "Brighton",
+                        "logo": "https://media-1.api-sports.io/football/teams/51.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 3,
+                        "minutes": 291,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.614285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 29
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 246,
+                        "key": null,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 5,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 39,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 152953,
+                "name": "L. Colwill",
+                "firstname": "Levi Lemar",
+                "lastname": "Samuels Colwill",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-26",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "187 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/152953.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 51,
+                        "name": "Brighton",
+                        "logo": "https://media-1.api-sports.io/football/teams/51.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 13,
+                        "minutes": 1218,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.743750",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 2,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1148,
+                        "key": 7,
+                        "accuracy": 59
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 3,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 99,
+                        "won": 64
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,967 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "265",
+        "team": "2331",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 78672,
+                "name": "D. C\u00e9spedes",
+                "firstname": "Diego Andr\u00e9s",
+                "lastname": "C\u00e9spedes Maturana",
+                "age": 25,
+                "birth": {
+                    "date": "1998-09-25",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "181 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/78672.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2331,
+                        "name": "Cobresal",
+                        "logo": "https://media-1.api-sports.io/football/teams/2331.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 18,
+                        "minutes": 1624,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.655555",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 545,
+                        "key": 5,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 11,
+                        "interceptions": 18
+                    },
+                    "duels": {
+                        "total": 88,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 294748,
+                "name": "Y. Cruz",
+                "firstname": "Yodilan Yusset",
+                "lastname": "Cruz Toloza",
+                "age": 19,
+                "birth": {
+                    "date": "2004-10-09",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "160 cm",
+                "weight": "60 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/294748.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2331,
+                        "name": "Cobresal",
+                        "logo": "https://media-2.api-sports.io/football/teams/2331.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 40,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.250000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 17,
+                        "key": null,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 282642,
+                "name": "F. Vald\u00e9s",
+                "firstname": "Francisco Javier",
+                "lastname": "Vald\u00e9s D\u00edaz",
+                "age": 22,
+                "birth": {
+                    "date": "2001-11-13",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "174 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/282642.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2331,
+                        "name": "Cobresal",
+                        "logo": "https://media-2.api-sports.io/football/teams/2331.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 5,
+                        "minutes": 423,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.377777",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 5,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 172,
+                        "key": 2,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": 2,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 35,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35956,
+                "name": "G. Lezcano",
+                "firstname": "Gast\u00f3n Adri\u00e1n",
+                "lastname": "Lezcano",
+                "age": 37,
+                "birth": {
+                    "date": "1986-11-21",
+                    "place": "San Nicol\u00e1s de los Arroyos",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "167 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/35956.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2331,
+                        "name": "Cobresal",
+                        "logo": "https://media-2.api-sports.io/football/teams/2331.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-2.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 27,
+                        "minutes": 2243,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.426923",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 14,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 35,
+                        "on": 26
+                    },
+                    "goals": {
+                        "total": 15,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 538,
+                        "key": 54,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 203,
+                        "won": 107
+                    },
+                    "dribbles": {
+                        "attempts": 39,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 63,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 7,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51648,
+                "name": "C. Waterman",
+                "firstname": "Cecilio Alfonso",
+                "lastname": "Waterman Ru\u00edz",
+                "age": 32,
+                "birth": {
+                    "date": "1991-04-13",
+                    "place": "Ciudad de Panam\u00e1",
+                    "country": "Panama"
+                },
+                "nationality": "Panama",
+                "height": "181 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/51648.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2331,
+                        "name": "Cobresal",
+                        "logo": "https://media-3.api-sports.io/football/teams/2331.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 21,
+                        "minutes": 1883,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.004545",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 8,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 39,
+                        "on": 23
+                    },
+                    "goals": {
+                        "total": 11,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 431,
+                        "key": 17,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 192,
+                        "won": 84
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 308388,
+                "name": "S. Carrasco",
+                "firstname": "Sergio Andr\u00e9s",
+                "lastname": "Carrasco Espinoza",
+                "age": 18,
+                "birth": {
+                    "date": "2005-01-02",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "191 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/308388.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2331,
+                        "name": "Cobresal",
+                        "logo": "https://media-2.api-sports.io/football/teams/2331.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 199313,
+                "name": "B. Osses",
+                "firstname": "Benjam\u00edn Rodrigo",
+                "lastname": "Osses Miranda",
+                "age": 21,
+                "birth": {
+                    "date": "2002-06-24",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "175 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/199313.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2331,
+                        "name": "Cobresal",
+                        "logo": "https://media-3.api-sports.io/football/teams/2331.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 5,
+                        "minutes": 317,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.642857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 5,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 115,
+                        "key": 7,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 24,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5272,
+                "name": "M. Gonz\u00e1lez",
+                "firstname": "Mauro Ezequiel",
+                "lastname": "Gonz\u00e1lez",
+                "age": 27,
+                "birth": {
+                    "date": "1996-08-31",
+                    "place": "Lan\u00fas",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/5272.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2331,
+                        "name": "Cobresal",
+                        "logo": "https://media-1.api-sports.io/football/teams/2331.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-1.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-3.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 13,
+                        "minutes": 928,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.647368",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 12,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 396,
+                        "key": 19,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 1,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 127,
+                        "won": 52
+                    },
+                    "dribbles": {
+                        "attempts": 36,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 11720,
+                "name": "\u00d3. Salinas",
+                "firstname": "\u00d3scar Fernando",
+                "lastname": "Salinas Aguilar",
+                "age": 35,
+                "birth": {
+                    "date": "1988-06-26",
+                    "place": "Curacav\u00ed",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "173 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/11720.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2331,
+                        "name": "Cobresal",
+                        "logo": "https://media-2.api-sports.io/football/teams/2331.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-1.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 7,
+                        "minutes": 785,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.711111",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 5,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 255,
+                        "key": 16,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 62,
+                        "won": 31
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12256,
+                "name": "J. Gaete",
+                "firstname": "Juan Carlos",
+                "lastname": "Gaete Contreras",
+                "age": 27,
+                "birth": {
+                    "date": "1996-05-21",
+                    "place": null,
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/12256.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2331,
+                        "name": "Cobresal",
+                        "logo": "https://media-2.api-sports.io/football/teams/2331.png"
+                    },
+                    "league": {
+                        "id": 265,
+                        "name": "Primera Divisi\u00f3n",
+                        "country": "Chile",
+                        "logo": "https://media-3.api-sports.io/football/leagues/265.png",
+                        "flag": "https://media-2.api-sports.io/flags/cl.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 21,
+                        "minutes": 1712,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.550000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 17,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 50,
+                        "on": 18
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 386,
+                        "key": 23,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 167,
+                        "won": 54
+                    },
+                    "dribbles": {
+                        "attempts": 69,
+                        "success": 34,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

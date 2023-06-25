@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "119",
+        "team": "398",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 263853,
+                "name": "M. Stjopin",
+                "firstname": "Maksim",
+                "lastname": "Stjopin",
+                "age": 20,
+                "birth": {
+                    "date": "2003-04-08",
+                    "place": null,
+                    "country": "Finland"
+                },
+                "nationality": "Finland",
+                "height": "178 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/263853.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 398,
+                        "name": "FC Nordsjaelland",
+                        "logo": "https://media-3.api-sports.io/football/teams/398.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-2.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15904,
+                "name": "U. Ytterg\u00e5rd Jenssen",
+                "firstname": "Ulrik",
+                "lastname": "Ytterg\u00e5rd Jenssen",
+                "age": 27,
+                "birth": {
+                    "date": "1996-07-17",
+                    "place": "Troms\u00f8",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "186 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/15904.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 398,
+                        "name": "FC Nordsjaelland",
+                        "logo": "https://media-3.api-sports.io/football/teams/398.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-1.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-2.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 1,
+                        "minutes": 103,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.550000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 68,
+                        "key": null,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

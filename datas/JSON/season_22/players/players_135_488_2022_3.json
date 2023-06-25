@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "135",
+        "team": "488",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 180584,
+                "name": "B. Oddei",
+                "firstname": "Brian Safo",
+                "lastname": "Oddei",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-18",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/180584.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 488,
+                        "name": "Sassuolo",
+                        "logo": "https://media-2.api-sports.io/football/teams/488.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-1.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 31057,
+                "name": "H. Traor\u00e8",
+                "firstname": "Hamed Junior",
+                "lastname": "Traor\u00e8",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-16",
+                    "place": null,
+                    "country": "C\u00f4te d'Ivoire"
+                },
+                "nationality": "C\u00f4te d'Ivoire",
+                "height": "184 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/31057.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 488,
+                        "name": "Sassuolo",
+                        "logo": "https://media-1.api-sports.io/football/teams/488.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 6,
+                        "minutes": 591,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.509090",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 5,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 213,
+                        "key": 17,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 72,
+                        "won": 20
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1189,
+                "name": "E. Ce\u00efde",
+                "firstname": "Emil",
+                "lastname": "Konradsen Ce\u00efde",
+                "age": 22,
+                "birth": {
+                    "date": "2001-09-03",
+                    "place": "Finnsnes",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "175 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/1189.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 488,
+                        "name": "Sassuolo",
+                        "logo": "https://media-1.api-sports.io/football/teams/488.png"
+                    },
+                    "league": {
+                        "id": 135,
+                        "name": "Serie A",
+                        "country": "Italy",
+                        "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 5,
+                        "minutes": 505,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.505263",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 5,
+                        "bench": 31
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 160,
+                        "key": 8,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 49,
+                        "won": 20
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

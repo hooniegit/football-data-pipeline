@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "119",
+        "team": "407",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 997,
+                "name": "A. Maxs\u00f8",
+                "firstname": "Andreas",
+                "lastname": "Beyer Maxs\u00f8",
+                "age": 29,
+                "birth": {
+                    "date": "1994-03-18",
+                    "place": "Hvidovre",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "190 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/997.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 407,
+                        "name": "Brondby",
+                        "logo": "https://media-3.api-sports.io/football/teams/407.png"
+                    },
+                    "league": {
+                        "id": 119,
+                        "name": "Superliga",
+                        "country": "Denmark",
+                        "logo": "https://media-2.api-sports.io/football/leagues/119.png",
+                        "flag": "https://media-3.api-sports.io/flags/dk.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 11,
+                        "minutes": 990,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.890909",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 651,
+                        "key": 1,
+                        "accuracy": 52
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 8,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 66,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

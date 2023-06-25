@@ -1,0 +1,376 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "144",
+        "team": "624",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 105802,
+                "name": "S. Dewaele",
+                "firstname": "Sieben",
+                "lastname": "Dewaele",
+                "age": 24,
+                "birth": {
+                    "date": "1999-02-02",
+                    "place": "Vichte",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "180 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/105802.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 624,
+                        "name": "Oostende",
+                        "logo": "https://media-3.api-sports.io/football/teams/624.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 18,
+                        "minutes": 1332,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.795238",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 14,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 447,
+                        "key": 13,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 60,
+                        "blocks": 3,
+                        "interceptions": 20
+                    },
+                    "duels": {
+                        "total": 156,
+                        "won": 84
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 7666,
+                "name": "M. Kvasina",
+                "firstname": "Marko",
+                "lastname": "Kvasina",
+                "age": 27,
+                "birth": {
+                    "date": "1996-12-20",
+                    "place": "Wien",
+                    "country": "Austria"
+                },
+                "nationality": "Austria",
+                "height": "195 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/7666.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 624,
+                        "name": "Oostende",
+                        "logo": "https://media-3.api-sports.io/football/teams/624.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-3.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 50949,
+                "name": "K. Duncan",
+                "firstname": "Kyle",
+                "lastname": "Barri Duncan",
+                "age": 26,
+                "birth": {
+                    "date": "1997-08-08",
+                    "place": "New York",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "178 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/50949.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 624,
+                        "name": "Oostende",
+                        "logo": "https://media-2.api-sports.io/football/teams/624.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 624,
+                        "name": "Oostende",
+                        "logo": "https://media-2.api-sports.io/football/teams/624.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

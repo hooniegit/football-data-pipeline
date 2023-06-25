@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "128",
+        "team": "446",
+        "season": "2022",
+        "page": "1"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 129901,
+                "name": "M. P\u00e9rez",
+                "firstname": "Mat\u00edas Dami\u00e1n",
+                "lastname": "P\u00e9rez",
+                "age": 24,
+                "birth": {
+                    "date": "1999-03-03",
+                    "place": "Florencio Varela",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "177 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/129901.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-1.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 34,
+                        "minutes": 3102,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.044117",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 3,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 22,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1549,
+                        "key": 3,
+                        "accuracy": 37
+                    },
+                    "tackles": {
+                        "total": 92,
+                        "blocks": 20,
+                        "interceptions": 72
+                    },
+                    "duels": {
+                        "total": 338,
+                        "won": 205
+                    },
+                    "dribbles": {
+                        "attempts": 28,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 11,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 129902,
+                "name": "A. Bernabei",
+                "firstname": "Alexandro Ezequiel",
+                "lastname": "Bernabei",
+                "age": 23,
+                "birth": {
+                    "date": "2000-09-24",
+                    "place": "Ca\u00f1ada de G\u00f3mez",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "169 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/129902.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 9,
+                        "minutes": 616,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.787500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 5,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 312,
+                        "key": 6,
+                        "accuracy": 29
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 1,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 95,
+                        "won": 50
+                    },
+                    "dribbles": {
+                        "attempts": 31,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10297,
+                "name": "G. De Amores",
+                "firstname": "Guillermo Rafael",
+                "lastname": "De Amores Ravelo",
+                "age": 29,
+                "birth": {
+                    "date": "1994-10-19",
+                    "place": "San Jacinto",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "186 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/10297.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-1.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 2,
+                        "minutes": 224,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 3,
+                        "assists": null,
+                        "saves": 6
+                    },
+                    "passes": {
+                        "total": 74,
+                        "key": null,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 288722,
+                "name": "K. Ben\u00edtez",
+                "firstname": "Kevin Agust\u00edn",
+                "lastname": "Ben\u00edtez",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-05",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "175 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/288722.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-1.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 302927,
+                "name": "F. Ortellado",
+                "firstname": "Franco Tom\u00e1s",
+                "lastname": "Ortellado",
+                "age": 22,
+                "birth": {
+                    "date": "2001-05-30",
+                    "place": "Adrogu\u00e9",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "188 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/302927.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 9,
+                        "minutes": 766,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.987500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 384,
+                        "key": null,
+                        "accuracy": 41
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 5,
+                        "interceptions": 21
+                    },
+                    "duels": {
+                        "total": 75,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 363335,
+                "name": "L. Castillo",
+                "firstname": "Lucio Mariano",
+                "lastname": "Castillo",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-11",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "162 cm",
+                "weight": "56 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/363335.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 363334,
+                "name": "M. Cardillo",
+                "firstname": "Mauricio",
+                "lastname": "Cardillo",
+                "age": 20,
+                "birth": {
+                    "date": "2003-03-11",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "178 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/363334.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 237207,
+                "name": "L. Varaldo",
+                "firstname": "Lucas Ariel",
+                "lastname": "Varaldo",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-24",
+                    "place": "Lomas de Zamora",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "175 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/237207.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 9,
+                        "minutes": 782,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.638461",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 6,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 200,
+                        "key": 4,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 93,
+                        "won": 28
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 115586,
+                "name": "M. Vera",
+                "firstname": "Mat\u00edas Fernando",
+                "lastname": "Vera",
+                "age": 25,
+                "birth": {
+                    "date": "1998-08-20",
+                    "place": "Bernal",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "174 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/115586.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 64,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 23,
+                        "key": null,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6735,
+                "name": "C. Spinelli",
+                "firstname": "Claudio Paul",
+                "lastname": "Spinelli",
+                "age": 26,
+                "birth": {
+                    "date": "1997-01-21",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "180 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/6735.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 2,
+                        "minutes": 280,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.609090",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 2,
+                        "bench": 26
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 63,
+                        "key": 2,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 58,
+                        "won": 23
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 12396,
+                "name": "E. Verhoeven",
+                "firstname": "Ed Matthew",
+                "lastname": "Verhoeven Reyes",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-08",
+                    "place": "Vi\u00f1a del Mar",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "186 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/12396.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 288727,
+                "name": "I. Cechi",
+                "firstname": "Ignacio",
+                "lastname": "Cechi",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-26",
+                    "place": "Guernica",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "179 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/288727.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-1.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 36,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 61,
+                        "key": null,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6201,
+                "name": "L. Di Pl\u00e1cido",
+                "firstname": "Leonel",
+                "lastname": "Di Pl\u00e1cido",
+                "age": 29,
+                "birth": {
+                    "date": "1994-01-28",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "176 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6201.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 18,
+                        "minutes": 1678,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.736000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 6,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 813,
+                        "key": 12,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 59,
+                        "blocks": 2,
+                        "interceptions": 33
+                    },
+                    "duels": {
+                        "total": 232,
+                        "won": 128
+                    },
+                    "dribbles": {
+                        "attempts": 63,
+                        "success": 30,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 295513,
+                "name": "J. L\u00f3pez",
+                "firstname": "Jos\u00e9 Manuel Alberto",
+                "lastname": "L\u00f3pez",
+                "age": 23,
+                "birth": {
+                    "date": "2000-12-06",
+                    "place": "San Lorenzo",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "190 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/295513.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-1.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 12,
+                        "minutes": 1115,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.884615",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 307,
+                        "key": 8,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 213,
+                        "won": 95
+                    },
+                    "dribbles": {
+                        "attempts": 32,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 18,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 237206,
+                "name": "K. Lom\u00f3naco",
+                "firstname": "Kevin Joel",
+                "lastname": "Lom\u00f3naco",
+                "age": 21,
+                "birth": {
+                    "date": "2002-01-08",
+                    "place": "La Plata",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "192 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/237206.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-3.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 5,
+                        "minutes": 338,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "5.980000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 224,
+                        "key": null,
+                        "accuracy": 37
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 3,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 28,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6022,
+                "name": "Y. Cabral",
+                "firstname": "Yonathan Emanuel",
+                "lastname": "Cabral",
+                "age": 31,
+                "birth": {
+                    "date": "1992-05-10",
+                    "place": "Isidro Casanova",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "188 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/6022.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-3.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 18,
+                        "minutes": 1709,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.745454",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 2,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 811,
+                        "key": 7,
+                        "accuracy": 30
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 13,
+                        "interceptions": 35
+                    },
+                    "duels": {
+                        "total": 129,
+                        "won": 82
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 35921,
+                "name": "V. Malcorra",
+                "firstname": "V\u00edctor Ignacio",
+                "lastname": "Malcorra",
+                "age": 36,
+                "birth": {
+                    "date": "1987-07-24",
+                    "place": "R\u00edo Colorado",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "170 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/35921.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 13,
+                        "minutes": 1047,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.992857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 10,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 379,
+                        "key": 28,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 100,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 29,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6213,
+                "name": "N. Pasquini",
+                "firstname": "Nicol\u00e1s",
+                "lastname": "Pasquini",
+                "age": 32,
+                "birth": {
+                    "date": "1991-01-02",
+                    "place": "Los Surgentes",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "172 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/6213.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-1.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 23,
+                        "minutes": 2262,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.872413",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 2,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1045,
+                        "key": 34,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 36,
+                        "blocks": 6,
+                        "interceptions": 27
+                    },
+                    "duels": {
+                        "total": 137,
+                        "won": 71
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6196,
+                "name": "L. Morales",
+                "firstname": "Lautaro Alberto",
+                "lastname": "Morales",
+                "age": 24,
+                "birth": {
+                    "date": "1999-12-16",
+                    "place": "Quilmes",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "187 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/6196.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-3.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 3,
+                        "minutes": 270,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.733333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 19
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 6,
+                        "assists": null,
+                        "saves": 8
+                    },
+                    "passes": {
+                        "total": 81,
+                        "key": null,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 288718,
+                "name": "L. Peraggini",
+                "firstname": "Luciano",
+                "lastname": "Peraggini",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-13",
+                    "place": "Buenos Aires",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "186 cm",
+                "weight": "87 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/288718.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 446,
+                        "name": "Lanus",
+                        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

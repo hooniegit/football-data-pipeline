@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "71",
+        "team": "125",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 10331,
+                "name": "Everaldo",
+                "firstname": "Everaldo",
+                "lastname": "Silva do Nascimento",
+                "age": 29,
+                "birth": {
+                    "date": "1994-05-28",
+                    "place": "Recife",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "172 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/10331.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 125,
+                        "name": "America Mineiro",
+                        "logo": "https://media-3.api-sports.io/football/teams/125.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-3.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 25,
+                        "minutes": 1907,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.903846",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 19,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 30,
+                        "on": 17
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 598,
+                        "key": 36,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 1,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 202,
+                        "won": 92
+                    },
+                    "dribbles": {
+                        "attempts": 49,
+                        "success": 22,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 40,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 78727,
+                "name": "Alo\u00edsio",
+                "firstname": "Alo\u00edsio",
+                "lastname": "dos Santos Gon\u00e7alves",
+                "age": 35,
+                "birth": {
+                    "date": "1988-06-19",
+                    "place": "Ararangu\u00e1",
+                    "country": "Brazil"
+                },
+                "nationality": "China PR",
+                "height": "176 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/78727.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 125,
+                        "name": "America Mineiro",
+                        "logo": "https://media-3.api-sports.io/football/teams/125.png"
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media-1.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media-2.api-sports.io/flags/br.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 22,
+                        "lineups": 10,
+                        "minutes": 947,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.685000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 9,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 178,
+                        "key": 9,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 118,
+                        "won": 38
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

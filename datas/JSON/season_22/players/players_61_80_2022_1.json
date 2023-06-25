@@ -1,0 +1,1991 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "61",
+        "team": "80",
+        "season": "2022",
+        "page": "1"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 691,
+                "name": "Tet\u00ea",
+                "firstname": "Mateus Cardoso",
+                "lastname": "Lemos Martins",
+                "age": 23,
+                "birth": {
+                    "date": "2000-02-15",
+                    "place": "Alvorada",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "175 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/691.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 14,
+                        "minutes": 1114,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.017647",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 12,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 453,
+                        "key": 10,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": null,
+                        "interceptions": 13
+                    },
+                    "duels": {
+                        "total": 137,
+                        "won": 64
+                    },
+                    "dribbles": {
+                        "attempts": 48,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 161914,
+                "name": "Y. Soumar\u00e9",
+                "firstname": "Yahya",
+                "lastname": "Soumar\u00e9",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-23",
+                    "place": "V\u00e9nissieux",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "173 cm",
+                "weight": "55 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/161914.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-1.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2196,
+                "name": "D. Da Silva",
+                "firstname": "Damien",
+                "lastname": "Da Silva",
+                "age": 35,
+                "birth": {
+                    "date": "1988-05-17",
+                    "place": "Talence",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "184 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/2196.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 3,
+                        "minutes": 335,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.642857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 237,
+                        "key": null,
+                        "accuracy": 29
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": 3,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 38,
+                        "won": 23
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 3084,
+                "name": "T. Kadewere",
+                "firstname": "Philana Tinotenda",
+                "lastname": "Kadewere",
+                "age": 27,
+                "birth": {
+                    "date": "1996-01-05",
+                    "place": "Harare",
+                    "country": "Zimbabwe"
+                },
+                "nationality": "Zimbabwe",
+                "height": "183 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/3084.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-3.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 647,
+                "name": "Anthony Lopes",
+                "firstname": "Anthony",
+                "lastname": "Lopes",
+                "age": 33,
+                "birth": {
+                    "date": "1990-10-01",
+                    "place": "Givors",
+                    "country": "France"
+                },
+                "nationality": "Portugal",
+                "height": "184 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/647.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-3.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 32,
+                        "minutes": 2817,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.821875",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 39,
+                        "assists": null,
+                        "saves": 96
+                    },
+                    "passes": {
+                        "total": 887,
+                        "key": null,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 17,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 8551,
+                "name": "R. Riou",
+                "firstname": "R\u00e9my",
+                "lastname": "Riou",
+                "age": 36,
+                "birth": {
+                    "date": "1987-08-06",
+                    "place": "Lyon",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "191 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/8551.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 6,
+                        "minutes": 600,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.828571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 32
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 8,
+                        "assists": null,
+                        "saves": 17
+                    },
+                    "passes": {
+                        "total": 195,
+                        "key": null,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 163063,
+                "name": "K. Bonnevie",
+                "firstname": "Kayne",
+                "lastname": "Bonnevie",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-22",
+                    "place": "Ecully",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "191 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/163063.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-3.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 162466,
+                "name": "S. Diomand\u00e9",
+                "firstname": "Sinaly",
+                "lastname": "Diomand\u00e9",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-09",
+                    "place": null,
+                    "country": "C\u00f4te d'Ivoire"
+                },
+                "nationality": "C\u00f4te d'Ivoire",
+                "height": "184 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/162466.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 22,
+                        "minutes": 1959,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.820833",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 3,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1412,
+                        "key": 3,
+                        "accuracy": 50
+                    },
+                    "tackles": {
+                        "total": 42,
+                        "blocks": 13,
+                        "interceptions": 49
+                    },
+                    "duels": {
+                        "total": 206,
+                        "won": 130
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 287,
+                "name": "D. Lovren",
+                "firstname": "Dejan",
+                "lastname": "Lovren",
+                "age": 34,
+                "birth": {
+                    "date": "1989-07-05",
+                    "place": "Zenica",
+                    "country": "Bosnia and Herzegovina"
+                },
+                "nationality": "Croatia",
+                "height": "188 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/287.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-3.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 17,
+                        "minutes": 1462,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.011764",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1089,
+                        "key": 2,
+                        "accuracy": 56
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 10,
+                        "interceptions": 26
+                    },
+                    "duels": {
+                        "total": 129,
+                        "won": 87
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 10561,
+                "name": "Henrique",
+                "firstname": "Henrique",
+                "lastname": "Silva Milagres",
+                "age": 29,
+                "birth": {
+                    "date": "1994-04-25",
+                    "place": "Rio de Janeiro",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "173 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/10561.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 3,
+                        "minutes": 351,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.733333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 0,
+                        "bench": 29
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 183,
+                        "key": 1,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 53,
+                        "won": 31
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 499,
+                "name": "J. Boateng",
+                "firstname": "J\u00e9r\u00f4me Agyenim",
+                "lastname": "Boateng",
+                "age": 35,
+                "birth": {
+                    "date": "1988-09-03",
+                    "place": "Berlin",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "192 cm",
+                "weight": "90 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/499.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-1.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 6,
+                        "minutes": 431,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.637500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 5,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 222,
+                        "key": 1,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 5,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 334914,
+                "name": "S. Kumbedi",
+                "firstname": "Sa\u00ebl",
+                "lastname": "Kumbedi Nseke",
+                "age": 18,
+                "birth": {
+                    "date": "2005-03-26",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "175 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/334914.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-1.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 14,
+                        "minutes": 1317,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.715000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 3,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 618,
+                        "key": 11,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 47,
+                        "blocks": 7,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 211,
+                        "won": 90
+                    },
+                    "dribbles": {
+                        "attempts": 39,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 37
+                    },
+                    "cards": {
+                        "yellow": 8,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 161907,
+                "name": "M. Gusto",
+                "firstname": "Malo",
+                "lastname": "Gusto",
+                "age": 20,
+                "birth": {
+                    "date": "2003-05-19",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "179 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/161907.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-1.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 4,
+                        "minutes": 305,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.952380",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 3,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1136,
+                        "key": 24,
+                        "accuracy": 46
+                    },
+                    "tackles": {
+                        "total": 42,
+                        "blocks": 5,
+                        "interceptions": 28
+                    },
+                    "duels": {
+                        "total": 181,
+                        "won": 94
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 15,
+                        "minutes": 1297,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.952380",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1136,
+                        "key": 24,
+                        "accuracy": 46
+                    },
+                    "tackles": {
+                        "total": 42,
+                        "blocks": 5,
+                        "interceptions": 28
+                    },
+                    "duels": {
+                        "total": 181,
+                        "won": 94
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 276184,
+                "name": "M. Sarr",
+                "firstname": "Mamadou",
+                "lastname": "Sarr",
+                "age": 18,
+                "birth": {
+                    "date": "2005-08-29",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/276184.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 7,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 8,
+                        "key": null,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 22232,
+                "name": "Thiago Mendes",
+                "firstname": "Thiago Henrique",
+                "lastname": "Mendes Ribeiro",
+                "age": 31,
+                "birth": {
+                    "date": "1992-03-15",
+                    "place": "S\u00e3o Lu\u00eds",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "176 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/22232.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-3.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 22,
+                        "minutes": 2063,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 8,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1653,
+                        "key": 10,
+                        "accuracy": 46
+                    },
+                    "tackles": {
+                        "total": 48,
+                        "blocks": 8,
+                        "interceptions": 47
+                    },
+                    "duels": {
+                        "total": 185,
+                        "won": 112
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 193952,
+                "name": "J. Lepenant",
+                "firstname": "Johann Th\u00e9o Tom",
+                "lastname": "Lepenant",
+                "age": 21,
+                "birth": {
+                    "date": "2002-10-22",
+                    "place": "Granville",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "176 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/193952.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-3.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 21,
+                        "minutes": 1933,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.651612",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 10,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1287,
+                        "key": 10,
+                        "accuracy": 37
+                    },
+                    "tackles": {
+                        "total": 58,
+                        "blocks": 5,
+                        "interceptions": 28
+                    },
+                    "duels": {
+                        "total": 271,
+                        "won": 119
+                    },
+                    "dribbles": {
+                        "attempts": 42,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 35
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 270811,
+                "name": "M. El Arouch",
+                "firstname": "Mohamed",
+                "lastname": "El Arouch",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-06",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "166 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/270811.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 519,
+                "name": "C. Tolisso",
+                "firstname": "Corentin",
+                "lastname": "Tolisso",
+                "age": 29,
+                "birth": {
+                    "date": "1994-08-03",
+                    "place": "Tarare",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "181 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/519.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 25,
+                        "minutes": 2045,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.133333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 14,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1908,
+                        "key": 33,
+                        "accuracy": 56
+                    },
+                    "tackles": {
+                        "total": 44,
+                        "blocks": 5,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 240,
+                        "won": 124
+                    },
+                    "dribbles": {
+                        "attempts": 14,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 38,
+                        "committed": 28
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 236955,
+                "name": "A. Sarr",
+                "firstname": "Amin",
+                "lastname": "Sarr",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-11",
+                    "place": "Malm\u00f6",
+                    "country": "Sweden"
+                },
+                "nationality": "Sweden",
+                "height": "188 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/236955.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-1.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 6,
+                        "minutes": 536,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.530769",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 5,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 137,
+                        "key": 4,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 75,
+                        "won": 27
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 666,
+                "name": "M. Demb\u00e9l\u00e9",
+                "firstname": "Moussa",
+                "lastname": "Demb\u00e9l\u00e9",
+                "age": 27,
+                "birth": {
+                    "date": "1996-07-12",
+                    "place": "Pontoise",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "183 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/666.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 80,
+                        "name": "Lyon",
+                        "logo": "https://media-3.api-sports.io/football/teams/80.png"
+                    },
+                    "league": {
+                        "id": 61,
+                        "name": "Ligue 1",
+                        "country": "France",
+                        "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                        "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 8,
+                        "minutes": 865,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.569565",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 5,
+                        "bench": 25
+                    },
+                    "shots": {
+                        "total": 24,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 188,
+                        "key": 4,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 107,
+                        "won": 44
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

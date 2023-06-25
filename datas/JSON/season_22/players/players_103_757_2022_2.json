@@ -1,0 +1,1854 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "103",
+        "team": "757",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 17,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 71711,
+                "name": "T. Larsen",
+                "firstname": "Tor Erik",
+                "lastname": "Valderhaug Larsen",
+                "age": 25,
+                "birth": {
+                    "date": "1998-09-28",
+                    "place": null,
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/71711.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-3.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-1.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-2.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 39277,
+                "name": "J. Moe",
+                "firstname": "Jeppe",
+                "lastname": "Arctander Moe",
+                "age": 28,
+                "birth": {
+                    "date": "1995-08-03",
+                    "place": "Oslo",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/39277.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-1.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-2.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-3.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 0,
+                        "minutes": 95,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.412500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 0,
+                        "bench": 26
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 49,
+                        "key": 1,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 9,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 314285,
+                "name": "N. Hopland",
+                "firstname": "Nikolai",
+                "lastname": "S\u00f8yset Hopland",
+                "age": 19,
+                "birth": {
+                    "date": "2004-07-24",
+                    "place": null,
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "186 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/314285.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-3.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-1.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-1.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 9,
+                        "minutes": 871,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.871428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 515,
+                        "key": 3,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 7,
+                        "interceptions": 18
+                    },
+                    "duels": {
+                        "total": 82,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-2.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-1.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-1.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 21,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.871428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 515,
+                        "key": 3,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 7,
+                        "interceptions": 18
+                    },
+                    "duels": {
+                        "total": 82,
+                        "won": 41
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 48117,
+                "name": "D. F\u00e4llman",
+                "firstname": "David Thomas",
+                "lastname": "F\u00e4llman",
+                "age": 33,
+                "birth": {
+                    "date": "1990-02-04",
+                    "place": null,
+                    "country": "Sweden"
+                },
+                "nationality": "Sweden",
+                "height": "187 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/48117.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-2.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-2.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-2.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 26,
+                        "minutes": 2286,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.784000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 3,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1059,
+                        "key": 3,
+                        "accuracy": 37
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 15,
+                        "interceptions": 23
+                    },
+                    "duels": {
+                        "total": 131,
+                        "won": 78
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 98612,
+                "name": "J. Kitolano",
+                "firstname": "John",
+                "lastname": "Shuguto Kitolano",
+                "age": 24,
+                "birth": {
+                    "date": "1999-10-18",
+                    "place": null,
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/98612.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-1.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-3.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-1.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 5,
+                        "minutes": 453,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.725000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 2,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 161,
+                        "key": 7,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 48,
+                        "won": 23
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15739,
+                "name": "A. Andersen",
+                "firstname": "Alexander Juel",
+                "lastname": "Andersen",
+                "age": 32,
+                "birth": {
+                    "date": "1991-01-29",
+                    "place": "Viborg",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "190 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/15739.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-2.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-2.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-3.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 6,
+                        "minutes": 485,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.770588",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 605,
+                        "key": 2,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 15,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 104,
+                        "won": 58
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-1.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-3.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-2.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 13,
+                        "minutes": 1151,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.770588",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 3,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 605,
+                        "key": 2,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 15,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 104,
+                        "won": 58
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 318921,
+                "name": "S. Holte",
+                "firstname": "Stian",
+                "lastname": "Aar\u00f8nes Holte",
+                "age": 20,
+                "birth": {
+                    "date": "2003-04-15",
+                    "place": null,
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/318921.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-2.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-2.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-3.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-2.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-3.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-2.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 362898,
+                "name": "C. Breivik",
+                "firstname": "Christian",
+                "lastname": "Mork Breivik",
+                "age": 19,
+                "birth": {
+                    "date": "2004-07-31",
+                    "place": null,
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/362898.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-2.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-1.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-3.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 57253,
+                "name": "E. Segberg",
+                "firstname": "Erlend",
+                "lastname": "Segberg",
+                "age": 26,
+                "birth": {
+                    "date": "1997-04-12",
+                    "place": "Kristiansand",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "183 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/57253.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-2.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-1.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-1.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 10,
+                        "minutes": 866,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.850000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 4,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 478,
+                        "key": 4,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 3,
+                        "interceptions": 20
+                    },
+                    "duels": {
+                        "total": 68,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 39213,
+                "name": "K. Barmen",
+                "firstname": "Kristoffer",
+                "lastname": "Ramos Barmen",
+                "age": 30,
+                "birth": {
+                    "date": "1993-08-19",
+                    "place": "Bergen",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "190 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/39213.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-2.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-2.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-3.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 20,
+                        "minutes": 1700,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.721739",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 10,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 777,
+                        "key": 7,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 23,
+                        "blocks": 4,
+                        "interceptions": 33
+                    },
+                    "duels": {
+                        "total": 135,
+                        "won": 75
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 39321,
+                "name": "K. \u00d8demarksbakken",
+                "firstname": "Kristoffer",
+                "lastname": "\u00d8demarksbakken",
+                "age": 28,
+                "birth": {
+                    "date": "1995-12-05",
+                    "place": "Maura",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "181 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/39321.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-3.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-1.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-2.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 11,
+                        "minutes": 1129,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.704000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 17,
+                        "out": 9,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 238,
+                        "key": 17,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": null,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 137,
+                        "won": 56
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 57152,
+                "name": "M. Karlsbakk",
+                "firstname": "Markus",
+                "lastname": "Seehusen Karlsbakk",
+                "age": 23,
+                "birth": {
+                    "date": "2000-05-07",
+                    "place": "\u00c5lesund",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "180 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/57152.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-1.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-2.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-1.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 265358,
+                "name": "K. \u00d8dven",
+                "firstname": "Kristoffer",
+                "lastname": "Strand \u00d8dven",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-10",
+                    "place": null,
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/265358.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-1.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-2.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-2.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 317446,
+                "name": "H. Melland",
+                "firstname": "Henrik",
+                "lastname": "Molv\u00e6r Melland",
+                "age": 18,
+                "birth": {
+                    "date": "2005-03-29",
+                    "place": null,
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/317446.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-3.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-3.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-3.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 1,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 15594,
+                "name": "A. Ammitzb\u00f8ll",
+                "firstname": "Alexander",
+                "lastname": "Ballegaard Ammitzb\u00f8ll",
+                "age": 24,
+                "birth": {
+                    "date": "1999-02-17",
+                    "place": "Skanderborg",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "187 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/15594.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-2.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-1.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-2.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 2,
+                        "minutes": 208,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.400000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 2,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 31,
+                        "key": 1,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 27,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 39322,
+                "name": "E. Moses",
+                "firstname": "Ebiye",
+                "lastname": "Moses",
+                "age": 26,
+                "birth": {
+                    "date": "1997-04-28",
+                    "place": "Warri",
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": "185 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/39322.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-2.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-1.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-2.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 10,
+                        "minutes": 756,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.883333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 9,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 186,
+                        "key": 8,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 95,
+                        "won": 36
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 314290,
+                "name": "B. Kristensen",
+                "firstname": "Bj\u00f8rn Martin",
+                "lastname": "Kristensen",
+                "age": 21,
+                "birth": {
+                    "date": "2002-05-04",
+                    "place": null,
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/314290.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 757,
+                        "name": "Aalesund",
+                        "logo": "https://media-1.api-sports.io/football/teams/757.png"
+                    },
+                    "league": {
+                        "id": 103,
+                        "name": "Eliteserien",
+                        "country": "Norway",
+                        "logo": "https://media-2.api-sports.io/football/leagues/103.png",
+                        "flag": "https://media-2.api-sports.io/flags/no.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 1,
+                        "minutes": 121,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.550000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 1,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 20,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 19,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

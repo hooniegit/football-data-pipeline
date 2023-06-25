@@ -1,0 +1,682 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "369",
+        "team": "4219",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 7,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 34320,
+                "name": "S. Tursunov",
+                "firstname": "Sanjar",
+                "lastname": "Tursunov",
+                "age": 37,
+                "birth": {
+                    "date": "1986-12-29",
+                    "place": "Tashkent",
+                    "country": "Uzbekistan"
+                },
+                "nationality": "Uzbekistan",
+                "height": "174 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/34320.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4219,
+                        "name": "Olmaliq",
+                        "logo": "https://media-1.api-sports.io/football/teams/4219.png"
+                    },
+                    "league": {
+                        "id": 369,
+                        "name": "Super League",
+                        "country": "Uzbekistan",
+                        "logo": "https://media-2.api-sports.io/football/leagues/369.png",
+                        "flag": "https://media-2.api-sports.io/flags/uz.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 20,
+                        "lineups": 17,
+                        "minutes": 1315,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 14,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 120777,
+                "name": "M. Boakye",
+                "firstname": "Martin",
+                "lastname": "Boakye",
+                "age": 28,
+                "birth": {
+                    "date": "1995-02-10",
+                    "place": null,
+                    "country": "Italy"
+                },
+                "nationality": "Italy",
+                "height": "190 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/120777.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4219,
+                        "name": "Olmaliq",
+                        "logo": "https://media-1.api-sports.io/football/teams/4219.png"
+                    },
+                    "league": {
+                        "id": 369,
+                        "name": "Super League",
+                        "country": "Uzbekistan",
+                        "logo": "https://media-3.api-sports.io/football/leagues/369.png",
+                        "flag": "https://media-3.api-sports.io/flags/uz.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 18,
+                        "minutes": 1648,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 13,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 12,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 72124,
+                "name": "K. Giyosov",
+                "firstname": "Khurshid",
+                "lastname": "Giyosov",
+                "age": 28,
+                "birth": {
+                    "date": "1995-04-13",
+                    "place": null,
+                    "country": "Uzbekistan"
+                },
+                "nationality": "Uzbekistan",
+                "height": "178 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/72124.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4219,
+                        "name": "Olmaliq",
+                        "logo": "https://media-1.api-sports.io/football/teams/4219.png"
+                    },
+                    "league": {
+                        "id": 369,
+                        "name": "Super League",
+                        "country": "Uzbekistan",
+                        "logo": "https://media-1.api-sports.io/football/leagues/369.png",
+                        "flag": "https://media-1.api-sports.io/flags/uz.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 26,
+                        "minutes": 2296,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 7,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 7,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 73430,
+                "name": "M. Mirakhmadov",
+                "firstname": "Mirjakhon",
+                "lastname": "Mirakhmadov",
+                "age": 26,
+                "birth": {
+                    "date": "1997-07-15",
+                    "place": null,
+                    "country": "Uzbekistan"
+                },
+                "nationality": "Uzbekistan",
+                "height": "185 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/73430.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4219,
+                        "name": "Olmaliq",
+                        "logo": "https://media-1.api-sports.io/football/teams/4219.png"
+                    },
+                    "league": {
+                        "id": 369,
+                        "name": "Super League",
+                        "country": "Uzbekistan",
+                        "logo": "https://media-2.api-sports.io/football/leagues/369.png",
+                        "flag": "https://media-1.api-sports.io/flags/uz.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 5,
+                        "minutes": 442,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 5,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 49078,
+                "name": "A. Filiposyan",
+                "firstname": "Artyom",
+                "lastname": "Filiposyan",
+                "age": 35,
+                "birth": {
+                    "date": "1988-01-06",
+                    "place": null,
+                    "country": "Uzbekistan"
+                },
+                "nationality": "Uzbekistan",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/49078.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4219,
+                        "name": "Olmaliq",
+                        "logo": "https://media-1.api-sports.io/football/teams/4219.png"
+                    },
+                    "league": {
+                        "id": 369,
+                        "name": "Super League",
+                        "country": "Uzbekistan",
+                        "logo": "https://media-1.api-sports.io/football/leagues/369.png",
+                        "flag": "https://media-3.api-sports.io/flags/uz.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 7,
+                        "minutes": 529,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 318152,
+                "name": "S. Abdug\u2018aniev",
+                "firstname": "Sunnatillo",
+                "lastname": "Abdug\u2018aniev",
+                "age": 22,
+                "birth": {
+                    "date": "2001-03-16",
+                    "place": null,
+                    "country": "Uzbekistan"
+                },
+                "nationality": "Uzbekistan",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/318152.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4219,
+                        "name": "Olmaliq",
+                        "logo": "https://media-1.api-sports.io/football/teams/4219.png"
+                    },
+                    "league": {
+                        "id": 369,
+                        "name": "Super League",
+                        "country": "Uzbekistan",
+                        "logo": "https://media-1.api-sports.io/football/leagues/369.png",
+                        "flag": "https://media-3.api-sports.io/flags/uz.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 73555,
+                "name": "O. Kasyan",
+                "firstname": "Oleksandr",
+                "lastname": "Kasyan",
+                "age": 34,
+                "birth": {
+                    "date": "1989-01-27",
+                    "place": "Bezimenne",
+                    "country": "Ukraine"
+                },
+                "nationality": "Ukraine",
+                "height": "185 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/73555.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 4219,
+                        "name": "Olmaliq",
+                        "logo": "https://media-3.api-sports.io/football/teams/4219.png"
+                    },
+                    "league": {
+                        "id": 369,
+                        "name": "Super League",
+                        "country": "Uzbekistan",
+                        "logo": "https://media-2.api-sports.io/football/leagues/369.png",
+                        "flag": "https://media-2.api-sports.io/flags/uz.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 3,
+                        "minutes": 277,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 3,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

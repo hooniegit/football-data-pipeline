@@ -1,0 +1,302 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "239",
+        "team": "1141",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 13681,
+                "name": "K. Londo\u00f1o",
+                "firstname": "Kevin Alexander",
+                "lastname": "Londo\u00f1o Asprilla",
+                "age": 30,
+                "birth": {
+                    "date": "1993-11-23",
+                    "place": "Bello",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "180 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13681.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1141,
+                        "name": "Alianza Petrolera",
+                        "logo": "https://media-1.api-sports.io/football/teams/1141.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 34,
+                        "minutes": 2993,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.940000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 8,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 34,
+                        "on": 19
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1167,
+                        "key": 73,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 6,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 202,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 25,
+                        "success": 14,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13608,
+                "name": "J. Riquett",
+                "firstname": "J\u00e1ider Alfonso",
+                "lastname": "Riquett Molina",
+                "age": 33,
+                "birth": {
+                    "date": "1990-05-10",
+                    "place": "Riohacha",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "188 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/13608.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1141,
+                        "name": "Alianza Petrolera",
+                        "logo": "https://media-3.api-sports.io/football/teams/1141.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-2.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 17,
+                        "lineups": 14,
+                        "minutes": 1186,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.787500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 3,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 503,
+                        "key": null,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 11,
+                        "interceptions": 21
+                    },
+                    "duels": {
+                        "total": 58,
+                        "won": 39
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13145,
+                "name": "Y. Hurtado",
+                "firstname": "Yhorman David",
+                "lastname": "Hurtado Torres",
+                "age": 27,
+                "birth": {
+                    "date": "1996-12-14",
+                    "place": "Chigorod\u00f3",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "173 cm",
+                "weight": "67 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13145.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 1141,
+                        "name": "Alianza Petrolera",
+                        "logo": "https://media-3.api-sports.io/football/teams/1141.png"
+                    },
+                    "league": {
+                        "id": 239,
+                        "name": "Primera A",
+                        "country": "Colombia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                        "flag": "https://media-1.api-sports.io/flags/co.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 6,
+                        "minutes": 559,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.685000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 547,
+                        "key": 17,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 1,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 88,
+                        "won": 46
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

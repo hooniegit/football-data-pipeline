@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "262",
+        "team": "2285",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 35780,
+                "name": "C. Orrant\u00eda",
+                "firstname": "Carlos Emilio",
+                "lastname": "Orrant\u00eda Trevi\u00f1o",
+                "age": 32,
+                "birth": {
+                    "date": "1991-02-01",
+                    "place": "Ciudad de M\u00e9xico",
+                    "country": "Mexico"
+                },
+                "nationality": "Mexico",
+                "height": "173 cm",
+                "weight": "61 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/35780.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2285,
+                        "name": "Santos Laguna",
+                        "logo": "https://media-3.api-sports.io/football/teams/2285.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-3.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 17,
+                        "minutes": 1382,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.823529",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 6,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 436,
+                        "key": 17,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 28,
+                        "blocks": 3,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 95,
+                        "won": 45
+                    },
+                    "dribbles": {
+                        "attempts": 16,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51833,
+                "name": "F. Pizzichillo",
+                "firstname": "Franco Nicol\u00e1s",
+                "lastname": "Pizzichillo Fern\u00e1ndez",
+                "age": 27,
+                "birth": {
+                    "date": "1996-01-03",
+                    "place": "Paysand\u00fa",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "177 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/51833.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 2285,
+                        "name": "Santos Laguna",
+                        "logo": "https://media-1.api-sports.io/football/teams/2285.png"
+                    },
+                    "league": {
+                        "id": 262,
+                        "name": "Liga MX",
+                        "country": "Mexico",
+                        "logo": "https://media-3.api-sports.io/football/leagues/262.png",
+                        "flag": "https://media-3.api-sports.io/flags/mx.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 2,
+                        "minutes": 120,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.633333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 20,
+                        "key": 1,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

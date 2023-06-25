@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "235",
+        "team": "779",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 162504,
+                "name": "A. Siljanov",
+                "firstname": "Aleksandr",
+                "lastname": "Siljanov",
+                "age": 22,
+                "birth": {
+                    "date": "2001-02-17",
+                    "place": "Moskva",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "185 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/162504.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 779,
+                        "name": "FC Rostov",
+                        "logo": "https://media-3.api-sports.io/football/teams/779.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 29,
+                        "minutes": 2543,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.841379",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 7,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1013,
+                        "key": 11,
+                        "accuracy": 26
+                    },
+                    "tackles": {
+                        "total": 34,
+                        "blocks": 13,
+                        "interceptions": 39
+                    },
+                    "duels": {
+                        "total": 173,
+                        "won": 114
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 31,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 53528,
+                "name": "D. Glebov",
+                "firstname": "Danil",
+                "lastname": "Glebov",
+                "age": 24,
+                "birth": {
+                    "date": "1999-11-03",
+                    "place": "Tomsk",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "178 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/53528.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 779,
+                        "name": "FC Rostov",
+                        "logo": "https://media-2.api-sports.io/football/teams/779.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-3.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 28,
+                        "minutes": 2472,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.029629",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1181,
+                        "key": 22,
+                        "accuracy": 35
+                    },
+                    "tackles": {
+                        "total": 41,
+                        "blocks": 13,
+                        "interceptions": 46
+                    },
+                    "duels": {
+                        "total": 160,
+                        "won": 91
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 25,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 66261,
+                "name": "N. Komlichenko",
+                "firstname": "Nikolay",
+                "lastname": "Komlichenko",
+                "age": 28,
+                "birth": {
+                    "date": "1995-06-29",
+                    "place": "Plastunovskaya",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "190 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/66261.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 779,
+                        "name": "FC Rostov",
+                        "logo": "https://media-2.api-sports.io/football/teams/779.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 26,
+                        "minutes": 2134,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.220000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 18,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 35,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 10,
+                        "conceded": 0,
+                        "assists": 6,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 475,
+                        "key": 28,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": 2,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 302,
+                        "won": 152
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 61,
+                        "committed": 49
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 55390,
+                "name": "M. Rudakov",
+                "firstname": "Maksim",
+                "lastname": "Rudakov",
+                "age": 27,
+                "birth": {
+                    "date": "1996-01-22",
+                    "place": "Sankt-Peterburg",
+                    "country": "Russia"
+                },
+                "nationality": "Russia",
+                "height": "190 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/55390.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 779,
+                        "name": "FC Rostov",
+                        "logo": "https://media-1.api-sports.io/football/teams/779.png"
+                    },
+                    "league": {
+                        "id": 235,
+                        "name": "Premier League",
+                        "country": "Russia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/235.png",
+                        "flag": "https://media-2.api-sports.io/flags/ru.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

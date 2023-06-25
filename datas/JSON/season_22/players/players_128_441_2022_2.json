@@ -1,0 +1,1917 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "128",
+        "team": "441",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 61895,
+                "name": "S. Mele",
+                "firstname": "Santiago Andr\u00e9s",
+                "lastname": "Mele Castanero",
+                "age": 26,
+                "birth": {
+                    "date": "1997-09-06",
+                    "place": "Montevideo",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "184 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/61895.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-2.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 32,
+                        "lineups": 31,
+                        "minutes": 2860,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 36,
+                        "assists": null,
+                        "saves": 87
+                    },
+                    "passes": {
+                        "total": 743,
+                        "key": 1,
+                        "accuracy": 14
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6106,
+                "name": "F. Calder\u00f3n",
+                "firstname": "Franco Ezequiel",
+                "lastname": "Calder\u00f3n",
+                "age": 25,
+                "birth": {
+                    "date": "1998-05-13",
+                    "place": "Hermoso Campo",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "184 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6106.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-3.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 34,
+                        "minutes": 3039,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.871875",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 20,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1103,
+                        "key": 7,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 45,
+                        "blocks": 20,
+                        "interceptions": 50
+                    },
+                    "duels": {
+                        "total": 250,
+                        "won": 147
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 23
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6107,
+                "name": "C. Corval\u00e1n",
+                "firstname": "Claudio Gast\u00f3n",
+                "lastname": "Corval\u00e1n",
+                "age": 34,
+                "birth": {
+                    "date": "1989-03-23",
+                    "place": "Santa Isabel",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "179 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/6107.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-3.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 27,
+                        "minutes": 2329,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.011111",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 3,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 13,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 755,
+                        "key": 9,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 41,
+                        "blocks": 10,
+                        "interceptions": 50
+                    },
+                    "duels": {
+                        "total": 182,
+                        "won": 110
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 22,
+                        "committed": 25
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 195765,
+                "name": "F. Gerometta",
+                "firstname": "Francisco Joel",
+                "lastname": "Gerometta",
+                "age": 24,
+                "birth": {
+                    "date": "1999-09-01",
+                    "place": "Villa Ocampo",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "175 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/195765.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-1.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 12,
+                        "minutes": 914,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.422222",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 7,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 206,
+                        "key": 8,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 24,
+                        "blocks": 1,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 80,
+                        "won": 40
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6111,
+                "name": "F. Vera",
+                "firstname": "Federico Gabriel",
+                "lastname": "Vera",
+                "age": 25,
+                "birth": {
+                    "date": "1998-03-24",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "177 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/6111.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-2.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 22,
+                        "minutes": 1936,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.779166",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 10,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 566,
+                        "key": 9,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 49,
+                        "blocks": 4,
+                        "interceptions": 40
+                    },
+                    "duels": {
+                        "total": 206,
+                        "won": 108
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 18,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 27,
+                        "committed": 29
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 376599,
+                "name": "J. Ludue\u00f1a",
+                "firstname": "Juan",
+                "lastname": "Ludue\u00f1a",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-11",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/376599.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-1.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 358381,
+                "name": "N. Paz",
+                "firstname": "Nicol\u00e1s Andr\u00e9s",
+                "lastname": "Paz",
+                "age": 21,
+                "birth": {
+                    "date": "2002-10-16",
+                    "place": "Santiago del Estero",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/358381.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-3.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 29,
+                        "key": null,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 10,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 288704,
+                "name": "L. Esquivel",
+                "firstname": "Lucas \u00c1ngel",
+                "lastname": "Esquivel",
+                "age": 22,
+                "birth": {
+                    "date": "2001-10-14",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/288704.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-3.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 19,
+                        "minutes": 1799,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.865217",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 7,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 693,
+                        "key": 22,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 58,
+                        "blocks": 4,
+                        "interceptions": 38
+                    },
+                    "duels": {
+                        "total": 256,
+                        "won": 126
+                    },
+                    "dribbles": {
+                        "attempts": 59,
+                        "success": 28,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 30
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 201827,
+                "name": "E. Rold\u00e1n",
+                "firstname": "Enzo Mart\u00edn",
+                "lastname": "Rold\u00e1n",
+                "age": 23,
+                "birth": {
+                    "date": "2000-12-08",
+                    "place": "Villa Mercedes",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/201827.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-1.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 29,
+                        "lineups": 15,
+                        "minutes": 1546,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.826923",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 13,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 586,
+                        "key": 16,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 5,
+                        "interceptions": 18
+                    },
+                    "duels": {
+                        "total": 152,
+                        "won": 86
+                    },
+                    "dribbles": {
+                        "attempts": 37,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 196747,
+                "name": "E. Ca\u00f1ete",
+                "firstname": "Mart\u00edn Ezequiel",
+                "lastname": "Ca\u00f1ete",
+                "age": 24,
+                "birth": {
+                    "date": "1999-06-17",
+                    "place": "Puerto Rico",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "175 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/196747.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-1.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 9,
+                        "minutes": 805,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.958823",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 8,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 395,
+                        "key": 24,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 5,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 147,
+                        "won": 71
+                    },
+                    "dribbles": {
+                        "attempts": 28,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 355256,
+                "name": "M. Del Blanco",
+                "firstname": "Mateo",
+                "lastname": "Del Blanco",
+                "age": 20,
+                "birth": {
+                    "date": "2003-10-31",
+                    "place": "Santa Fe",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/355256.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-2.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 288707,
+                "name": "K. Zen\u00f3n",
+                "firstname": "Kevin Andr\u00e9s",
+                "lastname": "Zen\u00f3n",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-30",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/288707.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-1.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 10,
+                        "minutes": 1112,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 20,
+                        "out": 8,
+                        "bench": 29
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 254,
+                        "key": 25,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": null,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 132,
+                        "won": 43
+                    },
+                    "dribbles": {
+                        "attempts": 43,
+                        "success": 13,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6121,
+                "name": "I. Machuca",
+                "firstname": "Javier Imanol",
+                "lastname": "Machuca",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-15",
+                    "place": "Rold\u00e1n",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/6121.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-3.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 21,
+                        "minutes": 1832,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.633333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 20,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 413,
+                        "key": 34,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 36,
+                        "blocks": 1,
+                        "interceptions": 17
+                    },
+                    "duels": {
+                        "total": 237,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 82,
+                        "success": 42,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 51409,
+                "name": "M. Luna",
+                "firstname": "Mauro",
+                "lastname": "Luna Diale",
+                "age": 24,
+                "birth": {
+                    "date": "1999-04-26",
+                    "place": "Merlo",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "173 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/51409.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-2.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 29,
+                        "minutes": 2491,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.826470",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 20,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 24,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 692,
+                        "key": 31,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 55,
+                        "blocks": 5,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 393,
+                        "won": 191
+                    },
+                    "dribbles": {
+                        "attempts": 80,
+                        "success": 47,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 46,
+                        "committed": 32
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 70638,
+                "name": "J. Marabel",
+                "firstname": "Junior Osvaldo",
+                "lastname": "Marabel Jara",
+                "age": 25,
+                "birth": {
+                    "date": "1998-03-26",
+                    "place": null,
+                    "country": "Paraguay"
+                },
+                "nationality": "Paraguay",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/70638.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-1.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 10,
+                        "minutes": 895,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.638461",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 7,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 21,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 215,
+                        "key": 9,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 136,
+                        "won": 53
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 13524,
+                "name": "B. Castrill\u00f3n",
+                "firstname": "Bryan David",
+                "lastname": "Castrill\u00f3n G\u00f3mez",
+                "age": 24,
+                "birth": {
+                    "date": "1999-03-30",
+                    "place": "Medell\u00edn",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "169 cm",
+                "weight": "57 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13524.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-1.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 16,
+                        "minutes": 1450,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.740909",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 7,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 30,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 302,
+                        "key": 16,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 29,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 191,
+                        "won": 88
+                    },
+                    "dribbles": {
+                        "attempts": 75,
+                        "success": 33,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 11
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 355276,
+                "name": "T. Gonz\u00e1lez",
+                "firstname": "Tom\u00e1s",
+                "lastname": "Gonz\u00e1lez",
+                "age": 20,
+                "birth": {
+                    "date": "2003-05-18",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/355276.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-3.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 0,
+                        "minutes": 151,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.744444",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 0,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 60,
+                        "key": 6,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 48,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 5703,
+                "name": "D. Ju\u00e1rez",
+                "firstname": "Daniel Eduardo",
+                "lastname": "Ju\u00e1rez",
+                "age": 22,
+                "birth": {
+                    "date": "2001-07-30",
+                    "place": null,
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/5703.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-3.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 21,
+                        "lineups": 13,
+                        "minutes": 946,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.877777",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 13,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 8
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 222,
+                        "key": 13,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 20,
+                        "blocks": 2,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 129,
+                        "won": 65
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 180588,
+                "name": "S. Jaurena",
+                "firstname": "Sebasti\u00e1n Jonathan",
+                "lastname": "Jaurena",
+                "age": 24,
+                "birth": {
+                    "date": "1999-07-22",
+                    "place": "Mar del Plata",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "174 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/180588.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-1.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 2,
+                        "minutes": 261,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.666666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 2,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 81,
+                        "key": null,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 2,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 21,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 6119,
+                "name": "G. Gonz\u00e1lez",
+                "firstname": "Gast\u00f3n Nicol\u00e1s",
+                "lastname": "Gonz\u00e1lez",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-27",
+                    "place": "Santa Fe",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "182 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/6119.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 441,
+                        "name": "Union Santa Fe",
+                        "logo": "https://media-1.api-sports.io/football/teams/441.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-2.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 10,
+                        "minutes": 914,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.990000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 209,
+                        "key": 21,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 1,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 104,
+                        "won": 53
+                    },
+                    "dribbles": {
+                        "attempts": 40,
+                        "success": 21,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

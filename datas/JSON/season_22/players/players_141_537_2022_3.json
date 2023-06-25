@@ -1,0 +1,397 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "141",
+        "team": "537",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 47404,
+                "name": "V. Kravets",
+                "firstname": "Vasyl",
+                "lastname": "Kravets",
+                "age": 26,
+                "birth": {
+                    "date": "1997-08-20",
+                    "place": "Horodok",
+                    "country": "Ukraine"
+                },
+                "nationality": "Ukraine",
+                "height": "183 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/47404.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 537,
+                        "name": "Leganes",
+                        "logo": "https://media-2.api-sports.io/football/teams/537.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 1,
+                        "minutes": 106,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.800000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 52,
+                        "key": 2,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 10,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 46849,
+                "name": "Javi Hern\u00e1ndez",
+                "firstname": "Javier",
+                "lastname": "Hern\u00e1ndez Cabrera",
+                "age": 25,
+                "birth": {
+                    "date": "1998-05-02",
+                    "place": "Jerez de la Frontera",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "185 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/46849.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 537,
+                        "name": "Leganes",
+                        "logo": "https://media-1.api-sports.io/football/teams/537.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-2.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1839,
+                "name": "R. Durmisi",
+                "firstname": "Riza",
+                "lastname": "Durmisi",
+                "age": 29,
+                "birth": {
+                    "date": "1994-01-08",
+                    "place": "Ish\u00f8j",
+                    "country": "Denmark"
+                },
+                "nationality": "Denmark",
+                "height": "168 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/1839.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 537,
+                        "name": "Leganes",
+                        "logo": "https://media-2.api-sports.io/football/teams/537.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 5,
+                        "minutes": 549,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.770000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 4,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 233,
+                        "key": 9,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 39,
+                        "won": 22
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 184608,
+                "name": "Manu Garrido",
+                "firstname": "Manuel",
+                "lastname": "Garrido \u00c1lvarez",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-10",
+                    "place": "Madrid",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "190 cm",
+                "weight": "87 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/184608.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 537,
+                        "name": "Leganes",
+                        "logo": "https://media-2.api-sports.io/football/teams/537.png"
+                    },
+                    "league": {
+                        "id": 141,
+                        "name": "Segunda Divisi\u00f3n",
+                        "country": "Spain",
+                        "logo": "https://media-3.api-sports.io/football/leagues/141.png",
+                        "flag": "https://media-3.api-sports.io/flags/es.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 8,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

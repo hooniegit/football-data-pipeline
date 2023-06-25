@@ -1,0 +1,682 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "188",
+        "team": "942",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 7,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 6938,
+                "name": "B. Waine",
+                "firstname": "Benjamin Peter",
+                "lastname": "Waine",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-11",
+                    "place": null,
+                    "country": "New Zealand"
+                },
+                "nationality": "New Zealand",
+                "height": "179 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/6938.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 942,
+                        "name": "Wellington Phoenix",
+                        "logo": "https://media-3.api-sports.io/football/teams/942.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 3,
+                        "minutes": 349,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.825000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 58,
+                        "key": 2,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 43,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 94360,
+                "name": "A. Paulsen",
+                "firstname": "Alexander Noah",
+                "lastname": "Paulsen",
+                "age": 21,
+                "birth": {
+                    "date": "2002-07-04",
+                    "place": null,
+                    "country": "New Zealand"
+                },
+                "nationality": "New Zealand",
+                "height": "193 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/94360.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 942,
+                        "name": "Wellington Phoenix",
+                        "logo": "https://media-3.api-sports.io/football/teams/942.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 27
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 2
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 376245,
+                "name": "I. Hughes",
+                "firstname": "Isaac Robert",
+                "lastname": "Hughes",
+                "age": 19,
+                "birth": {
+                    "date": "2004-03-25",
+                    "place": null,
+                    "country": "New Zealand"
+                },
+                "nationality": "New Zealand",
+                "height": "183 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/376245.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 942,
+                        "name": "Wellington Phoenix",
+                        "logo": "https://media-3.api-sports.io/football/teams/942.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-1.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 180160,
+                "name": "M. Lorenz",
+                "firstname": "Marco Moni",
+                "lastname": "Lorenz",
+                "age": 20,
+                "birth": {
+                    "date": "2003-10-17",
+                    "place": null,
+                    "country": "New Zealand"
+                },
+                "nationality": "New Zealand",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/180160.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 942,
+                        "name": "Wellington Phoenix",
+                        "logo": "https://media-1.api-sports.io/football/teams/942.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-1.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 210165,
+                "name": "F. Surman",
+                "firstname": "Finn",
+                "lastname": "Surman",
+                "age": 20,
+                "birth": {
+                    "date": "2003-09-23",
+                    "place": null,
+                    "country": "New Zealand"
+                },
+                "nationality": "New Zealand",
+                "height": "190 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/210165.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 942,
+                        "name": "Wellington Phoenix",
+                        "logo": "https://media-3.api-sports.io/football/teams/942.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 1,
+                        "minutes": 148,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.350000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 115,
+                        "key": null,
+                        "accuracy": 36
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": 2,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 9,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 208674,
+                "name": "N. Karunaratne",
+                "firstname": "Noah",
+                "lastname": "Karunaratne",
+                "age": 20,
+                "birth": {
+                    "date": "2003-06-27",
+                    "place": null,
+                    "country": "New Zealand"
+                },
+                "nationality": "New Zealand",
+                "height": "176 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/208674.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 942,
+                        "name": "Wellington Phoenix",
+                        "logo": "https://media-3.api-sports.io/football/teams/942.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-3.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-3.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 94416,
+                "name": "J. Manuel",
+                "firstname": "Jackson John",
+                "lastname": "Manuel",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-24",
+                    "place": "Wellington",
+                    "country": "New Zealand"
+                },
+                "nationality": "New Zealand",
+                "height": "178 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/94416.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 942,
+                        "name": "Wellington Phoenix",
+                        "logo": "https://media-1.api-sports.io/football/teams/942.png"
+                    },
+                    "league": {
+                        "id": 188,
+                        "name": "A-League",
+                        "country": "Australia",
+                        "logo": "https://media-2.api-sports.io/football/leagues/188.png",
+                        "flag": "https://media-1.api-sports.io/flags/au.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

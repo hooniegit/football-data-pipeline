@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "144",
+        "team": "742",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 1924,
+                "name": "M. Vandevoordt",
+                "firstname": "Maarten",
+                "lastname": "Vandevoordt",
+                "age": 21,
+                "birth": {
+                    "date": "2002-02-26",
+                    "place": "Sint-Truiden",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "192 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/1924.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 742,
+                        "name": "Genk",
+                        "logo": "https://media-2.api-sports.io/football/teams/742.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-2.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 40,
+                        "lineups": 40,
+                        "minutes": 3600,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.905555",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 44,
+                        "assists": null,
+                        "saves": 117
+                    },
+                    "passes": {
+                        "total": 1024,
+                        "key": 1,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 2
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 8448,
+                "name": "S. Jukler\u00f8d",
+                "firstname": "Simen",
+                "lastname": "Kristiansen Jukler\u00f8d",
+                "age": 29,
+                "birth": {
+                    "date": "1994-05-18",
+                    "place": "B\u00e6rum",
+                    "country": "Norway"
+                },
+                "nationality": "Norway",
+                "height": "187 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/8448.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 742,
+                        "name": "Genk",
+                        "logo": "https://media-2.api-sports.io/football/teams/742.png"
+                    },
+                    "league": {
+                        "id": 144,
+                        "name": "Jupiler Pro League",
+                        "country": "Belgium",
+                        "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                        "flag": "https://media-1.api-sports.io/flags/be.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

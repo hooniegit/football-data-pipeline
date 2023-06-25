@@ -1,0 +1,1822 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "79",
+        "team": "175",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 19,
+    "paging": {
+        "current": 2,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 161899,
+                "name": "A. N\u00e9meth",
+                "firstname": "Andr\u00e1s",
+                "lastname": "N\u00e9meth",
+                "age": 21,
+                "birth": {
+                    "date": "2002-11-09",
+                    "place": "Cape Town",
+                    "country": "South Africa"
+                },
+                "nationality": "Hungary",
+                "height": "187 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/161899.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-1.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 0,
+                        "minutes": 127,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.728571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 11,
+                        "out": 0,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 35,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 19,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 8483,
+                "name": "J. Domp\u00e9",
+                "firstname": "Jean-Luc Mamadou",
+                "lastname": "Diarra Domp\u00e9",
+                "age": 28,
+                "birth": {
+                    "date": "1995-08-12",
+                    "place": "Arpajon",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "170 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/8483.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-2.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 23,
+                        "minutes": 1759,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.096153",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 21,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 23,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 10,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 529,
+                        "key": 39,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 2,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 165,
+                        "won": 82
+                    },
+                    "dribbles": {
+                        "attempts": 81,
+                        "success": 43,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 126951,
+                "name": "M. Rohr",
+                "firstname": "Maximilian",
+                "lastname": "Rohr",
+                "age": 28,
+                "birth": {
+                    "date": "1995-06-27",
+                    "place": "Bad Friedrichshall",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "195 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/126951.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-1.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 3,
+                        "minutes": 222,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.350000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 3,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 58,
+                        "key": 1,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 32,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24869,
+                "name": "S. Ambrosius",
+                "firstname": "Stephan",
+                "lastname": "Kofi Ambrosius",
+                "age": 25,
+                "birth": {
+                    "date": "1998-12-18",
+                    "place": "Hamburg",
+                    "country": "Germany"
+                },
+                "nationality": "Ghana",
+                "height": "182 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/24869.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-3.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24884,
+                "name": "A. Opoku",
+                "firstname": "Aaron",
+                "lastname": "Opoku-Tiawiah",
+                "age": 24,
+                "birth": {
+                    "date": "1999-03-28",
+                    "place": "Hamburg",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "185 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/24884.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-1.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 37,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "5.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 10,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 13,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 177688,
+                "name": "R. Mei\u00dfner",
+                "firstname": "Robin Maximilian",
+                "lastname": "Mei\u00dfner",
+                "age": 24,
+                "birth": {
+                    "date": "1999-10-08",
+                    "place": "Hamburg",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "182 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/177688.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-1.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 145480,
+                "name": "L. Oppermann",
+                "firstname": "Leo Friedrich",
+                "lastname": "Oppermann",
+                "age": 22,
+                "birth": {
+                    "date": "2001-08-28",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/145480.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-1.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 202561,
+                "name": "V. Zumberi",
+                "firstname": "Valon",
+                "lastname": "Zumberi",
+                "age": 21,
+                "birth": {
+                    "date": "2002-11-24",
+                    "place": null,
+                    "country": "Kosovo"
+                },
+                "nationality": "Kosovo",
+                "height": "187 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/202561.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-2.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 14,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.600000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 15,
+                        "key": null,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 327908,
+                "name": "N. Kisilowski",
+                "firstname": "Nicolas-Bernd",
+                "lastname": "Oliveira Kisilowski",
+                "age": 19,
+                "birth": {
+                    "date": "2004-02-06",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/327908.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-2.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 281920,
+                "name": "B. Andresen",
+                "firstname": "Bent",
+                "lastname": "Andresen",
+                "age": 20,
+                "birth": {
+                    "date": "2003-01-07",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "182 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/281920.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-1.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 24874,
+                "name": "J. David",
+                "firstname": "Jonas Benjamin",
+                "lastname": "Chimezie David",
+                "age": 23,
+                "birth": {
+                    "date": "2000-03-08",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "190 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/24874.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-3.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 18,
+                        "minutes": 1597,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.666666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 2,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 886,
+                        "key": 1,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 8,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 157,
+                        "won": 80
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 286704,
+                "name": "F. Paschke",
+                "firstname": "Felix",
+                "lastname": "Paschke",
+                "age": 20,
+                "birth": {
+                    "date": "2003-07-16",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/286704.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-2.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 125726,
+                "name": "F. Bilbija",
+                "firstname": "Filip",
+                "lastname": "Bilbija",
+                "age": 23,
+                "birth": {
+                    "date": "2000-04-24",
+                    "place": "Berlin",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "189 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/125726.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-2.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 0,
+                        "minutes": 79,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.414285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 0,
+                        "bench": 32
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 30,
+                        "key": 1,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 19,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 281904,
+                "name": "E. Krahn",
+                "firstname": "Elijah Akwasi",
+                "lastname": "Krahn",
+                "age": 20,
+                "birth": {
+                    "date": "2003-08-24",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "184 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/281904.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-2.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.433333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 15
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 29,
+                        "key": null,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 18,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 336020,
+                "name": "O. Megeed",
+                "firstname": "Omar Abdel",
+                "lastname": "Megeed",
+                "age": 18,
+                "birth": {
+                    "date": "2005-08-19",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Egypt",
+                "height": "188 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/336020.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-3.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-2.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 1,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 327801,
+                "name": "T. Sanne",
+                "firstname": "Tom",
+                "lastname": "Sanne",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-13",
+                    "place": null,
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "171 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/327801.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-1.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-3.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 9,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.100000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 4,
+                        "key": 2,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 177780,
+                "name": "A. Suhonen",
+                "firstname": "Anssi Tapio",
+                "lastname": "Suhonen",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-14",
+                    "place": null,
+                    "country": "Finland"
+                },
+                "nationality": "Finland",
+                "height": "175 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/177780.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-3.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-3.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-1.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 2,
+                        "minutes": 392,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.592857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 2,
+                        "bench": 20
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 168,
+                        "key": 7,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 67,
+                        "won": 29
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 15
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 38124,
+                "name": "L. Reis",
+                "firstname": "Ludovit",
+                "lastname": "Reis",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-01",
+                    "place": "Haarlem",
+                    "country": "Netherlands"
+                },
+                "nationality": "Netherlands",
+                "height": "178 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/38124.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-3.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 33,
+                        "minutes": 2850,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.993548",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 6,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 27,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1422,
+                        "key": 41,
+                        "accuracy": 37
+                    },
+                    "tackles": {
+                        "total": 72,
+                        "blocks": 3,
+                        "interceptions": 22
+                    },
+                    "duels": {
+                        "total": 396,
+                        "won": 191
+                    },
+                    "dribbles": {
+                        "attempts": 109,
+                        "success": 74,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 41
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 25603,
+                "name": "T. Leibold",
+                "firstname": "Tim",
+                "lastname": "Leibold",
+                "age": 30,
+                "birth": {
+                    "date": "1993-11-30",
+                    "place": "B\u00f6blingen",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "174 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/25603.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 175,
+                        "name": "Hamburger SV",
+                        "logo": "https://media-3.api-sports.io/football/teams/175.png"
+                    },
+                    "league": {
+                        "id": 79,
+                        "name": "2. Bundesliga",
+                        "country": "Germany",
+                        "logo": "https://media-1.api-sports.io/football/leagues/79.png",
+                        "flag": "https://media-2.api-sports.io/flags/de.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 2,
+                        "minutes": 127,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.800000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 2,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 66,
+                        "key": 1,
+                        "accuracy": 30
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 20,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

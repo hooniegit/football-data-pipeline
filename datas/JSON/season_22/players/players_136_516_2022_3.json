@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "136",
+        "team": "516",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 264470,
+                "name": "Raul Moro",
+                "firstname": "Raul",
+                "lastname": "Moro Prescoli",
+                "age": 21,
+                "birth": {
+                    "date": "2002-12-05",
+                    "place": null,
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "169 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/264470.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 516,
+                        "name": "Ternana",
+                        "logo": "https://media-1.api-sports.io/football/teams/516.png"
+                    },
+                    "league": {
+                        "id": 136,
+                        "name": "Serie B",
+                        "country": "Italy",
+                        "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                        "flag": "https://media-2.api-sports.io/flags/it.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 2,
+                        "minutes": 298,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.583333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 2,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 85,
+                        "key": 1,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 31,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

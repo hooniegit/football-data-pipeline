@@ -1,0 +1,872 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "94",
+        "team": "214",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 9,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 135749,
+                "name": "F\u00e9lix Correia",
+                "firstname": "F\u00e9lix Alexandre",
+                "lastname": "Andrade Sanches Correia",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-22",
+                    "place": "Lisboa",
+                    "country": "Portugal"
+                },
+                "nationality": "Portugal",
+                "height": "180 cm",
+                "weight": "44 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/135749.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 214,
+                        "name": "Maritimo",
+                        "logo": "https://media-1.api-sports.io/football/teams/214.png"
+                    },
+                    "league": {
+                        "id": 94,
+                        "name": "Primeira Liga",
+                        "country": "Portugal",
+                        "logo": "https://media-3.api-sports.io/football/leagues/94.png",
+                        "flag": "https://media-1.api-sports.io/flags/pt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 13,
+                        "lineups": 8,
+                        "minutes": 757,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.971428",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 5,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 16,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 349,
+                        "key": 31,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 15,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 113,
+                        "won": 56
+                    },
+                    "dribbles": {
+                        "attempts": 44,
+                        "success": 23,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 367017,
+                "name": "Francisco Gomes",
+                "firstname": "Francisco Tom\u00e1s",
+                "lastname": "Aguiar Gomes",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-14",
+                    "place": null,
+                    "country": "Portugal"
+                },
+                "nationality": "Portugal",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/367017.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 214,
+                        "name": "Maritimo",
+                        "logo": "https://media-1.api-sports.io/football/teams/214.png"
+                    },
+                    "league": {
+                        "id": 94,
+                        "name": "Primeira Liga",
+                        "country": "Portugal",
+                        "logo": "https://media-1.api-sports.io/football/leagues/94.png",
+                        "flag": "https://media-2.api-sports.io/flags/pt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 41481,
+                "name": "B. Riascos",
+                "firstname": "Jos\u00e9 Brayan",
+                "lastname": "Riascos Valencia",
+                "age": 29,
+                "birth": {
+                    "date": "1994-10-10",
+                    "place": "Buenaventura",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "175 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/41481.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 214,
+                        "name": "Maritimo",
+                        "logo": "https://media-1.api-sports.io/football/teams/214.png"
+                    },
+                    "league": {
+                        "id": 94,
+                        "name": "Primeira Liga",
+                        "country": "Portugal",
+                        "logo": "https://media-2.api-sports.io/football/leagues/94.png",
+                        "flag": "https://media-3.api-sports.io/flags/pt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 16,
+                        "lineups": 10,
+                        "minutes": 873,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.755555",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 6,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 26,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 186,
+                        "key": 19,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 142,
+                        "won": 67
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 39806,
+                "name": "P. Liza",
+                "firstname": "Carlos Percy",
+                "lastname": "Liza Espinoza",
+                "age": 23,
+                "birth": {
+                    "date": "2000-04-10",
+                    "place": "Chimbote",
+                    "country": "Peru"
+                },
+                "nationality": "Peru",
+                "height": "185 cm",
+                "weight": "86 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/39806.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 214,
+                        "name": "Maritimo",
+                        "logo": "https://media-2.api-sports.io/football/teams/214.png"
+                    },
+                    "league": {
+                        "id": 94,
+                        "name": "Primeira Liga",
+                        "country": "Portugal",
+                        "logo": "https://media-3.api-sports.io/football/leagues/94.png",
+                        "flag": "https://media-2.api-sports.io/flags/pt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 11,
+                        "lineups": 3,
+                        "minutes": 417,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.554545",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 3,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 68,
+                        "key": 2,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 61,
+                        "won": 26
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 159774,
+                "name": "L\u00e9o Pereira",
+                "firstname": "Leonardo Augusto",
+                "lastname": "dos Santos Pereira",
+                "age": 23,
+                "birth": {
+                    "date": "2000-06-29",
+                    "place": "Bauru",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "179 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/159774.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 214,
+                        "name": "Maritimo",
+                        "logo": "https://media-1.api-sports.io/football/teams/214.png"
+                    },
+                    "league": {
+                        "id": 94,
+                        "name": "Primeira Liga",
+                        "country": "Portugal",
+                        "logo": "https://media-3.api-sports.io/football/leagues/94.png",
+                        "flag": "https://media-1.api-sports.io/flags/pt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 10,
+                        "lineups": 7,
+                        "minutes": 534,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.320000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 5,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 97,
+                        "key": 4,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 87,
+                        "won": 35
+                    },
+                    "dribbles": {
+                        "attempts": 23,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 281417,
+                "name": "S. Kanu",
+                "firstname": "Stanley",
+                "lastname": "Guzorochi Kanu",
+                "age": 24,
+                "birth": {
+                    "date": "1999-01-17",
+                    "place": null,
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": "181 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/281417.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 214,
+                        "name": "Maritimo",
+                        "logo": "https://media-2.api-sports.io/football/teams/214.png"
+                    },
+                    "league": {
+                        "id": 94,
+                        "name": "Primeira Liga",
+                        "country": "Portugal",
+                        "logo": "https://media-1.api-sports.io/football/leagues/94.png",
+                        "flag": "https://media-1.api-sports.io/flags/pt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 0,
+                        "minutes": 64,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.520000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 23,
+                        "key": 1,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 154839,
+                "name": "Geny Catamo",
+                "firstname": "Geny",
+                "lastname": "Cipriano Catamo",
+                "age": 22,
+                "birth": {
+                    "date": "2001-01-26",
+                    "place": "Maputo",
+                    "country": "Mozambique"
+                },
+                "nationality": "Mozambique",
+                "height": "173 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/154839.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 214,
+                        "name": "Maritimo",
+                        "logo": "https://media-1.api-sports.io/football/teams/214.png"
+                    },
+                    "league": {
+                        "id": 94,
+                        "name": "Primeira Liga",
+                        "country": "Portugal",
+                        "logo": "https://media-2.api-sports.io/football/leagues/94.png",
+                        "flag": "https://media-2.api-sports.io/flags/pt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 3,
+                        "minutes": 338,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.680000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 3,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 14,
+                        "on": 7
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 153,
+                        "key": 13,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 7,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 82,
+                        "won": 40
+                    },
+                    "dribbles": {
+                        "attempts": 34,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 16,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 389542,
+                "name": "R\u00faben Marques",
+                "firstname": "R\u00faben Andr\u00e9",
+                "lastname": "Fernandes Marques",
+                "age": 21,
+                "birth": {
+                    "date": "2002-09-20",
+                    "place": "Aveiro",
+                    "country": "Portugal"
+                },
+                "nationality": "Portugal",
+                "height": "174 cm",
+                "weight": "56 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/389542.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 214,
+                        "name": "Maritimo",
+                        "logo": "https://media-1.api-sports.io/football/teams/214.png"
+                    },
+                    "league": {
+                        "id": 94,
+                        "name": "Primeira Liga",
+                        "country": "Portugal",
+                        "logo": "https://media-2.api-sports.io/football/leagues/94.png",
+                        "flag": "https://media-3.api-sports.io/flags/pt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 67,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 13,
+                        "key": null,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 13,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 197382,
+                "name": "Carlos Eduardo",
+                "firstname": "Carlos Eduardo",
+                "lastname": "Borges Parente",
+                "age": 21,
+                "birth": {
+                    "date": "2002-08-10",
+                    "place": null,
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/197382.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 214,
+                        "name": "Maritimo",
+                        "logo": "https://media-3.api-sports.io/football/teams/214.png"
+                    },
+                    "league": {
+                        "id": 94,
+                        "name": "Primeira Liga",
+                        "country": "Portugal",
+                        "logo": "https://media-2.api-sports.io/football/leagues/94.png",
+                        "flag": "https://media-1.api-sports.io/flags/pt.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

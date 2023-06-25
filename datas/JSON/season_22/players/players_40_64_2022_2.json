@@ -1,0 +1,2065 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "40",
+        "team": "64",
+        "season": "2022",
+        "page": "2"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 2,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 49942,
+                "name": "O. Tufan",
+                "firstname": "Ozan",
+                "lastname": "Tufan",
+                "age": 28,
+                "birth": {
+                    "date": "1995-03-23",
+                    "place": "Bursa",
+                    "country": "T\u00fcrkiye"
+                },
+                "nationality": "T\u00fcrkiye",
+                "height": "179 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/49942.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-2.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 42,
+                        "lineups": 27,
+                        "minutes": 2427,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 15,
+                        "out": 21,
+                        "bench": 17
+                    },
+                    "shots": {
+                        "total": 39,
+                        "on": 14
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 879,
+                        "key": 27,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 38,
+                        "blocks": 1,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 248,
+                        "won": 103
+                    },
+                    "dribbles": {
+                        "attempts": 42,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 21,
+                        "committed": 45
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 20299,
+                "name": "G. Docherty",
+                "firstname": "Greg",
+                "lastname": "Docherty",
+                "age": 27,
+                "birth": {
+                    "date": "1996-09-10",
+                    "place": "Glasgow",
+                    "country": "Scotland"
+                },
+                "nationality": "Scotland",
+                "height": "177 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/20299.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-3.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 18,
+                        "minutes": 1943,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.620588",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 17,
+                        "out": 5,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 9
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 913,
+                        "key": 27,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 43,
+                        "blocks": 10,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 243,
+                        "won": 101
+                    },
+                    "dribbles": {
+                        "attempts": 55,
+                        "success": 19,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 17
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 303560,
+                "name": "H. Vaughan",
+                "firstname": "Harry Patrick",
+                "lastname": "Vaughan",
+                "age": 19,
+                "birth": {
+                    "date": "2004-04-06",
+                    "place": null,
+                    "country": "England"
+                },
+                "nationality": "Republic of Ireland",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/303560.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-1.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 5,
+                        "minutes": 411,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.660000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 5,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 91,
+                        "key": 2,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 42,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19510,
+                "name": "R. Woods",
+                "firstname": "Ryan Michael",
+                "lastname": "Woods",
+                "age": 30,
+                "birth": {
+                    "date": "1993-12-13",
+                    "place": "Norton Canes",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "173 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/19510.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-2.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 26,
+                        "lineups": 14,
+                        "minutes": 1277,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.800000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 11,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 75,
+                        "key": null,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 13,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 3343,
+                "name": "A. Traor\u00e9",
+                "firstname": "Adama Noss",
+                "lastname": "Traor\u00e9",
+                "age": 28,
+                "birth": {
+                    "date": "1995-06-28",
+                    "place": "Bamako",
+                    "country": "Mali"
+                },
+                "nationality": "Mali",
+                "height": "178 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/3343.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-3.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 9,
+                        "minutes": 798,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.127272",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 5,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 255,
+                        "key": 17,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 86,
+                        "won": 51
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 25,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 3243,
+                "name": "J. Seri",
+                "firstname": "Jean Micha\u00ebl",
+                "lastname": "Seri",
+                "age": 32,
+                "birth": {
+                    "date": "1991-07-19",
+                    "place": "Grand-Bereby",
+                    "country": "C\u00f4te d'Ivoire"
+                },
+                "nationality": "C\u00f4te d'Ivoire",
+                "height": "168 cm",
+                "weight": "69 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/3243.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-2.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 33,
+                        "minutes": 2827,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.041666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 17,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1932,
+                        "key": 59,
+                        "accuracy": 47
+                    },
+                    "tackles": {
+                        "total": 47,
+                        "blocks": 12,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 230,
+                        "won": 110
+                    },
+                    "dribbles": {
+                        "attempts": 27,
+                        "success": 12,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 29,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 17670,
+                "name": "R. Slater",
+                "firstname": "Regan Newman",
+                "lastname": "Slater",
+                "age": 24,
+                "birth": {
+                    "date": "1999-09-11",
+                    "place": "Sheffield",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "173 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/17670.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-2.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 44,
+                        "lineups": 43,
+                        "minutes": 3725,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.723255",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 11,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 26,
+                        "on": 16
+                    },
+                    "goals": {
+                        "total": 5,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1329,
+                        "key": 31,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": 40,
+                        "blocks": 5,
+                        "interceptions": 24
+                    },
+                    "duels": {
+                        "total": 279,
+                        "won": 127
+                    },
+                    "dribbles": {
+                        "attempts": 62,
+                        "success": 25,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 31,
+                        "committed": 24
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 223290,
+                "name": "C. Jones",
+                "firstname": "Callum Graham",
+                "lastname": "Jones",
+                "age": 22,
+                "birth": {
+                    "date": "2001-04-05",
+                    "place": "Birkenhead",
+                    "country": "England"
+                },
+                "nationality": "Wales",
+                "height": "178 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/223290.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-2.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 6,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 152952,
+                "name": "X. Simons",
+                "firstname": "Xavier Levi",
+                "lastname": "Simons",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-20",
+                    "place": "London",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/152952.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-3.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.645454",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 204,
+                        "key": 1,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 34,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-2.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 5,
+                        "minutes": 428,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.645454",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 2,
+                        "bench": 11
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 204,
+                        "key": 1,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 8,
+                        "blocks": null,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 34,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 29784,
+                "name": "A. Sayyadmanesh",
+                "firstname": "Allahyar",
+                "lastname": "Sayyadmanesh",
+                "age": 22,
+                "birth": {
+                    "date": "2001-06-29",
+                    "place": "Amol",
+                    "country": "Iran"
+                },
+                "nationality": "Iran",
+                "height": "182 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/29784.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-1.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 16,
+                        "minutes": 1298,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.511111",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 12,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 285,
+                        "key": 13,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 27,
+                        "blocks": 5,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 201,
+                        "won": 83
+                    },
+                    "dribbles": {
+                        "attempts": 41,
+                        "success": 18,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 328808,
+                "name": "M. Ebiowei",
+                "firstname": "Malcolm",
+                "lastname": "Perewari Ebiowei",
+                "age": 20,
+                "birth": {
+                    "date": "2003-09-04",
+                    "place": null,
+                    "country": "Nigeria"
+                },
+                "nationality": "England",
+                "height": "185 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/328808.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-3.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 5,
+                        "minutes": 520,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.481818",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 2,
+                        "bench": 9
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 148,
+                        "key": 6,
+                        "accuracy": 9
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 124,
+                        "won": 54
+                    },
+                    "dribbles": {
+                        "attempts": 52,
+                        "success": 25,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 138790,
+                "name": "R. Longman",
+                "firstname": "Ryan James",
+                "lastname": "Longman",
+                "age": 23,
+                "birth": {
+                    "date": "2000-11-06",
+                    "place": "Redhill",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "180 cm",
+                "weight": "83 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/138790.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-2.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 37,
+                        "lineups": 19,
+                        "minutes": 1877,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.558333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 18,
+                        "out": 16,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": 26,
+                        "on": 11
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 546,
+                        "key": 14,
+                        "accuracy": 11
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": 1,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 223,
+                        "won": 93
+                    },
+                    "dribbles": {
+                        "attempts": 36,
+                        "success": 20,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 30
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 63968,
+                "name": "\u00d3. Estupi\u00f1\u00e1n",
+                "firstname": "\u00d3scar Eduardo",
+                "lastname": "Estupi\u00f1\u00e1n Vallesilla",
+                "age": 27,
+                "birth": {
+                    "date": "1996-09-29",
+                    "place": "Santiago de Cali",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "182 cm",
+                "weight": "76 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/63968.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-3.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 29,
+                        "minutes": 2549,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.777142",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 6,
+                        "out": 13,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 58,
+                        "on": 25
+                    },
+                    "goals": {
+                        "total": 13,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 371,
+                        "key": 9,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 2,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 353,
+                        "won": 124
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 37
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 66029,
+                "name": "B. Tetteh",
+                "firstname": "Benjamin",
+                "lastname": "Tetteh",
+                "age": 26,
+                "birth": {
+                    "date": "1997-07-10",
+                    "place": "Accra",
+                    "country": "Ghana"
+                },
+                "nationality": "Ghana",
+                "height": "193 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/66029.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-1.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 15,
+                        "lineups": 10,
+                        "minutes": 765,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.680000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 7,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 151,
+                        "key": 9,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": 11,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 134,
+                        "won": 57
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 1
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 326764,
+                "name": "W. Jarvis",
+                "firstname": "William",
+                "lastname": "Jarvis",
+                "age": 21,
+                "birth": {
+                    "date": "2002-12-17",
+                    "place": "York",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/326764.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-1.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 31,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 11,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19772,
+                "name": "A. Connolly",
+                "firstname": "Aaron Anthony",
+                "lastname": "Connolly",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-28",
+                    "place": "Galway",
+                    "country": "Republic of Ireland"
+                },
+                "nationality": "Republic of Ireland",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/19772.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-1.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 4,
+                        "minutes": 341,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.780000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 3,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 33,
+                        "key": 3,
+                        "accuracy": 5
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 40,
+                        "won": 16
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 278112,
+                "name": "H. Wood",
+                "firstname": "Harry",
+                "lastname": "Wood",
+                "age": 21,
+                "birth": {
+                    "date": "2002-08-02",
+                    "place": "Leeds",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/278112.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-1.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 6,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 130846,
+                "name": "V. Covil",
+                "firstname": "Vaughn Patrick",
+                "lastname": "Covil",
+                "age": 20,
+                "birth": {
+                    "date": "2003-07-26",
+                    "place": "Salisbury",
+                    "country": "England"
+                },
+                "nationality": "USA",
+                "height": "179 cm",
+                "weight": "56 kg",
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/130846.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-2.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 1,
+                        "minutes": 93,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.520000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 17,
+                        "key": null,
+                        "accuracy": 3
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 17,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 129714,
+                "name": "B. Chadwick",
+                "firstname": "Billy",
+                "lastname": "Chadwick",
+                "age": 23,
+                "birth": {
+                    "date": "2000-01-19",
+                    "place": "Kingston upon Hull",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/129714.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-2.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": null,
+                        "lineups": null,
+                        "minutes": null,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": null,
+                        "yellowred": null,
+                        "red": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-1.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 179963,
+                "name": "T. Lo-Tutala",
+                "firstname": "Thimoth\u00e9e Jacques",
+                "lastname": "Orcel Lo-Tutala",
+                "age": 20,
+                "birth": {
+                    "date": "2003-02-13",
+                    "place": "Gonesse",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media-3.api-sports.io/football/players/179963.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 64,
+                        "name": "Hull City",
+                        "logo": "https://media-2.api-sports.io/football/teams/64.png"
+                    },
+                    "league": {
+                        "id": 40,
+                        "name": "Championship",
+                        "country": "England",
+                        "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                        "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "128",
+        "team": "460",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 13367,
+                "name": "Y. Gordillo",
+                "firstname": "Yeison Stiven",
+                "lastname": "Gordillo Vargas",
+                "age": 31,
+                "birth": {
+                    "date": "1992-06-25",
+                    "place": "Miranda",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "176 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media-2.api-sports.io/football/players/13367.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 460,
+                        "name": "San Lorenzo",
+                        "logo": "https://media-2.api-sports.io/football/teams/460.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 12,
+                        "lineups": 12,
+                        "minutes": 986,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.766666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 347,
+                        "key": null,
+                        "accuracy": 21
+                    },
+                    "tackles": {
+                        "total": 44,
+                        "blocks": 7,
+                        "interceptions": 19
+                    },
+                    "duels": {
+                        "total": 154,
+                        "won": 69
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 37
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 1634,
+                "name": "C. Zapata",
+                "firstname": "Cristi\u00e1n Eduardo",
+                "lastname": "Zapata Valencia",
+                "age": 37,
+                "birth": {
+                    "date": "1986-09-30",
+                    "place": "Padilla",
+                    "country": "Colombia"
+                },
+                "nationality": "Colombia",
+                "height": "187 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/1634.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 460,
+                        "name": "San Lorenzo",
+                        "logo": "https://media-2.api-sports.io/football/teams/460.png"
+                    },
+                    "league": {
+                        "id": 128,
+                        "name": "Liga Profesional Argentina",
+                        "country": "Argentina",
+                        "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                        "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 33,
+                        "minutes": 2903,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.978125",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1113,
+                        "key": 3,
+                        "accuracy": 28
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 25,
+                        "interceptions": 33
+                    },
+                    "duels": {
+                        "total": 194,
+                        "won": 137
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "98",
+        "team": "284",
+        "season": "2022",
+        "page": "3"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 3,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 33136,
+                "name": "S. Kobayashi",
+                "firstname": "Shota",
+                "lastname": "Kobayashi",
+                "age": 32,
+                "birth": {
+                    "date": "1991-05-11",
+                    "place": "Kanagawa",
+                    "country": "Japan"
+                },
+                "nationality": "Japan",
+                "height": "173 cm",
+                "weight": "70 kg",
+                "injured": false,
+                "photo": "https://media-1.api-sports.io/football/players/33136.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 284,
+                        "name": "Shonan Bellmare",
+                        "logo": "https://media-3.api-sports.io/football/teams/284.png"
+                    },
+                    "league": {
+                        "id": 98,
+                        "name": "J1 League",
+                        "country": "Japan",
+                        "logo": "https://media-3.api-sports.io/football/leagues/98.png",
+                        "flag": "https://media-1.api-sports.io/flags/jp.svg",
+                        "season": 2022
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 5,
+                        "minutes": 370,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.640000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 4,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 94,
+                        "key": 4,
+                        "accuracy": 13
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 21,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}
