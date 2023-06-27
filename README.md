@@ -1,6 +1,11 @@
 # football-data-pipeline
+### About this project
 
-# Tree
+### Used Methods
+
+### Airflow DAG Structure
+
+### Tree - 23.06.27
 ```
 .
 ├── README.md
