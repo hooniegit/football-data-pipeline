@@ -2,8 +2,21 @@
 ### About this project
 
 ### Used Methods
+1. Google Cloud Platform
+   - Google Cloud Storage for datalake
+   - Google Cloud SQL for database to store repeatable key parameters for API
+   - Google Cloud Engines (Ubuntu Base) for API requests, Prometheus&Grafana
+2. Airflow
+3. cron
 
 ### Airflow DAG Structure
+1. TEST structure for the local environment(M2 PRO MAC)
+
+### Status
+#### 23.06.24
+- made modules for API requests (URI making, JSON loading)
+- TEST at local environments (for Players/Players Data)
+- 
 
 ### Tree - 23.06.27
 ```
