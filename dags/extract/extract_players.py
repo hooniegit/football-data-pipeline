@@ -1,10 +1,17 @@
+# IMPORT MODULES
 import pendulum
 from airflow import DAG
 from datetime import datetime, timedelta
 from airflow.operators.bash import BashOperator
+from airflow.models.variable import Variable
 
-local_tz = pendulum.timezone("Asia/Seoul")
+# VARIABLES
+api_keys = Variable.get("API_FOOTBALL_KEYS")
 
+# SET TIMEZONE
+local_tz = pendulum.timezone('Europe/London')
+
+# DAG SETTINGS
 default_args = {
     'owner': 'pd24',
     'depends_on_past': True,
@@ -12,21 +19,31 @@ default_args = {
     'retry_delay': timedelta(minutes=1)
 }
 dag = DAG(
-    dag_id = 'pipeline-1',
-    description = 'pipeline sending curl commands to external server',
+    dag_id = 'extract_players',
+    description = 'pipeline loading player datas using api requests',
     tags = ['spark', 'uri', 'word'],
     max_active_runs = 1,
     concurrency = 1,
-    start_date=datetime(year=2023, month=6, day=20, hour=0, minute=0, tzinfo=local_tz),
+    start_date=datetime(year=2022, month=8, day=6, hour=0, minute=0, tzinfo=local_tz),
     schedule_interval = '30 6 * * *',
     user_defined_macros={'local_dt': lambda execution_date: execution_date.in_timezone(local_tz).strftime("%Y-%m-%d %H:%M:%S")},
     default_args = default_args
 )
 
+# OPERATORS
+# start
+start = BashOperator(
+    task_id='start',
+    bash_command='''
+    echo "etl players season 22 DAG START"
+    ''',
+    dag=dag
+)
+
 # check.execute
 check_execute = BashOperator(
     task_id='check.execute',
-    bash_command="""
+    bash_command='''
         echo "date                            => `date`"        
         echo "logical_date                    => {{logical_date}}"
         echo "execution_date                  => {{execution_date.strftime("%Y-%m-%d %H:%M:%S")}}"
@@ -75,8 +92,34 @@ check_execute = BashOperator(
         #2020-11-11 형식의 날짜 반환 - 하루 빼기
         echo "exe_kr_yesterday = {{execution_date.add(hours=9).add(days=-1).strftime("%Y-%m-%d")}}"
         echo "====================================================================="
-        """,
+        ''',
     dag=dag
 )
 
-#make.uri
+# check.dir
+check_dir = BashOperator(
+    task_id='check.dir',
+    bash_command='''
+    
+    ''',
+    dag=dag
+)
+
+# make.JSON
+make_JSON = BashOperator(
+    task_id='make.JSON',
+    bash_command=f'''
+    python /Users/kimdohoon/git/football-data-pipeline/src/API_requests/neivekim76/make_JSON_players.py "{api_keys}"
+    '''
+)
+
+# make.DONE
+make_DONE = BashOperator(
+    task_id='make.DONE',
+    bash_command='''
+    touch /Users/kimdohoon/git/football-data-pipeline/datas/JSON/season_22/players/_DONE
+    '''
+)
+
+# PROCESS
+start >> check_execute >> check_dir >> make_JSON >> make_DONE

@@ -1,6 +1,6 @@
 # MODULE IMPORT
 import sys, os, json
-sys.path.append('/Users/kimdohoon/git/football-data-pipeline/lib')
+sys.path.append('/football-data-pipeline/lib')
 import football_lib as lib
 
 # READ LEAGUE ID

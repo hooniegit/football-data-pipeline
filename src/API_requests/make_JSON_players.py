@@ -1,6 +1,6 @@
 # MODULES IMPORT
 import sys
-sys.path.append('/Users/kimdohoon/git/football-data-pipeline/lib')
+sys.path.append('/football-data-pipeline/lib')
 import football_lib as lib
 
 # VARIABLES
