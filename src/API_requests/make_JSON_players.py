@@ -7,7 +7,8 @@ import football_lib as lib
 DIRECTORY = '/Users/kimdohoon/git/football-data-pipeline/datas/JSON/season_22/players'
 
 # REQUEST INFOS
-api_keys = sys.argv[1]
+# api_keys = sys.argv[1]
+api_keys = "e6b9fb7ce7a7ad7b239595f76e546384"
 headers = {
     'x-rapidapi-host': "v3.football.api-sports.io",
     'x-rapidapi-key': api_keys

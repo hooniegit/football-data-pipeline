@@ -32,7 +32,7 @@ def make_uri(keyword, params: dict):
         uri = base.rstrip("&")
     return uri
 
-def make_json(uri_list, DIRECTORY, api_keys):
+def make_json_local(uri_list, DIRECTORY, api_keys):
     headers = {
         'x-rapidapi-host': "v3.football.api-sports.io",
         'x-rapidapi-key': api_keys
@@ -46,6 +46,19 @@ def make_json(uri_list, DIRECTORY, api_keys):
         with open(f"{DIRECTORY}/{filename}", "w") as file:
             json.dump(response, file, indent=4)
             print(filename + " load is done")
+
+def make_json(uri, FILENAME, DIRECTORY):
+    headers = {
+        'x-rapidapi-host': "v3.football.api-sports.io",
+        'x-rapidapi-key': "e6b9fb7ce7a7ad7b239595f76e546384"
+    }
+    # GET RESPONSE
+    response = requests.request("GET", uri, headers=headers).json()
+    # FILE WRITE
+    with open(f"{DIRECTORY}/{FILENAME}", "w") as file:
+        json.dump(response, file, indent=4)
+    return(FILENAME + " load is done")
+
 
 # TEST - players with 1 team id
 if __name__ == "__main__":
